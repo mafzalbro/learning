@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Global Coffee Consumption Infographic",
+      "caption": "Coffee. A morning ritual for billions. But where does it all go? This infographic breaks down global coffee consumption, revealing surprising trends. From Scandinavia's love affair to the emerging markets fueling growth, discover who's buzzing the most. The data is fascinating. Learn how much the US drinks, and the surprising popularity in countries you might not expect. It’s all in this visual guide to the world's favorite caffeinated beverage.",
+      "prompt": "A clean and modern infographic visualizing global coffee consumption by country. Use a world map with color-coded regions representing consumption levels. Include pie charts for top consuming countries, showcasing percentage breakdowns. Focus on clarity and a visually appealing color palette. Use coffee bean icons to represent consumption quantity. No photographs; strictly infographic style."
+    },
+    {
+      "title": "Growth of Remote Work (2010-2024)",
+      "caption": "The office is shrinking. Remote work is booming. But what’s driving this massive shift? This data visualization charts the exponential growth of remote work from 2010 to today. Witness the impact of technology, changing work culture, and unforeseen global events. See the numbers jump and the impact on industries. Understand how flexibility is reshaping the workplace and what the future holds for the traditional 9-to-5.",
+      "prompt": "A dynamic line graph charting the growth of remote work from 2010 to 2024. X-axis: Years (2010-2024). Y-axis: Percentage of workforce working remotely. Include key events (e.g., pandemic outbreak) marked with annotations. Use a vibrant color scheme and clear labels. Add a subtle background representing office buildings gradually fading away as the line graph rises. No faces or people in the image, strictly data visualization."
+    },
+    {
+      "title": "Comparison of Electric vs. Gasoline Cars",
+      "caption": "Electric cars are on the rise. But how do they really compare to gasoline-powered vehicles? This infographic pits them head-to-head on key metrics: cost, range, environmental impact, and performance. See the strengths and weaknesses of each. Is electric truly the future? The data reveals a clear picture of the evolving automotive landscape, helping you make an informed decision.",
+      "prompt": "A side-by-side comparison infographic of electric vs. gasoline cars. Use icons and simple graphics to represent key metrics: price (cost of ownership), range (distance traveled per charge/tank), environmental impact (CO2 emissions), and performance (acceleration). Use a clear and contrasting color scheme for each car type. Include percentages and concise descriptions. Style: Clean, modern, and easy to understand."
+    },
+    {
+      "title": "Social Media Platform Usage by Age Group",
+      "caption": "Who's using what? This insightful data visualization unveils social media platform preferences across different age groups. From TikTok's dominance among Gen Z to Facebook's enduring appeal for older demographics, see the generational divides. Understand how platforms are evolving and catering to specific users. Discover the surprising trends shaping the social media landscape.",
+      "prompt": "A bar graph showing social media platform usage by age group. X-axis: Social media platforms (e.g., TikTok, Instagram, Facebook, Twitter). Y-axis: Percentage of users. Use different colored bars for each age group (e.g., Gen Z, Millennials, Gen X, Baby Boomers). Ensure clear labels and a visually appealing color palette. The style should be clean and easy to interpret. No logos."
+    },
+    {
+      "title": "The Lifecycle of a Plastic Bottle",
+      "caption": "Where does that plastic bottle REALLY go? This infographic traces the journey of a plastic bottle, from production to disposal. Expose the harsh realities of recycling, landfills, and ocean pollution. Understand the true environmental cost of single-use plastics. This visual story sheds light on the urgent need for sustainable solutions.",
+      "prompt": "An infographic illustrating the lifecycle of a plastic bottle. Start with raw materials extraction, move to manufacturing, consumer use, and end with disposal options (recycling, landfill, ocean pollution). Use arrows to show the flow. Depict each stage with simple icons and text. Emphasize the negative consequences of plastic pollution. Style: Informative and visually impactful, with a focus on environmental awareness."
+    },
+    {
+      "title": "Global Internet Speed Comparison",
+      "caption": "Is your internet blazing fast or crawling? This data visualization compares internet speeds across the globe. See which countries are leading the way and which are lagging behind. Uncover the factors influencing connectivity and the impact on economic development. Discover the digital divide and the urgent need for faster and more accessible internet for all.",
+      "prompt": "A world map visualizing internet speeds by country. Use a color gradient to represent different speed ranges (e.g., green for fast, yellow for medium, red for slow). Include labels for top and bottom countries. Add a small bar graph showing the average global internet speed. The style should be clean and professional. No specific company logos."
+    },
+    {
+      "title": "Cybersecurity Threats Over Time",
+      "caption": "The threat is real. This data visualization tracks the evolution of cybersecurity threats over time. Witness the rise of ransomware, phishing attacks, and data breaches. Understand the changing tactics of cybercriminals and the increasing sophistication of their attacks. Stay informed and protect yourself in the ever-evolving digital landscape.",
+      "prompt": "A dynamic area chart showing the prevalence of different cybersecurity threats over time. X-axis: Years (e.g., 2010-2024). Y-axis: Number of incidents. Use different colored areas to represent different types of threats (e.g., ransomware, phishing, data breaches). Include annotations highlighting major cybersecurity events. Style: Modern and slightly ominous, with a focus on data security."
+    },
+    {
+      "title": "The Impact of Sleep on Productivity",
+      "caption": "Are you sacrificing sleep for productivity? Think again. This infographic reveals the profound impact of sleep on focus, creativity, and overall performance. See how lack of sleep can sabotage your work. Discover the optimal sleep duration for peak productivity. Prioritize rest and unlock your full potential.",
+      "prompt": "An infographic illustrating the relationship between sleep duration and productivity. Use a scatter plot with sleep duration on the X-axis and productivity level on the Y-axis. Show a clear correlation between adequate sleep and higher productivity. Use icons to represent different aspects of productivity (e.g., focus, creativity, energy). Style: Relaxing and informative, with a focus on health and well-being."
+    },
+    {
+      "title": "Breakdown of Household Spending",
+      "caption": "Where does your money go? This data visualization breaks down the average household spending by category. See how much you're spending on housing, food, transportation, and entertainment. Gain insights into your spending habits and identify areas for potential savings. Take control of your finances and achieve your financial goals.",
+      "prompt": "A pie chart showing the breakdown of household spending by category (housing, food, transportation, entertainment, etc.). Each slice should represent a different category with a corresponding percentage label. Use a clear and easily distinguishable color scheme. Add small icons to represent each spending category. Style: Clean, simple, and informative, with a focus on personal finance."
+    }
+  ]
+]

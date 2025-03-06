@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Print Design vs. Digital Design",
+    "content": "<p>Welcome! This presentation will explore the key differences between Print and Digital Design. We&#39;ll cover:</p>\n<ul>\n<li>Core principles</li>\n<li>Common tools &amp; software</li>\n<li>Color modes &amp; resolution</li>\n<li>Best use cases for each</li>\n<li>Key considerations for beginners</li>\n</ul>\n<p>Let&#39;s dive in!</p>\n"
+  },
+  {
+    "title": "What is Print Design?",
+    "content": "<p>Print design focuses on creating visuals intended for physical mediums. Think of it like this, what you see is what you get.</p>\n<ul>\n<li>Brochures</li>\n<li>Posters</li>\n<li>Business cards</li>\n<li>Packaging</li>\n<li>Magazines</li>\n<li>Books</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Digital Design?",
+    "content": "<p>Digital design focuses on visuals displayed on screens. Interactivity is key.</p>\n<ul>\n<li>Websites</li>\n<li>Mobile apps</li>\n<li>Social media graphics</li>\n<li>Presentations</li>\n<li>Email marketing</li>\n<li>Animated GIFs</li>\n</ul>\n"
+  },
+  {
+    "title": "Core Principles: Print Design",
+    "content": "<p>Print design relies heavily on:</p>\n<ul>\n<li><strong>Tangibility:</strong> Physical feel and quality of materials.</li>\n<li><strong>Precision:</strong> Accuracy in color and layout is crucial.</li>\n<li><strong>Permanence:</strong> Once printed, it&#39;s relatively fixed.</li>\n<li><strong>Physical Space:</strong> Working within the confines of paper size and format.</li>\n</ul>\n"
+  },
+  {
+    "title": "Core Principles: Digital Design",
+    "content": "<p>Digital design thrives on:</p>\n<ul>\n<li><strong>Interactivity:</strong> User engagement through clicks, scrolls, and animations.</li>\n<li><strong>Adaptability:</strong> Responsive design to fit various screen sizes.</li>\n<li><strong>Dynamic Content:</strong> Regularly updated information and media.</li>\n<li><strong>User Experience (UX):</strong> Focus on ease of use and enjoyment.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Tools: Print Design",
+    "content": "<p>Industry-standard software includes:</p>\n<ul>\n<li><strong>Adobe InDesign:</strong> For layout and typography.</li>\n<li><strong>Adobe Illustrator:</strong> For vector graphics and illustrations.</li>\n<li><strong>Adobe Photoshop:</strong> For image editing and retouching.</li>\n<li><strong>QuarkXPress:</strong> Another professional layout tool.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Tools: Digital Design",
+    "content": "<p>Popular software and platforms:</p>\n<ul>\n<li><strong>Adobe Photoshop:</strong> Image editing and web graphics.</li>\n<li><strong>Adobe Illustrator:</strong> Vector graphics and logo design.</li>\n<li><strong>Adobe XD/Figma/Sketch:</strong> UI/UX design and prototyping.</li>\n<li><strong>Canva:</strong> User-friendly design platform for beginners.</li>\n</ul>\n"
+  },
+  {
+    "title": "Color Modes: Print Design",
+    "content": "<p>Print uses <strong>CMYK (Cyan, Magenta, Yellow, Key/Black)</strong>.  This mode mixes inks to create colors. </p>\n<ul>\n<li>Critical for accurate color reproduction.</li>\n<li>Always convert to CMYK before sending to the printer.</li>\n</ul>\n"
+  },
+  {
+    "title": "Color Modes: Digital Design",
+    "content": "<p>Digital primarily uses <strong>RGB (Red, Green, Blue)</strong>. This mode mixes light to create colors.</p>\n<ul>\n<li>Optimized for screen displays.</li>\n<li>Ensures vibrant colors on monitors and devices.</li>\n</ul>\n"
+  },
+  {
+    "title": "Resolution: Print Design",
+    "content": "<p>Print requires high resolution, typically <strong>300 DPI (dots per inch)</strong>.</p>\n<ul>\n<li>Higher DPI means sharper, clearer images.</li>\n<li>Low resolution images will appear pixelated and blurry.</li>\n</ul>\n"
+  },
+  {
+    "title": "Resolution: Digital Design",
+    "content": "<p>Digital uses lower resolution, typically <strong>72 DPI (dots per inch)</strong>.</p>\n<ul>\n<li>Sufficient for screen display.</li>\n<li>Higher DPI can increase file size and slow loading times.</li>\n</ul>\n"
+  },
+  {
+    "title": "File Formats: Print Design",
+    "content": "<p>Common file formats for print:</p>\n<ul>\n<li><strong>PDF:</strong> Preferred for final print-ready files.</li>\n<li><strong>TIFF:</strong> High-quality, lossless image format.</li>\n<li><strong>EPS:</strong> Vector graphics format.</li>\n</ul>\n"
+  },
+  {
+    "title": "File Formats: Digital Design",
+    "content": "<p>Common file formats for digital:</p>\n<ul>\n<li><strong>JPEG:</strong> Widely used for photos and web graphics.</li>\n<li><strong>PNG:</strong> Supports transparency, ideal for logos and icons.</li>\n<li><strong>GIF:</strong> Animated images and simple graphics.</li>\n<li><strong>SVG:</strong> Scalable vector graphics for websites.</li>\n</ul>\n"
+  },
+  {
+    "title": "Best Use Cases: Print Design",
+    "content": "<p>Print design excels when you need:</p>\n<ul>\n<li>A physical presence.</li>\n<li>Tangible branding materials.</li>\n<li>Detailed information that requires careful reading.</li>\n<li>Materials that are easy to access without needing tech.</li>\n</ul>\n"
+  },
+  {
+    "title": "Best Use Cases: Digital Design",
+    "content": "<p>Digital design shines when you need:</p>\n<ul>\n<li>Interactive experiences.</li>\n<li>Dynamic content that can be updated easily.</li>\n<li>Wider reach and accessibility.</li>\n<li>Measurable results and analytics.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cost Considerations: Print Design",
+    "content": "<p>Print costs involve:</p>\n<ul>\n<li>Printing materials (paper, ink).</li>\n<li>Printing setup fees.</li>\n<li>Quantity (more copies, lower cost per unit).</li>\n<li>Shipping and distribution.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cost Considerations: Digital Design",
+    "content": "<p>Digital costs involve:</p>\n<ul>\n<li>Website hosting and domain registration.</li>\n<li>Software subscriptions.</li>\n<li>Online advertising.</li>\n<li>Maintenance and updates.</li>\n</ul>\n"
+  },
+  {
+    "title": "Accessibility: Print Design",
+    "content": "<p>Print design accessibility considerations:</p>\n<ul>\n<li>Font size and readability.</li>\n<li>Color contrast.</li>\n<li>Alternative text descriptions for images (for screen readers).</li>\n<li>Braille versions for visually impaired users.</li>\n</ul>\n"
+  },
+  {
+    "title": "Accessibility: Digital Design",
+    "content": "<p>Digital design accessibility considerations:</p>\n<ul>\n<li>Alt text for images.</li>\n<li>Keyboard navigation.</li>\n<li>Semantic HTML.</li>\n<li>Screen reader compatibility.</li>\n<li>Color contrast ratios.</li>\n</ul>\n"
+  },
+  {
+    "title": "Sustainability: Print Design",
+    "content": "<p>Considerations for sustainable print design:</p>\n<ul>\n<li>Recycled paper.</li>\n<li>Soy-based inks.</li>\n<li>Minimal packaging.</li>\n<li>Reducing print runs.</li>\n</ul>\n"
+  },
+  {
+    "title": "Sustainability: Digital Design",
+    "content": "<p>Considerations for sustainable digital design:</p>\n<ul>\n<li>Optimizing images for smaller file sizes.</li>\n<li>Efficient coding practices.</li>\n<li>Energy-efficient servers.</li>\n<li>Promoting digital-only options.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Takeaways",
+    "content": "<p>Print and digital design each have their strengths and weaknesses.</p>\n<ul>\n<li>Choose the medium that best suits your project goals.</li>\n<li>Understand the technical requirements of each.</li>\n<li>Consider user experience and accessibility.</li>\n<li>Strive for sustainability in your design choices.</li>\n</ul>\n"
+  },
+  {
+    "title": "Choosing the Right Tool",
+    "content": "<p>Don&#39;t limit yourself! Consider these:</p>\n<ul>\n<li><strong>Target Audience:</strong> Who are you trying to reach?</li>\n<li><strong>Budget:</strong> How much can you spend?</li>\n<li><strong>Purpose:</strong> What are you trying to accomplish?</li>\n<li><strong>Longevity:</strong> How long should your design last?</li>\n</ul>\n"
+  },
+  {
+    "title": "Future Trends: Print Design",
+    "content": "<p>Expect to see more:</p>\n<ul>\n<li>Specialty printing techniques (foil stamping, embossing).</li>\n<li>Interactive print (augmented reality).</li>\n<li>Sustainable materials.</li>\n<li>Personalized print products.</li>\n</ul>\n"
+  },
+  {
+    "title": "Future Trends: Digital Design",
+    "content": "<p>Expect to see more:</p>\n<ul>\n<li>AI-powered design tools.</li>\n<li>Immersive experiences (VR/AR).</li>\n<li>Personalized user interfaces.</li>\n<li>Focus on accessibility and inclusion.</li>\n</ul>\n"
+  },
+  {
+    "title": "Print design vs. Digital design is a continuous war.",
+    "content": "<p>Choosing the perfect medium can be tricky and you&#39;ll need to think about your needs and audiences requirements.</p>\n"
+  },
+  {
+    "title": "Tips for beginners",
+    "content": "<p>For beginners, print design is a great way to start your journey, because it requires less technical experience.</p>\n<p>Focus more on the design aspects, use free online tools to make designs, or take templates from other websites.</p>\n<p>For digital design you should take some courses about UI/UX to achieve success.</p>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Both print and digital design play vital roles in communication and branding. Understanding their nuances allows you to create effective and impactful designs for any project. Thank you!</p>\n"
+  }
+]

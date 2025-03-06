@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Understanding File Formats: JPG, PNG, SVG, EPS, PDF, AI, PSD",
+    "content": "<p>Welcome! This presentation will cover the basics of common image and document file formats. We&#39;ll explore:</p>\n<ul>\n<li><strong>Raster vs. Vector Graphics:</strong> The fundamental difference.</li>\n<li><strong>JPG (JPEG):</strong> Lossy image compression.</li>\n<li><strong>PNG:</strong> Lossless image compression.</li>\n<li><strong>SVG:</strong> Scalable Vector Graphics.</li>\n<li><strong>EPS:</strong> Encapsulated PostScript.</li>\n<li><strong>PDF:</strong> Portable Document Format.</li>\n<li><strong>AI:</strong> Adobe Illustrator Artwork.</li>\n<li><strong>PSD:</strong> Adobe Photoshop Document.</li>\n</ul>\n<p>... and when to use each one!</p>\n"
+  },
+  {
+    "title": "Raster vs. Vector: The Key Difference",
+    "content": "<p>Understanding the core difference is crucial:</p>\n<ul>\n<li><strong>Raster Graphics (JPG, PNG, PSD):</strong> Made up of pixels (tiny squares of color). Like a mosaic. When you zoom in, you see the individual pixels. Resolution-dependent – quality degrades when enlarged.</li>\n<li><strong>Vector Graphics (SVG, EPS, AI):</strong> Defined by mathematical equations, paths, and shapes.  Like drawing with geometric tools.  Scalable without loss of quality.  Resolution-independent.</li>\n</ul>\n"
+  },
+  {
+    "title": "JPG (JPEG): Lossy Image Compression",
+    "content": "<ul>\n<li><strong>What is it?</strong> A widely used format for photographs and images with complex colors.</li>\n<li><strong>Lossy:</strong>  Reduces file size by discarding some image data.  More compression = smaller file = lower quality.</li>\n<li><strong>Best for:</strong> Photographs, images where file size is important.</li>\n<li><strong>Not ideal for:</strong> Logos, text, graphics with sharp lines (lossy compression can cause artifacts).</li>\n</ul>\n"
+  },
+  {
+    "title": "PNG: Lossless Image Compression",
+    "content": "<ul>\n<li><strong>What is it?</strong> A versatile format for images, supports transparency.</li>\n<li><strong>Lossless:</strong>  Compresses files without losing any image data.  Larger file size than JPG for photos.</li>\n<li><strong>Best for:</strong> Logos, graphics with text, images with transparency, images where quality is paramount.</li>\n<li>**Two main types: PNG-8 (limited colors) and PNG-24 (full color support).</li>\n</ul>\n"
+  },
+  {
+    "title": "SVG: Scalable Vector Graphics",
+    "content": "<ul>\n<li><strong>What is it?</strong> A vector-based format for web graphics.</li>\n<li><strong>Scalable:</strong> Can be scaled up or down without any loss of quality.</li>\n<li><strong>Code-based:</strong>  Defined using XML, so it can be animated and interacted with using CSS and JavaScript.</li>\n<li><strong>Best for:</strong> Logos, icons, illustrations on websites, responsive design.</li>\n</ul>\n"
+  },
+  {
+    "title": "EPS: Encapsulated PostScript",
+    "content": "<ul>\n<li><strong>What is it?</strong>  An older vector format, often used for printing.</li>\n<li><strong>Versatile:</strong> Can contain both vector and raster data.</li>\n<li><strong>Less common now:</strong>  Largely superseded by PDF for many print workflows.</li>\n<li><strong>Best for:</strong> Legacy print workflows, vector graphics for professional printing.</li>\n</ul>\n"
+  },
+  {
+    "title": "PDF: Portable Document Format",
+    "content": "<ul>\n<li><strong>What is it?</strong> A widely used format for documents, presentations, and more.</li>\n<li><strong>Versatile:</strong> Can contain text, images, vector graphics, and even interactive elements.</li>\n<li><strong>Platform-independent:</strong> Looks the same on any device or operating system.</li>\n<li><strong>Best for:</strong> Sharing documents, printing, archiving, presentations.</li>\n</ul>\n"
+  },
+  {
+    "title": "AI: Adobe Illustrator Artwork",
+    "content": "<ul>\n<li><strong>What is it?</strong> The native file format for Adobe Illustrator.</li>\n<li><strong>Vector-based:</strong> Primarily used for creating and editing vector graphics.</li>\n<li><strong>Layers and Editing:</strong>  Maintains layers and editable objects for advanced design work.</li>\n<li><strong>Best for:</strong> Creating logos, illustrations, typography, and other vector-based artwork.  Requires Adobe Illustrator to fully edit.</li>\n</ul>\n"
+  },
+  {
+    "title": "PSD: Adobe Photoshop Document",
+    "content": "<ul>\n<li><strong>What is it?</strong> The native file format for Adobe Photoshop.</li>\n<li><strong>Raster-based:</strong> Primarily used for editing raster images.</li>\n<li><strong>Layers and Editing:</strong>  Maintains layers, adjustment layers, and other editable elements for advanced image manipulation.</li>\n<li><strong>Best for:</strong> Photo editing, compositing, digital painting. Requires Adobe Photoshop to fully edit.</li>\n</ul>\n"
+  },
+  {
+    "title": "Choosing the Right Format: Quick Guide",
+    "content": "<ul>\n<li><strong>Photographs:</strong> JPG (for small file size) or PNG (for best quality).</li>\n<li><strong>Logos &amp; Icons:</strong> SVG (for web), PNG (for transparency), AI (for editing).</li>\n<li><strong>Illustrations:</strong> SVG (for web), AI (for editing), PNG (if raster).</li>\n<li><strong>Documents:</strong> PDF.</li>\n<li><strong>Professional Printing:</strong> PDF or EPS (check with your printer).</li>\n<li><strong>Complex Editing:</strong> PSD (Photoshop), AI (Illustrator).</li>\n</ul>\n"
+  },
+  {
+    "title": "Transparency Considerations",
+    "content": "<ul>\n<li><strong>Need Transparency?</strong> Use PNG or SVG.  JPG does NOT support transparency.</li>\n<li>PNG allows you to have transparent areas in your image, showing what&#39;s behind it.</li>\n<li>SVG handles transparency natively as part of its vector definition.</li>\n</ul>\n"
+  },
+  {
+    "title": "File Size vs. Quality",
+    "content": "<ul>\n<li><strong>JPG prioritizes small file size</strong> at the expense of some quality.</li>\n<li><strong>PNG prioritizes image quality</strong>, resulting in larger file sizes.</li>\n<li><strong>SVG offers excellent quality at potentially smaller file sizes</strong> for simpler vector graphics, but can be larger for very complex illustrations.</li>\n</ul>\n"
+  },
+  {
+    "title": "Web Usage: Best Practices",
+    "content": "<ul>\n<li><strong>JPG:</strong> Good for photographs when loading speed is critical.</li>\n<li><strong>PNG:</strong> Best for logos, icons, and graphics with transparency or sharp lines.</li>\n<li><strong>SVG:</strong> Ideal for logos, icons, and illustrations that need to be scalable and responsive.</li>\n</ul>\n"
+  },
+  {
+    "title": "Print Usage: Best Practices",
+    "content": "<ul>\n<li><strong>PDF:</strong> The standard for sending documents to print shops. Ensures consistent appearance.</li>\n<li><strong>EPS:</strong>  Still used in some professional print workflows, especially for vector graphics.</li>\n<li><strong>High-Resolution JPG/PNG:</strong> Can be used for photos, but ensure the resolution is high enough for the print size.</li>\n</ul>\n"
+  },
+  {
+    "title": "In Summary: Key Takeaways",
+    "content": "<ul>\n<li><strong>Raster vs. Vector:</strong> Understand the fundamental difference.</li>\n<li><strong>JPG:</strong> Lossy, small file size, good for photos.</li>\n<li><strong>PNG:</strong> Lossless, transparency, good for logos and graphics.</li>\n<li><strong>SVG:</strong> Scalable vector graphics, ideal for web.</li>\n<li><strong>PDF:</strong> Portable documents, universal format.</li>\n<li><strong>AI &amp; PSD:</strong> Powerful editing formats (require Adobe software).</li>\n</ul>\n"
+  },
+  {
+    "title": "A Note on Metadata",
+    "content": "<ul>\n<li>Many file formats support metadata. This is information <em>about</em> the image or file, like the author, creation date, camera settings (for photos), copyright info, and keywords.</li>\n<li>This data is often embedded <em>within</em> the file itself.</li>\n<li>Important for organization, copyright protection, and searchability.</li>\n</ul>\n"
+  },
+  {
+    "title": "Compression Techniques in Depth",
+    "content": "<ul>\n<li><strong>Lossy Compression (JPG):</strong> Uses techniques like Discrete Cosine Transform (DCT) to remove less noticeable details. This reduces file size but permanently removes some data.</li>\n<li><strong>Lossless Compression (PNG, ZIP):</strong> Uses algorithms like Lempel-Ziv (LZ77) or Deflate to find patterns and redundancies in the data. It can then compress the file without losing any information.</li>\n</ul>\n"
+  },
+  {
+    "title": "Beyond the Basics: Advanced Concepts",
+    "content": "<ul>\n<li><strong>Color Spaces:</strong> Understand the difference between RGB (for screens) and CMYK (for printing) color spaces.</li>\n<li><strong>Resolution:</strong> Pixels per inch (PPI) and Dots per inch (DPI) affect image sharpness when printed.</li>\n<li><strong>Codecs:</strong> Video file formats use codecs to compress and decompress video and audio data.</li>\n</ul>\n"
+  },
+  {
+    "title": "File Format Evolution",
+    "content": "<p>File formats are constantly evolving to keep up with technological advancements. New formats emerge to address limitations or offer new capabilities:</p>\n<ul>\n<li><strong>AVIF:</strong> A modern image format that offers better compression than JPG with similar image quality.</li>\n<li><strong>WebP:</strong> Another modern image format developed by Google that supports both lossy and lossless compression, as well as animation.</li>\n</ul>\n"
+  },
+  {
+    "title": "Command-Line Tools for File Conversion",
+    "content": "<p>Several command-line tools can be used for batch converting between file formats, such as:</p>\n<ul>\n<li><strong>ImageMagick:</strong> A powerful image manipulation tool with extensive format support.</li>\n<li><strong>FFmpeg:</strong> A versatile multimedia framework that can convert between various audio and video formats.</li>\n<li>These tools are great for automating file conversion workflows.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Importance of Backups",
+    "content": "<p>Regardless of the file format you use, it&#39;s essential to have backups of your important files. Consider using a combination of local backups (e.g., external hard drive) and cloud backups (e.g., Google Drive, Dropbox) to ensure your data is safe.</p>\n"
+  },
+  {
+    "title": "Choosing the right tool for the job",
+    "content": "<p>There is no one-size-fits-all answer!  The best file format is the one that meets your specific needs in terms of quality, file size, compatibility, and intended use.  Understanding the trade-offs is key to making informed decisions.</p>\n"
+  },
+  {
+    "title": "Questions & Answers",
+    "content": "<p>Thank you for your time!  Now, let&#39;s address any questions you may have about file formats.</p>\n"
+  }
+]

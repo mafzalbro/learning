@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Introduction to Artificial Intelligence",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is AI?</strong> A simple explanation.</li>\n<li><strong>Types of AI:</strong> From simple robots to super-smart systems.</li>\n<li><strong>AI in Action:</strong> Everyday examples you already use.</li>\n<li><strong>The Future of AI:</strong> What&#39;s next and why it matters.</li>\n<li><strong>Ethical Considerations:</strong> Important discussions around fairness and responsibility.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Artificial Intelligence (AI)?",
+    "content": "<p>AI is making computers think and act like humans.</p>\n<ul>\n<li><strong>Think:</strong> Solve problems, learn from experience.</li>\n<li><strong>Act:</strong> Make decisions, perform tasks.</li>\n</ul>\n<p>Essentially, it&#39;s about creating smart machines.</p>\n"
+  },
+  {
+    "title": "AI vs. Human Intelligence",
+    "content": "<p>Humans possess intelligence naturally. AI tries to mimic it.</p>\n<table>\n<thead>\n<tr>\n<th>Feature</th>\n<th>Human Intelligence</th>\n<th>Artificial Intelligence</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Source</strong></td>\n<td>Biological</td>\n<td>Programmed</td>\n</tr>\n<tr>\n<td><strong>Learning</strong></td>\n<td>Experience</td>\n<td>Data</td>\n</tr>\n<tr>\n<td><strong>Creativity</strong></td>\n<td>High</td>\n<td>Growing</td>\n</tr>\n<tr>\n<td><strong>Speed</strong></td>\n<td>Slower</td>\n<td>Often Faster</td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "title": "Types of AI: Narrow or Weak AI",
+    "content": "<p>Also known as Weak AI.</p>\n<ul>\n<li><p>Designed for specific tasks.</p>\n</li>\n<li><p>Examples:</p>\n<ul>\n<li>Spam filters.</li>\n<li>Recommendation systems (Netflix, Amazon).</li>\n<li>Voice assistants (Siri, Alexa) – for limited functions.</li>\n</ul>\n</li>\n<li><p><strong>Key Point:</strong>  These AI systems excel at their specific job but can&#39;t do anything else.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of AI: General or Strong AI",
+    "content": "<p>Also known as Strong AI.</p>\n<ul>\n<li>Hypothetical AI with human-level intelligence.</li>\n<li>Can understand, learn, adapt, and implement knowledge like a person.</li>\n<li>Does <em>not</em> exist yet.</li>\n<li>A major research goal in the field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of AI: Super AI",
+    "content": "<ul>\n<li>An AI system that surpasses the intelligence of a human in all aspects.</li>\n<li>This type of AI is purely theoretical and we have never created it.</li>\n<li>It can solve problems and innovate at an unprecedented rate.</li>\n</ul>\n"
+  },
+  {
+    "title": "AI in Action: Everyday Examples",
+    "content": "<p>AI is all around us!</p>\n<ul>\n<li><strong>Spam Filters:</strong> Automatically identify and filter junk mail.</li>\n<li><strong>Navigation Apps:</strong>  Provide real-time traffic updates and route optimization (Google Maps, Waze).</li>\n<li><strong>Streaming Services:</strong> Recommend movies and shows based on your viewing history (Netflix, Spotify).</li>\n<li><strong>Social Media:</strong>  Personalized news feeds and targeted ads.</li>\n</ul>\n"
+  },
+  {
+    "title": "AI in Action: More Advanced Examples",
+    "content": "<p>Beyond the basics:</p>\n<ul>\n<li><strong>Self-Driving Cars:</strong> Use AI to perceive their surroundings and navigate without human input.</li>\n<li><strong>Medical Diagnosis:</strong> Assist doctors in identifying diseases from medical images (X-rays, MRIs).</li>\n<li><strong>Fraud Detection:</strong>  Identify suspicious financial transactions.</li>\n<li><strong>Chatbots:</strong> Provide customer service and answer questions.</li>\n</ul>\n"
+  },
+  {
+    "title": "Machine Learning: A Key Part of AI",
+    "content": "<p>Machine Learning (ML) is how AI systems learn.</p>\n<ul>\n<li><p><strong>Data:</strong>  ML algorithms learn from large amounts of data.</p>\n</li>\n<li><p><strong>Patterns:</strong> They identify patterns and relationships in the data.</p>\n</li>\n<li><p><strong>Predictions:</strong> Use these patterns to make predictions or decisions.</p>\n</li>\n<li><p><strong>Example:</strong> Training an AI to recognize cats in pictures by showing it thousands of cat images.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Deep Learning: A Subfield of Machine Learning",
+    "content": "<p>Deep Learning (DL) uses artificial neural networks with many layers (deep).</p>\n<ul>\n<li>Inspired by the structure of the human brain.</li>\n<li>Excellent for complex tasks like image recognition and natural language processing.</li>\n<li>Requires massive amounts of data and computational power.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of AI: What's Coming?",
+    "content": "<p>AI is rapidly evolving.</p>\n<ul>\n<li><strong>More Automation:</strong> AI will automate more tasks in various industries.</li>\n<li><strong>Personalized Experiences:</strong> AI will create more personalized products and services.</li>\n<li><strong>New Discoveries:</strong> AI will help us make new scientific and medical breakthroughs.</li>\n<li><strong>Ethical Considerations:</strong> Growing concerns about AI&#39;s impact on jobs, privacy, and fairness.</li>\n</ul>\n"
+  },
+  {
+    "title": "Ethical Considerations: Bias in AI",
+    "content": "<p>AI can perpetuate biases present in the data it&#39;s trained on.</p>\n<ul>\n<li><strong>Example:</strong> Facial recognition systems performing poorly on people with darker skin tones due to biased training data.</li>\n<li><strong>Importance:</strong> It&#39;s crucial to ensure fairness and avoid discrimination in AI systems.</li>\n</ul>\n"
+  },
+  {
+    "title": "Ethical Considerations: Job Displacement",
+    "content": "<p>AI-powered automation may lead to job losses in some sectors.</p>\n<ul>\n<li><strong>Challenge:</strong> Preparing the workforce for new roles and skills required in an AI-driven economy.</li>\n<li><strong>Opportunity:</strong> AI can also create new jobs and opportunities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Ethical Considerations: Privacy",
+    "content": "<p>AI systems often collect and analyze vast amounts of personal data.</p>\n<ul>\n<li><strong>Concerns:</strong> Protecting privacy and ensuring data security are crucial.</li>\n<li><strong>Importance:</strong> Responsible data handling and transparency are essential.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Takeaways",
+    "content": "<ul>\n<li>AI is about making computers think and act like humans.</li>\n<li>There are different types of AI, from narrow to general.</li>\n<li>AI is already transforming many aspects of our lives.</li>\n<li>Ethical considerations are crucial for responsible AI development.</li>\n</ul>\n"
+  },
+  {
+    "title": "Getting Started with AI",
+    "content": "<p>Interested in learning more?</p>\n<ul>\n<li><strong>Online Courses:</strong> Coursera, edX, Udacity offer introductory AI and Machine Learning courses.</li>\n<li><strong>Books:</strong> Numerous books on AI and Machine Learning are available for beginners.</li>\n<li><strong>Open Source Tools:</strong>  Python libraries like TensorFlow and PyTorch are widely used for AI development.</li>\n</ul>\n"
+  },
+  {
+    "title": "Q & A",
+    "content": "<p>Any Questions ?</p>\n"
+  },
+  {
+    "title": "Thank You",
+    "content": "<p>Thank you for your time! This concludes the introduction to AI. I hope you found it informative. Feel free to reach out if you have any questions.</p>\n"
+  }
+]

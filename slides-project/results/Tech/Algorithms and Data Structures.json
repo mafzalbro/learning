@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Algorithms & Data Structures: A Gentle Introduction",
+    "content": "<p>Welcome! This presentation will cover the fundamentals of algorithms and data structures. We&#39;ll explore:</p>\n<ul>\n<li><strong>What are Algorithms and Data Structures?</strong> (And why you should care!)</li>\n<li><strong>Common Data Structures:</strong> Arrays, Linked Lists, Stacks, Queues, Trees, Hash Tables.</li>\n<li><strong>Basic Algorithms:</strong> Searching, Sorting.</li>\n<li><strong>Big O Notation:</strong> Understanding algorithm efficiency.</li>\n<li><strong>Real-world Applications:</strong> How these concepts are used every day.</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Algorithms?",
+    "content": "<p>An algorithm is simply a <strong>step-by-step set of instructions</strong> to solve a problem. Think of it like a recipe!</p>\n<ul>\n<li><strong>Input:</strong> The data you start with.</li>\n<li><strong>Process:</strong> The sequence of steps to follow.</li>\n<li><strong>Output:</strong> The solution to the problem.</li>\n</ul>\n<p><strong>Example:</strong> An algorithm to make a cup of tea.</p>\n<ol>\n<li>Boil water.</li>\n<li>Put a tea bag in a cup.</li>\n<li>Pour the boiling water into the cup.</li>\n<li>Let it steep for a few minutes.</li>\n<li>Add milk and sugar (optional).</li>\n</ol>\n"
+  },
+  {
+    "title": "What are Data Structures?",
+    "content": "<p>A data structure is a way of <strong>organizing and storing data</strong> so that it can be used efficiently.</p>\n<ul>\n<li>Think of it like different containers for your stuff.</li>\n<li>Choosing the right data structure can significantly impact the performance of your algorithms.</li>\n</ul>\n<p><strong>Examples:</strong></p>\n<ul>\n<li><strong>Arrays:</strong> Like a numbered list.</li>\n<li><strong>Linked Lists:</strong> Like a chain of connected items.</li>\n<li><strong>Trees:</strong> Like an upside-down tree with branches.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why are Algorithms & Data Structures Important?",
+    "content": "<ul>\n<li><strong>Efficient Solutions:</strong> They allow you to solve problems faster and using less memory.</li>\n<li><strong>Code Optimization:</strong> Understanding them is crucial for writing clean and optimized code.</li>\n<li><strong>Problem Solving:</strong> They provide a framework for approaching complex problems.</li>\n<li><strong>Job Interviews:</strong> A fundamental topic for software engineering interviews.</li>\n<li><strong>Scalability:</strong> Allows you to handle large amounts of data efficiently</li>\n</ul>\n"
+  },
+  {
+    "title": "Arrays",
+    "content": "<p>An array is a collection of items of the <strong>same data type</strong>, stored at contiguous memory locations.</p>\n<ul>\n<li><strong>Indexed:</strong> Each element has a specific index (usually starting from 0).</li>\n<li><strong>Fixed Size (usually):</strong>  The size is typically determined when the array is created.</li>\n</ul>\n<p><strong>Example:</strong> An array of integers: <code>[10, 20, 30, 40, 50]</code></p>\n<ul>\n<li><code>array[0] = 10</code></li>\n<li><code>array[1] = 20</code>\n...</li>\n</ul>\n<p><strong>Pros:</strong>  Fast access to elements by index.\n<strong>Cons:</strong>  Fixed size can be limiting. Inserting/deleting in the middle can be slow.</p>\n"
+  },
+  {
+    "title": "Linked Lists",
+    "content": "<p>A linked list is a sequence of nodes, where each node contains data and a pointer (or link) to the next node.</p>\n<ul>\n<li><strong>Dynamic Size:</strong> Can grow or shrink as needed.</li>\n<li><strong>Non-Contiguous Memory:</strong> Nodes can be scattered throughout memory.</li>\n</ul>\n<p><strong>Example:</strong> <code>[Data: 10, Next: Pointer] -&gt; [Data: 20, Next: Pointer] -&gt; [Data: 30, Next: Null]</code></p>\n<p><strong>Pros:</strong> Dynamic size, easy insertion/deletion.\n<strong>Cons:</strong> Slower access to elements (need to traverse the list).</p>\n"
+  },
+  {
+    "title": "Stacks",
+    "content": "<p>A stack is a <strong>LIFO (Last-In, First-Out)</strong> data structure.</p>\n<ul>\n<li>Think of it like a stack of plates.  You can only add or remove plates from the top.</li>\n</ul>\n<p><strong>Operations:</strong></p>\n<ul>\n<li><strong>Push:</strong> Add an element to the top of the stack.</li>\n<li><strong>Pop:</strong> Remove an element from the top of the stack.</li>\n<li><strong>Peek:</strong> View the top element without removing it.</li>\n</ul>\n<p><strong>Example:</strong> Undo functionality in a text editor.</p>\n"
+  },
+  {
+    "title": "Queues",
+    "content": "<p>A queue is a <strong>FIFO (First-In, First-Out)</strong> data structure.</p>\n<ul>\n<li>Think of it like a waiting line.  The first person in line is the first person served.</li>\n</ul>\n<p><strong>Operations:</strong></p>\n<ul>\n<li><strong>Enqueue:</strong> Add an element to the rear of the queue.</li>\n<li><strong>Dequeue:</strong> Remove an element from the front of the queue.</li>\n<li><strong>Peek:</strong> View the front element without removing it.</li>\n</ul>\n<p><strong>Example:</strong> Task scheduling in an operating system.</p>\n"
+  },
+  {
+    "title": "Trees",
+    "content": "<p>A tree is a hierarchical data structure consisting of nodes connected by edges.</p>\n<ul>\n<li><strong>Root:</strong> The topmost node.</li>\n<li><strong>Parent:</strong> A node that has children.</li>\n<li><strong>Child:</strong> A node that is connected to a parent.</li>\n<li><strong>Leaf:</strong> A node with no children.</li>\n</ul>\n<p><strong>Example:</strong> File system structure on your computer.</p>\n"
+  },
+  {
+    "title": "Hash Tables",
+    "content": "<p>A hash table (or hash map) is a data structure that implements an <strong>associative array</strong> abstract data type, a structure that can map keys to values.</p>\n<ul>\n<li><strong>Key-Value Pairs:</strong>  Store data as key-value pairs.</li>\n<li><strong>Hash Function:</strong> A function that converts a key into an index into the hash table.</li>\n<li><strong>Fast Lookups:</strong>  Can find values very quickly (on average).</li>\n</ul>\n<p><strong>Example:</strong>  Dictionaries in programming languages.</p>\n"
+  },
+  {
+    "title": "Searching Algorithms",
+    "content": "<p>Searching algorithms are used to find a specific element within a data structure.</p>\n<p><strong>Common Algorithms:</strong></p>\n<ul>\n<li><strong>Linear Search:</strong>  Check each element one by one (simple, but slow for large datasets).</li>\n<li><strong>Binary Search:</strong>  Efficiently search a sorted array (requires the array to be sorted first).</li>\n</ul>\n"
+  },
+  {
+    "title": "Linear Search",
+    "content": "<p>Linear Search:</p>\n<ol>\n<li>Start at the beginning of the list.</li>\n<li>Compare each element in the list to the target value.</li>\n<li>If the element matches the target value, return its index.</li>\n<li>If the target value is not found after checking all elements, return -1.</li>\n</ol>\n<p><strong>Example:</strong> Searching for the number 3 in the list <code>[1, 5, 2, 3, 8]</code></p>\n<ul>\n<li>Checks 1, then 5, then 2, then 3 (match found!).</li>\n</ul>\n<p><strong>Worst-case time complexity:</strong> O(n)</p>\n"
+  },
+  {
+    "title": "Binary Search",
+    "content": "<p>Binary Search (requires a <em>sorted</em> array):</p>\n<ol>\n<li>Find the middle element of the array.</li>\n<li>If the middle element is the target value, return its index.</li>\n<li>If the target value is less than the middle element, search the left half of the array.</li>\n<li>If the target value is greater than the middle element, search the right half of the array.</li>\n<li>Repeat steps 1-4 until the target value is found or the search space is empty.</li>\n</ol>\n<p><strong>Example:</strong> Searching for 5 in <code>[1, 2, 3, 4, 5, 6, 7]</code></p>\n<p><strong>Time complexity:</strong> O(log n) - much faster than linear search for large datasets.</p>\n"
+  },
+  {
+    "title": "Sorting Algorithms",
+    "content": "<p>Sorting algorithms are used to arrange the elements of a data structure in a specific order (e.g., ascending or descending).</p>\n<p><strong>Common Algorithms:</strong></p>\n<ul>\n<li><strong>Bubble Sort:</strong> Simple, but inefficient for large datasets.</li>\n<li><strong>Selection Sort:</strong>  Also simple, slightly better than bubble sort.</li>\n<li><strong>Insertion Sort:</strong> Efficient for small datasets or nearly sorted data.</li>\n<li><strong>Merge Sort:</strong>  A more advanced, efficient algorithm using divide and conquer.</li>\n<li><strong>Quick Sort:</strong>  Another efficient algorithm, often used in practice.</li>\n</ul>\n"
+  },
+  {
+    "title": "Bubble Sort",
+    "content": "<p>Bubble Sort:</p>\n<ol>\n<li>Compare adjacent elements in the list.</li>\n<li>If they are in the wrong order, swap them.</li>\n<li>Repeat steps 1 and 2 for all adjacent elements in the list, from the beginning to the end.</li>\n<li>Repeat steps 1-3 until no more swaps are needed.</li>\n</ol>\n<p><strong>Example:</strong> Sorting <code>[5, 1, 4, 2, 8]</code></p>\n<p><strong>Time complexity:</strong> O(n^2) - Generally not recommended for large datasets.</p>\n"
+  },
+  {
+    "title": "Insertion Sort",
+    "content": "<p>Insertion Sort:</p>\n<ol>\n<li>Iterate from arr[1] to arr[n] over the array.</li>\n<li>Compare the current element (key) to its predecessor.</li>\n<li>If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.</li>\n</ol>\n<p><strong>Example:</strong> Sorting <code>[5, 1, 4, 2, 8]</code></p>\n<p><strong>Time complexity:</strong> O(n^2) - Efficient for smaller or nearly sorted datasets</p>\n"
+  },
+  {
+    "title": "Big O Notation",
+    "content": "<p>Big O notation is a way to <strong>describe the performance or complexity</strong> of an algorithm.</p>\n<ul>\n<li>It focuses on how the execution time or memory usage grows as the input size increases.</li>\n<li>It provides an upper bound on the growth rate.</li>\n</ul>\n<p><strong>Common Big O Notations:</strong></p>\n<ul>\n<li><strong>O(1):</strong> Constant time (fastest).</li>\n<li><strong>O(log n):</strong> Logarithmic time.</li>\n<li><strong>O(n):</strong> Linear time.</li>\n<li><strong>O(n log n):</strong> Linearithmic time.</li>\n<li><strong>O(n^2):</strong> Quadratic time.</li>\n<li><strong>O(2^n):</strong> Exponential time (slowest).</li>\n</ul>\n"
+  },
+  {
+    "title": "O(1) - Constant Time",
+    "content": "<p>O(1) represents algorithms where the execution time remains constant, regardless of the input size.</p>\n<p><strong>Example:</strong></p>\n<ul>\n<li>Accessing an element in an array by its index (<code>array[i]</code>).</li>\n<li>Retrieving the value of a key in a hash table (assuming no collisions).</li>\n</ul>\n<p>These operations take the same amount of time, no matter how big the array or hash table is.</p>\n"
+  },
+  {
+    "title": "O(n) - Linear Time",
+    "content": "<p>O(n) represents algorithms where the execution time grows linearly with the input size.</p>\n<p><strong>Example:</strong></p>\n<ul>\n<li>Linear search: In the worst case, you have to check every element in the list.</li>\n<li>Iterating through all elements of an array or linked list.</li>\n</ul>\n<p>The time it takes doubles when the input size doubles.</p>\n"
+  },
+  {
+    "title": "O(log n) - Logarithmic Time",
+    "content": "<p>O(log n) represents algorithms where the execution time grows logarithmically with the input size.</p>\n<p><strong>Example:</strong></p>\n<ul>\n<li>Binary search:  Each step halves the search space.</li>\n</ul>\n<p>This is very efficient for large datasets. The time increases much slower than the input size.</p>\n"
+  },
+  {
+    "title": "O(n^2) - Quadratic Time",
+    "content": "<p>O(n^2) represents algorithms where the execution time grows quadratically with the input size.</p>\n<p><strong>Example:</strong></p>\n<ul>\n<li>Bubble Sort, Selection Sort: Comparing each element with every other element.</li>\n</ul>\n<p>This is generally inefficient for large datasets. The time increases drastically as the input size grows.</p>\n"
+  },
+  {
+    "title": "Real-World Applications",
+    "content": "<ul>\n<li><strong>Databases:</strong> Data structures like B-trees are used for indexing and efficient data retrieval.</li>\n<li><strong>Search Engines:</strong> Algorithms are used to rank search results based on relevance.</li>\n<li><strong>Social Media:</strong> Graph data structures are used to represent social networks and analyze relationships.</li>\n<li><strong>Operating Systems:</strong>  Scheduling algorithms determine which processes run when.</li>\n<li><strong>Compilers:</strong>  Algorithms are used to parse code and generate machine instructions.</li>\n<li><strong>Navigation Systems:</strong> Algorithms are used to find the shortest path between two points.</li>\n</ul>\n"
+  },
+  {
+    "title": "Choosing the Right Data Structure and Algorithm",
+    "content": "<p>The best data structure and algorithm depend on the specific problem you&#39;re trying to solve.</p>\n<p><strong>Consider these factors:</strong></p>\n<ul>\n<li><strong>The size of the data:</strong>  For large datasets, efficiency is crucial.</li>\n<li><strong>The types of operations you need to perform:</strong>  Do you need to frequently search, insert, or delete elements?</li>\n<li><strong>The memory constraints:</strong>  Some data structures require more memory than others.</li>\n<li><strong>The complexity of the algorithm:</strong> Aim for the most efficient algorithm that is easy to understand and implement.</li>\n</ul>\n"
+  },
+  {
+    "title": "Further Learning",
+    "content": "<p>This presentation has just scratched the surface of algorithms and data structures.  Here are some resources for further learning:</p>\n<ul>\n<li><strong>Books:</strong><ul>\n<li>Introduction to Algorithms (CLRS)</li>\n<li>Algorithms (Sedgewick &amp; Wayne)</li>\n<li>Data Structures and Algorithm Analysis in C++ (Weiss)</li>\n</ul>\n</li>\n<li><strong>Online Courses:</strong><ul>\n<li>Coursera: Algorithms Specialization by Stanford University</li>\n<li>edX:  Data Structures and Algorithm Design by University of California, San Diego</li>\n<li>Khan Academy:  Algorithms</li>\n</ul>\n</li>\n<li><strong>Practice Platforms:</strong><ul>\n<li>LeetCode</li>\n<li>HackerRank</li>\n<li>Codewars</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Algorithms and data structures are fundamental building blocks for software development.  Understanding these concepts will enable you to write more efficient, scalable, and robust code.  Keep practicing and exploring! Thank You!</p>\n"
+  }
+]

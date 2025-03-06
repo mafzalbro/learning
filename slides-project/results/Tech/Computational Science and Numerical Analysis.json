@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Computational Science & Numerical Analysis: An Introduction",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is Computational Science?</strong> Solving problems with computers.</li>\n<li><strong>What is Numerical Analysis?</strong> Approximating solutions.</li>\n<li><strong>Why are they important?</strong>  Solving real-world problems.</li>\n<li><strong>Key Concepts:</strong> Algorithms, Error, and Stability.</li>\n<li><strong>Examples:</strong>  A taste of what we can do!</li>\n<li><strong>Tools and Techniques:</strong> Overview of some common methods.</li>\n<li><strong>Future Directions:</strong> What&#39;s next in these fields?</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Computational Science?",
+    "content": "<p>Computational Science uses computers to:</p>\n<ul>\n<li><strong>Solve problems:</strong> From predicting weather to designing airplanes.</li>\n<li><strong>Simulate systems:</strong> Like the human heart or the stock market.</li>\n<li><strong>Analyze data:</strong>  Finding patterns in large datasets.</li>\n<li><strong>Make predictions:</strong>  Forecasting future outcomes.</li>\n</ul>\n<p>Essentially, it&#39;s applying computer power to scientific and engineering challenges.</p>\n"
+  },
+  {
+    "title": "What is Numerical Analysis?",
+    "content": "<p>Numerical Analysis is the study of algorithms for:</p>\n<ul>\n<li><strong>Approximating solutions:</strong> When exact solutions are impossible to find (which is often!).</li>\n<li><strong>Solving equations:</strong>  Finding the roots of complex functions.</li>\n<li><strong>Calculating integrals:</strong> Finding areas under curves.</li>\n<li><strong>Solving differential equations:</strong> Modeling how things change over time.</li>\n</ul>\n<p>It&#39;s about finding <em>good enough</em> answers using computers.</p>\n"
+  },
+  {
+    "title": "Why are they Important?",
+    "content": "<p>Computational Science and Numerical Analysis are essential because they enable us to:</p>\n<ul>\n<li><strong>Solve complex problems:</strong>  Problems too difficult or expensive for traditional methods.</li>\n<li><strong>Make accurate predictions:</strong> Improving decision-making in various fields.</li>\n<li><strong>Design better products:</strong> Optimizing performance and efficiency.</li>\n<li><strong>Advance scientific discovery:</strong>  Gaining new insights into the natural world.</li>\n</ul>\n<p>In short, they help us understand and improve the world around us.</p>\n"
+  },
+  {
+    "title": "Key Concept: Algorithms",
+    "content": "<p>An algorithm is a step-by-step procedure for solving a problem.</p>\n<ul>\n<li><strong>Example:</strong> A recipe is an algorithm for baking a cake.</li>\n</ul>\n<p>In Computational Science, algorithms are implemented as computer programs.</p>\n<ul>\n<li><strong>Efficiency matters:</strong> We want algorithms that are fast and use minimal resources.</li>\n<li><strong>Choosing the right algorithm is crucial</strong> for accuracy and speed.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Concept: Error",
+    "content": "<p>Error is the difference between the true solution and the approximate solution.</p>\n<ul>\n<li><strong>Numerical methods introduce error:</strong> Because we&#39;re using approximations.</li>\n<li><strong>Types of Error:</strong><ul>\n<li><strong>Round-off error:</strong> Due to limited precision of computers.</li>\n<li><strong>Truncation error:</strong> Due to approximations in the algorithm.</li>\n</ul>\n</li>\n<li><strong>Goal:</strong> Minimize error and understand its impact on the results.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Concept: Stability",
+    "content": "<p>Stability refers to how sensitive an algorithm is to small changes in the input data or computational errors.</p>\n<ul>\n<li><p><strong>A stable algorithm:</strong> Produces similar results even with small changes.</p>\n</li>\n<li><p><strong>An unstable algorithm:</strong> Can produce wildly different results with small changes. This is bad!</p>\n</li>\n<li><p><strong>Importance:</strong> We need stable algorithms to ensure reliable results.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Example: Solving an Equation",
+    "content": "<p>Let&#39;s say we want to solve the equation:  x^2 - 2 = 0</p>\n<ul>\n<li><strong>Analytical Solution:</strong>  x = ±√2 (But what is √2 exactly?)</li>\n<li><strong>Numerical Method (Bisection):</strong> Repeatedly narrow down the interval containing the root.</li>\n</ul>\n<p>We can use a computer program to find an approximate solution (e.g., x ≈ 1.414) with a specified level of accuracy.</p>\n"
+  },
+  {
+    "title": "Example: Simulating Fluid Flow",
+    "content": "<p>Computational Fluid Dynamics (CFD) uses numerical methods to simulate how fluids (liquids and gases) flow.</p>\n<ul>\n<li><strong>Applications:</strong> Designing airplanes, analyzing weather patterns, optimizing pipelines.</li>\n<li><strong>Governing Equations:</strong> Navier-Stokes equations (complex partial differential equations).</li>\n<li><strong>Numerical Techniques:</strong> Finite element method, finite difference method.</li>\n</ul>\n<p>CFD helps engineers and scientists understand and predict fluid behavior.</p>\n"
+  },
+  {
+    "title": "Tools: Programming Languages",
+    "content": "<p>Common programming languages for Computational Science:</p>\n<ul>\n<li><strong>Python:</strong>  Easy to learn, versatile, with excellent scientific libraries (NumPy, SciPy, Matplotlib).</li>\n<li><strong>MATLAB:</strong>  Specialized for numerical computation and visualization.</li>\n<li><strong>Fortran:</strong>  Historically important for scientific computing, still used for high-performance applications.</li>\n<li><strong>C/C++:</strong>  Powerful languages for performance-critical tasks.</li>\n</ul>\n"
+  },
+  {
+    "title": "Tools: Software Libraries",
+    "content": "<p>Key Software Libraries:</p>\n<ul>\n<li><strong>NumPy (Python):</strong>  Arrays, linear algebra, random number generation.</li>\n<li><strong>SciPy (Python):</strong>  Optimization, integration, interpolation, signal processing.</li>\n<li><strong>Matplotlib (Python):</strong>  Plotting and visualization.</li>\n<li><strong>LAPACK:</strong> Linear Algebra Package (Fortran, but with interfaces for other languages).</li>\n<li><strong>BLAS:</strong> Basic Linear Algebra Subprograms (Fortran, foundation for LAPACK).</li>\n</ul>\n"
+  },
+  {
+    "title": "Techniques: Finite Difference Method",
+    "content": "<p>The Finite Difference Method (FDM) approximates derivatives using difference quotients.</p>\n<ul>\n<li><p><strong>Example:</strong>  Approximating the first derivative of a function f(x) at a point x₀:</p>\n<ul>\n<li>f&#39;(x₀) ≈ (f(x₀ + h) - f(x₀)) / h  (where h is a small step size).</li>\n</ul>\n</li>\n<li><p><strong>Applications:</strong> Solving differential equations on a grid.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Techniques: Finite Element Method",
+    "content": "<p>The Finite Element Method (FEM) divides a complex domain into smaller, simpler elements.</p>\n<ul>\n<li><strong>Applications:</strong> Structural analysis, heat transfer, fluid flow.</li>\n<li><strong>Advantages:</strong> Can handle complex geometries and boundary conditions.</li>\n<li><strong>Process:</strong><ol>\n<li>Divide the domain into elements.</li>\n<li>Approximate the solution within each element.</li>\n<li>Assemble the element equations into a global system.</li>\n<li>Solve the system of equations.</li>\n</ol>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Techniques: Monte Carlo Methods",
+    "content": "<p>Monte Carlo Methods use random sampling to obtain numerical results.</p>\n<ul>\n<li><strong>Applications:</strong>  Simulating physical and financial systems, estimating integrals.</li>\n<li><strong>Example:</strong> Estimating the value of π by randomly throwing darts at a square containing a circle.</li>\n<li><strong>Advantages:</strong> Can handle high-dimensional problems.</li>\n<li><strong>Disadvantages:</strong> Can be computationally expensive.</li>\n</ul>\n"
+  },
+  {
+    "title": "Future Directions: High-Performance Computing",
+    "content": "<p>High-Performance Computing (HPC) uses supercomputers and parallel processing to solve computationally intensive problems.</p>\n<ul>\n<li><strong>Importance:</strong> Enables us to tackle even larger and more complex problems.</li>\n<li><strong>Trends:</strong><ul>\n<li>Increasing use of GPUs (Graphics Processing Units).</li>\n<li>Exascale computing (a billion billion calculations per second).</li>\n<li>Cloud computing for scientific applications.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Future Directions: Machine Learning Integration",
+    "content": "<p>Integrating Machine Learning (ML) with Computational Science:</p>\n<ul>\n<li><strong>Applications:</strong><ul>\n<li>Developing surrogate models to speed up simulations.</li>\n<li>Improving the accuracy of numerical methods.</li>\n<li>Discovering new patterns in scientific data.</li>\n</ul>\n</li>\n<li><strong>Potential:</strong>  Revolutionize scientific discovery and engineering design.</li>\n</ul>\n"
+  },
+  {
+    "title": "Future Directions: Quantum Computing",
+    "content": "<p>Quantum Computing offers the potential to solve problems that are intractable for classical computers.</p>\n<ul>\n<li><strong>Potential Applications:</strong><ul>\n<li>Drug discovery.</li>\n<li>Materials science.</li>\n<li>Cryptography.</li>\n</ul>\n</li>\n<li><strong>Challenges:</strong> Quantum computers are still in their early stages of development.</li>\n<li><strong>Impact:</strong>  Could transform computational science in the long term.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary",
+    "content": "<p>We&#39;ve covered:</p>\n<ul>\n<li><strong>What is Computational Science and Numerical Analysis?</strong></li>\n<li><strong>Why are they important?</strong></li>\n<li><strong>Key Concepts:</strong> Algorithms, Error, Stability.</li>\n<li><strong>Examples:</strong> Solving equations, simulating fluid flow.</li>\n<li><strong>Tools and Techniques:</strong> Programming languages, software libraries, FDM, FEM, Monte Carlo.</li>\n<li><strong>Future Directions:</strong> HPC, ML integration, Quantum Computing.</li>\n</ul>\n"
+  },
+  {
+    "title": "Further Learning",
+    "content": "<p>Want to learn more?</p>\n<ul>\n<li><strong>Online Courses:</strong> Coursera, edX, Udacity.</li>\n<li><strong>Textbooks:</strong>  Numerical Analysis by Burden and Faires, Introduction to Scientific Computing by Heath.</li>\n<li><strong>Open-Source Software:</strong> NumPy, SciPy, PETSc.</li>\n<li><strong>Research Papers:</strong> Explore scientific journals and conferences.</li>\n</ul>\n"
+  },
+  {
+    "title": "Q & A",
+    "content": "<p>Questions? Let&#39;s discuss!</p>\n"
+  }
+]

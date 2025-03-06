@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Theory of Computation: A Gentle Introduction",
+    "content": "<p>Welcome! This presentation provides an overview of the fundamental concepts in the Theory of Computation.</p>\n<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>What is Computation?</li>\n<li>Automata: The Simplest Machines</li>\n<li>Regular Languages and Expressions</li>\n<li>Context-Free Grammars and Pushdown Automata</li>\n<li>Turing Machines: The Ultimate Computer</li>\n<li>Computability and Undecidability</li>\n<li>Computational Complexity: P vs. NP</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Computation?",
+    "content": "<p>At its heart, computation is just <em>processing information</em> according to a set of rules.</p>\n<p>Think of it like this:</p>\n<ul>\n<li><strong>Input:</strong> Data you give the computer (numbers, text, images, etc.)</li>\n<li><strong>Process:</strong> The steps the computer takes to transform the data (calculations, comparisons, etc.)</li>\n<li><strong>Output:</strong> The result of the process (a new number, displayed text, a modified image, etc.)</li>\n</ul>\n<p>Computation can be anything from a simple calculator to a complex AI system.</p>\n"
+  },
+  {
+    "title": "Automata: Simple Machines",
+    "content": "<p>Automata are abstract machines designed to perform specific tasks.</p>\n<ul>\n<li>They have a limited amount of memory and follow a precise set of rules.</li>\n<li>They are used to model and analyze simple computational processes.</li>\n</ul>\n<p><strong>Types of Automata (we&#39;ll see later):</strong></p>\n<ul>\n<li>Deterministic Finite Automata (DFA)</li>\n<li>Non-deterministic Finite Automata (NFA)</li>\n</ul>\n"
+  },
+  {
+    "title": "Deterministic Finite Automata (DFA)",
+    "content": "<p>A DFA is defined by:</p>\n<ul>\n<li>A set of <strong>states</strong> (circles in diagrams).</li>\n<li>An <strong>input alphabet</strong> (symbols the DFA can read).</li>\n<li>A <strong>transition function</strong> (rules for moving between states based on input).</li>\n<li>A <strong>start state</strong> (where the DFA begins).</li>\n<li>A set of <strong>accepting states</strong> (states that indicate the input is valid).</li>\n</ul>\n<p>Think of it like a simple vending machine: you insert coins (input), and based on the coins, it transitions to a different state.  If it ends in a state where it dispenses a drink (accepting state), you&#39;re successful!</p>\n"
+  },
+  {
+    "title": "Regular Languages",
+    "content": "<p>A <em>regular language</em> is a language that can be recognized by a DFA.</p>\n<p>In other words, if you can design a DFA to accept all the strings in a language and reject all the strings not in the language, then that language is regular.</p>\n<p><strong>Examples:</strong></p>\n<ul>\n<li>All strings containing the letter &#39;a&#39;.</li>\n<li>All strings that start with &#39;0&#39; and end with &#39;1&#39;.</li>\n</ul>\n"
+  },
+  {
+    "title": "Regular Expressions (Regex)",
+    "content": "<p>Regular expressions are a powerful way to <em>describe</em> regular languages.</p>\n<p>Instead of drawing DFAs, we can use a concise notation:</p>\n<ul>\n<li><code>a</code>: Matches the character &#39;a&#39;.</li>\n<li><code>a|b</code>: Matches &#39;a&#39; or &#39;b&#39;.</li>\n<li><code>a*</code>: Matches zero or more occurrences of &#39;a&#39;.</li>\n<li><code>a+</code>: Matches one or more occurrences of &#39;a&#39;.</li>\n<li><code>[abc]</code>: Matches &#39;a&#39;, &#39;b&#39;, or &#39;c&#39;.</li>\n</ul>\n<p>Regex is used extensively in text processing, search engines, and compilers.</p>\n"
+  },
+  {
+    "title": "Context-Free Grammars (CFG)",
+    "content": "<p>CFGs are more powerful than regular expressions.  They are used to describe <em>context-free languages</em>.</p>\n<p>A CFG consists of:</p>\n<ul>\n<li><strong>Terminals:</strong> The basic symbols of the language (e.g., letters, numbers).</li>\n<li><strong>Non-terminals:</strong> Variables representing parts of the language (e.g., Sentence, NounPhrase).</li>\n<li><strong>Production Rules:</strong> Rules that show how non-terminals can be replaced by terminals and other non-terminals.</li>\n<li><strong>Start Symbol:</strong> The non-terminal that represents the whole language.</li>\n</ul>\n<p>CFGs are commonly used to define the syntax of programming languages.</p>\n"
+  },
+  {
+    "title": "Example CFG: Simple Arithmetic Expressions",
+    "content": "<p>Let&#39;s define a CFG for simple arithmetic expressions like &#39;1+2&#39; or &#39;3*4&#39;:</p>\n<ul>\n<li>Terminals: <code>+, *, 1, 2, 3, 4</code></li>\n<li>Non-terminals: <code>Expr</code></li>\n<li>Start Symbol: <code>Expr</code></li>\n<li>Production Rules:<ul>\n<li><code>Expr -&gt; Expr + Expr</code></li>\n<li><code>Expr -&gt; Expr * Expr</code></li>\n<li><code>Expr -&gt; 1 | 2 | 3 | 4</code></li>\n</ul>\n</li>\n</ul>\n<p>This grammar can generate expressions like &#39;1+2*3&#39;!</p>\n"
+  },
+  {
+    "title": "Pushdown Automata (PDA)",
+    "content": "<p>A PDA is like a DFA but with an added <em>stack</em>.</p>\n<p>The stack allows the PDA to remember information it has seen previously. This extra memory makes PDAs more powerful than DFAs.</p>\n<p>PDAs can recognize context-free languages, which DFAs cannot.</p>\n<p><strong>Example:</strong> A PDA can check if a string has balanced parentheses (like &#39;((()))&#39;).</p>\n"
+  },
+  {
+    "title": "Turing Machines: The Ultimate Computer",
+    "content": "<p>A Turing Machine (TM) is a theoretical model of computation that is considered the most powerful.</p>\n<p>It consists of:</p>\n<ul>\n<li>An <em>infinite tape</em> divided into cells, each holding a symbol.</li>\n<li>A <em>head</em> that can read and write symbols on the tape and move left or right.</li>\n<li>A <em>finite set of states</em> and transition rules.</li>\n</ul>\n<p>The TM can simulate any computer algorithm. Anything that a TM can compute, any other computer can compute (and vice versa). This is known as the Church-Turing Thesis.</p>\n"
+  },
+  {
+    "title": "Turing Machine Illustration",
+    "content": "<p>Imagine a TM as a person with a notepad (the tape) and a pencil. They can read what&#39;s on the notepad, write new things, erase things, and move to the next line or the previous line.  The person follows a set of instructions (the transition function) based on what they read and their current state.</p>\n<p>This simple model can perform incredibly complex computations!</p>\n"
+  },
+  {
+    "title": "Computability and Undecidability",
+    "content": "<p>A problem is <em>computable</em> if a Turing Machine can solve it (i.e., halt and give the correct answer for any input).</p>\n<p>However, some problems are <em>undecidable</em>. This means no Turing Machine can solve them in all cases.</p>\n<p><strong>Famous Undecidable Problem:</strong> The Halting Problem: Can we create a TM that, given any TM and its input, can determine whether the TM will eventually halt (stop) or run forever?  The answer is NO!</p>\n"
+  },
+  {
+    "title": "The Halting Problem: Why is it Undecidable?",
+    "content": "<p>The proof of the Halting Problem&#39;s undecidability is by contradiction.  Suppose there <em>is</em> a TM called <code>halts(M, input)</code> that correctly determines if TM <code>M</code> halts on input <code>input</code>.</p>\n<p>Now, we can construct a new TM called <code>trouble(M)</code>:</p>\n<pre><code>if halts(M, M) == TRUE then\n  loop forever\nelse\n  halt\n</code></pre>\n<p>What happens when we run <code>trouble(trouble)</code>?  It leads to a logical contradiction, proving that our initial assumption (that <code>halts(M, input)</code> exists) must be false.</p>\n"
+  },
+  {
+    "title": "Computational Complexity: How Efficient is the Solution?",
+    "content": "<p>Even if a problem is computable, it might take an impractically long time to solve.</p>\n<p><em>Computational complexity</em> deals with classifying problems based on how much time and resources (e.g., memory) are required to solve them.</p>\n<p>We often use <em>Big O notation</em> to describe the growth rate of these resources as the input size increases (e.g., O(n), O(n^2), O(2^n)).</p>\n"
+  },
+  {
+    "title": "P vs. NP: The Million-Dollar Question",
+    "content": "<p>One of the biggest unsolved problems in computer science is the P vs. NP problem.</p>\n<ul>\n<li><strong>P:</strong> The class of problems that can be <em>solved</em> in polynomial time (relatively fast).</li>\n<li><strong>NP:</strong> The class of problems where a solution can be <em>verified</em> in polynomial time (still relatively fast), even if finding the solution is hard.</li>\n</ul>\n<p>Most computer scientists believe that P ≠ NP, meaning there are problems that can be easily verified but not easily solved. Proving this one way or the other comes with a cool million-dollar prize! </p>\n"
+  },
+  {
+    "title": "Examples: P vs NP",
+    "content": "<ul>\n<li><strong>Problem in P:</strong> Sorting a list of numbers.  We have efficient algorithms (like Merge Sort) that run in O(n log n) time.</li>\n<li><strong>Problem in NP:</strong>  Sudoku.  It&#39;s hard to <em>solve</em> a Sudoku puzzle, but <em>checking</em> if a given solution is correct is easy (just make sure the rules are followed).</li>\n<li><strong>Traveling Salesperson Problem (TSP):</strong> Given a list of cities and the distances between them, find the shortest possible route that visits each city exactly once and returns to the origin city. Checking the route is simple, finding the <em>best</em> route may take exponential time.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why Does P vs. NP Matter?",
+    "content": "<p>If P = NP, it would have huge implications:</p>\n<ul>\n<li>Many important problems in cryptography, optimization, and artificial intelligence would have efficient solutions.</li>\n<li>Current encryption methods would become vulnerable.</li>\n</ul>\n<p>Because of these potential consequences, research into the P vs. NP problem is extremely active.</p>\n"
+  },
+  {
+    "title": "Summary of Concepts",
+    "content": "<p>Let&#39;s recap the key concepts:</p>\n<ul>\n<li><strong>Automata:</strong> Abstract machines that model computation.</li>\n<li><strong>Regular Languages:</strong> Languages recognized by DFAs and described by regular expressions.</li>\n<li><strong>Context-Free Grammars:</strong> Used to define the syntax of programming languages.</li>\n<li><strong>Turing Machines:</strong> The theoretical model of general-purpose computers.</li>\n<li><strong>Computability:</strong> Whether a problem can be solved by a TM.</li>\n<li><strong>Complexity:</strong> How much time and resources are required to solve a problem.</li>\n</ul>\n"
+  },
+  {
+    "title": "Further Exploration",
+    "content": "<p>This presentation provides only a brief introduction. To delve deeper into the Theory of Computation, consider exploring these topics:</p>\n<ul>\n<li>Formal Language Theory</li>\n<li>Compiler Design</li>\n<li>Cryptography</li>\n<li>Algorithm Design and Analysis</li>\n<li>Quantum Computing</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Thanks for listening! I hope you found this introduction to the Theory of Computation helpful. Feel free to ask questions!</p>\n"
+  }
+]

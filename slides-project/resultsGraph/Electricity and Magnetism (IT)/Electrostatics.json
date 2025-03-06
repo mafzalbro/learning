@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Static Electricity Introduction",
+      "caption": "Ever felt a tiny shock touching a doorknob? That's static electricity! It's all about electric charges. Positive and negative. Like charges repel, opposites attract. This imbalance creates static! Let's explore this fascinating world.",
+      "prompt": "An illustration of a hand reaching for a doorknob, with a small spark visible. The background is a slightly blurred living room. Focus on the hand and the spark."
+    },
+    {
+      "title": "Attraction and Repulsion",
+      "caption": "Imagine two balloons. Rub one on your hair, it becomes charged! Now, bring it close to another charged balloon. They push away! That's repulsion. But bring a charged balloon near paper bits? They stick! That's attraction. Simple, right?",
+      "prompt": "An image showing two balloons hanging from strings. One balloon is visibly repelling another, while a third balloon is attracting small pieces of paper. Arrows indicating the direction of force should be subtle."
+    },
+    {
+      "title": "Charging by Rubbing (Triboelectric Effect)",
+      "caption": "Why does rubbing create charge? Certain materials steal electrons when rubbed together. One becomes positively charged, the other negatively. This electron transfer is called the triboelectric effect. Hair and balloon: classic example!",
+      "prompt": "A close-up illustration of a balloon being rubbed against hair. Focus on the point of contact, showing a subtle visual representation of electrons transferring from the hair to the balloon."
+    },
+    {
+      "title": "Electrostatic Force (Coulomb's Law - Visual)",
+      "caption": "Electric charges exert a force on each other. How strong? It depends on the amount of charge and the distance between them. More charge, stronger force. Closer together, stronger force. It's Coulomb's Law in action!",
+      "prompt": "Two differently sized spheres, one positively charged (+), one negatively charged (-), separated by a distance. Arrows of varying thickness represent the force of attraction between them, with thicker arrows representing a stronger force. A ruler could be visually placed between the spheres to emphasize the distance."
+    },
+    {
+      "title": "Conductors and Insulators",
+      "caption": "Materials behave differently with charge. Conductors, like metals, allow charge to flow easily. Insulators, like rubber, resist charge flow. That's why wires are metal, but covered in plastic!",
+      "prompt": "A split image. On one side, a copper wire visibly conducting electricity (represented by flowing particles). On the other side, a rubber block hindering the flow of electricity."
+    },
+    {
+      "title": "Electrostatic Discharge (ESD)",
+      "caption": "That spark from the doorknob? It's Electrostatic Discharge! Rapid transfer of charge. Can be harmless, or damage sensitive electronics. So be careful around your computer components!",
+      "prompt": "A close-up shot of a fingertip approaching a microchip, with a visible spark jumping between them. The background is blurred to emphasize the spark."
+    },
+    {
+      "title": "Applications of Electrostatics: Electrostatic Painting",
+      "caption": "Electrostatics isn't just shocks! It has uses! Electrostatic painting charges paint droplets. The charged droplets are attracted to the oppositely charged object. Efficient, even coating!",
+      "prompt": "An image of a car body being spray-painted with an electrostatic sprayer. Visually represent the charged paint droplets being attracted to the car's surface, resulting in an even coat of paint."
+    },
+    {
+      "title": "Applications of Electrostatics: Laser Printers",
+      "caption": "Laser printers use electrostatics! A laser creates a charged image on a drum. Toner, also charged, sticks to the drum. The toner is then transferred to paper and fused with heat. Amazing technology!",
+      "prompt": "A simplified diagram of a laser printer, highlighting the key components: laser, drum, toner, and paper. Arrows show the path of the paper and the toner, with a subtle visual representation of the electrostatic attraction."
+    },
+    {
+      "title": "The Power of Electrostatics: Conclusion",
+      "caption": "Static electricity: more than just shocks! It's a fundamental force, shaping our world. From doorknobs to printers, electrostatics is everywhere. Keep exploring the wonders of physics!",
+      "prompt": "A montage of images from the previous prompts: the doorknob, the balloons, the paint sprayer, and the laser printer diagram. All subtly blended together to represent the diverse applications of electrostatics."
+    }
+  ]
+]

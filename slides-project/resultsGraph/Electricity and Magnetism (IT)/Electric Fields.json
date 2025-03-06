@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Introduction to Electric Fields",
+      "caption": "What is an electric field? It's an invisible force field created by electric charges. Think of it like gravity, but for charged objects. These fields dictate how charged particles interact.",
+      "prompt": "Abstract visualization of an electric field emanating from a single positive charge. Use vibrant colors to represent the strength of the field. Focus on a smooth gradient and radial symmetry.  Emphasis on the concept of invisible force."
+    },
+    {
+      "title": "Visualizing Electric Field Lines",
+      "caption": "We can visualize electric fields using electric field lines. These lines show the direction a positive test charge would move. Lines point away from positive charges and towards negative charges.",
+      "prompt": "Electric field lines emanating from a single positive charge and converging on a single negative charge.  Use arrows to indicate the direction of the field.  Maintain clear and distinct lines, avoiding overlap.  Subtle background gradient."
+    },
+    {
+      "title": "Electric Field Between Parallel Plates",
+      "caption": "A uniform electric field exists between two parallel plates with opposite charges. The field lines are parallel and evenly spaced, indicating a constant force.",
+      "prompt": "Two parallel plates, one with positive charge and the other with negative charge.  Electric field lines are drawn between the plates, showing a uniform field.  Ensure the lines are straight, parallel, and evenly spaced. Subtle color difference for each plate."
+    },
+    {
+      "title": "Electric Field Strength",
+      "caption": "The closer the field lines, the stronger the electric field. Think of it as a higher concentration of force. A sparser field means a weaker force.",
+      "prompt": "An area with varying density of electric field lines. In one region, the lines should be closely packed together. In another, they should be more spread out. Highlight the difference in density clearly. Consider using thicker lines where the density is higher."
+    },
+    {
+      "title": "Shielding Effect of Conductors",
+      "caption": "Conductors block electric fields. The charges within a conductor redistribute themselves to cancel out any external electric field inside.",
+      "prompt": "A metallic sphere placed within a uniform electric field (represented by parallel field lines). The field lines should bend around the sphere and not penetrate it. Show the redistribution of charges on the surface of the sphere (positive on one side, negative on the other).  Clean and simple depiction of the concept."
+    },
+    {
+      "title": "Electric Fields and Motion",
+      "caption": "Charged particles accelerate in electric fields! A positive charge moves in the direction of the field, while a negative charge moves against it. This is how electron beams work!",
+      "prompt": "A positive charge accelerating along an electric field line.  Use motion blur to indicate the speed of the charge.  The electric field line should be clearly visible. Add a subtle 'glow' effect to the charge particle."
+    },
+    {
+      "title": "Applications of Electric Fields",
+      "caption": "Electric fields power countless technologies! From televisions and computer screens to electric motors and particle accelerators, they're essential.",
+      "prompt": "Collage of diverse applications of electric fields: a simplified television screen showing electron beam deflection, a stylized electric motor, and a schematic of a particle accelerator. Focus on iconic visuals for each application."
+    },
+    {
+      "title": "Interaction of Electric Fields",
+      "caption": "When electric fields interact, the principle of superposition applies. The resulting field at any point is the vector sum of the individual fields.",
+      "prompt": "Two separate sets of electric field lines (from two different charges) overlapping and creating a more complex combined field. Show the vector addition of the fields at a specific point with an arrow. Use different colors for each initial field."
+    },
+    {
+      "title": "Conclusion: Electric Fields Around Us",
+      "caption": "Electric fields are fundamental to our universe, governing the interactions of charged particles and shaping the technology we rely on every day. They are everywhere!",
+      "prompt": "An artistic and slightly abstract image representing the ubiquity of electric fields.  Show subtle electrical sparks or currents weaving throughout a representation of everyday objects (like a city skyline or a landscape). Use a dynamic and energetic style."
+    }
+  ]
+]

@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "A Lonely Field",
+      "caption": "A young shepherd boy tends his flock. / Boredom sets in, and mischief sparks in his eyes. / He considers a foolish prank.",
+      "prompt": "A wide, panoramic view of a lush, green field dotted with fluffy white sheep. A young shepherd boy, perhaps 10-12 years old, sits on a small hill overlooking the flock. He has a bored expression on his face. The sky is blue with fluffy white clouds."
+    },
+    {
+      "title": "The Boy's False Alarm",
+      "caption": "\"Wolf! Wolf!\" he cries, his voice echoing through the valley. / Villagers rush to his aid, only to find no wolf. / A false alarm, a cruel joke.",
+      "prompt": "The same field, but now the shepherd boy is standing, cupping his hands around his mouth and shouting. The sheep are scattering slightly. In the distance, several figures are running towards the field."
+    },
+    {
+      "title": "Villagers Reacting",
+      "caption": "The villagers, angered by the deception, return to their work. / Trust begins to erode. / The boy laughs, oblivious to the damage he's caused.",
+      "prompt": "Close-up shot of several villagers, looking frustrated and angry. They are turning away from the field, shaking their heads. In the background, the shepherd boy is still laughing."
+    },
+    {
+      "title": "Repeated Lies",
+      "caption": "Again, the cry rings out: \"Wolf! Wolf!\" / This time, fewer villagers respond. / Doubt creeps in.",
+      "prompt": "The same field as before, but this time only a few villagers are running towards the field. The shepherd boy is shouting, but his expression is more strained."
+    },
+    {
+      "title": "The Real Wolf",
+      "caption": "A shadow falls upon the flock. / A real wolf emerges from the trees. / Fear grips the boy's heart.",
+      "prompt": "The field, now with a menacing, dark wolf emerging from the edge of a forest. The sheep are panicking, bunching together. The shepherd boy is staring in terror."
+    },
+    {
+      "title": "Desperate Plea",
+      "caption": "\"Wolf! Wolf!\" he screams, his voice filled with genuine terror. / But his cries fall on deaf ears. / No one comes to help.",
+      "prompt": "The shepherd boy is desperately shouting and waving his arms towards the distant village. The wolf is closer to the sheep. The background is blurry to emphasize the boy's isolation."
+    },
+    {
+      "title": "The Consequences",
+      "caption": "The wolf attacks the flock, scattering the sheep. / The boy is helpless, his lies having cost him dearly. / Regret washes over him.",
+      "prompt": "A chaotic scene: the wolf is among the sheep, some are fleeing. The shepherd boy is sitting on the ground, his head in his hands, looking defeated."
+    },
+    {
+      "title": "The Empty Field",
+      "caption": "The field is now empty, the sheep gone. / The boy stands alone, facing the consequences of his actions. / Honesty is the best policy. Always.",
+      "prompt": "A desolate image of the field, mostly empty except for a few scattered tufts of wool. The shepherd boy is standing in the center, looking remorseful. The sky is overcast."
+    },
+    {
+      "title": "Lesson Learned",
+      "caption": "A valuable lesson learned, but at a great price. / Lies may bring fleeting amusement, but they erode trust. / Speak the truth, even when it's difficult.",
+      "prompt": "A close-up on the shepherd boy's face, showing a mix of sadness and understanding. He looks directly at the viewer. The background is blurred and neutral."
+    },
+    {
+      "title": "The Shepherd Returns",
+      "caption": "The boy returns to the village. / A community's strength lies in truth and mutual respect. / Will he earn their trust back?",
+      "prompt": "The shepherd boy, looking downcast, is walking towards a village in the distance. The villagers are visible but blurred and indistinct, creating a sense of uncertainty."
+    }
+  ]
+]

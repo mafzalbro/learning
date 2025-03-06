@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Binary Search Tree Visualization",
+      "caption": "Imagine a neatly organized library. That's a Binary Search Tree! Data arranged in a hierarchy, making searches incredibly fast. We look, we compare, left if smaller, right if bigger. Efficient and elegant! This structure is at the heart of many data management systems, from search engines to databases. It's all about finding what you need, quickly.",
+      "prompt": "A visually appealing illustration of a balanced binary search tree. Use vibrant colors to represent nodes and connections. The root node should be prominently displayed, with subsequent nodes branching out left and right according to their values. No text labels on the nodes, just the visual structure."
+    },
+    {
+      "title": "Sorting Algorithms Race",
+      "caption": "Let's race some algorithms! Bubble sort, insertion sort, quicksort... Each vying for the fastest time to organize data. Bubble sort is like sorting a stack of plates by repeatedly comparing and swapping. Quicksort is like dividing and conquering - incredibly effective. Choosing the right algorithm is crucial for performance!",
+      "prompt": "A dynamic and colorful representation of various sorting algorithms (bubble sort, insertion sort, quicksort) sorting the same dataset simultaneously. Use bar graphs with different colors for each algorithm. Show the progress of each algorithm as it sorts the data, with speed indicators for each."
+    },
+    {
+      "title": "Linked List in Action",
+      "caption": "A chain of information, linked together. That's a linked list! Each element points to the next, creating a flexible data structure. Adding and removing elements is a breeze. Unlike arrays, linked lists can easily grow and shrink. They're ideal for dynamic data management.",
+      "prompt": "A visually engaging illustration of a linked list. Show each node containing a data element and a pointer to the next node. Use arrows to clearly indicate the connections between nodes. Highlight the head and tail nodes. Use a clean and modern design aesthetic."
+    },
+    {
+      "title": "Hash Table Lookup",
+      "caption": "Imagine a dictionary where you can find any word instantly. That's a Hash Table! Using a hash function, we quickly locate data. Look up a key, get the value immediately. Hash tables are used extensively in databases and caches. Speed and efficiency are its strengths!",
+      "prompt": "An abstract representation of a hash table. Show keys being hashed to indices within an array. Illustrate the concept of collisions and how they are resolved (e.g., using chaining). Use a visually appealing color palette to differentiate between keys, values, and indices."
+    },
+    {
+      "title": "Queue: First In, First Out",
+      "caption": "Like a line at a store, first in, first out. That's a queue! New elements join the back, and the oldest leave from the front. Simple, yet powerful. Queues are used in operating systems for scheduling tasks. Ensuring fairness and order.",
+      "prompt": "A clear and concise visual representation of a queue. Show elements entering from the rear and exiting from the front. Use arrows to indicate the direction of flow. Emphasize the FIFO (First-In, First-Out) principle. Avoid complex details."
+    },
+    {
+      "title": "Stack: Last In, First Out",
+      "caption": "Like a stack of plates, last in, first out. That's a stack! Elements are added and removed from the top. Stacks are used in compilers and calculators. They handle function calls and expression evaluation. A fundamental building block of computer science.",
+      "prompt": "A visually appealing representation of a stack. Show elements being pushed onto and popped off the top. Emphasize the LIFO (Last-In, First-Out) principle. Use a clear and simple design. Think of a literal stack of objects, but make it visually interesting."
+    },
+    {
+      "title": "Graph Traversal Algorithms",
+      "caption": "Exploring a network of connections. That's Graph Traversal! Depth-First Search dives deep, while Breadth-First Search explores layer by layer. Used in social networks and routing algorithms. Navigating complex relationships, one connection at a time.",
+      "prompt": "A visual representation of a graph with nodes and edges. Use different colors to highlight the nodes visited by Depth-First Search (DFS) and Breadth-First Search (BFS) simultaneously. Show the order in which the nodes are explored by each algorithm."
+    },
+    {
+      "title": "Dynamic Programming Optimization",
+      "caption": "Breaking down big problems into smaller ones. That's Dynamic Programming! Storing solutions to avoid recalculating. Optimizing efficiency and performance. Used in route planning, search engine rankings and so many more. ",
+      "prompt": "A abstract representation of how small problems can be broken into big one, and storing results in table and that table is used to solve next set of problems. Use different shapes like rectangular to demonstrate problem."
+    },
+    {
+      "title": "Recursion: The Self-Calling Function",
+      "caption": "A function that calls itself. That's Recursion! Elegant and powerful, but be careful to avoid infinite loops. Used in tree traversal and mathematical calculations. Solving problems by breaking them down into smaller, self-similar subproblems. Just like a set of Russian dolls.",
+      "prompt": "A visual representation of a recursive function call. Show a function calling itself multiple times, with each call representing a smaller subproblem. Use visual cues to indicate the call stack and the return values. Make it visually appealing and easy to understand."
+    }
+  ]
+]

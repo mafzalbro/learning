@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Electrical Properties of Materials",
+    "content": "<p>Welcome! This presentation will cover the fundamental electrical properties of materials. We will explore:</p>\n<ul>\n<li><strong>Conductivity:</strong> How well materials conduct electricity.</li>\n<li><strong>Resistivity:</strong> How much a material opposes the flow of electricity.</li>\n<li><strong>Dielectric Properties:</strong> How materials store electrical energy.</li>\n<li><strong>Semiconductors:</strong> The unique behavior of materials like silicon.</li>\n<li><strong>Applications:</strong> How these properties are used in everyday technology.</li>\n</ul>\n"
+  },
+  {
+    "title": "Electrical Conductivity",
+    "content": "<p>Conductivity (σ) is a measure of how easily electric current flows through a material.</p>\n<ul>\n<li><strong>High Conductivity:</strong> Materials like copper and silver are excellent conductors.</li>\n<li><strong>Low Conductivity:</strong> Materials like rubber and glass are insulators.</li>\n</ul>\n<p>Think of it like a pipe for water.  A wide pipe (high conductivity) allows water to flow easily, while a narrow pipe (low conductivity) restricts the flow.</p>\n"
+  },
+  {
+    "title": "Resistivity",
+    "content": "<p>Resistivity (ρ) is the opposite of conductivity. It measures how much a material resists the flow of electric current.</p>\n<ul>\n<li><strong>High Resistivity:</strong> Insulators have high resistivity.</li>\n<li><strong>Low Resistivity:</strong> Conductors have low resistivity.</li>\n</ul>\n<p>The relationship is simple: ρ = 1/σ</p>\n<p>So, if a material has high conductivity, it has low resistivity, and vice versa.</p>\n"
+  },
+  {
+    "title": "Factors Affecting Conductivity",
+    "content": "<p>Several factors influence a material&#39;s conductivity:</p>\n<ul>\n<li><strong>Temperature:</strong> Generally, conductivity decreases as temperature increases in metals. For semiconductors, conductivity often <em>increases</em> with temperature.</li>\n<li><strong>Impurities:</strong> Adding impurities to a material can change its conductivity (this is key for semiconductors).</li>\n<li><strong>Material Structure:</strong> The arrangement of atoms in a material affects how easily electrons can move.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conductors",
+    "content": "<p>Conductors are materials that allow electricity to flow easily. </p>\n<ul>\n<li><strong>Metals:</strong> Most metals are excellent conductors (copper, silver, gold, aluminum).</li>\n<li><strong>Electrons:</strong> In metals, electrons are loosely bound to atoms and can move freely.</li>\n<li><strong>Applications:</strong> Wiring, electrical circuits, power transmission.</li>\n</ul>\n"
+  },
+  {
+    "title": "Insulators",
+    "content": "<p>Insulators are materials that resist the flow of electricity.</p>\n<ul>\n<li><strong>Examples:</strong> Rubber, glass, plastic, ceramics.</li>\n<li><strong>Electrons:</strong> Electrons in insulators are tightly bound and cannot move easily.</li>\n<li><strong>Applications:</strong> Electrical insulation, preventing short circuits.</li>\n</ul>\n"
+  },
+  {
+    "title": "Semiconductors",
+    "content": "<p>Semiconductors have conductivity between conductors and insulators. Their conductivity can be controlled.</p>\n<ul>\n<li><strong>Examples:</strong> Silicon, germanium.</li>\n<li><strong>Doping:</strong> Adding impurities (doping) changes their conductivity significantly.</li>\n<li><strong>Applications:</strong> Transistors, integrated circuits, solar cells.</li>\n</ul>\n"
+  },
+  {
+    "title": "Semiconductor Doping - n-type",
+    "content": "<p>n-type doping: Adding impurities with <em>more</em> electrons.</p>\n<ul>\n<li><strong>Example:</strong> Adding phosphorus (5 valence electrons) to silicon (4 valence electrons).</li>\n<li><strong>Result:</strong> Extra electrons become mobile charge carriers, increasing conductivity.  The &#39;n&#39; stands for negative (charge carrier).</li>\n</ul>\n"
+  },
+  {
+    "title": "Semiconductor Doping - p-type",
+    "content": "<p>p-type doping: Adding impurities with <em>fewer</em> electrons.</p>\n<ul>\n<li><strong>Example:</strong> Adding boron (3 valence electrons) to silicon (4 valence electrons).</li>\n<li><strong>Result:</strong> Creates &#39;holes&#39; (missing electrons) which act as positive charge carriers, increasing conductivity. The &#39;p&#39; stands for positive (charge carrier).</li>\n</ul>\n"
+  },
+  {
+    "title": "The PN Junction",
+    "content": "<p>Joining n-type and p-type semiconductors creates a PN junction.</p>\n<ul>\n<li><strong>Key Component:</strong> This is the fundamental building block of many semiconductor devices.</li>\n<li><strong>Diode:</strong> A PN junction allows current to flow easily in one direction (forward bias) but blocks it in the other (reverse bias).</li>\n</ul>\n"
+  },
+  {
+    "title": "Dielectric Properties",
+    "content": "<p>Dielectric materials store electrical energy when placed in an electric field. They are insulators.</p>\n<ul>\n<li><strong>Capacitance:</strong>  The ability to store electrical energy.</li>\n<li><strong>Dielectric Constant (εᵣ):</strong> A measure of how well a material stores energy compared to a vacuum.  Higher εᵣ means more energy storage.</li>\n<li><strong>Applications:</strong> Capacitors, insulation in high-voltage applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "Polarization",
+    "content": "<p>When a dielectric material is placed in an electric field, it becomes polarized.</p>\n<ul>\n<li><strong>Polarization:</strong>  The alignment of molecules with the electric field.</li>\n<li><strong>Increased Capacitance:</strong> Polarization increases the ability of the material to store electrical energy.</li>\n</ul>\n"
+  },
+  {
+    "title": "Breakdown Voltage",
+    "content": "<p>Every dielectric material has a breakdown voltage.</p>\n<ul>\n<li><strong>Definition:</strong> The maximum electric field strength a material can withstand before it becomes conductive.</li>\n<li><strong>Importance:</strong> Exceeding the breakdown voltage can damage or destroy the material.</li>\n<li><strong>Analogy:</strong> Imagine stretching a rubber band. Stretch it too far, and it will snap.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electrical Properties - Wiring",
+    "content": "<p>Electrical wiring uses the properties of conductors and insulators.</p>\n<ul>\n<li><strong>Copper Wire:</strong> Highly conductive to carry electricity.</li>\n<li><strong>Plastic Insulation:</strong> Prevents short circuits and protects users.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electrical Properties - Transistors",
+    "content": "<p>Transistors, made from semiconductors, are the building blocks of modern electronics.</p>\n<ul>\n<li><strong>Switching and Amplification:</strong> Transistors can switch electrical signals or amplify them.</li>\n<li><strong>Computers and Smartphones:</strong> Found in almost all electronic devices.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electrical Properties - Capacitors",
+    "content": "<p>Capacitors store electrical energy using dielectric materials.</p>\n<ul>\n<li><strong>Energy Storage:</strong> Used in power supplies, filtering circuits, and memory devices.</li>\n<li><strong>Examples:</strong> From large capacitors in power lines to tiny capacitors in smartphones.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electrical Properties - Sensors",
+    "content": "<p>Various sensors utilize the electrical properties of materials.</p>\n<ul>\n<li><strong>Temperature Sensors (Thermistors):</strong> Resistance changes with temperature.</li>\n<li><strong>Light Sensors (Photodiodes):</strong> Conductivity changes with light intensity.</li>\n</ul>\n"
+  },
+  {
+    "title": "Superconductivity",
+    "content": "<p>Superconductivity is a phenomenon where certain materials exhibit zero electrical resistance below a critical temperature.</p>\n<ul>\n<li><strong>Zero Resistance:</strong> Current flows without any energy loss.</li>\n<li><strong>Applications:</strong> High-field magnets, lossless power transmission (still under development).</li>\n<li><strong>Challenges:</strong> Requires extremely low temperatures.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary of Key Properties",
+    "content": "<ul>\n<li><strong>Conductivity (σ):</strong> Ease of current flow.  High in conductors, low in insulators.</li>\n<li><strong>Resistivity (ρ):</strong> Resistance to current flow. Opposite of conductivity.</li>\n<li><strong>Semiconductors:</strong> Conductivity between conductors and insulators, controllable with doping.</li>\n<li><strong>Dielectric Constant (εᵣ):</strong> Ability to store electrical energy. High in dielectric materials.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Understanding the electrical properties of materials is crucial for designing and developing a wide range of technologies. From simple electrical wiring to advanced semiconductors, these properties enable the devices we use every day. Further exploration into this area continues to drive innovation.</p>\n"
+  }
+]

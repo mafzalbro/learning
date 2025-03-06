@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Dominant Element: Red Apple",
+      "caption": "Visual hierarchy guides the eye.  First, what stands out?  Color!  A bold color commands attention. Let's explore how we use dominance. Think of it as a visual spotlight. It immediately draws the viewer in.  Creating a clear focal point is key.",
+      "prompt": "A photographic image of a still life arrangement.  In the arrangement is a collection of green pears.  All pears are identical in size and shape and a similar shade of green. Positioned slightly in front of and offset to one side of the pears is a single, bright red apple. The apple should be perfectly formed and highly detailed. The background should be a plain, light grey surface. Focus should be sharp, with a shallow depth of field to further emphasize the apple. Lighting should be soft and diffuse to avoid harsh shadows."
+    },
+    {
+      "title": "Size & Scale: A Tiny Figure",
+      "caption": "Size matters! Big things grab attention.  Scale creates drama and emphasizes importance.  A small element against a vast backdrop... highlights its fragility.  Consider how scale can impact the message. It's about perspective and the story you tell.",
+      "prompt": "A wide, cinematic landscape shot of a massive, snow-covered mountain range under a dramatic, cloudy sky. In the very bottom center of the frame, almost invisible, is a single, tiny figure of a hiker wearing bright red clothing. The figure should be facing away from the camera, looking out at the mountains. The overall image should evoke a sense of awe and the insignificance of humanity compared to nature."
+    },
+    {
+      "title": "Contrast: Light & Shadow",
+      "caption": "Contrast is your friend! Light versus dark creates tension. It guides the eye and emphasizes form. Highlight key elements with bright light. Subtly obscure others in shadow. Use contrast to create depth and interest.",
+      "prompt": "A high-contrast black and white photograph of a single, intricately carved human skull sitting on a velvet cushion. The skull should be dramatically lit from the side, creating strong shadows and highlights that emphasize its bone structure and texture. The background should be completely black. Focus should be razor sharp, with extreme detail."
+    },
+    {
+      "title": "Typography: Bold Headline",
+      "caption": "Typography is visual!  A bold font screams 'Read Me!'  Hierarchy in text guides reading order. Headlines grab attention first. Subheadings provide context. Body text fills in the details.",
+      "prompt": "A clean, minimalist graphic design layout. At the top of the layout is a large, bold headline in a sans-serif font that reads: 'VISUAL HIERARCHY'. Below the headline is a smaller subheading in a different, more subtle font that reads: 'Guiding the Reader's Eye'. Beneath the subheading is placeholder text (Lorem Ipsum) in a light weight font. The background should be a solid white."
+    },
+    {
+      "title": "Color: Isolation",
+      "caption": "Isolation amplifies!  A single element stands out. Surrounded by neutrality.  It's a visual shout. Use isolation sparingly for maximum impact. Let the eye naturally gravitate to the focus.",
+      "prompt": "A photographic image of a vast, empty desert landscape with sand dunes stretching to the horizon. The sand is a neutral beige color. In the very center of the frame is a single, vibrant blue flower growing out of the sand. The flower should be highly detailed and sharply focused. The sky should be a clear, bright blue."
+    },
+    {
+      "title": "Movement: Arrow Pointing",
+      "caption": "Movement directs the eye!  Lines guide the gaze. Arrows point the way. Visual cues create a pathway.  Lead the viewer through the design.",
+      "prompt": "A simple graphic illustration. The background is a light grey. In the center of the image is a series of abstract shapes arranged in a circular pattern. A large, prominent arrow points directly towards the center of the circle. The arrow should be a bright, contrasting color like orange. The overall image should be clean and modern."
+    },
+    {
+      "title": "Framing: Window View",
+      "caption": "Framing creates focus! A frame isolates the subject.  It draws the eye inward.  A window on the world. Use frames to enhance the story.",
+      "prompt": "A photographic image taken from inside a dark, rustic cabin, looking out through a large, rectangular window. The view through the window is of a vibrant, green forest bathed in sunlight. The window frame itself should be slightly out of focus, emphasizing the contrast between the dark interior and the bright exterior. The focus should be sharp on the forest scene visible through the window."
+    },
+    {
+      "title": "Depth of Field: Blurred Background",
+      "caption": "Blur for emphasis!  A shallow depth of field isolates. The foreground pops, the background fades. It directs attention where it's needed.  Use focus to highlight the key element.",
+      "prompt": "A close-up photographic image of a single, intricately designed antique key resting on a wooden table. The key should be perfectly sharp and detailed. The wooden table in the background should be heavily blurred, creating a shallow depth of field. The lighting should be warm and soft, highlighting the textures of the key."
+    },
+    {
+      "title": "Texture: Smooth vs. Rough",
+      "caption": "Texture adds dimension!  Smooth contrasts with rough.  It appeals to the senses. Create visual interest by combining textures.  The contrast draws the eye.",
+      "prompt": "A still life image featuring two objects: a perfectly smooth, polished silver sphere and a rough, textured piece of natural rock. The objects should be placed next to each other on a plain white surface. The lighting should be soft and even, highlighting the contrasting textures of the two objects. Focus should be sharp on both objects."
+    }
+  ]
+]

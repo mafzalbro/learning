@@ -1,0 +1,110 @@
+[
+  {
+    "title": "The Internet and World Wide Web",
+    "content": "<p>Welcome! This presentation will cover the fundamental concepts of the Internet and the World Wide Web. We will explore their history, technologies, and how they work together to connect the world.  Get ready to understand the backbone of modern communication and information!</p>\n"
+  },
+  {
+    "title": "What is the Internet?",
+    "content": "<p>The Internet is a <em>massive network of networks</em>.  Think of it like a superhighway system connecting computers all over the globe. It&#39;s the <em>infrastructure</em> that allows devices to communicate with each other using a common set of rules (protocols).</p>\n"
+  },
+  {
+    "title": "What is the World Wide Web (WWW)?",
+    "content": "<p>The World Wide Web (WWW) is a <em>collection of information</em> accessed via the Internet.  It&#39;s like a collection of websites, images, videos, and other content.  </p>\n<p>Key components: </p>\n<ul>\n<li><strong>Webpages:</strong> Documents containing text, images, and links.</li>\n<li><strong>Websites:</strong> Collections of related webpages.</li>\n<li><strong>Web Browsers:</strong> Software (like Chrome, Firefox, Safari) used to view webpages.</li>\n</ul>\n"
+  },
+  {
+    "title": "Internet vs. World Wide Web",
+    "content": "<p>Think of it this way:</p>\n<ul>\n<li><strong>Internet:</strong> The <em>road network</em> that connects everything.</li>\n<li><strong>WWW:</strong> The <em>cars and trucks</em> that transport information on that network.</li>\n</ul>\n<p>The Internet is the foundation, and the WWW is just one of the many things that use it (email, file sharing, online games, etc.).</p>\n"
+  },
+  {
+    "title": "A Brief History of the Internet",
+    "content": "<ul>\n<li><strong>1960s:</strong>  Started as ARPANET, a project by the U.S. Department of Defense for research.</li>\n<li><strong>1970s:</strong>  TCP/IP protocol developed, enabling different networks to communicate.</li>\n<li><strong>1980s:</strong>  Internet expands beyond research institutions.</li>\n<li><strong>1990s:</strong>  The World Wide Web is born, making the Internet user-friendly.</li>\n<li><strong>Today:</strong>  Billions of devices connected, transforming communication and commerce.</li>\n</ul>\n"
+  },
+  {
+    "title": "How Does the Internet Work? (Part 1)",
+    "content": "<p>Data travels across the Internet in small chunks called <em>packets</em>. Each packet contains: </p>\n<ul>\n<li><strong>Data:</strong> The actual information being sent.</li>\n<li><strong>Source Address:</strong> Where the packet is coming from.</li>\n<li><strong>Destination Address:</strong> Where the packet is going.</li>\n</ul>\n"
+  },
+  {
+    "title": "How Does the Internet Work? (Part 2)",
+    "content": "<p>Packets travel through a network of <em>routers</em>.  Routers act like traffic controllers, directing packets to the correct destination.</p>\n<p>Think of sending a letter.  The post office sorts and routes the letter to the correct address.  Routers do the same for data packets.</p>\n"
+  },
+  {
+    "title": "IP Addresses: The Internet's Postal System",
+    "content": "<p>Every device connected to the Internet has a unique IP (Internet Protocol) address.  This is like your home address.</p>\n<ul>\n<li><strong>IPv4:</strong>  Older system, uses numbers like 192.168.1.1.</li>\n<li><strong>IPv6:</strong>  Newer system, uses hexadecimal numbers and allows for more addresses (e.g., 2001:db8::1).</li>\n</ul>\n"
+  },
+  {
+    "title": "Domain Names: Making the Internet User-Friendly",
+    "content": "<p>IP addresses are hard to remember! That&#39;s why we use domain names like <em>google.com</em> or <em>example.org</em>.</p>\n<p>A DNS (Domain Name System) server translates domain names into IP addresses.  It&#39;s like a phone book for the Internet.</p>\n"
+  },
+  {
+    "title": "The Role of Protocols",
+    "content": "<p>Protocols are <em>rules</em> that govern how devices communicate on the Internet.  They ensure that everyone speaks the same language.</p>\n<p>Examples:</p>\n<ul>\n<li><strong>TCP/IP:</strong>  The foundation of the Internet.</li>\n<li><strong>HTTP:</strong>  Used for web browsing.</li>\n<li><strong>SMTP:</strong>  Used for sending email.</li>\n<li><strong>FTP:</strong>  Used for transferring files.</li>\n</ul>\n"
+  },
+  {
+    "title": "Web Browsers: Your Window to the Web",
+    "content": "<p>Web browsers are software applications that allow you to view webpages. </p>\n<p>Popular Browsers: </p>\n<ul>\n<li>Chrome</li>\n<li>Firefox</li>\n<li>Safari</li>\n<li>Edge</li>\n</ul>\n<p>Browsers interpret HTML, CSS, and JavaScript to display webpages correctly.</p>\n"
+  },
+  {
+    "title": "HTML: The Structure of Webpages",
+    "content": "<p>HTML (HyperText Markup Language) is the <em>backbone</em> of every webpage. It defines the structure and content of the page.</p>\n<p>HTML uses <em>tags</em> to define elements like headings, paragraphs, images, and links.</p>\n<p>Example:\n<code>&lt;p&gt;This is a paragraph of text.&lt;/p&gt;</code></p>\n"
+  },
+  {
+    "title": "CSS: Styling Webpages",
+    "content": "<p>CSS (Cascading Style Sheets) controls the <em>appearance</em> of webpages.  It defines things like colors, fonts, layout, and spacing.</p>\n<p>CSS separates the content (HTML) from the presentation (CSS). This makes it easier to maintain and update websites.</p>\n"
+  },
+  {
+    "title": "JavaScript: Making Webpages Interactive",
+    "content": "<p>JavaScript is a programming language that allows you to add <em>interactivity</em> to webpages. </p>\n<p>With JavaScript, you can create animations, handle user input, and dynamically update content without reloading the page.</p>\n"
+  },
+  {
+    "title": "Web Servers: Hosting Websites",
+    "content": "<p>Web servers are computers that <em>host</em> websites. When you visit a website, your browser sends a request to the web server, which then sends back the requested webpage.</p>\n<p>Common Web Servers: </p>\n<ul>\n<li>Apache</li>\n<li>Nginx</li>\n<li>Microsoft IIS</li>\n</ul>\n"
+  },
+  {
+    "title": "URLs: Locating Resources on the Web",
+    "content": "<p>A URL (Uniform Resource Locator) is the <em>address</em> of a resource on the web.</p>\n<p>Example: <code>https://www.example.com/about.html</code></p>\n<ul>\n<li><strong>https://:</strong> The protocol (HTTP Secure).</li>\n<li><strong><a href=\"http://www.example.com\">www.example.com</a>:</strong> The domain name.</li>\n<li><strong>/about.html:</strong> The path to a specific file or resource.</li>\n</ul>\n"
+  },
+  {
+    "title": "Search Engines: Finding Information",
+    "content": "<p>Search engines like Google, Bing, and DuckDuckGo help you find information on the vast expanse of the web. They use complex algorithms to index and rank webpages based on relevance to your search query.</p>\n"
+  },
+  {
+    "title": "The Cloud: Internet-Based Computing",
+    "content": "<p>Cloud computing allows you to access computing resources (servers, storage, software) over the Internet. It&#39;s like renting computing power instead of owning it.</p>\n<p>Examples: </p>\n<ul>\n<li>Google Drive</li>\n<li>Dropbox</li>\n<li>Amazon Web Services (AWS)</li>\n</ul>\n"
+  },
+  {
+    "title": "Social Media: Connecting People",
+    "content": "<p>Social media platforms (Facebook, Twitter, Instagram, etc.) use the Internet to connect people, share information, and build communities.</p>\n"
+  },
+  {
+    "title": "E-commerce: Online Shopping",
+    "content": "<p>E-commerce (electronic commerce) involves buying and selling goods and services over the Internet. Online stores like Amazon and eBay have revolutionized the way people shop.</p>\n"
+  },
+  {
+    "title": "The Future of the Internet",
+    "content": "<p>The Internet is constantly evolving.  Emerging trends include:</p>\n<ul>\n<li><strong>Internet of Things (IoT):</strong>  Connecting everyday objects to the Internet.</li>\n<li><strong>5G Technology:</strong>  Faster mobile internet speeds.</li>\n<li><strong>Artificial Intelligence (AI):</strong> Enhancing online experiences.</li>\n</ul>\n"
+  },
+  {
+    "title": "Challenges and Considerations",
+    "content": "<p>While powerful, the internet also presents challenges:</p>\n<ul>\n<li><strong>Security Risks:</strong>  Malware, hacking, data breaches.</li>\n<li><strong>Privacy Concerns:</strong> Data collection and surveillance.</li>\n<li><strong>Misinformation:</strong>  Fake news and propaganda.</li>\n<li><strong>Digital Divide:</strong> Unequal access to the internet.</li>\n</ul>\n"
+  },
+  {
+    "title": "Keeping Safe Online",
+    "content": "<p>Protecting yourself online is critical. Always use strong passwords, be cautious about clicking suspicious links, keep your software updated, and be aware of phishing scams.</p>\n"
+  },
+  {
+    "title": "The Internet and Education",
+    "content": "<p>The Internet has transformed education by providing access to vast amounts of information, online courses, and virtual learning environments. Learn anywhere, anytime!</p>\n"
+  },
+  {
+    "title": "The Internet and Communication",
+    "content": "<p>The Internet has made communication faster, easier, and more accessible than ever before. From email to video conferencing, the possibilities are endless.</p>\n"
+  },
+  {
+    "title": "Summary: Key Takeaways",
+    "content": "<ul>\n<li>The Internet is the <em>infrastructure</em> that connects devices.</li>\n<li>The WWW is the <em>collection of information</em> accessed via the Internet.</li>\n<li>Protocols are <em>rules</em> that govern communication.</li>\n<li>IP addresses and domain names are used to <em>locate resources</em>.</li>\n<li>The Internet is constantly <em>evolving</em> and presents both opportunities and challenges.</li>\n</ul>\n"
+  },
+  {
+    "title": "Q&A",
+    "content": "<p>Thank you for your time!  Are there any questions?</p>\n"
+  }
+]

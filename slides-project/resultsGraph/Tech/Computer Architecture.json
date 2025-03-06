@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Von Neumann Bottleneck",
+      "caption": "Welcome to Computer Architecture basics! Ever wondered why computers aren't infinitely fast?  The Von Neumann architecture, the backbone of most computers, has a bottleneck. Data and instructions travel through the same pathway.  This shared path limits the speed at which information can be processed.  Imagine a single-lane bridge for all traffic!  Newer architectures are exploring ways to alleviate this bottleneck.  Think parallel processing and specialized memory systems.  Stay tuned to learn more!",
+      "prompt": "A stylized, semi-abstract image of a computer motherboard with a very narrow, congested pathway highlighted in red, representing the bottleneck. The rest of the motherboard should be in cool blues and greens.  Emphasis on the contrast between the narrow pathway and the surrounding components.  Avoid text or brand names."
+    },
+    {
+      "title": "CPU: The Brain of the Computer",
+      "caption": "The CPU, or Central Processing Unit, is the brain of your computer. It fetches instructions from memory. Decodes those instructions. And executes them, performing calculations and controlling other components.  Faster CPUs mean faster processing. Key factors include clock speed and number of cores. Cores allow the CPU to handle multiple tasks simultaneously.  Think of it as multiple brains working together!  That's the CPU in a nutshell.",
+      "prompt": "An artistic representation of a CPU chip. Focus on a clean, modern design with a stylized circuit board pattern subtly visible. Use metallic textures and subtle glowing effects to emphasize its importance. Avoid making it look like a specific brand."
+    },
+    {
+      "title": "Memory Hierarchy Explained",
+      "caption": "Data storage is organized in a hierarchy.  At the top is cache memory, the fastest and smallest. Then RAM, the main memory, for active programs. Hard drives and SSDs provide long-term storage. Moving down the hierarchy means slower access but greater capacity. It's a trade-off between speed and size. Think of it like a layered filing system.  Each level serves a different purpose.",
+      "prompt": "A visual depiction of the memory hierarchy.  Use stacked layers, representing cache, RAM, SSD/HDD, and cloud storage.  The top layer (cache) should be small and vibrant, gradually increasing in size and decreasing in color intensity as you move down to the cloud. Use simple icons to represent data storage at each level."
+    },
+    {
+      "title": "Input/Output Devices",
+      "caption": "Computers interact with the world through Input/Output (I/O) devices. Input devices, like keyboards and mice, feed data into the computer. Output devices, like monitors and printers, display results.  The CPU communicates with these devices through I/O controllers. Faster I/O means faster data transfer. Think of it as the computer's senses and voice!",
+      "prompt": "A visually appealing arrangement of common I/O devices: keyboard, mouse, monitor, printer, speaker. Connect them to a central computer unit with stylized data streams represented by light rays. Maintain a clean and modern aesthetic."
+    },
+    {
+      "title": "The Role of the Motherboard",
+      "caption": "The motherboard is the backbone of the computer.  It connects all the components. CPU, RAM, storage, and I/O devices plug directly into it.  It provides power and communication pathways.  Different motherboard designs support different CPUs and memory types. Choosing the right motherboard is crucial for a stable system.  It's like the nervous system of the computer!",
+      "prompt": "A detailed, but not overly complex, illustration of a motherboard. Focus on highlighting the different slots and connectors for CPU, RAM, and expansion cards. Use color-coding to differentiate the various sections. Avoid showing any specific brand or model."
+    },
+    {
+      "title": "Understanding Clock Speed",
+      "caption": "Clock speed, measured in Hertz, determines how many instructions a CPU can execute per second.  A higher clock speed generally means faster performance. But it's not the only factor. Architecture and number of cores also matter. It's important to balance clock speed with other components.  Think of it as the heartbeat of the CPU.  Faster isn't always better, but it's important.",
+      "prompt": "A dynamic visualization of a clock signal pulsing through a circuit board. Use a sinusoidal wave pattern superimposed on the circuitry, with bright highlights to emphasize the frequency. Keep it abstract and avoid representing an actual clock."
+    },
+    {
+      "title": "The Power Supply Unit (PSU)",
+      "caption": "The Power Supply Unit, or PSU, provides the electrical power for the computer. It converts AC power from the wall outlet to DC power for the components. A good PSU ensures stable and reliable power delivery. Insufficient power can lead to system crashes. It's the unsung hero that keeps everything running. Think of it as the lifeblood of the computer!",
+      "prompt": "A clean and slightly abstract representation of a PSU unit, emphasizing the power cables and connections. Use a color scheme that combines gray, black, and subtle glowing effects to represent power flow. Avoid showing any specific brand or model."
+    },
+    {
+      "title": "Cooling Systems: Keeping it Cool",
+      "caption": "CPUs generate a lot of heat. Cooling systems prevent overheating and ensure stability.  Air coolers use fans to dissipate heat. Liquid coolers use water blocks and radiators for more efficient cooling.  Proper cooling is essential for optimal performance. Overheating can damage components.  Think of it as the computer's way of staying calm under pressure!",
+      "prompt": "A split-screen image showing an air cooler on one side and a liquid cooler on the other. Use visual cues to emphasize the cooling process: airflow arrows for the air cooler, and water flow lines for the liquid cooler. Focus on creating a visually appealing and informative comparison."
+    },
+    {
+      "title": "Parallel Processing: Doing More at Once",
+      "caption": "Parallel processing allows computers to perform multiple tasks simultaneously. Instead of sequentially processing instructions, it divides the work across multiple cores. This dramatically improves performance for complex tasks. Modern CPUs and GPUs utilize parallel processing extensively. Think of it as multiple workers collaborating on a single project. Efficiency through teamwork!",
+      "prompt": "A stylized abstract image representing parallel processing. Imagine multiple lines or pathways converging on a central point, each carrying data. Use different colors and visual effects to represent simultaneous operations. The overall effect should be one of dynamic and coordinated activity."
+    }
+  ]
+]

@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Introduction to Electric Current",
+      "caption": "Electricity powers our modern world! But what *is* it? Imagine tiny particles called electrons flowing through a wire. That's electric current! It's the movement of charge, like water flowing through a pipe. The more electrons that flow, the stronger the current.",
+      "prompt": "An abstract, visually appealing representation of electrons moving through a metallic wire. The electrons should be depicted as small, bright particles flowing in a consistent direction. The wire should have a metallic texture and a slight glow to represent conductivity. Avoid excessive detail and keep it clean and modern."
+    },
+    {
+      "title": "Analogy: Water Flow and Current",
+      "caption": "Think of current like water flowing through a pipe. The faster the water flows, the stronger the current. We measure current in Amperes, or 'amps' for short. One amp means a lot of electrons are moving past a point every second!",
+      "prompt": "A split-screen image. One side shows water flowing through a pipe, clearly demonstrating flow rate. The other side shows electrons moving through a wire, mirroring the water flow. Use visual cues to connect the flow rate of water to the amount of current flow of electrons (e.g., thickness of arrow representing flow)."
+    },
+    {
+      "title": "Introducing Resistance",
+      "caption": "Now, imagine squeezing that water pipe. It becomes harder for the water to flow. That's resistance! Resistance opposes the flow of electric current. Some materials resist electricity more than others.",
+      "prompt": "An image of a water pipe being squeezed or constricted. The water flow is clearly diminished after the constriction. Use color coding to visually represent the pressure or difficulty of the water flowing through the constricted area."
+    },
+    {
+      "title": "Materials and Resistance",
+      "caption": "Copper wire is a good conductor, offering low resistance. Rubber, on the other hand, is an insulator with very high resistance. Insulators protect us from electric shock by preventing current from flowing through our bodies.",
+      "prompt": "A split-screen image. One side shows a bright, shiny copper wire with electrons easily flowing through it. The other side shows a rubber glove or a block of rubber with very few electrons able to pass through. Highlight the different electron flow patterns visually."
+    },
+    {
+      "title": "Resistance in a Circuit",
+      "caption": "Resistors are electronic components that add resistance to a circuit. They control the flow of current, preventing components from overloading and burning out. Think of them as valves that regulate the flow of electricity.",
+      "prompt": "A simple circuit diagram featuring a battery, a light bulb, and a resistor. The resistor should be visually distinct and clearly labeled. Use arrows to indicate the direction of current flow. The light bulb should be glowing but not overly bright."
+    },
+    {
+      "title": "Visualizing High vs. Low Resistance",
+      "caption": "High resistance means less current flows. Low resistance means more current flows. It's like a crowded hallway versus an empty one! People can move much faster through the empty hallway.",
+      "prompt": "A split-screen image. On one side, a narrow, crowded hallway with people struggling to move through. On the other side, a wide, empty hallway with people walking freely and quickly. Use visual cues to connect the crowd density to resistance and movement speed to current flow."
+    },
+    {
+      "title": "Ohm's Law: The Relationship",
+      "caption": "Current, voltage, and resistance are all connected by Ohm's Law: Voltage equals Current times Resistance (V=IR). Increase the resistance, and for the same voltage, the current decreases. It's a fundamental rule!",
+      "prompt": "A visually appealing representation of Ohm's Law (V=IR). Use symbols (V, I, R) and arrows to show the relationship between voltage, current, and resistance. Consider using a balanced scale metaphor where Voltage is balanced by the product of Current and Resistance."
+    },
+    {
+      "title": "Resistance and Heat",
+      "caption": "When current flows through a resistance, some energy is converted into heat. This is why your phone gets warm when charging! The higher the resistance, the more heat is generated.",
+      "prompt": "An image of a resistor with heat radiating from it. The heat should be visually represented using red or orange colors. The resistor should be a typical electronic component and the surroundings should be dark to emphasize the heat effect."
+    },
+    {
+      "title": "Applying Current and Resistance",
+      "caption": "Understanding current and resistance is crucial for designing safe and efficient electrical circuits. From powering your phone to controlling complex machinery, these concepts are at the heart of modern technology!",
+      "prompt": "A collage showing various applications of electrical circuits, such as a smartphone charging, a lightbulb illuminating, and a complex circuit board. Each application should be depicted in a clean and modern style. The overall image should convey the ubiquitous nature of electrical circuits in modern technology."
+    }
+  ]
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Human-Computer Interaction: Bridging the Gap",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is HCI?</strong></li>\n<li><strong>Why is HCI important?</strong></li>\n<li><strong>Key Principles of Good Design</strong></li>\n<li><strong>Common HCI Techniques</strong></li>\n<li><strong>The Future of HCI</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "What is Human-Computer Interaction (HCI)?",
+    "content": "<p>HCI is the study of how people interact with computers and the design of computer systems that are easy and enjoyable to use.</p>\n<p>It&#39;s about making technology work <em>for</em> us, not against us.</p>\n<p>Think about:</p>\n<ul>\n<li>Your smartphone</li>\n<li>Your computer</li>\n<li>A website you use</li>\n</ul>\n<p>HCI aims to improve these interactions.</p>\n"
+  },
+  {
+    "title": "Why is HCI Important?",
+    "content": "<ul>\n<li><strong>Usability:</strong>  Easy to learn and use.</li>\n<li><strong>Efficiency:</strong>  Complete tasks quickly.</li>\n<li><strong>Effectiveness:</strong> Achieve desired goals.</li>\n<li><strong>Safety:</strong> Prevent errors and protect users.</li>\n<li><strong>Satisfaction:</strong> Enjoyable and pleasant experience.</li>\n<li><strong>Accessibility:</strong> Designed for all users, including those with disabilities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Principles of Good Design: Visibility",
+    "content": "<p>Important elements should be visible. Users should easily see what actions are possible and how to perform them. </p>\n<ul>\n<li>Are the buttons on the screen clear?</li>\n<li>Can you easily find the search bar?</li>\n<li>Is it obvious how to save a file?</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Principles of Good Design: Feedback",
+    "content": "<p>The system should provide feedback to the user, indicating what action has been taken and the result. </p>\n<ul>\n<li>When you click a button, does it light up?</li>\n<li>Does the system tell you when a file is saved successfully?</li>\n<li>Does it warn you if you are about to delete something important?</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Principles of Good Design: Constraints",
+    "content": "<p>Limit the ways a product can be used to prevent errors. Guide the user towards the correct actions.</p>\n<ul>\n<li>A form might only accept numbers in a phone number field.</li>\n<li>A door can only be opened in one direction.</li>\n<li>Grayed-out buttons indicate unavailable options.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Principles of Good Design: Consistency",
+    "content": "<p>Use consistent design elements and language throughout the system. This makes it easier for users to learn and remember how to use the system.</p>\n<ul>\n<li>Use the same button style for similar actions.</li>\n<li>Use consistent terminology throughout the interface.</li>\n<li>Maintain a similar layout across different pages.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Principles of Good Design: Affordance",
+    "content": "<p>The design of an object should suggest its function.  What does it <em>afford</em> the user?</p>\n<ul>\n<li>A door handle suggests pulling or pushing.</li>\n<li>A button suggests clicking.</li>\n<li>A scroll bar suggests scrolling.</li>\n</ul>\n"
+  },
+  {
+    "title": "Mental Models",
+    "content": "<p>Users develop mental models of how things work.  Good HCI design aligns with these existing mental models.</p>\n<ul>\n<li>If a user thinks of files as being stored in folders, the interface should reflect that.</li>\n<li>Don&#39;t introduce unexpected or confusing behaviors.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common HCI Techniques: User Research",
+    "content": "<p>Understanding your users is crucial!  Techniques include:</p>\n<ul>\n<li><strong>Interviews:</strong>  Talk to users about their needs and experiences.</li>\n<li><strong>Surveys:</strong>  Collect data from a large number of users.</li>\n<li><strong>Usability Testing:</strong> Observe users as they interact with a system.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common HCI Techniques: Prototyping",
+    "content": "<p>Create early versions of the interface to test and refine the design.  This can be low-fidelity (paper prototypes) or high-fidelity (interactive prototypes).</p>\n<ul>\n<li>Quickly iterate and gather feedback.</li>\n<li>Identify potential usability problems early on.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common HCI Techniques: Usability Testing",
+    "content": "<p>Observe real users as they attempt to complete tasks using the interface.  Identify areas of confusion and frustration.</p>\n<ul>\n<li>Measure task completion time and error rates.</li>\n<li>Gather qualitative feedback from users.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common HCI Techniques: Heuristic Evaluation",
+    "content": "<p>Experts evaluate the interface based on established usability principles (heuristics).  Identifies potential usability problems.</p>\n<ul>\n<li>Cost-effective way to identify issues.</li>\n<li>Can be used early in the design process.</li>\n</ul>\n"
+  },
+  {
+    "title": "Accessibility: Designing for Everyone",
+    "content": "<p>Consider users with disabilities.  Follow accessibility guidelines (WCAG).</p>\n<ul>\n<li>Provide alternative text for images.</li>\n<li>Use sufficient color contrast.</li>\n<li>Ensure keyboard navigability.</li>\n<li>Support screen readers.</li>\n</ul>\n"
+  },
+  {
+    "title": "Mobile HCI",
+    "content": "<p>Designing for mobile devices presents unique challenges:</p>\n<ul>\n<li>Small screen size</li>\n<li>Touchscreen interaction</li>\n<li>Limited bandwidth</li>\n<li>Context-aware design (location, time of day)</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of HCI: Voice Interfaces",
+    "content": "<p>Interacting with computers using voice commands.  Examples: Siri, Alexa, Google Assistant.</p>\n<ul>\n<li>Hands-free interaction</li>\n<li>Natural language processing</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of HCI: Augmented Reality (AR)",
+    "content": "<p>Overlaying digital information onto the real world.</p>\n<ul>\n<li>Enhancing the user&#39;s perception of reality</li>\n<li>Applications in gaming, education, and healthcare</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of HCI: Virtual Reality (VR)",
+    "content": "<p>Creating immersive, simulated environments.</p>\n<ul>\n<li>Completely separates the user from the real world</li>\n<li>Applications in gaming, training, and entertainment</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of HCI: Brain-Computer Interfaces (BCIs)",
+    "content": "<p>Direct communication between the brain and a computer.  Still in early stages of development.</p>\n<ul>\n<li>Potential applications for assistive technology and gaming</li>\n</ul>\n"
+  },
+  {
+    "title": "Ethical Considerations in HCI",
+    "content": "<p>As HCI becomes more powerful, ethical considerations become paramount:</p>\n<ul>\n<li><strong>Privacy:</strong> How is user data being collected and used?</li>\n<li><strong>Bias:</strong> Are algorithms perpetuating existing biases?</li>\n<li><strong>Accessibility:</strong> Is technology accessible to everyone?</li>\n<li><strong>Dependence:</strong> Are we becoming overly reliant on technology?</li>\n</ul>\n"
+  },
+  {
+    "title": "HCI and User Experience (UX)",
+    "content": "<p>HCI is a foundational discipline for User Experience (UX) design.  UX encompasses the entire user journey, including all touchpoints with a product or service.</p>\n<ul>\n<li>HCI provides the principles and techniques to create usable and effective interfaces.</li>\n<li>UX expands on these principles to create delightful and meaningful experiences.</li>\n</ul>\n"
+  },
+  {
+    "title": "Microinteractions",
+    "content": "<p>Small, focused interactions that provide feedback and enhance the user experience.</p>\n<ul>\n<li>Examples: Hover effects, animations, sound effects</li>\n<li>Make the interface feel more responsive and engaging.</li>\n</ul>\n"
+  },
+  {
+    "title": "Information Architecture (IA)",
+    "content": "<p>The organization and structure of information within a system.  Ensures users can easily find what they are looking for.</p>\n<ul>\n<li>Site maps</li>\n<li>Navigation menus</li>\n<li>Search functionality</li>\n</ul>\n"
+  },
+  {
+    "title": "Visual Design",
+    "content": "<p>The aesthetic aspects of the interface.  Should be visually appealing and consistent with the brand.</p>\n<ul>\n<li>Typography</li>\n<li>Color palette</li>\n<li>Imagery</li>\n</ul>\n"
+  },
+  {
+    "title": "Interaction Design (IxD)",
+    "content": "<p>Focuses on how users interact with the system.  Defines the behavior of the interface.</p>\n<ul>\n<li>Click-through prototypes</li>\n<li>User flows</li>\n<li>Wireframes</li>\n</ul>\n"
+  },
+  {
+    "title": "HCI is Everywhere!",
+    "content": "<p>From your smartwatch to your car&#39;s dashboard, HCI principles are at play. Paying attention to HCI leads to better products and happier users.</p>\n"
+  },
+  {
+    "title": "Key Takeaways",
+    "content": "<ul>\n<li>HCI is about designing technology that is usable, efficient, and enjoyable.</li>\n<li>Understanding your users is crucial.</li>\n<li>Prototyping and testing are essential parts of the design process.</li>\n<li>Accessibility is paramount.</li>\n<li>The future of HCI is exciting!</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Questions? </p>\n<p>Let&#39;s discuss the future of Human-Computer Interaction!</p>\n"
+  }
+]

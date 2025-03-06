@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Boy with Sheep",
+      "caption": "Once upon a time, there was a boy who watched over sheep. Bored, he played a trick.",
+      "prompt": "A young shepherd boy sitting on a hillside, watching a flock of sheep grazing peacefully. The boy looks bored and mischievous."
+    },
+    {
+      "title": "False Alarm!",
+      "caption": "He cried, \"Wolf! Wolf!\" The villagers rushed to help, but there was no wolf.",
+      "prompt": "Villagers running uphill with farming tools (pitchforks, shovels) towards a flock of sheep. The shepherd boy is laughing hysterically in the background."
+    },
+    {
+      "title": "Another Lie",
+      "caption": "The boy did it again. Again, the villagers were fooled. They were angry!",
+      "prompt": "Similar to the previous image, but the villagers look angrier and more frustrated as they realize there is no wolf. The boy's laughter is more taunting."
+    },
+    {
+      "title": "The Real Wolf",
+      "caption": "Then, a real wolf appeared! The boy cried, \"Wolf! Wolf!\" truly scared.",
+      "prompt": "A large, menacing wolf approaching the flock of sheep. The shepherd boy looks terrified, pointing and yelling."
+    },
+    {
+      "title": "No One Believes",
+      "caption": "But the villagers ignored him. They thought he was lying again.",
+      "prompt": "The villagers are shown in their village, going about their daily lives. They are dismissive and ignoring the distant cries of the boy."
+    },
+    {
+      "title": "Wolf Among Sheep",
+      "caption": "The wolf attacked the sheep. The boy's lies had consequences.",
+      "prompt": "The wolf attacking a sheep in the flock. The shepherd boy watches in despair."
+    },
+    {
+      "title": "Emptiness",
+      "caption": "The village mourned their lost sheep. Trust was broken.",
+      "prompt": "A desolate hillside with only a few remaining sheep. The shepherd boy sits alone, looking ashamed and regretful."
+    },
+    {
+      "title": "The Moral",
+      "caption": "Honesty is always the best policy. Lies destroy trust and harm everyone.",
+      "prompt": "An open book with the words 'Honesty is the best policy' clearly written on the pages. The background is a simple, neutral color."
+    },
+    {
+      "title": "Building Trust",
+      "caption": "Once lost, trust is difficult to regain. Choose your words wisely. Speak the truth.",
+      "prompt": "A group of people helping each other to build a wall of bricks, symbolizing trust. The background should be a bright and optimistic landscape."
+    },
+    {
+      "title": "Reflecting on Actions",
+      "caption": "Think before you speak. Your words have power. Use it wisely.",
+      "prompt": "The shepherd boy, now older, sitting alone on the hillside, looking thoughtful and introspective. He's no longer smiling, but has a contemplative expression."
+    }
+  ]
+]

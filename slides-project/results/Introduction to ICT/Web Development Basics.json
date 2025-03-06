@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Web Development Basics",
+    "content": "<p>Welcome to the world of Web Development!</p>\n<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>What is Web Development?</li>\n<li>The building blocks: HTML, CSS, and JavaScript</li>\n<li>Understanding the Front-end (what users see)</li>\n<li>Understanding the Back-end (the server side)</li>\n<li>Simple Tools &amp; Editors</li>\n<li>Basic Web Development Workflow</li>\n<li>Where to go next?</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Web Development?",
+    "content": "<p>Web development is the process of creating websites and web applications.</p>\n<p>Think of it like building a house:</p>\n<ul>\n<li><strong>Architect:</strong> Plans the design and functionality.</li>\n<li><strong>Construction Crew:</strong> Uses tools and materials to build it.</li>\n</ul>\n<p>Web developers are the construction crew for the internet!</p>\n"
+  },
+  {
+    "title": "The Core Technologies: HTML, CSS, and JavaScript",
+    "content": "<p>These are the fundamental building blocks:</p>\n<ul>\n<li><strong>HTML (HyperText Markup Language):</strong>  The <em>structure</em> of your website.  Think of it as the bones and layout.</li>\n<li><strong>CSS (Cascading Style Sheets):</strong>  The <em>style</em> of your website.  Think of it as the paint, furniture, and decorations.</li>\n<li><strong>JavaScript:</strong> The <em>behavior</em> of your website. Think of it as the electricity and plumbing - it makes things <em>happen</em>.</li>\n</ul>\n"
+  },
+  {
+    "title": "HTML: Building the Structure",
+    "content": "<p>HTML uses <em>tags</em> to define elements on a page.</p>\n<p><strong>Example:</strong></p>\n<pre><code class=\"language-html\">&lt;h1&gt;My First Heading&lt;/h1&gt;\n&lt;p&gt;This is a paragraph.&lt;/p&gt;\n</code></pre>\n<ul>\n<li><code>&lt;h1&gt;</code> defines a level 1 heading.</li>\n<li><code>&lt;p&gt;</code> defines a paragraph.</li>\n</ul>\n<p>Everything goes inside tags!</p>\n"
+  },
+  {
+    "title": "CSS: Adding Style",
+    "content": "<p>CSS styles HTML elements.</p>\n<p><strong>Example:</strong></p>\n<pre><code class=\"language-css\">h1 {\n  color: blue;\n  text-align: center;\n}\n\np {\n  font-size: 16px;\n}\n</code></pre>\n<p>This makes all <code>&lt;h1&gt;</code> elements blue and centered and all paragraph fonts will be 16px.</p>\n"
+  },
+  {
+    "title": "JavaScript: Making it Interactive",
+    "content": "<p>JavaScript adds interactivity and dynamic behavior.</p>\n<p><strong>Example:</strong></p>\n<pre><code class=\"language-javascript\">function myFunction() {\n  alert(&#39;Hello World!&#39;);\n}\n</code></pre>\n<p>This creates a function that displays an alert box when called.</p>\n"
+  },
+  {
+    "title": "The Front-end: What the User Sees",
+    "content": "<p>The front-end (or client-side) is what users interact with directly.</p>\n<ul>\n<li>It&#39;s built using HTML, CSS, and JavaScript.</li>\n<li>Focuses on the user experience (UX) and user interface (UI).</li>\n<li>Examples: Buttons, forms, menus, images, and the overall layout.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Back-end: The Server-Side",
+    "content": "<p>The back-end (or server-side) handles data storage, processing, and security.</p>\n<ul>\n<li>Uses server-side languages like Python, Java, Node.js, PHP, Ruby, etc.</li>\n<li>Interacts with databases to store and retrieve information.</li>\n<li>Manages user authentication and authorization.</li>\n</ul>\n"
+  },
+  {
+    "title": "Front-end vs. Back-end: The Analogy",
+    "content": "<p>Think of a restaurant:</p>\n<ul>\n<li><strong>Front-end:</strong> The dining area, menus, waiters - everything the customer sees and interacts with.</li>\n<li><strong>Back-end:</strong> The kitchen, cooks, inventory management - everything that happens behind the scenes.</li>\n</ul>\n"
+  },
+  {
+    "title": "Simple Tools & Editors",
+    "content": "<p>You don&#39;t need fancy tools to start!</p>\n<ul>\n<li><strong>Text Editors:</strong> VS Code (recommended), Sublime Text, Atom, Notepad++</li>\n<li><strong>Web Browsers:</strong> Chrome, Firefox, Safari, Edge (for testing your websites)</li>\n<li><strong>Online Code Editors:</strong> CodePen, JSFiddle, Repl.it (great for experimenting)</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Web Development Workflow",
+    "content": "<p>A typical workflow might look like this:</p>\n<ol>\n<li><strong>Plan:</strong>  Outline your website&#39;s purpose and features.</li>\n<li><strong>Design:</strong>  Create a basic visual design (wireframes or mockups).</li>\n<li><strong>Code:</strong>  Write the HTML, CSS, and JavaScript.</li>\n<li><strong>Test:</strong>  Check for errors and ensure everything works as expected.</li>\n<li><strong>Deploy:</strong>  Make your website live on the internet.</li>\n</ol>\n"
+  },
+  {
+    "title": "Hosting Your Website",
+    "content": "<p>To make your website accessible to the world, you need a web hosting service.</p>\n<ul>\n<li><strong>Web hosting providers</strong> store your website&#39;s files on their servers.</li>\n<li><strong>Popular options:</strong> Netlify, GitHub Pages (for static sites), Heroku, AWS, Google Cloud Platform.</li>\n</ul>\n"
+  },
+  {
+    "title": "Domains",
+    "content": "<p>A domain name is your website&#39;s address on the internet (e.g., google.com).</p>\n<ul>\n<li>You need to register a domain name through a domain registrar (e.g., GoDaddy, Namecheap).</li>\n<li>You point your domain name to your web hosting provider.</li>\n</ul>\n"
+  },
+  {
+    "title": "Version Control with Git",
+    "content": "<p>Git is a version control system that helps you track changes to your code.</p>\n<ul>\n<li><strong>Benefits:</strong><ul>\n<li>Collaboration: Allows multiple developers to work on the same project.</li>\n<li>Backup and Recovery: Easily revert to previous versions of your code.</li>\n</ul>\n</li>\n<li><strong>Popular platform:</strong> GitHub.</li>\n</ul>\n"
+  },
+  {
+    "title": "Introduction to Frameworks",
+    "content": "<p>Frameworks provide pre-built components and structures to speed up development.</p>\n<ul>\n<li><strong>Front-end frameworks:</strong> React, Angular, Vue.js</li>\n<li><strong>Back-end frameworks:</strong> Express.js (Node.js), Django (Python), Ruby on Rails (Ruby)</li>\n</ul>\n"
+  },
+  {
+    "title": "Learning Resources",
+    "content": "<p>Tons of resources are available online!</p>\n<ul>\n<li><strong>Online Courses:</strong> Codecademy, freeCodeCamp, Udemy, Coursera</li>\n<li><strong>Documentation:</strong> MDN Web Docs (Mozilla Developer Network), W3Schools</li>\n<li><strong>Blogs &amp; Tutorials:</strong> CSS-Tricks, Smashing Magazine</li>\n<li><strong>Communities:</strong> Stack Overflow, Reddit (r/webdev)</li>\n</ul>\n"
+  },
+  {
+    "title": "HTML Semantics",
+    "content": "<p>Using HTML tags to provide meaning and structure to web pages, such as <code>&lt;article&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;aside&gt;</code>, and <code>&lt;footer&gt;</code>.</p>\n"
+  },
+  {
+    "title": "Responsive Web Design",
+    "content": "<p>Creating websites that adapt to different screen sizes and devices using CSS media queries and flexible layouts.</p>\n"
+  },
+  {
+    "title": "Accessibility (A11y)",
+    "content": "<p>Designing websites to be usable by people with disabilities, following WCAG guidelines. It involves providing alternative text for images, ensuring proper color contrast, and semantic HTML.</p>\n"
+  },
+  {
+    "title": "Web Performance Optimization",
+    "content": "<p>Improving the speed and efficiency of websites by optimizing images, minifying code, leveraging browser caching, and using a Content Delivery Network (CDN).</p>\n"
+  },
+  {
+    "title": "Introduction to APIs",
+    "content": "<p>Understanding how to interact with external services and retrieve data from APIs (Application Programming Interfaces) using JavaScript (e.g., Fetch API, Axios).</p>\n"
+  },
+  {
+    "title": "Debugging",
+    "content": "<p>Learn debugging techniches and how to work with browser developer tools</p>\n"
+  },
+  {
+    "title": "Where to go next?",
+    "content": "<p>This is just the beginning!</p>\n<ul>\n<li><strong>Practice:</strong> Build small projects to solidify your knowledge.</li>\n<li><strong>Specialize:</strong> Choose a front-end or back-end focus.</li>\n<li><strong>Stay Updated:</strong> Web development is constantly evolving, so keep learning!</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Web development is a rewarding and in-demand skill.</p>\n<p>Good luck on your journey! Happy coding!</p>\n"
+  }
+]

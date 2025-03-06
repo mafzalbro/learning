@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Electric Field Lines Emanating from a Point Charge",
+      "caption": "Gauss's Law: the dance of electric fields. Imagine an invisible sphere... surrounding a charge. Electric field lines pierce its surface. More lines, stronger field. Gauss's Law quantifies this relationship. The total electric flux... is proportional to the enclosed charge. Simple yet powerful.",
+      "prompt": "A visually striking illustration of a positive point charge at the center of a transparent sphere. Electric field lines are radiating outwards from the charge, piercing the surface of the sphere. Use vibrant colors to differentiate the charge, field lines, and sphere. The background should be clean and uncluttered, allowing the visual to be the primary focus."
+    },
+    {
+      "title": "Gaussian Surface Around a Charged Sphere",
+      "caption": "Consider a charged sphere. Apply Gauss's Law! Draw an imaginary surface - a Gaussian surface. Usually, a sphere is easiest. Calculate the electric flux. It's surprisingly simple! The electric field... multiplied by the area. Gauss's Law simplifies complex calculations. A fundamental tool in electromagnetism.",
+      "prompt": "A charged metallic sphere enclosed by a larger, transparent spherical Gaussian surface. Indicate the area vector (dA) and electric field vector (E) at a representative point on the Gaussian surface. The charged sphere should have a visible charge distribution (e.g., positive charges depicted as small plus signs). Emphasize the symmetry of the situation."
+    },
+    {
+      "title": "Gaussian Surface Around a Charged Wire",
+      "caption": "Now, a long charged wire. What Gaussian surface to use? A cylinder! Coaxial with the wire. The electric field is radial. Flux only through the curved surface. Not the ends! Again, Gauss's Law simplifies the problem. Revealing the electric field's dependence on distance.",
+      "prompt": "A long, uniformly charged wire enclosed by a cylindrical Gaussian surface. Clearly show the electric field lines radiating outwards from the wire. Highlight the curved surface area of the cylinder. The ends of the cylinder should not have electric field lines passing through them. Annotate the image with 'E' for electric field and 'dA' for the area vector."
+    },
+    {
+      "title": "Gaussian Surface Around a Charged Plane",
+      "caption": "An infinite charged plane. A pillbox Gaussian surface. Half above, half below. Electric field perpendicular to the plane. Flux only through the top and bottom. Not the sides! Gauss's Law reveals... the electric field is constant. Independent of distance. A surprising result!",
+      "prompt": "A large, uniformly charged plane. A rectangular prism (pillbox) is placed symmetrically on either side of the plane. Show the electric field lines emerging perpendicularly from the plane and passing through the top and bottom faces of the prism. Indicate the absence of electric field lines through the side faces. Use arrows to depict the direction of the electric field."
+    },
+    {
+      "title": "Gauss's Law and Electric Flux",
+      "caption": "Electric flux: a measure of field flow. Through a surface. Dependent on field strength... and the angle. Gauss's Law links flux... to enclosed charge. A powerful connection. Understanding flux unlocks electromagnetism!",
+      "prompt": "An abstract representation of electric flux. Visualize electric field lines flowing through a surface. Use color to indicate the density of field lines (higher density = stronger field). Show the angle between the electric field vector and the normal vector to the surface. Animate the field lines to show their flow."
+    },
+    {
+      "title": "Faraday Cage Shielding",
+      "caption": "A Faraday cage: a metallic shield. Blocks external electric fields. Why? Charges redistribute on the surface. Creating an equal and opposite field. Inside, the electric field is zero! Protects sensitive electronics. A practical application of Gauss's Law.",
+      "prompt": "A metallic cage surrounding a person or electronic device. Depict external electric field lines being intercepted by the cage. Show the redistribution of charges on the cage's surface. Inside the cage, illustrate the absence of electric field lines, indicating shielding."
+    },
+    {
+      "title": "Conductor in Electrostatic Equilibrium",
+      "caption": "A conductor: electrons move freely. In electrostatic equilibrium... the electric field is zero inside. Excess charge resides on the surface. Gauss's Law explains why! A fundamental property of conductors.",
+      "prompt": "A solid metallic object (e.g., a sphere or irregularly shaped object) with excess positive charge distributed on its surface. Illustrate the absence of electric field lines inside the object. Show the electric field lines emanating perpendicularly from the surface of the object. Emphasize the uniform distribution of charge on the surface."
+    },
+    {
+      "title": "Comparing Gaussian Surfaces of Different Shapes",
+      "caption": "Choose your Gaussian surface wisely! The shape doesn't matter... as long as it encloses the same charge. A sphere, a cube, an irregular shape... all yield the same flux. A testament to Gauss's Law's generality.",
+      "prompt": "A central positive charge surrounded by three different Gaussian surfaces: a sphere, a cube, and an irregularly shaped surface. Emphasize that all three surfaces enclose the same charge. Depict the electric field lines radiating outwards and passing through each surface. Use transparency to allow viewers to see the charge inside the surfaces."
+    },
+    {
+      "title": "Gauss's Law: The Equation",
+      "caption": "Gauss's Law: a mathematical statement. The integral of the electric field... over a closed surface... equals the enclosed charge... divided by permittivity. This compact equation... unlocks a universe of electromagnetism.",
+      "prompt": "The equation for Gauss's Law (∮ E ⋅ dA = Qenc/ε₀) prominently displayed. Use clear and legible font. The background should be uncluttered. Include visual cues to explain the terms in the equation (e.g., highlight 'E' to represent the electric field, 'dA' to represent the area vector, 'Qenc' to represent the enclosed charge, and 'ε₀' to represent the permittivity of free space). Consider a light background to make the equation easily readable."
+    }
+  ]
+]

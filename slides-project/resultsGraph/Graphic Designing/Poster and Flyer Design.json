@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Retro Concert Flyer: Psychedelic Rock",
+      "caption": "Hey music lovers! Ready to travel back in time? This week, we're diving into the vibrant world of retro concert flyers! Think bold colors, swirling fonts, and mind-bending graphics. These flyers weren't just ads; they were an experience. They captured the raw energy of the music and the spirit of the era. So, crank up your favorite tunes and let's explore the art of retro concert flyers!",
+      "prompt": "A retro concert flyer for a psychedelic rock band. Use vibrant, contrasting colors like neon pink, electric blue, and lime green. Feature swirling, distorted typography. Include images of electric guitars, swirling clouds, and abstract patterns. The overall style should be reminiscent of 1960s and 70s concert posters. Add the band name \"Cosmic Echoes\" and the date \"July 27th\"."
+    },
+    {
+      "title": "Modern Art Exhibition Poster: Abstract Expressionism",
+      "caption": "Art aficionados, get ready to explore the world of abstract expressionism! Today, we're focusing on designing eye-catching art exhibition posters. Less is often more! Think minimalist layouts, striking typography, and high-quality images of the featured artwork. A well-designed poster piques curiosity and draws visitors in. So, let's uncover the secrets to creating captivating art exhibition posters!",
+      "prompt": "A modern art exhibition poster for an abstract expressionism show. Use a clean, minimalist design with plenty of white space. Feature a high-quality close-up image of an abstract painting with bold brushstrokes and vibrant colors. Use a modern, sans-serif font for the text. Include the title of the exhibition \"Unleashed Forms\", the artist's name \"Anna Petrova\", and the dates of the exhibition \"October 15th - November 30th\"."
+    },
+    {
+      "title": "Charity Gala Flyer: Elegant and Sophisticated",
+      "caption": "Want to make a difference? Today, we're looking at designing elegant charity gala flyers. These flyers are all about conveying sophistication and inspiring generosity. Focus on beautiful imagery, refined typography, and a clear call to action. Remember, you're not just inviting people to an event, you're inviting them to support a worthy cause. Let's learn how to craft flyers that make a real impact!",
+      "prompt": "A charity gala flyer with an elegant and sophisticated design. Use a color palette of gold, black, and deep red. Feature a subtle background image of champagne glasses or a blurred ballroom scene. Use a classic serif font for the text. Include the name of the charity \"Hope for Tomorrow\", the event title \"A Night of Giving\", and the date and location of the gala. Add a call to action: \"Purchase your tickets today!\""
+    },
+    {
+      "title": "Indie Film Festival Poster: Edgy and Alternative",
+      "caption": "Calling all cinephiles! Today, we're exploring the world of indie film festival posters. These posters are all about capturing the unique vibe of independent cinema. Think unconventional layouts, gritty textures, and striking imagery that challenges the norm. Forget the Hollywood gloss! Let's learn how to design posters that scream indie and attract film lovers!",
+      "prompt": "An indie film festival poster with an edgy and alternative design. Use a black and white color scheme with a pop of vibrant color (e.g., red or yellow). Feature a collage of film stills, abstract shapes, and distressed textures. Use a bold, unconventional font for the text. Include the name of the film festival \"Underground Cinema\", the dates of the festival, and a list of featured films."
+    },
+    {
+      "title": "Music Festival Flyer: High-Energy and Dynamic",
+      "caption": "Get ready to party! This week, we're diving into the world of high-energy music festival flyers. These flyers are all about capturing the excitement and atmosphere of a live music event. Think vibrant colors, dynamic typography, and images of crowds having fun. The goal is to make people feel the energy and want to be there! Let's learn how to design flyers that get people moving and grooving!",
+      "prompt": "A music festival flyer with a high-energy and dynamic design. Use a vibrant color palette with neon colors and gradients. Feature images of crowds cheering, musicians performing, and festival scenery. Use a bold, playful font for the text. Include the name of the music festival \"Vibes Fest\", the dates of the festival, and a list of headlining artists."
+    },
+    {
+      "title": "Product Launch Poster: Clean and Modern",
+      "caption": "Launching a new product? Let's talk about designing clean and modern product launch posters. These posters are all about showcasing your product's features and benefits in a visually appealing way. Focus on high-quality images, clear and concise messaging, and a minimalist design. Remember, the goal is to grab attention and drive sales. Let's learn how to create posters that make your product shine!",
+      "prompt": "A product launch poster with a clean and modern design. Feature a high-quality product shot of a new smartphone. Use a clean, sans-serif font for the text. Highlight key features of the phone, such as its camera quality and battery life. Use a color palette of white, gray, and a single accent color (e.g., blue or green). Include the product name and a call to action: \"Pre-order now!\""
+    },
+    {
+      "title": "Comedy Show Flyer: Humorous and Engaging",
+      "caption": "Need a laugh? We're diving into the world of humorous comedy show flyers! The goal is to immediately convey the type of humor that attendees can expect. Use bold, eye-catching fonts and incorporate comedic visuals to showcase the performer's style. Remember, the goal is to make people smile and want to get their tickets instantly! Let's learn how to design flyers that get people laughing!",
+      "prompt": "A comedy show flyer with a humorous and engaging design. Feature a cartoonish drawing of the comedian with an exaggerated expression. Use a bright, attention-grabbing color scheme. Incorporate visual puns or funny illustrations. Use a playful, handwritten-style font for the text. Include the comedian's name \"Gary Giggles\", the date, time, and location of the show."
+    },
+    {
+      "title": "Restaurant Promotion Flyer: Appetizing and Inviting",
+      "caption": "Got a craving? This week, we're focusing on restaurant promotion flyers! Focus on high-quality images of your most delicious dishes, use a font that reflects your restaurant's style, and a clear call to action. A well-designed flyer is crucial for attracting new customers and promoting special offers. Let's learn how to create flyers that make people hungry!",
+      "prompt": "A restaurant promotion flyer with an appetizing and inviting design. Feature a close-up, mouthwatering photo of a signature dish (e.g., a juicy burger or a colorful pasta dish). Use a warm, inviting color palette. Use a font that matches the restaurant's brand (e.g., a rustic font for a farm-to-table restaurant or a modern font for a trendy bistro). Include the restaurant's name, address, and contact information, as well as details about the promotion (e.g., \"20% off all appetizers!\")."
+    },
+    {
+      "title": "Workshop Announcement Poster: Informative and Professional",
+      "caption": "Ready to learn something new? Let's talk about workshop announcement posters! These posters are all about conveying information in a clear and professional manner. Focus on concise text, a well-organized layout, and a visually appealing design. Remember, the goal is to attract attendees and provide them with all the necessary details. Let's learn how to design posters that get people signed up!",
+      "prompt": "A workshop announcement poster with an informative and professional design. Use a clean, minimalist design with a clear hierarchy of information. Use a professional, easy-to-read font for the text. Include the workshop title \"Digital Marketing Essentials\", the date, time, and location of the workshop, the name of the instructor, and a brief description of the workshop's content. Add a call to action: \"Register now!\""
+    }
+  ]
+]

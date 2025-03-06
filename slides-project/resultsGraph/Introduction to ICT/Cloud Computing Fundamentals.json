@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Cloud Computing Overview",
+      "caption": "What is cloud computing? | Think of it as accessing computing resources – servers, storage, software – over the internet. | Instead of owning and maintaining physical infrastructure, you rent it. | This offers flexibility, scalability, and cost savings.",
+      "prompt": "A stylized image of a brain connected to a fluffy cloud with data streams flowing between them. The cloud should be bright and inviting, and the brain should appear to be thinking deeply and efficiently. Use a vibrant color palette with blues, greens, and purples."
+    },
+    {
+      "title": "The Infrastructure Layer",
+      "caption": "Infrastructure as a Service or IaaS. | You get virtualized computing resources – servers, networks, storage. | You manage the operating system, middleware, and applications. | Think of it as renting the raw materials to build your own house.",
+      "prompt": "A digital illustration of a construction site with virtual servers, network cables, and storage devices being assembled into a towering building. The background should be a cityscape silhouette. Keep the style modern and clean."
+    },
+    {
+      "title": "Platforms as a Service",
+      "caption": "Platform as a Service, or PaaS. | Provides a complete development and deployment environment in the cloud. | You focus on building and deploying applications. | The provider handles the underlying infrastructure.",
+      "prompt": "An abstract image representing a layered platform with different tools and services stacked on top of each other. The top layer should feature icons of application development tools. Use bright, contrasting colors to highlight the different layers."
+    },
+    {
+      "title": "Software as a Service",
+      "caption": "Software as a Service – SaaS. | Access software applications over the internet, on demand. | You don't worry about installation, maintenance, or upgrades. | Think of it as using a streaming service for movies or music.",
+      "prompt": "A collection of device screens (phone, tablet, laptop) all displaying various software applications in a clean and modern interface. A cloud icon should be subtly incorporated in the background. Focus on simplicity and accessibility."
+    },
+    {
+      "title": "Public Cloud",
+      "caption": "Public cloud services are owned and operated by a third-party provider. | Resources are shared among multiple users. | Offers high scalability and cost-effectiveness. | Examples include AWS, Azure, and Google Cloud.",
+      "prompt": "A wide-angle view of a bustling city with many buildings representing different cloud services. A large, bright cloud hangs over the city, providing resources and connectivity. Use a daytime setting with vibrant colors."
+    },
+    {
+      "title": "Private Cloud",
+      "caption": "Private cloud infrastructure is dedicated to a single organization. | Offers greater control and security. | Can be hosted on-premises or by a third-party. | Suitable for organizations with strict compliance requirements.",
+      "prompt": "A fortress-like building with walls and security systems surrounding a large server room. The building represents a private cloud. Use a more muted and secure color palette with greys, blues, and blacks."
+    },
+    {
+      "title": "Hybrid Cloud",
+      "caption": "Hybrid cloud combines public and private cloud environments. | Allows you to leverage the benefits of both. | You can run sensitive workloads in a private cloud and less sensitive workloads in a public cloud. | Offers flexibility and agility.",
+      "prompt": "An image of a bridge connecting a fortress (private cloud) and a vibrant city (public cloud). Data streams are flowing smoothly between the two environments. Use a blend of the color palettes from the public and private cloud prompts."
+    },
+    {
+      "title": "Cloud Security",
+      "caption": "Security in the cloud is paramount. | Cloud providers implement robust security measures. | But you're also responsible for securing your data and applications. | Key aspects: Identity management, data encryption, and access control.",
+      "prompt": "A digital shield protecting data streams flowing through a cloud. The shield should be sleek and modern, with glowing energy fields representing security measures. Use blues, greens, and yellows to convey trust and protection."
+    },
+    {
+      "title": "Benefits of Cloud Computing",
+      "caption": "So, why choose cloud computing? | Reduced costs – pay only for what you use. | Increased scalability – easily scale up or down as needed. | Improved agility – quickly deploy new applications and services. | Enhanced collaboration – access resources from anywhere.",
+      "prompt": "A diverse group of people working together on different devices, all connected to a central cloud icon. The image should convey a sense of collaboration, innovation, and efficiency. Use bright and optimistic colors."
+    }
+  ]
+]

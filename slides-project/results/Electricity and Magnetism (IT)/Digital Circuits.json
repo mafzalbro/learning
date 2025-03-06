@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Digital Circuits: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover the fundamentals of digital circuits.  We&#39;ll explore:</p>\n<ul>\n<li><strong>What are Digital Circuits?</strong> The basics of how they work.</li>\n<li><strong>Number Systems:</strong> Binary, Decimal, Hexadecimal – the languages of computers.</li>\n<li><strong>Logic Gates:</strong> AND, OR, NOT – the building blocks of digital systems.</li>\n<li><strong>Boolean Algebra:</strong> Simplifying circuit designs.</li>\n<li><strong>Combinational Logic:</strong> Adders, Multiplexers – circuits that make decisions.</li>\n<li><strong>Sequential Logic:</strong> Flip-flops, Registers – circuits that remember.</li>\n<li><strong>Applications:</strong> Where are digital circuits used in the real world?</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Digital Circuits?",
+    "content": "<p>Digital circuits are electronic circuits that operate using <strong>discrete levels of voltage</strong>, representing binary digits (bits): 0 and 1.</p>\n<p>Unlike analog circuits, which use continuous signals, digital circuits are more robust to noise and easier to design.</p>\n<p><strong>Key Characteristics:</strong></p>\n<ul>\n<li>Uses binary values (0 and 1).</li>\n<li>Based on transistors acting as switches.</li>\n<li>Forms the basis of computers, smartphones, and countless other devices.</li>\n</ul>\n"
+  },
+  {
+    "title": "Number Systems: Decimal (Base-10)",
+    "content": "<p>We use decimal (base-10) every day! It has ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.</p>\n<p>Each digit&#39;s position represents a power of 10.  For example:</p>\n<ul>\n<li>123 = (1 * 10^2) + (2 * 10^1) + (3 * 10^0)</li>\n<li>123 = 100 + 20 + 3</li>\n</ul>\n"
+  },
+  {
+    "title": "Number Systems: Binary (Base-2)",
+    "content": "<p>Binary (base-2) is the language of computers! It has only two digits: 0 and 1.</p>\n<p>Each digit&#39;s position represents a power of 2. For example:</p>\n<ul>\n<li>101 (binary) = (1 * 2^2) + (0 * 2^1) + (1 * 2^0)</li>\n<li>101 (binary) = 4 + 0 + 1 = 5 (decimal)</li>\n</ul>\n"
+  },
+  {
+    "title": "Number Systems: Hexadecimal (Base-16)",
+    "content": "<p>Hexadecimal (base-16) is a shorthand for binary, often used for memory addresses and color codes.</p>\n<p>It uses sixteen digits: 0-9 and A-F (where A=10, B=11, C=12, D=13, E=14, F=15).</p>\n<p>For example:</p>\n<ul>\n<li>A2 (hexadecimal) = (10 * 16^1) + (2 * 16^0)</li>\n<li>A2 (hexadecimal) = 160 + 2 = 162 (decimal)</li>\n</ul>\n"
+  },
+  {
+    "title": "Converting Between Number Systems",
+    "content": "<p>Several methods exist for conversion. Key is to remember the weights for each position (power of base number) in each numeral system.</p>\n<ul>\n<li>Decimal to Binary: Repeatedly divide by 2, noting the remainders (which form the binary digits from right to left).</li>\n<li>Binary to Decimal: Multiply each bit by its corresponding power of 2 and sum the results.</li>\n<li>Binary to Hex: Group binary digits into sets of four (starting from the right) and convert each group to its hexadecimal equivalent.</li>\n<li>Hex to Binary: Convert each hexadecimal digit to its four-bit binary equivalent.</li>\n</ul>\n"
+  },
+  {
+    "title": "Logic Gates: The Building Blocks",
+    "content": "<p>Logic gates are fundamental electronic circuits that perform logical operations on one or more inputs, producing a single output.</p>\n<p>Common logic gates include:</p>\n<ul>\n<li><strong>AND:</strong> Output is 1 only if <em>all</em> inputs are 1.</li>\n<li><strong>OR:</strong> Output is 1 if <em>at least one</em> input is 1.</li>\n<li><strong>NOT:</strong> Output is the inverse of the input (1 becomes 0, 0 becomes 1).</li>\n<li><strong>NAND:</strong>  NOT AND (output is 0 only if all inputs are 1).</li>\n<li><strong>NOR:</strong> NOT OR (output is 1 only if all inputs are 0).</li>\n<li><strong>XOR:</strong>  Exclusive OR (output is 1 only if the inputs are different).</li>\n</ul>\n"
+  },
+  {
+    "title": "Truth Tables",
+    "content": "<p>Truth tables show the output of a logic gate for all possible combinations of inputs. They are essential for understanding how logic gates work.</p>\n<p>Example (AND gate):</p>\n<table>\n<thead>\n<tr>\n<th>Input A</th>\n<th>Input B</th>\n<th>Output</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n</tr>\n<tr>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "title": "Boolean Algebra",
+    "content": "<p>Boolean algebra is a mathematical system used to analyze and simplify digital circuits.</p>\n<p>Key Concepts:</p>\n<ul>\n<li>Variables: Represent inputs and outputs (e.g., A, B, X).</li>\n<li>Operators: AND (.), OR (+), NOT (&#39;).</li>\n<li>Laws: Commutative, Associative, Distributive, DeMorgan&#39;s Theorems.</li>\n</ul>\n<p>Boolean Algebra helps simplify complex circuits, reducing the number of gates needed and improving performance.</p>\n"
+  },
+  {
+    "title": "DeMorgan's Theorems",
+    "content": "<p>DeMorgan&#39;s Theorems are crucial for simplifying logic circuits. They state:</p>\n<ol>\n<li>The complement of a product is the sum of the complements:  <strong>(A.B)&#39; = A&#39; + B&#39;</strong></li>\n<li>The complement of a sum is the product of the complements: <strong>(A+B)&#39; = A&#39;.B&#39;</strong></li>\n</ol>\n<p>These theorems allow you to convert between AND and OR gates with inverted inputs/outputs, which is very helpful in circuit design.</p>\n"
+  },
+  {
+    "title": "Combinational Logic",
+    "content": "<p>Combinational logic circuits produce an output that depends <em>only</em> on the current inputs. They have no memory.</p>\n<p>Examples:</p>\n<ul>\n<li><strong>Adders:</strong> Add binary numbers (half adders, full adders).</li>\n<li><strong>Subtractors:</strong> Subtract binary numbers.</li>\n<li><strong>Multiplexers (MUX):</strong> Select one of several inputs and route it to the output.</li>\n<li><strong>Demultiplexers (DEMUX):</strong> Route a single input to one of several outputs.</li>\n<li><strong>Encoders:</strong> Convert a decimal input to a binary output.</li>\n<li><strong>Decoders:</strong> Convert a binary input to a decimal output.</li>\n</ul>\n"
+  },
+  {
+    "title": "Adders: Half Adder",
+    "content": "<p>The half adder adds two single-bit binary numbers (A and B) and produces a sum (S) and a carry (C).</p>\n<p>It uses one XOR gate and one AND gate.</p>\n<p>Truth Table:</p>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n<th>S</th>\n<th>C</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n</tr>\n<tr>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n</tr>\n</tbody></table>\n"
+  },
+  {
+    "title": "Adders: Full Adder",
+    "content": "<p>The full adder adds three single-bit binary numbers (A, B, and Carry-in) and produces a sum (S) and a Carry-out (Cout).</p>\n<p>It can be implemented using two half adders and one OR gate.</p>\n<p>Full adders are used in multi-bit addition.</p>\n"
+  },
+  {
+    "title": "Multiplexers (MUX)",
+    "content": "<p>A multiplexer (MUX) selects one of several input signals and forwards it to a single output line. The selection is controlled by select lines.</p>\n<p>Think of it as a switch that chooses which input to connect to the output.</p>\n<p>Applications: Data routing, parallel-to-serial conversion.</p>\n"
+  },
+  {
+    "title": "Sequential Logic",
+    "content": "<p>Sequential logic circuits produce an output that depends on the current inputs <em>and</em> the past history of inputs (they have memory!).</p>\n<p>Key Components:</p>\n<ul>\n<li><strong>Flip-flops:</strong> Basic memory element that can store one bit of information.</li>\n<li><strong>Registers:</strong> Group of flip-flops used to store multiple bits of information.</li>\n<li><strong>Counters:</strong> Circuits that count events.</li>\n<li><strong>State Machines:</strong> Circuits that transition between different states based on inputs and current state.</li>\n</ul>\n"
+  },
+  {
+    "title": "Flip-Flops",
+    "content": "<p>A flip-flop is a bistable multivibrator; it has two stable states (0 and 1) and can be switched between these states by applying appropriate input signals.</p>\n<p>Common types include:</p>\n<ul>\n<li><strong>SR Flip-Flop:</strong> Set-Reset flip-flop.</li>\n<li><strong>D Flip-Flop:</strong> Data flip-flop (stores the value of the input D).</li>\n<li><strong>JK Flip-Flop:</strong> Versatile flip-flop with Set, Reset, and Toggle capabilities.</li>\n<li><strong>T Flip-Flop:</strong> Toggle flip-flop (toggles its output state on each clock pulse).</li>\n</ul>\n"
+  },
+  {
+    "title": "Registers",
+    "content": "<p>A register is a group of flip-flops used to store multiple bits of data. The number of flip-flops determines the number of bits the register can hold.</p>\n<p>Registers are used in CPUs for storing data and instructions.</p>\n<p>Types include:</p>\n<ul>\n<li><strong>Shift Registers:</strong> Used for shifting data bits from one flip-flop to another.</li>\n</ul>\n"
+  },
+  {
+    "title": "Counters",
+    "content": "<p>A counter is a sequential circuit that counts events, often driven by a clock signal.</p>\n<p>Types include:</p>\n<ul>\n<li><strong>Binary Counters:</strong> Count in binary sequence.</li>\n<li><strong>Decade Counters:</strong> Count from 0 to 9.</li>\n<li><strong>Up/Down Counters:</strong> Count up or down depending on the input.</li>\n</ul>\n<p>Counters are used in timers, frequency dividers, and control systems.</p>\n"
+  },
+  {
+    "title": "State Machines",
+    "content": "<p>A state machine (or finite-state machine) is a sequential circuit that transitions between different states based on inputs and the current state. Each state represents a specific condition or action.</p>\n<p>Components:</p>\n<ul>\n<li>States</li>\n<li>Transitions</li>\n<li>Inputs</li>\n<li>Outputs</li>\n</ul>\n<p>State machines are used in control systems, game logic, and communication protocols.</p>\n"
+  },
+  {
+    "title": "Applications of Digital Circuits",
+    "content": "<p>Digital circuits are everywhere!</p>\n<ul>\n<li><strong>Computers:</strong>  CPUs, memory, I/O devices.</li>\n<li><strong>Smartphones:</strong>  Processors, displays, communication circuits.</li>\n<li><strong>Embedded Systems:</strong>  Microcontrollers in appliances, cars, and industrial equipment.</li>\n<li><strong>Digital Communication:</strong>  Encoding, decoding, and transmitting data.</li>\n<li><strong>Consumer Electronics:</strong>  Televisions, DVD players, digital cameras.</li>\n</ul>\n"
+  },
+  {
+    "title": "Example: Simple Alarm System",
+    "content": "<p>Consider a simple alarm system with two sensors (A and B) and an alarm output (Alarm).</p>\n<p>The alarm should sound if <em>either</em> sensor A <em>or</em> sensor B is triggered.</p>\n<p>This can be implemented with an <strong>OR gate</strong>: Alarm = A + B</p>\n<p>If we want the alarm to only sound when <em>both</em> A <em>and</em> B are triggered, we can use an <strong>AND gate</strong>: Alarm = A . B</p>\n"
+  },
+  {
+    "title": "Integrated Circuits (ICs)",
+    "content": "<p>Most digital circuits are implemented as integrated circuits (ICs), also known as chips or microchips.</p>\n<p>ICs contain millions or even billions of transistors, resistors, and other components on a single piece of silicon.</p>\n<p>Different types of ICs exist, ranging from simple logic gates to complex microprocessors.</p>\n"
+  },
+  {
+    "title": "FPGA's - Field Programmable Gate Arrays",
+    "content": "<p>FPGA&#39;s or Field Programmable Gate Arrays are IC&#39;s that can be programmed to perform various digital circuits by a programmer. Usually these come in handy in implementing complex digital circuits. They have a great advantage of being reusable and reprogrammable. </p>\n"
+  },
+  {
+    "title": "Microcontrollers",
+    "content": "<p>Microcontrollers are small, self-contained computers on a chip. They include a processor, memory, and peripherals (like timers, ADC, and communication interfaces).</p>\n<p>They are widely used in embedded systems to control various devices and processes.</p>\n<p>Examples: Arduino, Raspberry Pi Pico.</p>\n"
+  },
+  {
+    "title": "Advantages of Digital Circuits",
+    "content": "<ul>\n<li><strong>Noise Immunity:</strong> More robust to noise than analog circuits.</li>\n<li><strong>Reproducibility:</strong> Consistent performance across different devices.</li>\n<li><strong>Scalability:</strong>  Easy to increase complexity by adding more components.</li>\n<li><strong>Programmability:</strong>  Can be programmed to perform different functions (e.g., microcontrollers).</li>\n</ul>\n"
+  },
+  {
+    "title": "Disadvantages of Digital Circuits",
+    "content": "<ul>\n<li><strong>Quantization Error:</strong>  Loss of information due to representing continuous signals with discrete values.</li>\n<li><strong>Complexity:</strong>  Designing complex digital systems can be challenging.</li>\n<li><strong>Power Consumption:</strong>  Digital circuits can consume significant power, especially at high speeds.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Digital circuits are the foundation of modern electronics and computing. Understanding their fundamentals is essential for anyone working in these fields.</p>\n<p>We&#39;ve covered the basics of number systems, logic gates, Boolean algebra, combinational and sequential logic, and their applications.</p>\n<p>Further exploration can involve more advanced topics like VLSI design, computer architecture, and digital signal processing.</p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Thanks for attending this presentation. I hope you found it useful!</p>\n<p>Any questions?</p>\n<p>Further Learning: Experiment with online logic gate simulators, breadboard circuits, and microcontroller projects.</p>\n"
+  }
+]

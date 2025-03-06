@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Emotion Thermometer",
+      "caption": "Understanding your feelings is the first step.  Think of your emotions like a thermometer. Are you running hot with anger? Or feeling cool and calm? Recognizing the intensity helps you manage them.",
+      "prompt": "A visually appealing thermometer with different colors representing different emotions (e.g., red for anger, blue for sadness, green for calm). The thermometer should be easy to understand and not overly complex. Focus on clarity and visual appeal."
+    },
+    {
+      "title": "The Emotion Wheel",
+      "caption": "Expand your emotional vocabulary. It's not just 'happy' or 'sad.' Explore the nuances. Use an emotion wheel to pinpoint exactly what you're feeling.",
+      "prompt": "A simplified version of Plutchik's wheel of emotions. Focus on primary emotions and some secondary emotions branching out. The design should be clean and easy to read, emphasizing the connections between different emotions."
+    },
+    {
+      "title": "Breathing Exercise Visual",
+      "caption": "Feeling overwhelmed? Take a deep breath. Try box breathing: Inhale for four, hold for four, exhale for four, hold for four. Repeat.  This simple technique can calm your nervous system.",
+      "prompt": "A looping animation or infographic showing the box breathing technique. Clearly illustrate the 4-4-4-4 pattern with visual cues like expanding and contracting boxes or circles. Use calming colors like blues and greens."
+    },
+    {
+      "title": "Thought Cloud",
+      "caption": "Challenge your negative thoughts. Are they truly accurate? Often, they're distorted by our emotions. Identify and reframe unhelpful thinking patterns.",
+      "prompt": "An image of a stylized thought cloud containing various negative thought patterns written in a subtle font.  Include examples like 'I'm a failure,' 'Nobody likes me,' or 'Everything always goes wrong.' The overall feel should be somewhat chaotic and overwhelming."
+    },
+    {
+      "title": "Stress Ball Hand",
+      "caption": "Release pent-up energy in healthy ways. Physical activity, creative expression, even squeezing a stress ball can help regulate your emotions. Find what works for you.",
+      "prompt": "A hand squeezing a brightly colored stress ball. The background should be blurred and out of focus to emphasize the action of squeezing the ball."
+    },
+    {
+      "title": "Journaling Prompt Example",
+      "caption": "Journaling can be a powerful tool for self-reflection.  Write down your thoughts and feelings without judgment. You might discover patterns and insights you never realized.",
+      "prompt": "An image of an open journal with a pen beside it. A handwritten prompt is visible on the page: 'What am I feeling right now, and why?' The setting should be calm and inviting, perhaps a desk with a cup of tea nearby."
+    },
+    {
+      "title": "Social Support Network",
+      "caption": "Connect with others. Talking to trusted friends, family, or a therapist can provide valuable support and perspective during difficult times.",
+      "prompt": "A stylized image of interconnected figures or silhouettes representing a support network. The figures should be linked together in a harmonious and supportive way. Use warm and inviting colors."
+    },
+    {
+      "title": "Problem-Solving Steps",
+      "caption": "Break down big problems into smaller, manageable steps.  Focus on what you *can* control. Taking action can reduce feelings of helplessness and anxiety.",
+      "prompt": "An infographic showing a simple problem-solving process with steps like: 1. Identify the Problem, 2. Brainstorm Solutions, 3. Choose a Solution, 4. Take Action, 5. Evaluate Results. Use clear and concise visuals for each step."
+    },
+    {
+      "title": "Acceptance and Commitment Therapy Metaphor",
+      "caption": "Learn to accept difficult emotions without judgment.  Like waves in the ocean, emotions come and go.  Focus on living a meaningful life, even when facing challenges.",
+      "prompt": "A serene image of an ocean with waves. A person is standing calmly on the beach, observing the waves without trying to control them. The scene should evoke a sense of peace and acceptance."
+    },
+    {
+      "title": "Gratitude List",
+      "caption": "Practice gratitude. Focusing on the good things in your life, no matter how small, can boost your mood and build resilience. Make a list of things you're thankful for.",
+      "prompt": "An image of a notepad with a list of handwritten items. The items on the list should be simple examples of things to be grateful for, such as 'Sunshine,' 'A good cup of coffee,' 'My pet,' 'Supportive friends'. The overall feel should be positive and uplifting."
+    }
+  ]
+]

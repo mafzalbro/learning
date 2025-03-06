@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Font Family Tree",
+      "caption": "Choosing fonts can feel overwhelming. Start with purpose: What feeling are you trying to evoke? Consider your audience. A playful font might suit a children's book, but not a legal document. Research font families. They offer variations like bold, italic, and condensed, providing consistency across your design. Limit your font choices, usually two or three. Too many fonts create visual clutter. Pair a display font for headings with a simpler font for body text. Finally, test your font choices on different devices and sizes. Legibility is key! Remember, the right font enhances your message.",
+      "prompt": "A stylized digital illustration of a branching tree, where each branch represents a different font family (serif, sans-serif, script, decorative). At the base of the tree, show the words 'Project Goal' with roots extending downwards representing research and planning."
+    },
+    {
+      "title": "Font Pairing Harmony",
+      "caption": "Font pairing is like a dance. Find fonts that complement each other. Look for contrast. Combine a bold heading font with a lighter body font. Consider hierarchy. Use size and weight to guide the reader's eye. Don't be afraid to experiment. Try different combinations until you find a harmonious balance. Tools like font pairing websites can offer inspiration. Avoid fonts that are too similar, as they can create a confusing look. The goal is visual clarity and a pleasing aesthetic.",
+      "prompt": "An abstract graphic representation of two fonts 'dancing' together. One font is bold and geometric, the other is delicate and flowing. The background should be a harmonious blend of colors, suggesting balance and visual appeal."
+    },
+    {
+      "title": "Font Legibility Test",
+      "caption": "Legibility is paramount. A beautiful font is useless if it's unreadable. Consider font size. Small text can strain the eyes. Ensure sufficient line height for comfortable reading. Pay attention to contrast between the text and background. Dark text on a light background is generally easiest to read. Test your font choices on various screen sizes and resolutions. Print a sample to check for clarity in physical form. Accessibility is crucial. Choose fonts that are easy to read for people with visual impairments.",
+      "prompt": "A split-screen image. On one side, show a paragraph of text in a highly decorative, difficult-to-read font. On the other side, show the same paragraph in a clear, legible font like Arial or Open Sans. The background subtly indicates discomfort on the illegible side and comfort on the legible side."
+    },
+    {
+      "title": "The Psychology of Fonts",
+      "caption": "Fonts evoke emotions. Serif fonts often convey tradition and authority. Sans-serif fonts tend to feel modern and clean. Script fonts can be elegant and personal. Decorative fonts can add whimsy or flair. Understand the psychology behind fonts to align them with your project's message. A trustworthy brand might use a classic serif font. A tech startup might opt for a modern sans-serif. Consider your target audience's perception when making your choices.",
+      "prompt": "An image showcasing a human brain glowing with different colors in different areas. Each color represents a different font category (serif, sans-serif, script, decorative). A faint background shows silhouettes of people reacting to the emotions associated with each color/font."
+    },
+    {
+      "title": "Font File Formats",
+      "caption": "Font files come in various formats. TrueType (.ttf) and OpenType (.otf) are the most common. OpenType fonts offer more advanced features like ligatures and alternate characters. Web fonts (WOFF, WOFF2) are optimized for online use. Consider compatibility when choosing a format. Ensure the font file is compatible with your design software and target platform. Licensing is crucial. Always respect font licenses to avoid copyright infringement.",
+      "prompt": "An organized digital filing cabinet. Each drawer is labelled with a different font file format (.ttf, .otf, WOFF, WOFF2). Icons next to each label indicate the platform or use case (desktop, web, mobile)."
+    },
+    {
+      "title": "Finding Font Inspiration",
+      "caption": "Stuck for font inspiration? Explore design websites and blogs. Browse font libraries like Google Fonts or Adobe Fonts. Analyze the fonts used by brands you admire. Pay attention to typography in magazines and advertisements. Create mood boards to visualize your project's aesthetic. Don't be afraid to experiment with unconventional combinations. Take inspiration from nature, art, or architecture. Remember to stay true to your project's goals and target audience.",
+      "prompt": "A digital collage featuring various sources of font inspiration: website mockups, magazine layouts, book covers, and screenshots of font libraries. The image should convey a sense of exploration and discovery."
+    },
+    {
+      "title": "Avoiding Common Font Mistakes",
+      "caption": "Avoid overusing fonts. Stick to a limited palette for consistency. Don't choose fonts that are too similar. Create visual contrast. Be mindful of kerning and leading. Adjust the spacing between letters and lines for optimal readability. Don't use overly decorative fonts for body text. Legibility is key. Avoid using pixelated or low-resolution fonts. Choose high-quality fonts for professional results. Always preview your font choices before finalizing your design.",
+      "prompt": "A digital illustration showcasing common typography mistakes. Examples include: stretched fonts, bad kerning, poor contrast, and excessive use of fonts. Each mistake should be clearly labelled with a red 'X' symbol."
+    },
+    {
+      "title": "Font Tools and Resources",
+      "caption": "Numerous tools can aid your font selection process. Font pairing websites offer suggestions for harmonious combinations. Font identification tools can help you identify unknown fonts. Online typography tutorials provide guidance on best practices. Design software often includes built-in font management features. Utilize these resources to streamline your workflow and enhance your designs. Consider investing in premium font subscriptions for access to a wider selection.",
+      "prompt": "An image showcasing a toolbox filled with various digital icons representing different font tools and resources: a font pairing website icon, a font identification app icon, a design software icon, and a subscription service icon. A hand is reaching into the toolbox."
+    },
+    {
+      "title": "Font Licensing Explained",
+      "caption": "Understand font licensing. Commercial licenses allow you to use fonts for business purposes. Personal licenses are typically restricted to non-commercial projects. Open-source fonts often have more permissive licenses. Always read the license agreement carefully before using a font. Pay attention to restrictions on embedding, modification, and distribution. Violating font licenses can lead to legal consequences. Use reputable font foundries that offer clear and transparent licensing terms.",
+      "prompt": "A stylized legal document with the title 'Font License Agreement' prominently displayed. The document is partially transparent, revealing digital icons representing commercial use, personal use, and open-source licensing. A magnifying glass is focusing on a key clause within the agreement."
+    }
+  ]
+]

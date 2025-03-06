@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Components of a Computer System",
+    "content": "<h1>Welcome!</h1>\n<p>This presentation will cover the fundamental components that make up a computer system. We will explore both hardware and software aspects.</p>\n<p><strong>What We&#39;ll Cover:</strong></p>\n<ul>\n<li>Hardware Components</li>\n<li>Software Components</li>\n<li>Firmware</li>\n<li>How They Work Together</li>\n</ul>\n"
+  },
+  {
+    "title": "What is a Computer System?",
+    "content": "<p>A computer system is a set of integrated devices that input, process, store, and output data. It can perform a variety of tasks based on instructions provided through software.</p>\n<p>Think of it like a team: each part has a specific role, and they all work together.</p>\n"
+  },
+  {
+    "title": "Hardware: The Physical Parts",
+    "content": "<p>Hardware refers to the physical components of a computer that you can see and touch.</p>\n<ul>\n<li>Examples include: CPU, Memory, Storage, Input/Output Devices.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Central Processing Unit (CPU)",
+    "content": "<p>The CPU is the &#39;brain&#39; of the computer. It executes instructions and performs calculations.</p>\n<ul>\n<li>Also known as the processor.</li>\n<li>Speed is measured in GHz (gigahertz).</li>\n<li>Key manufacturers: Intel, AMD</li>\n</ul>\n"
+  },
+  {
+    "title": "Memory (RAM)",
+    "content": "<p>Random Access Memory (RAM) is temporary storage for data that the CPU is actively using.</p>\n<ul>\n<li>Faster than hard drives.</li>\n<li>Data is lost when the power is turned off.</li>\n<li>More RAM = better performance for running multiple programs.</li>\n</ul>\n"
+  },
+  {
+    "title": "Storage Devices",
+    "content": "<p>Storage devices store data permanently.</p>\n<ul>\n<li>Examples: Hard Disk Drives (HDDs), Solid State Drives (SSDs).</li>\n<li>HDDs: Traditional, slower, more affordable for large storage.</li>\n<li>SSDs: Faster, more expensive, becoming more common.</li>\n</ul>\n"
+  },
+  {
+    "title": "Input Devices",
+    "content": "<p>Input devices allow you to enter data and instructions into the computer.</p>\n<ul>\n<li>Examples: Keyboard, Mouse, Microphone, Scanner, Webcam.</li>\n</ul>\n"
+  },
+  {
+    "title": "Output Devices",
+    "content": "<p>Output devices display or present information from the computer.</p>\n<ul>\n<li>Examples: Monitor, Printer, Speakers, Projector.</li>\n</ul>\n"
+  },
+  {
+    "title": "Motherboard",
+    "content": "<p>The Motherboard is the main circuit board that connects all the hardware components.</p>\n<ul>\n<li>Provides pathways for communication between CPU, RAM, storage, etc.</li>\n<li>Different motherboards support different types of components.</li>\n</ul>\n"
+  },
+  {
+    "title": "Software: The Instructions",
+    "content": "<p>Software is a set of instructions that tells the hardware what to do.</p>\n<ul>\n<li>Two main categories: System Software and Application Software.</li>\n</ul>\n"
+  },
+  {
+    "title": "System Software",
+    "content": "<p>System software manages the computer&#39;s hardware and provides a platform for applications to run.</p>\n<ul>\n<li>Examples: Operating Systems (Windows, macOS, Linux), Utilities (antivirus, disk defragmenter).</li>\n</ul>\n"
+  },
+  {
+    "title": "Operating System (OS)",
+    "content": "<p>The OS is the most important system software. It manages resources, provides a user interface, and allows applications to interact with hardware.</p>\n<ul>\n<li>Examples: Windows, macOS, Linux, Android, iOS.</li>\n</ul>\n"
+  },
+  {
+    "title": "Application Software",
+    "content": "<p>Application software (or apps) performs specific tasks for the user.</p>\n<ul>\n<li>Examples: Word processors, Web browsers, Games, Image editors.</li>\n</ul>\n"
+  },
+  {
+    "title": "Examples of Applications",
+    "content": "<p> *Microsoft Word: For creating and editing documents.\n*Google Chrome: For browsing the internet.\n*Adobe Photoshop: For editing images.\n*Video Games: For entertainment.</p>\n"
+  },
+  {
+    "title": "Firmware: The Bridge",
+    "content": "<p>Firmware is a type of software that is embedded in hardware devices.</p>\n<ul>\n<li>Provides basic instructions for the device to operate.</li>\n<li>Often stored in read-only memory (ROM) or flash memory.</li>\n<li>Example: BIOS/UEFI in the motherboard.</li>\n</ul>\n"
+  },
+  {
+    "title": "BIOS/UEFI",
+    "content": "<p>BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) is firmware on the motherboard.</p>\n<ul>\n<li>Initializes the hardware during startup.</li>\n<li>Loads the operating system.</li>\n<li>Provides a basic interface for configuring hardware settings.</li>\n</ul>\n"
+  },
+  {
+    "title": "How Hardware and Software Work Together",
+    "content": "<p>Hardware provides the physical platform, while software provides the instructions.</p>\n<ul>\n<li>The OS acts as an intermediary, managing hardware resources and allowing applications to run.</li>\n<li>User interacts with software, which interacts with the OS, which then controls the hardware.</li>\n</ul>\n"
+  },
+  {
+    "title": "Input -> Processing -> Output",
+    "content": "<p>The fundamental process that a computer performs can be summarized as:</p>\n<ol>\n<li><strong>Input:</strong> Receiving data from input devices.</li>\n<li><strong>Processing:</strong> Manipulating the data using the CPU.</li>\n<li><strong>Output:</strong> Displaying or transmitting the results through output devices.</li>\n</ol>\n"
+  },
+  {
+    "title": "Data Representation",
+    "content": "<p>Computers use binary code (0s and 1s) to represent data.</p>\n<ul>\n<li>Bits: single binary digit (0 or 1).</li>\n<li>Bytes: 8 bits.</li>\n<li>Kilobytes (KB), Megabytes (MB), Gigabytes (GB), Terabytes (TB) are used to measure storage capacity.</li>\n</ul>\n"
+  },
+  {
+    "title": "Networking",
+    "content": "<p>Computers can connect to networks to share data and resources.</p>\n<ul>\n<li>Network Interface Card (NIC) allows a computer to connect to a network.</li>\n<li>Protocols (like TCP/IP) define how computers communicate over a network.</li>\n</ul>\n"
+  },
+  {
+    "title": "Recap: Key Components",
+    "content": "<ul>\n<li><strong>Hardware:</strong> Physical components (CPU, RAM, Storage, Input/Output).</li>\n<li><strong>Software:</strong> Instructions (Operating System, Applications).</li>\n<li><strong>Firmware:</strong> Embedded software (BIOS/UEFI).</li>\n</ul>\n<p>These components work together to enable computers to perform a wide range of tasks.</p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes our overview of the components of a computer system. Understanding these basics is crucial for anyone working with or using computers.</p>\n<p>Questions?</p>\n"
+  }
+]

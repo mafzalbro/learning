@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Spreadsheet Concept: Rows and Columns",
+      "caption": "Welcome to Spreadsheet Basics!  First, let's understand the core: rows and columns. Think of rows as horizontal lines stretching across.  Columns are vertical lines going down.  Where they intersect forms a cell – the heart of your spreadsheet!",
+      "prompt": "A clean, visually appealing image illustrating a spreadsheet grid with rows clearly highlighted in one color (e.g., light blue) and columns in another (e.g., light green). Label rows and columns in a non-obtrusive manner (A, B, C... 1, 2, 3...). Focus on clarity and visual differentiation."
+    },
+    {
+      "title": "Spreadsheet: Cell Addressing",
+      "caption": "Each cell has a unique address, like A1, B2, or C3. The column letter comes first, followed by the row number. This addressing system allows us to pinpoint specific cells for calculations and organization. Let's see it in action!",
+      "prompt": "A close-up shot of a spreadsheet grid.  A specific cell (e.g., cell B4) should be highlighted with a distinct border or fill color.  Arrows or labels should clearly indicate which column and row contribute to the cell's address.  Make the 'B4' address prominent."
+    },
+    {
+      "title": "Spreadsheet: Entering Data",
+      "caption": "Now, let's put data into a cell!  You can enter numbers, text, dates – virtually anything you need.  Just click on a cell and start typing.  Spreadsheets are powerful tools for organizing all sorts of information.",
+      "prompt": "An image showing a hand hovering over a keyboard, with the computer screen displaying a spreadsheet program. A cell within the spreadsheet should be visibly active, with text (e.g., 'Sales Figures') or a number being typed into it. Focus on the action of entering data."
+    },
+    {
+      "title": "Spreadsheet: Basic Formulas - Addition",
+      "caption": "Time for some basic math! Spreadsheets can perform calculations using formulas. To add two numbers, start with an equals sign (=), then the cells you want to add, separated by a plus sign (+). For example, '=A1+B1'.",
+      "prompt": "A spreadsheet with two cells (A1 and B1) containing numbers (e.g., A1=10, B1=5). Another cell (C1) should be selected, showing the formula '=A1+B1' entered in the formula bar. The result (15) should be displayed in cell C1."
+    },
+    {
+      "title": "Spreadsheet: Basic Formulas - Subtraction",
+      "caption": "Subtraction works similarly! Use the equals sign (=), then the cell to subtract *from*, followed by a minus sign (-), and the cell to subtract. Example: '=A1-B1'. Spreadsheets make calculations quick and easy.",
+      "prompt": "Similar to the addition example, but with subtraction. Cells A1 and B1 contain numbers (e.g., A1=20, B1=8). Cell C1 is selected, showing the formula '=A1-B1' in the formula bar. The result (12) is displayed in cell C1."
+    },
+    {
+      "title": "Spreadsheet: Basic Formulas - Multiplication",
+      "caption": "For multiplication, use the asterisk (*) symbol. The formula '=A1*B1' will multiply the values in cell A1 and B1. Spreadsheets automate calculations, saving you time and effort.",
+      "prompt": "Similar to the previous examples, but with multiplication. Cells A1 and B1 contain numbers (e.g., A1=6, B1=7). Cell C1 is selected, showing the formula '=A1*B1' in the formula bar. The result (42) is displayed in cell C1."
+    },
+    {
+      "title": "Spreadsheet: Basic Formulas - Division",
+      "caption": "Finally, division uses the forward slash (/). The formula '=A1/B1' divides the value in cell A1 by the value in cell B1. With these basics, you can perform a wide range of calculations!",
+      "prompt": "Similar to the previous examples, but with division. Cells A1 and B1 contain numbers (e.g., A1=100, B1=4). Cell C1 is selected, showing the formula '=A1/B1' in the formula bar. The result (25) is displayed in cell C1."
+    },
+    {
+      "title": "Spreadsheet: Sum Function",
+      "caption": "Beyond basic operators, spreadsheets offer functions. The SUM function adds a range of cells together. For example, '=SUM(A1:A5)' adds all the numbers in cells A1 through A5. Explore the power of functions!",
+      "prompt": "A spreadsheet with a column of numbers in cells A1 to A5 (e.g., 10, 20, 30, 40, 50). Cell A6 is selected, showing the formula '=SUM(A1:A5)' in the formula bar. The result (150) is displayed in cell A6."
+    },
+    {
+      "title": "Spreadsheet: Applying Formulas",
+      "caption": "Once you've created a formula, you can easily apply it to other rows or columns. Simply drag the corner of the cell with the formula down or across, and the formula will automatically adjust to the new cells. Easy!",
+      "prompt": "A spreadsheet with a formula in cell C1 (e.g., '=A1+B1'). A small square handle (the 'fill handle') is visible at the bottom-right corner of cell C1. An arrow indicates the user is dragging the fill handle downwards to apply the formula to subsequent cells (C2, C3, etc.). Show the first few rows having values for A and B, and C being A+B."
+    }
+  ]
+]

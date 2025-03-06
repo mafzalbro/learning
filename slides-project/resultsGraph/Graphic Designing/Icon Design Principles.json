@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Icon Design: Simplicity",
+      "caption": "Welcome to Icon Design Principles! First up: Simplicity. Less is more. Strip away unnecessary details. A simple icon is easier to recognize and understand, especially at small sizes. Aim for clarity, not clutter. A clean, minimal design is key for effective communication.",
+      "prompt": "A minimalist icon featuring a single, easily recognizable object, like a lightbulb or a magnifying glass, rendered in a flat design style. The object should be silhouetted against a clean, neutral background. Focus on clean lines and clear shapes."
+    },
+    {
+      "title": "Icon Design: Recognizability",
+      "caption": "Next, recognizability. An icon must be instantly identifiable. Use universally understood symbols and metaphors. Consider the context in which the icon will be used. Will users immediately know what it represents? Prioritize clarity and avoid abstract or overly stylized designs that may confuse users.",
+      "prompt": "An image showcasing a series of different icons (like a house, a mail envelope, a settings gear) placed next to their real-world counterparts. The icons should be stylized but still maintain enough visual similarity to be easily associated with their real-world referents."
+    },
+    {
+      "title": "Icon Design: Scalability",
+      "caption": "Scalability is crucial! Your icon must look good at various sizes, from small mobile screens to large desktop displays. Vector-based design ensures crispness and clarity at any resolution. Test your icons at different sizes to ensure legibility and avoid pixelation. Remember to keep the core elements clear even when scaled down.",
+      "prompt": "An icon of a star (or any simple shape) displayed at various sizes, from very small (e.g., 16x16 pixels) to very large (e.g., 512x512 pixels). The image should clearly demonstrate how the vector design maintains sharpness and detail across all sizes. Avoid pixelation or blurring."
+    },
+    {
+      "title": "Icon Design: Consistency",
+      "caption": "Consistency creates a cohesive user experience. Use a consistent style, color palette, and line weight across all icons in your set. A unified visual language helps users navigate and understand your interface more easily. Avoid jarring stylistic differences between icons. Think of it as a family of icons that belong together.",
+      "prompt": "A grid of 4-6 different icons (e.g., a user icon, a document icon, a folder icon, a notification icon) all designed in the same style (e.g., flat design with rounded corners, outlined design with a specific line weight, or gradient design using a specific color palette). The image should highlight the consistent visual style applied across all the icons."
+    },
+    {
+      "title": "Icon Design: Color",
+      "caption": "Color plays a vital role. Use color strategically to convey meaning and hierarchy. Limit your color palette to avoid visual overload. Consider accessibility: ensure sufficient contrast between the icon and its background. Test your icons in grayscale to check if they still convey the intended meaning without color.",
+      "prompt": "The same icon (e.g., a bell icon for notifications) shown in several different color variations. Some variations should use high-contrast colors, while others should demonstrate the same icon converted to grayscale. The image should illustrate how color impacts visibility and accessibility."
+    },
+    {
+      "title": "Icon Design: Platform Awareness",
+      "caption": "Know your platform! Different platforms have different icon design guidelines. iOS, Android, Windows – each has its own specific requirements and recommendations. Adapt your icons to fit the platform's aesthetic and ensure they integrate seamlessly into the overall user interface. Consider the platform's visual language when designing.",
+      "prompt": "An image showing three different icons for the same function (e.g., a 'settings' icon) designed in the distinct styles of iOS, Android, and Windows. The icons should be placed side-by-side to highlight the differences in style and adherence to platform-specific guidelines."
+    },
+    {
+      "title": "Icon Design: Affordance",
+      "caption": "Affordance! Does your icon suggest its function? Good icons provide visual cues that hint at their purpose. Make it clear what happens when the user interacts with the icon. Use familiar metaphors and visual elements to create a sense of intuitiveness. Ensure users understand the icon's action at a glance.",
+      "prompt": "An icon of a play button. Underneath it display a screen showing the same button pressed with a video starting. It visually demonstrates what the function of the button is. Consider other functions and display it in a similar fashion."
+    },
+    {
+      "title": "Icon Design: Testing & Iteration",
+      "caption": "Test and iterate! Get feedback on your designs. Test your icons with real users to see if they understand their meaning. Iterate on your designs based on the feedback you receive. Don't be afraid to make changes and refine your icons until they are clear, recognizable, and effective. Remember that design is an iterative process.",
+      "prompt": "A person looking at multiple variations of the same icon on a computer screen. They have a notebook in front of them and is presumably taking notes. The icon variations should be subtle, highlighting the iterative design process. Include design software interface around the icon."
+    },
+    {
+      "title": "Icon Design: Uniqueness",
+      "caption": "Stand out from the crowd! While adhering to best practices, strive for uniqueness. Differentiate your icons from generic symbols. Inject your own style and creativity while maintaining clarity and recognizability. A memorable icon can contribute to brand recognition and create a positive user experience.",
+      "prompt": "An image that highlights an unique design among standard basic designs of the same type. For example, a folder icon that looks very different in style and shape, and its placement among other standard folder icons."
+    }
+  ]
+]

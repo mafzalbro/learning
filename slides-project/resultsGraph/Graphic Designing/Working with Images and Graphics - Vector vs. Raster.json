@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Vector vs. Raster: The Foundation",
+      "caption": "Hey everyone, let's talk about images! There are two main types: vector and raster. Think of it like blueprints and paintings. One is based on math, the other on pixels. This difference impacts how we use them. Let's explore!",
+      "prompt": "A split-screen image. On one side, show abstract geometric shapes with clean lines, vibrant colors, and a 'Vector' label. On the other side, show a detailed photograph of a textured surface like a brick wall or a close-up of painted canvas, with a 'Raster' label. High resolution, visually appealing contrast."
+    },
+    {
+      "title": "Vector Graphics: Scalable Precision",
+      "caption": "Vector graphics are built using mathematical equations. This means they can be scaled infinitely without losing quality. Think logos, illustrations, and fonts. Perfect for designs that need to be resized frequently, like business cards to billboards.",
+      "prompt": "A vector-based logo (e.g., a stylized mountain or a geometric animal) with a large, dotted arrow indicating scaling upwards.  Show the logo looking crisp and sharp at both a small and a very large size.  The background should be clean and minimalist."
+    },
+    {
+      "title": "Raster Graphics: Pixel Power",
+      "caption": "Raster graphics are made up of tiny squares called pixels.  The more pixels, the higher the resolution.  Photos, digital paintings, and scanned images are all raster.  They excel at capturing detail and subtle gradations of color.",
+      "prompt": "A high-resolution photograph of a colorful flower, close-up, showing intricate details of the petals. Then, a magnified section of the same photo, clearly showing the individual pixels. Label the magnified area 'Pixels'."
+    },
+    {
+      "title": "Scaling Showdown: Vector Wins",
+      "caption": "When you zoom in on a raster image too much, you start to see individual pixels, making it blurry. Vector images, however, stay sharp at any size! This is because the computer recalculates the shapes based on the new size.",
+      "prompt": "A side-by-side comparison. On one side, a raster image of a star, zoomed in to the point where the pixels are clearly visible and the star appears blocky. On the other side, a vector image of the same star, zoomed in to the same degree, but remaining perfectly smooth and sharp."
+    },
+    {
+      "title": "File Size Matters: The Efficiency Game",
+      "caption": "Generally, vector files are smaller than raster files, especially for simple graphics. This is because vector files store instructions, not individual pixel data.  Raster files store information for *every* single pixel!",
+      "prompt": "Two contrasting images. One is a small vector icon of a house, and the other is a large, detailed raster photo of the same house. Next to each, display a digital file size indicator, showing the vector icon having a significantly smaller file size than the raster photo."
+    },
+    {
+      "title": "Editing Differences: Flexibility vs. Detail",
+      "caption": "Vector graphics are easily editable. You can move, reshape, and recolor elements without affecting the overall quality. Raster editing is pixel-based, allowing for fine-grained control but also the risk of pixelation.",
+      "prompt": "A split screen. On one side, a vector illustration of a tree being easily manipulated - branches moving, colors changing - using vector editing software (interface visible). On the other side, a raster image of the same tree, showing someone meticulously editing individual pixels using a raster editing tool."
+    },
+    {
+      "title": "Common File Formats: Know Your Types",
+      "caption": "Vector formats include SVG, AI, and EPS. Raster formats include JPEG, PNG, GIF, and TIFF. Choosing the right format is crucial for optimizing image quality and file size for different uses.",
+      "prompt": "A graphic organizer showing the different file formats. 'Vector' branches out to SVG, AI, EPS. 'Raster' branches out to JPEG, PNG, GIF, TIFF. Each format should have a small, relevant icon next to it (e.g., a gear for SVG, a camera for JPEG)."
+    },
+    {
+      "title": "Choosing the Right Tool: For the Right Job",
+      "caption": "Vector graphics are best created with software like Adobe Illustrator or Inkscape. Raster graphics shine in programs like Adobe Photoshop or GIMP. Each is designed for different workflows and outputs.",
+      "prompt": "A side-by-side comparison. On one side, a screenshot of Adobe Illustrator, with a vector logo being designed. On the other side, a screenshot of Adobe Photoshop, with a photograph being edited. Clearly label each software."
+    },
+    {
+      "title": "Vector and Raster Together: Hybrid Approaches",
+      "caption": "Sometimes, you need both! You can combine vector and raster elements in a single design. For example, a logo (vector) placed on a photograph (raster). Understanding both allows you to create truly dynamic visuals.",
+      "prompt": "An image showing a magazine cover. The cover features a large photograph (raster) with a stylish vector logo overlaid on top. The overall design should be modern and visually appealing, demonstrating the effective combination of vector and raster elements."
+    }
+  ]
+]

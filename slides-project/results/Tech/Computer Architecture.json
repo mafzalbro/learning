@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Computer Architecture: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover the fundamentals of computer architecture, from basic components to how they all work together. We&#39;ll explore:</p>\n<ul>\n<li><strong>What is Computer Architecture?</strong></li>\n<li><strong>Key Components:</strong> CPU, Memory, Input/Output</li>\n<li><strong>Instruction Sets:</strong> How computers understand commands</li>\n<li><strong>Memory Hierarchy:</strong> Speed vs. Capacity</li>\n<li><strong>Input/Output Systems:</strong> Connecting to the world</li>\n<li><strong>Modern Architectures:</strong> A brief look at current trends</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Computer Architecture?",
+    "content": "<p>Computer architecture is like the blueprint of a computer. It defines:</p>\n<ul>\n<li><strong>What components are used:</strong>  Like the CPU, memory, and storage.</li>\n<li><strong>How they are connected:</strong> How these parts communicate.</li>\n<li><strong>How they operate:</strong> The basic principles of how data is processed.</li>\n</ul>\n<p>Think of it as the design and organization of a computer system, impacting its performance, cost, and efficiency.</p>\n"
+  },
+  {
+    "title": "The CPU: The Brain of the Computer",
+    "content": "<p>The Central Processing Unit (CPU) is where all the magic happens! It:</p>\n<ul>\n<li><strong>Executes instructions:</strong> Carries out the commands from programs.</li>\n<li><strong>Performs calculations:</strong> Adds, subtracts, etc.</li>\n<li><strong>Controls other components:</strong> Tells other parts what to do.</li>\n</ul>\n<p>Key parts of a CPU:</p>\n<ul>\n<li><strong>Arithmetic Logic Unit (ALU):</strong> Does the math.</li>\n<li><strong>Control Unit (CU):</strong> Fetches instructions and manages execution.</li>\n<li><strong>Registers:</strong> Small, fast storage within the CPU.</li>\n</ul>\n"
+  },
+  {
+    "title": "Memory: Short-Term Storage",
+    "content": "<p>Memory, specifically RAM (Random Access Memory), is where the computer stores data and instructions <em>while</em> it&#39;s actively using them.</p>\n<ul>\n<li><strong>Volatile:</strong> Data is lost when power is turned off.</li>\n<li><strong>Fast access:</strong> Much faster than storage devices like hard drives.</li>\n<li><strong>Temporary workspace:</strong>  Think of it like a desktop where you keep the files you&#39;re currently working on.</li>\n</ul>\n<p>Different types of RAM (DDR, DDR5) offer different speeds.</p>\n"
+  },
+  {
+    "title": "Input/Output (I/O): Connecting to the World",
+    "content": "<p>I/O devices allow the computer to interact with the outside world.</p>\n<ul>\n<li><strong>Input devices:</strong>  Keyboard, mouse, microphone.</li>\n<li><strong>Output devices:</strong> Monitor, printer, speakers.</li>\n<li><strong>Storage devices:</strong> Hard drives, SSDs, USB drives (for both input and output).</li>\n</ul>\n<p>I/O controllers manage the communication between the CPU and these devices.</p>\n"
+  },
+  {
+    "title": "Instruction Sets: The Computer's Language",
+    "content": "<p>An instruction set is the set of commands that a CPU can understand and execute. It&#39;s like a computer&#39;s native language.</p>\n<ul>\n<li><strong>Examples:</strong> Add, subtract, load data, store data, jump to a different instruction.</li>\n<li><strong>Different architectures:</strong> x86 (Intel/AMD), ARM (mobile devices) have different instruction sets.</li>\n<li><strong>Assembly language:</strong>  A human-readable way to write instructions; then assembled into machine code.</li>\n</ul>\n"
+  },
+  {
+    "title": "Memory Hierarchy: Balancing Speed and Cost",
+    "content": "<p>Computers use a memory hierarchy to optimize performance while keeping costs down.</p>\n<ul>\n<li><strong>Faster, smaller, more expensive:</strong> Registers, Cache</li>\n<li><strong>Slower, larger, less expensive:</strong> RAM, Hard Drive/SSD</li>\n</ul>\n<p>The CPU tries to find the data it needs in the fastest level of memory first (cache). If it&#39;s not there, it goes to the next level (RAM), and so on.</p>\n"
+  },
+  {
+    "title": "Cache Memory: The Speed Booster",
+    "content": "<p>Cache memory is a small, fast memory that stores frequently accessed data. It&#39;s located closer to the CPU than RAM.</p>\n<ul>\n<li><strong>Levels:</strong> L1, L2, L3 (L1 is the fastest and smallest).</li>\n<li><strong>Cache hit:</strong> When the CPU finds the data it needs in the cache.</li>\n<li><strong>Cache miss:</strong> When the CPU has to go to RAM to get the data (slower).</li>\n</ul>\n<p>Cache drastically improves performance by reducing the time it takes to access data.</p>\n"
+  },
+  {
+    "title": "Input/Output (I/O) Systems in Detail",
+    "content": "<p>I/O systems handle communication between the CPU and peripheral devices.</p>\n<ul>\n<li><strong>I/O controllers:</strong> Manage the flow of data.</li>\n<li><strong>Buses:</strong> Pathways for data to travel (e.g., PCI, USB).</li>\n<li><strong>Interrupts:</strong> Signals sent by devices to the CPU to request attention.</li>\n</ul>\n<p>Direct Memory Access (DMA) allows devices to transfer data directly to/from memory without involving the CPU, improving efficiency.</p>\n"
+  },
+  {
+    "title": "Storage Devices: Long-Term Memory",
+    "content": "<p>Storage devices provide long-term, non-volatile storage for data and programs.</p>\n<ul>\n<li><strong>Hard Disk Drives (HDDs):</strong> Mechanical storage using spinning disks.</li>\n<li><strong>Solid State Drives (SSDs):</strong> Use flash memory for faster access and durability.</li>\n<li><strong>USB Drives:</strong> Portable storage using flash memory.</li>\n<li><strong>Optical Discs (CDs, DVDs, Blu-rays):</strong> Use lasers to read and write data.</li>\n</ul>\n"
+  },
+  {
+    "title": "Buses: The Highways of Data",
+    "content": "<p>Buses are communication pathways that connect different components within a computer system.</p>\n<ul>\n<li><strong>Address bus:</strong> Carries the memory addresses that the CPU wants to access.</li>\n<li><strong>Data bus:</strong> Carries the actual data being transferred.</li>\n<li><strong>Control bus:</strong> Carries control signals that coordinate the activity of the components.</li>\n</ul>\n<p>Common types of buses: PCI, USB, SATA.</p>\n"
+  },
+  {
+    "title": "Pipelining: Doing More at Once",
+    "content": "<p>Pipelining is a technique used to improve CPU performance by overlapping the execution of multiple instructions.</p>\n<ul>\n<li><strong>Break down instructions:</strong>  Into stages (fetch, decode, execute, etc.).</li>\n<li><strong>Multiple instructions in progress:</strong> Like an assembly line.</li>\n<li><strong>Improved throughput:</strong> More instructions completed per unit of time.</li>\n</ul>\n<p>Think of it as washing, drying, and folding clothes at the same time instead of one after the other.</p>\n"
+  },
+  {
+    "title": "Parallel Processing: Multiple Brains",
+    "content": "<p>Parallel processing involves using multiple processors or cores to execute instructions simultaneously.</p>\n<ul>\n<li><strong>Multicore CPUs:</strong>  Have multiple processing units on a single chip.</li>\n<li><strong>Multiprocessor systems:</strong>  Have multiple CPUs in a single computer.</li>\n<li><strong>Increased performance:</strong> Can significantly speed up tasks that can be divided into smaller parts.</li>\n</ul>\n<p>Different forms: Instruction-level parallelism, data-level parallelism.</p>\n"
+  },
+  {
+    "title": "Multicore Processors: Teamwork on a Chip",
+    "content": "<p>Multicore processors integrate multiple CPUs (cores) onto a single chip.</p>\n<ul>\n<li><strong>Each core can execute instructions independently.</strong></li>\n<li><strong>Share resources:</strong> Cache, memory controller, etc.</li>\n<li><strong>Improved performance:</strong> Can run multiple programs or threads concurrently.</li>\n</ul>\n<p>Essential for modern multitasking and demanding applications.</p>\n"
+  },
+  {
+    "title": "GPU: The Graphics Powerhouse",
+    "content": "<p>Graphics Processing Units (GPUs) are specialized processors designed for handling graphics and image processing.</p>\n<ul>\n<li><strong>Massively parallel:</strong>  Thousands of cores.</li>\n<li><strong>Optimized for calculations:</strong>  Used in graphics rendering, machine learning, and other compute-intensive tasks.</li>\n<li><strong>Dedicated memory:</strong>  Usually has its own dedicated memory (VRAM).</li>\n</ul>\n<p>Examples:  Nvidia GeForce, AMD Radeon.</p>\n"
+  },
+  {
+    "title": "Interrupts: Getting the CPU's Attention",
+    "content": "<p>Interrupts are signals that tell the CPU to stop what it&#39;s doing and handle a different task.</p>\n<ul>\n<li><strong>Hardware interrupts:</strong>  Generated by devices like the keyboard or mouse.</li>\n<li><strong>Software interrupts:</strong>  Generated by programs.</li>\n<li><strong>Interrupt handler:</strong>  A special routine that the CPU executes when an interrupt occurs.</li>\n</ul>\n<p>Essential for responding to events in a timely manner.</p>\n"
+  },
+  {
+    "title": "Operating Systems and Architecture",
+    "content": "<p>The Operating System (OS) plays a crucial role in managing computer hardware and resources.</p>\n<ul>\n<li><strong>Abstracts hardware:</strong>  Provides a consistent interface for applications.</li>\n<li><strong>Manages memory:</strong>  Allocates memory to processes.</li>\n<li><strong>Schedules tasks:</strong>  Determines which processes get to run on the CPU.</li>\n<li><strong>Handles I/O:</strong>  Communicates with peripheral devices.</li>\n</ul>\n<p>The OS and the computer architecture are tightly intertwined.</p>\n"
+  },
+  {
+    "title": "Virtualization: Running Multiple OSes",
+    "content": "<p>Virtualization allows you to run multiple operating systems (virtual machines) on a single physical computer.</p>\n<ul>\n<li><strong>Hypervisor:</strong>  A software layer that manages the virtual machines.</li>\n<li><strong>Isolation:</strong>  Each virtual machine runs in its own isolated environment.</li>\n<li><strong>Resource sharing:</strong>  Virtual machines share the physical computer&#39;s resources (CPU, memory, storage).</li>\n</ul>\n<p>Used for server consolidation, testing, and development.</p>\n"
+  },
+  {
+    "title": "Embedded Systems: Computers in Everything",
+    "content": "<p>Embedded systems are specialized computer systems designed for specific tasks, often with real-time constraints.</p>\n<ul>\n<li><strong>Examples:</strong>  Microwave ovens, cars, medical devices.</li>\n<li><strong>Limited resources:</strong>  Often have limited processing power and memory.</li>\n<li><strong>Real-time operating systems (RTOS):</strong>  Designed to guarantee timely execution of tasks.</li>\n</ul>\n<p>Focus on efficiency and reliability.</p>\n"
+  },
+  {
+    "title": "Cloud Computing: Architecture on a Massive Scale",
+    "content": "<p>Cloud computing provides access to computing resources (servers, storage, databases) over the internet.</p>\n<ul>\n<li><strong>Data centers:</strong>  Large facilities with thousands of servers.</li>\n<li><strong>Scalability:</strong>  Resources can be easily scaled up or down as needed.</li>\n<li><strong>Pay-as-you-go:</strong>  You only pay for the resources you use.</li>\n</ul>\n<p>Major providers: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP).</p>\n"
+  },
+  {
+    "title": "Quantum Computing: A Revolutionary Paradigm",
+    "content": "<p>Quantum computing uses the principles of quantum mechanics to perform computations.</p>\n<ul>\n<li><strong>Qubits:</strong>  The basic unit of information in a quantum computer.</li>\n<li><strong>Superposition and entanglement:</strong>  Quantum phenomena that enable new types of algorithms.</li>\n<li><strong>Potential for breakthroughs:</strong>  In fields like drug discovery, materials science, and cryptography.</li>\n</ul>\n<p>Still in early stages of development but shows great promise.</p>\n"
+  },
+  {
+    "title": "RISC vs. CISC: Instruction Set Philosophies",
+    "content": "<p>Two major instruction set architectures exist:</p>\n<ul>\n<li><strong>RISC (Reduced Instruction Set Computing):</strong> Uses a smaller set of simpler instructions. Faster execution per instruction, often requires more instructions to complete a task. Examples: ARM.</li>\n<li><strong>CISC (Complex Instruction Set Computing):</strong> Uses a larger set of more complex instructions. Fewer instructions to complete a task, but instructions can take longer to execute. Examples: x86.</li>\n</ul>\n<p>The choice depends on performance goals and application requirements.</p>\n"
+  },
+  {
+    "title": "Modern Trends in Computer Architecture",
+    "content": "<p>The field of computer architecture is constantly evolving.</p>\n<ul>\n<li><strong>More cores:</strong> Increasing the number of cores in CPUs and GPUs.</li>\n<li><strong>Specialized hardware:</strong> Designing processors optimized for specific tasks (e.g., AI accelerators).</li>\n<li><strong>Energy efficiency:</strong>  Reducing power consumption.</li>\n<li><strong>Security:</strong>  Protecting against vulnerabilities.</li>\n<li><strong>Heterogeneous Computing:</strong> Combining different types of processors (CPU, GPU, AI accelerator) on a single chip to optimize performance and energy efficiency for different types of workloads.</li>\n</ul>\n"
+  },
+  {
+    "title": "Future of Computer Architecture",
+    "content": "<p>The future of computer architecture is likely to be shaped by several factors:</p>\n<ul>\n<li><strong>Continued miniaturization:</strong> Pushing the limits of Moore&#39;s Law.</li>\n<li><strong>New materials and technologies:</strong> Exploring new materials and technologies to improve performance and efficiency.</li>\n<li><strong>AI-driven design:</strong> Using AI to design better computer architectures.</li>\n<li><strong>Quantum computing:</strong> Developing practical quantum computers.</li>\n<li><strong>Neuromorphic computing:</strong> Creating systems that mimic the structure and function of the human brain.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Computer architecture is a fascinating and complex field that plays a crucial role in shaping the technology we use every day. By understanding the fundamental principles of computer architecture, you can gain a deeper appreciation for how computers work and how they are constantly evolving.</p>\n"
+  }
+]

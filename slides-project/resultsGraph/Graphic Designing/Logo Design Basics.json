@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Seed of an Idea",
+      "caption": "Every great logo starts with an idea. What problem are you solving? Who is your target audience? Define your brand essence. This is the foundation for a memorable logo.",
+      "prompt": "A lightbulb sprouting a leaf, with roots reaching towards a target symbol in the distance. Soft, warm lighting. Representing the birth of an idea and its targeted growth."
+    },
+    {
+      "title": "Simplicity is Key",
+      "caption": "Less is often more. Avoid clutter and unnecessary details. A simple logo is more memorable, versatile, and easier to recognize. Think iconic brands: Nike, Apple, McDonald's.",
+      "prompt": "A clean, minimalist representation of a key unlocking a door. The key is made of only essential lines and shapes. A bright, uncluttered background."
+    },
+    {
+      "title": "Color Psychology",
+      "caption": "Colors evoke emotions. Choose colors that align with your brand's personality and message. Red can signify energy, blue trust, green growth. Do your research! Consider your industry.",
+      "prompt": "A color wheel with different colored sections radiating outwards, each section labeled with a single word associated with the color (e.g., 'Red - Energy', 'Blue - Trust'). A clean, modern aesthetic."
+    },
+    {
+      "title": "Typography Matters",
+      "caption": "The font you choose communicates a lot about your brand. Serif fonts are often seen as traditional and trustworthy, while sans-serif fonts feel modern and clean. Select wisely!",
+      "prompt": "Two side-by-side comparisons: On the left, a business card with a poorly chosen font, looking unprofessional. On the right, the same business card with a well-chosen, professional font. Focus on contrast and visual impact."
+    },
+    {
+      "title": "Scalability is Crucial",
+      "caption": "Your logo needs to look good at any size, from a tiny favicon to a large billboard. Make sure it's legible and recognizable whether it's small or blown up. Test your logo!",
+      "prompt": "A single logo icon duplicated at various sizes, from very small to very large, maintaining clarity and detail at each scale. Arrange the sizes in a visually appealing cascade."
+    },
+    {
+      "title": "Versatility is Vital",
+      "caption": "Your logo should work on various backgrounds and in different formats. Consider black and white versions for different applications. Adaptability is key for brand consistency.",
+      "prompt": "The same logo displayed on different backgrounds: a light background, a dark background, and a textured background. Show different variations of the logo (color, black and white, inverted) to ensure visibility on each background."
+    },
+    {
+      "title": "Originality is Paramount",
+      "caption": "Avoid generic clip art or designs that look too similar to your competitors. A unique and original logo will help you stand out and build a memorable brand identity.",
+      "prompt": "A single, unique geometric shape with a clear, distinct identity. Place it against a backdrop of blurred, generic shapes, emphasizing its originality and distinctiveness."
+    },
+    {
+      "title": "Icon vs. Logotype vs. Combination",
+      "caption": "Choose the right type of logo for your brand. An icon is a symbol, a logotype uses the company name, and a combination mark uses both. Consider which best represents your brand.",
+      "prompt": "A split screen showcasing three different logo examples: one is purely an icon (e.g., Apple's apple), one is purely a logotype (e.g., Google), and one is a combination mark (e.g., Adidas). Label each clearly."
+    },
+    {
+      "title": "Gather Feedback",
+      "caption": "Before finalizing your logo, get feedback from others. Show it to potential customers and ask for their honest opinions. Fresh eyes can catch things you might have missed.",
+      "prompt": "A computer screen displaying a logo design. Several speech bubbles surround the screen, each containing different feedback comments (e.g., 'Too complex,' 'I like the colors,' 'Very memorable')."
+    }
+  ]
+]

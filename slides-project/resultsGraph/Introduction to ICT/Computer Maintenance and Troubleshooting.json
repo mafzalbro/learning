@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Dusty Computer Interior",
+      "caption": "Is your computer running slow? Dust might be the culprit. Dust buildup restricts airflow, causing overheating. This leads to performance throttling and potential hardware damage. Regularly cleaning your computer's interior is crucial for optimal performance and longevity.",
+      "prompt": "A close-up, slightly macro shot of the inside of a desktop computer case, focusing on a thick layer of dust accumulated on the CPU heatsink and fan. The lighting should highlight the texture and density of the dust.  Use a depth of field that blurs the background components slightly to emphasize the dust."
+    },
+    {
+      "title": "Error Message Screen",
+      "caption": "Encountering error messages? Don't panic! Error messages provide clues to underlying problems. Note the error code or message text. Search online for solutions specific to your operating system and software. Often, a simple driver update or software reinstall can resolve the issue.",
+      "prompt": "A computer monitor displaying a typical blue screen error message (BSOD) on Windows or a similar error screen on MacOS or Linux. The text should be blurred enough to be unreadable but recognizable as an error message. The background behind the monitor is a cluttered desk with various tech accessories."
+    },
+    {
+      "title": "Checking Cable Connections",
+      "caption": "Loose connections can cause a variety of problems. Power issues, intermittent connectivity, and even complete system failure.  Ensure all cables are securely plugged in. Check both ends of each cable, including power cords, USB cables, and display connectors.",
+      "prompt": "Hands carefully reaching behind a desktop computer tower to check and tighten the connections of various cables (power, USB, Ethernet, display). The computer tower is partially visible, and the background is a well-lit workspace."
+    },
+    {
+      "title": "Overheated Laptop",
+      "caption": "Is your laptop hot to the touch? Overheating can significantly impact performance and shorten the lifespan of your components. Ensure adequate ventilation by placing your laptop on a hard, flat surface. Consider using a laptop cooling pad. Regularly clean the vents to remove dust and debris.",
+      "prompt": "A laptop computer sitting on a soft surface (like a bed or couch), partially covered, with heat radiating visibly (use heat haze effect) from the vents.  The screen is blurred, and the overall image has a slightly stressed, over-saturated feel to emphasize the heat."
+    },
+    {
+      "title": "Full Hard Drive Indicator",
+      "caption": "Running out of storage space? A full hard drive can slow down your computer dramatically. Delete unnecessary files, uninstall unused programs, and consider moving large files to an external hard drive or cloud storage.  Regularly cleaning up your storage can boost performance significantly.",
+      "prompt": "A visual representation of a hard drive or storage space indicator nearing full capacity. This could be a progress bar, a pie chart, or a stylized representation of data filling up a container. The overall color scheme should be leaning towards red and orange to signify a warning."
+    },
+    {
+      "title": "Software Update Notification",
+      "caption": "Software updates are crucial for security and performance. They often include bug fixes, security patches, and performance improvements. Ignoring updates leaves your system vulnerable to threats. Enable automatic updates to ensure you're always running the latest versions.",
+      "prompt": "A close-up screenshot of a software update notification appearing on a computer screen. The notification should clearly indicate the need to update a program or operating system. The background is blurred to focus attention on the update prompt."
+    },
+    {
+      "title": "Virus Scan Progress",
+      "caption": "Malware can wreak havoc on your system. Run regular virus scans to detect and remove malicious software. Use a reputable antivirus program and keep it updated.  Scheduling regular scans provides continuous protection against emerging threats.",
+      "prompt": "A computer screen displaying the progress of a virus scan in a modern antivirus software interface.  The progress bar should be partially filled, and the interface should show the number of files scanned and any threats detected. The overall color scheme should be clean and professional."
+    },
+    {
+      "title": "Defragmenting Hard Drive",
+      "caption": "Over time, files become fragmented on your hard drive. Defragmentation reorganizes data, improving access speeds. Regularly defragmenting your hard drive (especially on traditional HDDs) can boost performance. Most modern SSDs don't require defragmentation.",
+      "prompt": "A stylized representation of a hard drive being defragmented. This could be a visual metaphor using colorful blocks being rearranged and organized into a neat structure. The animation should suggest data being optimized and made more efficient."
+    },
+    {
+      "title": "Computer Startup Problems",
+      "caption": "Is your computer struggling to boot up?  Startup problems can be caused by various factors, including hardware issues, corrupted system files, or conflicting software. Try booting into safe mode to diagnose the problem. If that fails, consult a professional repair service.",
+      "prompt": "A computer screen frozen on a startup screen (BIOS or operating system loading screen), with an error message displayed. The image should convey a sense of frustration and technical difficulty. The surrounding environment is a dimly lit room."
+    },
+    {
+      "title": "Backup and Recovery",
+      "caption": "Data loss can be devastating. Regularly backing up your data is essential. Use an external hard drive, cloud storage, or a combination of both. Create system restore points to revert to a previous state if problems arise. Protecting your data ensures peace of mind.",
+      "prompt": "An image showing a visual representation of data being backed up from a computer to an external hard drive and/or the cloud. This could involve glowing lines connecting the computer to icons representing storage devices. The image should convey a sense of security and protection."
+    }
+  ]
+]

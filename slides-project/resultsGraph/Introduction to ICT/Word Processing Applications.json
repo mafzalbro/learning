@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Blank Document Beckons",
+      "caption": "Welcome to the world of word processing! A blank canvas awaits. Let's unlock its potential together. From simple letters to complex reports, it's all possible. Ready to begin?",
+      "prompt": "A clean, minimalist image of a blank white document on a computer screen. The screen is brightly lit. Focus on the invitation and opportunity it represents. A sleek, modern laptop sits on a light wooden desk. Soft, natural light from a window is visible in the background."
+    },
+    {
+      "title": "The Keyboard Connection",
+      "caption": "The keyboard: your key to creation. Every keystroke brings your ideas to life. Formatting options abound. Bold, italic, underlined, and more! Make your words stand out.",
+      "prompt": "Close-up image of hands typing on a modern keyboard. Focus on the keys 'CTRL', 'B', 'I', 'U'. Subtle bokeh in the background shows a monitor displaying a word processing interface. A warm, inviting color palette."
+    },
+    {
+      "title": "Toolbar Treasures",
+      "caption": "Explore the toolbar, your toolbox of features. Fonts, sizes, colors, and alignment – take control. Inserting images, tables, and charts: enhance your document. Make it visually compelling!",
+      "prompt": "A well-organized and clearly labeled word processing toolbar. Highlight key features like font selection, font size, bold/italics/underline buttons, alignment tools (left, center, right, justified), and image insertion icon. Use a popular word processing software interface as inspiration, but do not copy it exactly."
+    },
+    {
+      "title": "Formatting Fun",
+      "caption": "Formatting is your superpower. Paragraphs, headings, and bullet points structure your thoughts. Add a professional touch. Clean, consistent, and easy to read.",
+      "prompt": "A document with well-formatted text, demonstrating clear headings, paragraphs with proper indentation, and a bulleted list. Emphasize the visual hierarchy and readability. Use a neutral, professional-looking font like Arial or Times New Roman."
+    },
+    {
+      "title": "Saving Your Success",
+      "caption": "Don't forget to save your work! Protect your progress. Multiple formats available: .doc, .pdf, .txt, and more. Choose the right one for your needs.",
+      "prompt": "A stylized representation of the 'Save' icon, perhaps merging it with a cloud or hard drive icon. Show a file extension like '.doc' or '.pdf' subtly. The color palette should evoke feelings of security and reliability."
+    },
+    {
+      "title": "The Power of Print",
+      "caption": "From screen to paper: printing is the final step. Review your document carefully. Ensure everything is perfect before you print. Share your work with the world!",
+      "prompt": "An image of a printer printing a document. Focus on the crisp, clean output of the printed page. The document on the screen should mirror what is being printed. Use soft, natural lighting to create a sense of authenticity."
+    },
+    {
+      "title": "Collaboration is Key",
+      "caption": "Word processing isn't just for solo work. Collaborate with others! Share your documents and get feedback. Teamwork makes the dream work!",
+      "prompt": "An image showing multiple hands reaching towards a laptop screen displaying a shared document. The hands should be diverse, representing different people working together. A feeling of cooperation and shared effort should be conveyed."
+    },
+    {
+      "title": "Spell Check Savvy",
+      "caption": "Typos begone! Spell check is your friend. Catch those errors before they slip through. Grammar check helps refine your writing. Polish your prose!",
+      "prompt": "A document with a word highlighted by the spell check feature, indicating a potential error. The correction suggestions are visible. Use a standard spell check interface style, but avoid directly copying any specific software."
+    },
+    {
+      "title": "Word Processing Wonders",
+      "caption": "Word processing: a powerful tool for communication. From students to professionals, everyone benefits. Unleash your creativity and share your voice. The possibilities are endless!",
+      "prompt": "A montage of images showing various people using word processing software in different settings: a student in a library, a professional in an office, a writer at a cafe. Highlight the versatility and broad applicability of word processing."
+    },
+    {
+      "title": "Beyond the Basics",
+      "caption": "Beyond writing letters. Creating reports, flyers, and resumes. Word processing is a versatile companion. Make it work for you!",
+      "prompt": "A screen showcasing different document types created using word processing: a resume, a flyer, a report with graphs, a letter. Show the diversity and capability of the software."
+    }
+  ]
+]

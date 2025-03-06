@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Welcome to Computer Science!",
+    "content": "<p>This presentation will give you a broad overview of Computer Science. We&#39;ll cover:</p>\n<ul>\n<li><strong>What is Computer Science?</strong>  A simple definition.</li>\n<li><strong>Key Areas:</strong>  Exploring some important fields.</li>\n<li><strong>Fundamental Concepts:</strong> Basic ideas everyone should know.</li>\n<li><strong>Why Study CS?</strong> The benefits and opportunities.</li>\n</ul>\n"
+  },
+  {
+    "title": "What IS Computer Science?",
+    "content": "<p>Simply put, Computer Science is the study of:</p>\n<ul>\n<li><strong>Computers:</strong> How they work, and what they can do.</li>\n<li><strong>Computation:</strong> Solving problems using algorithms (step-by-step instructions).</li>\n<li><strong>Information:</strong>  How it&#39;s stored, processed, and communicated.</li>\n</ul>\n<p>Think of it as problem-solving with technology!</p>\n"
+  },
+  {
+    "title": "Key Areas of Computer Science",
+    "content": "<p>Computer Science is a vast field. Here are just a few areas:</p>\n<ul>\n<li><strong>Programming:</strong> Writing code to create software and applications.</li>\n<li><strong>Data Science:</strong> Analyzing large datasets to find patterns and insights.</li>\n<li><strong>Artificial Intelligence (AI):</strong>  Creating intelligent systems that can learn and adapt.</li>\n<li><strong>Cybersecurity:</strong> Protecting computer systems and networks from threats.</li>\n<li><strong>Computer Networking:</strong> Connecting computers to allow them to communicate.</li>\n</ul>\n"
+  },
+  {
+    "title": "Fundamental Concept: Algorithms",
+    "content": "<p>An Algorithm is a set of well-defined instructions to solve a problem.</p>\n<ul>\n<li>Think of it like a recipe.</li>\n<li>Examples:<ul>\n<li>Sorting a list of numbers.</li>\n<li>Finding the shortest path between two cities.</li>\n<li>Searching for a specific item on a website.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Fundamental Concept: Data Structures",
+    "content": "<p>Data Structures are ways to organize and store data efficiently.</p>\n<ul>\n<li>Different structures are good for different tasks.</li>\n<li>Examples:<ul>\n<li><strong>Arrays:</strong> Ordered lists of items.</li>\n<li><strong>Linked Lists:</strong>  Items connected in a sequence.</li>\n<li><strong>Trees:</strong>  Hierarchical structures (like a family tree).</li>\n<li><strong>Graphs:</strong>  Networks of nodes and connections.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Fundamental Concept: Binary and Bits",
+    "content": "<p>Computers use binary (0s and 1s) to represent all information.</p>\n<ul>\n<li>A &#39;bit&#39; is a single binary digit (0 or 1).</li>\n<li>Everything – text, images, videos – is ultimately stored as a sequence of bits.</li>\n<li>Why binary?  Easy for computers to represent with on/off signals.</li>\n</ul>\n"
+  },
+  {
+    "title": "Fundamental Concept: Abstraction",
+    "content": "<p>Abstraction is hiding complex details and presenting a simplified view.</p>\n<ul>\n<li>Think of driving a car: You don&#39;t need to know how the engine works to drive it.</li>\n<li>In programming, we use functions and classes to create abstractions.</li>\n<li>Abstraction makes complex systems easier to manage.</li>\n</ul>\n"
+  },
+  {
+    "title": "Programming Languages",
+    "content": "<p>Languages used to write instructions for computers.</p>\n<ul>\n<li>Examples:<ul>\n<li><strong>Python:</strong>  Beginner-friendly, versatile.</li>\n<li><strong>Java:</strong>  Widely used for enterprise applications.</li>\n<li><strong>C++:</strong>  Powerful, used for system programming and games.</li>\n<li><strong>JavaScript:</strong>  Used for web development.</li>\n<li><strong>Go:</strong> Modern language developed by Google for fast and efficient execution.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Software Development Lifecycle (SDLC)",
+    "content": "<p>SDLC is a structured process for creating software.</p>\n<ul>\n<li>Common Stages:<ul>\n<li><strong>Planning:</strong> Defining the goals and scope.</li>\n<li><strong>Analysis:</strong> Gathering requirements.</li>\n<li><strong>Design:</strong> Creating the architecture.</li>\n<li><strong>Implementation:</strong> Writing the code.</li>\n<li><strong>Testing:</strong> Finding and fixing bugs.</li>\n<li><strong>Deployment:</strong> Releasing the software.</li>\n<li><strong>Maintenance:</strong>  Providing updates and support.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Databases",
+    "content": "<p>Databases are organized collections of data.</p>\n<ul>\n<li>Used to store and manage large amounts of information.</li>\n<li>Types of Databases:<ul>\n<li><strong>Relational Databases (SQL):</strong>  Organized in tables (e.g., MySQL, PostgreSQL).</li>\n<li><strong>NoSQL Databases:</strong>  More flexible data models (e.g., MongoDB, Cassandra).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Networking Basics",
+    "content": "<p>How computers communicate with each other.</p>\n<ul>\n<li><strong>The Internet:</strong> A global network of networks.</li>\n<li><strong>Protocols:</strong>  Rules for communication (e.g., TCP/IP, HTTP).</li>\n<li><strong>IP Addresses:</strong> Unique identifiers for devices on a network.</li>\n<li><strong>Routers:</strong> Devices that forward data packets between networks.</li>\n</ul>\n"
+  },
+  {
+    "title": "Artificial Intelligence (AI) and Machine Learning (ML)",
+    "content": "<p>AI is about creating intelligent machines.</p>\n<ul>\n<li>ML is a subset of AI that focuses on training machines to learn from data.</li>\n<li>Examples:<ul>\n<li><strong>Image Recognition:</strong> Identifying objects in images.</li>\n<li><strong>Natural Language Processing (NLP):</strong> Understanding and generating human language.</li>\n<li><strong>Recommendation Systems:</strong> Suggesting products or content based on user preferences.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "content": "<p>Protecting computer systems and data from threats.</p>\n<ul>\n<li><strong>Common Threats:</strong> Viruses, malware, hacking.</li>\n<li><strong>Security Measures:</strong> Firewalls, antivirus software, encryption.</li>\n<li><strong>Ethical Hacking:</strong>  Using hacking techniques to find vulnerabilities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cloud Computing",
+    "content": "<p>Delivering computing services over the internet.</p>\n<ul>\n<li>Examples:<ul>\n<li><strong>Amazon Web Services (AWS)</strong></li>\n<li><strong>Microsoft Azure</strong></li>\n<li><strong>Google Cloud Platform (GCP)</strong></li>\n</ul>\n</li>\n<li>Benefits: Scalability, cost savings, flexibility.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Importance of Computer Science",
+    "content": "<p>CS is everywhere! It powers:</p>\n<ul>\n<li><strong>Medicine:</strong> Designing new drugs and treatments.</li>\n<li><strong>Transportation:</strong> Self-driving cars and smart traffic systems.</li>\n<li><strong>Entertainment:</strong> Video games, movies, and music streaming.</li>\n<li><strong>Communication:</strong> Social media, email, and video conferencing.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why Study Computer Science?",
+    "content": "<p>Many reasons to consider studying CS:</p>\n<ul>\n<li><strong>High Demand:</strong>  Lots of job opportunities.</li>\n<li><strong>Good Salaries:</strong> Competitive pay.</li>\n<li><strong>Problem Solving:</strong>  Develop valuable skills.</li>\n<li><strong>Creativity:</strong>  Build amazing things.</li>\n<li><strong>Make a Difference:</strong>  Contribute to solving important problems.</li>\n</ul>\n"
+  },
+  {
+    "title": "Job Opportunities in Computer Science",
+    "content": "<p>A wide range of career paths:</p>\n<ul>\n<li><strong>Software Engineer:</strong> Develops and maintains software.</li>\n<li><strong>Data Scientist:</strong> Analyzes data to find insights.</li>\n<li><strong>Web Developer:</strong> Builds websites and web applications.</li>\n<li><strong>Network Engineer:</strong>  Manages computer networks.</li>\n<li><strong>Cybersecurity Analyst:</strong> Protects systems from cyber threats.</li>\n</ul>\n"
+  },
+  {
+    "title": "Getting Started with Computer Science",
+    "content": "<p>Here are some ways to begin your CS journey:</p>\n<ul>\n<li><strong>Online Courses:</strong> Codecademy, Coursera, edX, Khan Academy.</li>\n<li><strong>Coding Bootcamps:</strong> Intensive training programs.</li>\n<li><strong>Books and Tutorials:</strong> Many resources available online and in libraries.</li>\n<li><strong>Practice, Practice, Practice:</strong>  The best way to learn is by doing!</li>\n</ul>\n"
+  },
+  {
+    "title": "Open Source Software",
+    "content": "<p>Software with publicly available source code.</p>\n<ul>\n<li>Anyone can view, modify, and distribute the code.</li>\n<li>Examples:<ul>\n<li><strong>Linux Operating System</strong></li>\n<li><strong>Apache Web Server</strong></li>\n<li><strong>Mozilla Firefox Web Browser</strong></li>\n</ul>\n</li>\n<li>Promotes collaboration and innovation.</li>\n</ul>\n"
+  },
+  {
+    "title": "Version Control Systems (Git)",
+    "content": "<p>Used to track changes to code over time.</p>\n<ul>\n<li>Allows multiple developers to work on the same project.</li>\n<li><strong>Git</strong> is the most popular version control system.</li>\n<li><strong>GitHub</strong> and <strong>GitLab</strong> are platforms for hosting Git repositories.</li>\n</ul>\n"
+  },
+  {
+    "title": "Operating Systems",
+    "content": "<p>Software that manages computer hardware and resources.</p>\n<ul>\n<li>Examples:<ul>\n<li><strong>Windows</strong></li>\n<li><strong>macOS</strong></li>\n<li><strong>Linux</strong></li>\n</ul>\n</li>\n<li>Provides a platform for running applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "Compilers and Interpreters",
+    "content": "<p>Tools that translate code into machine-executable instructions.</p>\n<ul>\n<li><strong>Compilers:</strong> Translate the entire code at once.</li>\n<li><strong>Interpreters:</strong> Translate code line by line.</li>\n<li>Examples:<ul>\n<li><strong>GCC (C/C++ Compiler)</strong></li>\n<li><strong>Python Interpreter</strong></li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of Computer Science",
+    "content": "<p>Exciting advancements on the horizon:</p>\n<ul>\n<li><strong>Quantum Computing:</strong>  Revolutionary computing power.</li>\n<li><strong>Edge Computing:</strong>  Bringing computation closer to the data source.</li>\n<li><strong>Internet of Things (IoT):</strong>  Connecting everyday objects to the internet.</li>\n<li><strong>Continued AI advancements:</strong>  More intelligent and autonomous systems.</li>\n</ul>\n"
+  },
+  {
+    "title": "Ethical Considerations in Computer Science",
+    "content": "<p>Important to consider the ethical implications of technology.</p>\n<ul>\n<li><strong>Privacy:</strong>  Protecting user data.</li>\n<li><strong>Bias:</strong>  Avoiding unfair or discriminatory outcomes in AI systems.</li>\n<li><strong>Security:</strong>  Ensuring systems are safe from malicious attacks.</li>\n<li><strong>Accessibility:</strong>  Making technology available to everyone.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Computer Science is a dynamic and rewarding field.</p>\n<ul>\n<li>It offers endless opportunities for innovation and problem-solving.</li>\n<li>We hope this presentation has sparked your interest in learning more!</li>\n<li>The journey of a thousand lines of code begins with a single &#39;Hello, World!&#39;.</li>\n</ul>\n"
+  }
+]

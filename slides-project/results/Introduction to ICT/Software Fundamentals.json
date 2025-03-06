@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Fundamentals: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover the essential building blocks of software development. We&#39;ll explore the core concepts that underpin all software, from simple programs to complex systems.</p>\n<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>What is Software?</li>\n<li>Programming Languages</li>\n<li>Algorithms and Data Structures</li>\n<li>Software Development Life Cycle (SDLC)</li>\n<li>Basic Programming Concepts (Variables, Loops, Conditionals)</li>\n<li>Different Types of Software</li>\n<li>Software Architecture Fundamentals</li>\n<li>Testing Basics</li>\n<li>Version Control (Git Basics)</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Software?",
+    "content": "<p>Software is a set of instructions that tells a computer what to do.  It&#39;s the non-tangible part of a computer system.  Think of it as the brain behind the hardware.</p>\n<ul>\n<li><strong>Examples:</strong><ul>\n<li>Operating Systems (Windows, macOS, Linux)</li>\n<li>Applications (Word processors, Web browsers, Games)</li>\n<li>Utilities (Antivirus software, File managers)</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Programming Languages: Talking to Computers",
+    "content": "<p>Programming languages are the tools we use to write software.  They provide a way to translate human-readable instructions into machine-readable code.</p>\n<ul>\n<li><p><strong>Examples:</strong></p>\n<ul>\n<li><strong>High-Level:</strong> Python, Java, JavaScript, C#, Go (Easier to read and write)</li>\n<li><strong>Low-Level:</strong> Assembly Language, C (Closer to the hardware, more control)</li>\n</ul>\n</li>\n<li><p>Each language has its own syntax and rules. Choosing the right language depends on the project.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Algorithms: Step-by-Step Instructions",
+    "content": "<p>An algorithm is a sequence of steps to solve a specific problem.  It&#39;s like a recipe for a computer.</p>\n<ul>\n<li><p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Well-defined:</strong> Each step is clear and unambiguous.</li>\n<li><strong>Finite:</strong> The algorithm must eventually terminate.</li>\n<li><strong>Effective:</strong> Each step can be carried out in a finite amount of time.</li>\n</ul>\n</li>\n<li><p><strong>Example:</strong>  An algorithm to find the largest number in a list.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Data Structures: Organizing Information",
+    "content": "<p>Data structures are ways of organizing and storing data in a computer so that it can be used efficiently.</p>\n<ul>\n<li><strong>Common Data Structures:</strong><ul>\n<li><strong>Arrays:</strong>  A collection of elements of the same type.</li>\n<li><strong>Linked Lists:</strong> A sequence of elements, each pointing to the next.</li>\n<li><strong>Stacks:</strong>  LIFO (Last-In, First-Out) data structure.</li>\n<li><strong>Queues:</strong> FIFO (First-In, First-Out) data structure.</li>\n<li><strong>Trees:</strong> Hierarchical data structure.</li>\n<li><strong>Hash Tables:</strong>  Data structure that uses a hash function to map keys to values.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Software Development Life Cycle (SDLC)",
+    "content": "<p>The SDLC is a framework that defines the steps involved in developing software, from initial planning to deployment and maintenance.</p>\n<ul>\n<li><p><strong>Common SDLC Models:</strong></p>\n<ul>\n<li><strong>Waterfall:</strong>  A linear, sequential approach.</li>\n<li><strong>Agile:</strong>  An iterative and incremental approach.</li>\n<li><strong>Spiral:</strong> Risk-driven approach with iterative cycles.</li>\n</ul>\n</li>\n<li><p><strong>Typical Phases:</strong></p>\n<ul>\n<li>Requirements Gathering</li>\n<li>Design</li>\n<li>Implementation (Coding)</li>\n<li>Testing</li>\n<li>Deployment</li>\n<li>Maintenance</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Programming Concepts: Variables",
+    "content": "<p>A variable is a named storage location in a computer&#39;s memory that holds a value. Think of it as a container that can hold different types of information.</p>\n<ul>\n<li><p><strong>Example (Python):</strong></p>\n<pre><code class=\"language-python\">age = 30  # age is a variable holding the integer value 30\nname = &quot;Alice&quot; # name is a variable holding the string &quot;Alice&quot;\n</code></pre>\n</li>\n<li><p><strong>Data Types:</strong></p>\n<ul>\n<li>Integer (whole numbers)</li>\n<li>Float (decimal numbers)</li>\n<li>String (text)</li>\n<li>Boolean (True or False)</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Programming Concepts: Loops",
+    "content": "<p>Loops allow you to repeat a block of code multiple times. This is essential for automating tasks and processing large amounts of data.</p>\n<ul>\n<li><p><strong>Types of Loops:</strong></p>\n<ul>\n<li><strong>For loop:</strong>  Repeats a block of code a specific number of times.</li>\n<li><strong>While loop:</strong>  Repeats a block of code as long as a condition is true.</li>\n</ul>\n</li>\n<li><p><strong>Example (Python):</strong></p>\n<pre><code class=\"language-python\">for i in range(5):  # Repeats 5 times\n    print(i)\n\ncount = 0\nwhile count &lt; 5:\n    print(count)\n    count += 1\n</code></pre>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Programming Concepts: Conditionals",
+    "content": "<p>Conditional statements allow you to execute different blocks of code based on whether a condition is true or false.</p>\n<ul>\n<li><p><strong>Keywords:</strong></p>\n<ul>\n<li><code>if</code></li>\n<li><code>else</code></li>\n<li><code>elif</code> (else if)</li>\n</ul>\n</li>\n<li><p><strong>Example (Python):</strong></p>\n<pre><code class=\"language-python\">age = 20\nif age &gt;= 18:\n    print(&quot;You are an adult.&quot;)\nelse:\n    print(&quot;You are a minor.&quot;)\n</code></pre>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of Software: A Broad Overview",
+    "content": "<p>Software can be categorized in many ways. Here are some common classifications:</p>\n<ul>\n<li><strong>System Software:</strong> Manages the computer&#39;s hardware (e.g., Operating Systems).</li>\n<li><strong>Application Software:</strong> Designed for specific tasks (e.g., Word processors, Games).</li>\n<li><strong>Embedded Software:</strong> Controls specific devices (e.g., washing machine, car engine).</li>\n<li><strong>Web Applications:</strong> Runs on web browsers (e.g., online banking, social media).</li>\n<li><strong>Mobile Applications:</strong> Runs on mobile devices (e.g., phone apps).</li>\n</ul>\n"
+  },
+  {
+    "title": "Software Architecture: The Blueprint",
+    "content": "<p>Software architecture is the high-level structure of a software system. It defines the components, their relationships, and how they interact.</p>\n<ul>\n<li><strong>Common Architectural Styles:</strong><ul>\n<li><strong>Monolithic:</strong> All components are tightly coupled in a single unit.</li>\n<li><strong>Microservices:</strong> The application is structured as a collection of small, independent services.</li>\n<li><strong>Layered Architecture:</strong>  Organizes components into distinct layers (e.g., presentation, business logic, data access).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Testing Basics: Ensuring Quality",
+    "content": "<p>Testing is the process of evaluating software to detect defects and ensure it meets requirements.</p>\n<ul>\n<li><strong>Types of Testing:</strong><ul>\n<li><strong>Unit Testing:</strong> Testing individual components or functions.</li>\n<li><strong>Integration Testing:</strong> Testing the interaction between different components.</li>\n<li><strong>System Testing:</strong> Testing the entire system as a whole.</li>\n<li><strong>User Acceptance Testing (UAT):</strong> Testing by end-users to verify that the software meets their needs.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Version Control (Git): Tracking Changes",
+    "content": "<p>Version control systems (like Git) allow you to track changes to your code over time.  They are essential for collaboration and managing code history.</p>\n<ul>\n<li><p><strong>Key Concepts:</strong></p>\n<ul>\n<li><strong>Repository:</strong> A database that stores all the versions of your code.</li>\n<li><strong>Commit:</strong> A snapshot of your code at a particular point in time.</li>\n<li><strong>Branch:</strong>  A separate line of development.</li>\n<li><strong>Merge:</strong>  Combining changes from different branches.</li>\n</ul>\n</li>\n<li><p><strong>Common Git Commands:</strong> <code>git add</code>, <code>git commit</code>, <code>git push</code>, <code>git pull</code>, <code>git branch</code>, <code>git merge</code></p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Beyond the Basics: Where to Go Next",
+    "content": "<p>This presentation has covered the fundamental concepts of software. Now, you can explore more advanced topics such as:</p>\n<ul>\n<li><strong>Object-Oriented Programming (OOP)</strong></li>\n<li><strong>Databases (SQL, NoSQL)</strong></li>\n<li><strong>Web Development (HTML, CSS, JavaScript, Frameworks)</strong></li>\n<li><strong>Cloud Computing (AWS, Azure, GCP)</strong></li>\n<li><strong>Design Patterns</strong></li>\n<li><strong>Security Principles</strong></li>\n<li><strong>DevOps Practices</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Thank you for your time! We hope this presentation has provided a solid foundation in software fundamentals. Good luck on your software development journey!  Feel free to ask any questions.</p>\n"
+  }
+]

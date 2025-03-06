@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Gauss's Law: Unveiling Electric Fields",
+    "content": "<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>What is Electric Flux?</li>\n<li>Introducing Gauss&#39;s Law</li>\n<li>Gaussian Surfaces: Choosing the right tool</li>\n<li>Applying Gauss&#39;s Law: Examples and Applications</li>\n<li>Symmetry and Gauss&#39;s Law: Simplification power</li>\n<li>Conductors and Gauss&#39;s Law</li>\n<li>Limitations of Gauss&#39;s Law</li>\n<li>Gauss&#39;s Law vs. Coulomb&#39;s Law</li>\n<li>Practice Problems</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Flux: A Quick Review",
+    "content": "<p>Electric flux is a measure of the &#39;flow&#39; of the electric field through a given area.</p>\n<ul>\n<li>It&#39;s proportional to the number of electric field lines passing through the area.</li>\n<li><strong>Formula:</strong>  Φ<sub>E</sub> = ∫ <strong>E</strong> ⋅ d<strong>A</strong><ul>\n<li>Φ<sub>E</sub> = Electric flux</li>\n<li><strong>E</strong> = Electric field vector</li>\n<li>d<strong>A</strong> = Area vector (perpendicular to the surface).</li>\n</ul>\n</li>\n<li>The integral is over the entire surface.</li>\n</ul>\n"
+  },
+  {
+    "title": "Gauss's Law: The Core Concept",
+    "content": "<p><strong>Gauss&#39;s Law states:</strong> The total electric flux through any closed surface is proportional to the enclosed electric charge.</p>\n<ul>\n<li><strong>Formula:</strong>  ∮ <strong>E</strong> ⋅ d<strong>A</strong> = Q<sub>enclosed</sub> / ε<sub>0</sub><ul>\n<li>∮ <strong>E</strong> ⋅ d<strong>A</strong> = Electric flux through the closed surface</li>\n<li>Q<sub>enclosed</sub> = Total charge enclosed within the surface</li>\n<li>ε<sub>0</sub> = Permittivity of free space (a constant)</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding the Formula",
+    "content": "<p>Let&#39;s break down the formula:  ∮ <strong>E</strong> ⋅ d<strong>A</strong> = Q<sub>enclosed</sub> / ε<sub>0</sub></p>\n<ul>\n<li>The integral (∮) means we are summing the electric field dotted with the area vector over the <em>entire</em> closed surface.</li>\n<li>Q<sub>enclosed</sub> is the <em>net</em> charge inside the surface. Positive and negative charges cancel out.</li>\n<li>ε<sub>0</sub> is just a constant that relates the units of charge and electric field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Gaussian Surfaces: Choosing Wisely",
+    "content": "<p>A Gaussian surface is an imaginary closed surface we choose to apply Gauss&#39;s Law.</p>\n<ul>\n<li><strong>Key Goal:</strong>  Choose a surface where the electric field is either constant in magnitude and perpendicular to the surface, or parallel to the surface (E ⋅ dA = 0).</li>\n<li><strong>Common Shapes:</strong> Sphere, cylinder, cube.</li>\n</ul>\n"
+  },
+  {
+    "title": "Gaussian Surface: Spherical Symmetry",
+    "content": "<p>When dealing with a spherically symmetric charge distribution, a <strong>spherical</strong> Gaussian surface centered on the charge is ideal.</p>\n<ul>\n<li>The electric field is radial (pointing directly away from or toward the charge).</li>\n<li>The electric field has the same magnitude at every point on the surface.</li>\n<li>This simplifies the integral greatly.</li>\n</ul>\n"
+  },
+  {
+    "title": "Gaussian Surface: Cylindrical Symmetry",
+    "content": "<p>For cylindrically symmetric charge distributions (e.g., a long charged wire), a <strong>cylindrical</strong> Gaussian surface coaxial with the charge is the best choice.</p>\n<ul>\n<li>The electric field is radial (pointing directly away from or toward the wire).</li>\n<li>The electric field has the same magnitude at every point on the curved surface.</li>\n<li>Consider the flux through the top and bottom flat surfaces – the electric field is usually parallel to these, resulting in zero flux.</li>\n</ul>\n"
+  },
+  {
+    "title": "Example 1: Electric Field of a Point Charge",
+    "content": "<p>Let&#39;s use Gauss&#39;s Law to find the electric field of a single point charge <em>q</em>.</p>\n<ol>\n<li>Choose a spherical Gaussian surface centered on the charge.</li>\n<li>∮ <strong>E</strong> ⋅ d<strong>A</strong> = E ∮ dA = E (4πr<sup>2</sup>), where <em>r</em> is the radius of the sphere.</li>\n<li>Q<sub>enclosed</sub> = <em>q</em></li>\n<li>Applying Gauss&#39;s Law: E (4πr<sup>2</sup>) = q / ε<sub>0</sub></li>\n<li>Solve for E:  E = q / (4πε<sub>0</sub>r<sup>2</sup>)</li>\n</ol>\n<p>This is the same result we get from Coulomb&#39;s Law!</p>\n"
+  },
+  {
+    "title": "Example 2: Electric Field of a Charged Sphere",
+    "content": "<p>Consider a uniformly charged sphere with total charge <em>Q</em> and radius <em>R</em>.</p>\n<ul>\n<li><strong>Outside the sphere (r &gt; R):</strong>  Gauss&#39;s Law gives E = Q / (4πε<sub>0</sub>r<sup>2</sup>) – behaves like a point charge!</li>\n<li><strong>Inside the sphere (r &lt; R):</strong>  E = (Qr) / (4πε<sub>0</sub>R<sup>3</sup>) – electric field increases linearly with distance from the center.</li>\n</ul>\n"
+  },
+  {
+    "title": "Symmetry is Your Friend",
+    "content": "<p>Gauss&#39;s Law is <em>most</em> useful when the charge distribution has a high degree of symmetry.</p>\n<ul>\n<li>Spherical symmetry</li>\n<li>Cylindrical symmetry</li>\n<li>Planar symmetry</li>\n</ul>\n<p>Symmetry allows you to make simplifying assumptions about the electric field, making the integral solvable.</p>\n"
+  },
+  {
+    "title": "Conductors and Gauss's Law",
+    "content": "<p>A key property of conductors in electrostatic equilibrium:</p>\n<ul>\n<li><strong>Electric field inside a conductor is zero.</strong></li>\n<li>Any excess charge resides entirely on the surface of the conductor.</li>\n</ul>\n<p>Gauss&#39;s Law can be used to prove this and determine the surface charge density on the conductor.</p>\n"
+  },
+  {
+    "title": "Conductor Example: Charged Metal Sphere",
+    "content": "<p>If you have a charged conducting sphere, the charge sits on the <em>surface</em>.<br>Using a Gaussian surface <em>inside</em> the metal:\n<em>Q<sub>enclosed</sub> = 0</em> because all the charge is on the surface. Therefore, the electric field inside the metal sphere is zero!</p>\n"
+  },
+  {
+    "title": "Limitations of Gauss's Law",
+    "content": "<p>Gauss&#39;s Law is powerful, but it has limitations:</p>\n<ul>\n<li>It&#39;s <em>not</em> always easy to apply.</li>\n<li>It&#39;s <em>most</em> useful for highly symmetric charge distributions.</li>\n<li>If the electric field is not constant or perpendicular to the Gaussian surface, the integral becomes difficult to evaluate.</li>\n</ul>\n"
+  },
+  {
+    "title": "Gauss's Law vs. Coulomb's Law",
+    "content": "<p>Gauss&#39;s Law and Coulomb&#39;s Law are related but have different uses.</p>\n<ul>\n<li><strong>Coulomb&#39;s Law:</strong> Directly calculates the force between two point charges.  Can be used to find the electric field of a point charge.</li>\n<li><strong>Gauss&#39;s Law:</strong> Relates the electric flux through a closed surface to the enclosed charge.  Powerful for finding electric fields of symmetric charge distributions.</li>\n</ul>\n<p>Gauss&#39;s Law can be seen as a generalization of Coulomb&#39;s Law.</p>\n"
+  },
+  {
+    "title": "Choosing a Gaussian Surface: A Recap",
+    "content": "<p>Remember to choose a Gaussian surface that exploits the symmetry of the charge distribution.</p>\n<ul>\n<li><strong>Spherical:</strong> Point charges, uniformly charged spheres.</li>\n<li><strong>Cylindrical:</strong> Long charged wires, uniformly charged cylinders.</li>\n<li><strong>Planar:</strong> Infinite charged sheets.</li>\n</ul>\n<p>Make sure the electric field is either constant and perpendicular, or parallel to the surface.</p>\n"
+  },
+  {
+    "title": "Problem 1: Charged Conducting Plate",
+    "content": "<p>An infinitely large conducting plate has a uniform surface charge density σ. Find the electric field near the plate.</p>\n<p><em>Hint: Use a cylindrical Gaussian surface that pierces the plate.</em></p>\n"
+  },
+  {
+    "title": "Problem 2: Coaxial Cable",
+    "content": "<p>A coaxial cable consists of a solid inner conductor of radius <em>a</em> and an outer conducting shell of radius <em>b</em>.  The inner conductor carries a charge +λ per unit length, and the outer shell carries a charge -λ per unit length. Find the electric field in the region between the conductors (a &lt; r &lt; b).</p>\n"
+  },
+  {
+    "title": "Problem 3: Uniformly Charged Solid Sphere",
+    "content": "<p>A solid sphere of radius R has a uniform volume charge density ρ. Find the electric field as a function of r, both inside (r &lt; R) and outside (r &gt; R) the sphere.</p>\n"
+  },
+  {
+    "title": "Key Takeaways",
+    "content": "<ul>\n<li>Gauss&#39;s Law provides a powerful way to calculate electric fields, especially for symmetric charge distributions.</li>\n<li>Understanding electric flux is crucial.</li>\n<li>Choosing the right Gaussian surface is essential for simplifying the problem.</li>\n<li>Gauss&#39;s Law is related to Coulomb&#39;s Law.</li>\n</ul>\n"
+  }
+]

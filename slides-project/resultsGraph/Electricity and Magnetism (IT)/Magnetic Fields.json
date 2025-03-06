@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Visualizing Magnetic Fields Around a Bar Magnet",
+      "caption": "Ever wondered what a magnetic field looks like? \nIt's an invisible force that surrounds magnets. \nSee the iron filings? \nThey align along the field lines. \nStrongest at the poles, \nweakest further away. \nA magnetic field in action!",
+      "prompt": "A bar magnet lying horizontally on a white surface. Iron filings are sprinkled around the magnet, clearly showing the pattern of the magnetic field lines. Use shallow depth of field to focus on the magnet and the filings, blurring the background slightly.  High-resolution image, macro photography, science demonstration aesthetic."
+    },
+    {
+      "title": "Earth's Magnetosphere: A Protective Shield",
+      "caption": "Our planet has its own magnetic field! \nIt's called the magnetosphere. \nIt protects us from harmful solar winds. \nCharged particles get deflected. \nThis keeps our atmosphere safe. \nEarth, the magnetically shielded planet!",
+      "prompt": "A stylized, artistic representation of Earth surrounded by its magnetosphere. The solar wind is depicted as streams of colorful particles being deflected by the magnetosphere. The Earth should be a vibrant blue and green. Use a space art aesthetic with nebulas and stars in the background."
+    },
+    {
+      "title": "Electromagnet in Action: Lifting Power",
+      "caption": "Electricity and magnetism are linked! \nA coil of wire creates a magnetic field when current flows. \nThis is an electromagnet. \nSee it lifting metal objects? \nStronger current, stronger magnet. \nElectromagnets are used everywhere!",
+      "prompt": "An electromagnet (a coil of wire wrapped around an iron core) actively lifting several metallic objects (paperclips, screws, small washers). The electromagnet should have wires connected to a visible battery. Focus on the lifting action and the magnetic attraction.  Practical science demonstration style."
+    },
+    {
+      "title": "Compass Needle Aligning with Magnetic Field",
+      "caption": "The compass, a simple but powerful tool! \nIts needle aligns with Earth's magnetic field. \nPointing towards magnetic north. \nA reliable guide for navigation. \nHelping us find our way. \nThanks to magnetic fields!",
+      "prompt": "A close-up shot of a compass needle clearly pointing towards North. The compass rose is visible and detailed. The background is a blurred landscape, perhaps a forest or mountains. The focus should be sharp on the needle and the North marking.  Nature photography style."
+    },
+    {
+      "title": "Magnetic Field Interaction: Repelling Magnets",
+      "caption": "Magnets can attract or repel! \nLike poles repel each other. \nSee them pushing away? \nIt's the magnetic fields interacting. \nCreating a force between them. \nOpposites attract, likes repel!",
+      "prompt": "Two bar magnets placed close to each other with their like poles facing each other, visibly repelling. The magnets should be suspended or resting on a low-friction surface so the repulsion is evident. Perhaps use a split-screen effect to highlight each magnet individually before showing them repelling.  Simple demonstration setup."
+    },
+    {
+      "title": "Aurora Borealis: Magnetic Fields at Work",
+      "caption": "The Northern Lights, a magical display! \nCaused by charged particles from the sun. \nInteracting with Earth's magnetic field. \nCreating vibrant colors in the sky. \nA breathtaking phenomenon. \nMagnetic fields powering beauty!",
+      "prompt": "A stunning photograph of the Aurora Borealis (Northern Lights) in the night sky. The colors should be vibrant and swirling. The foreground can include a silhouette of a landscape, such as mountains or trees.  Long exposure photography, night sky aesthetic."
+    },
+    {
+      "title": "Magnetic Levitation: Floating Above",
+      "caption": "Imagine objects floating in the air! \nIt's possible with magnetic levitation. \nUsing strong magnetic fields. \nTo counteract gravity's pull. \nA futuristic technology. \nMagnetic fields defying gravity!",
+      "prompt": "A small object (a toy train or a small platform) magnetically levitating above a base containing magnets. The levitation should be clearly visible and the setup should look scientifically plausible.  Clean, modern aesthetic."
+    },
+    {
+      "title": "MRI Machine: Magnetic Resonance Imaging",
+      "caption": "Magnetic fields are used in medicine! \nAn MRI machine uses powerful magnets. \nTo create detailed images of the body. \nNon-invasive and accurate. \nA vital diagnostic tool. \nMagnetic fields helping us heal!",
+      "prompt": "A brightly lit image of an MRI machine. A patient is lying inside the machine. Emphasize the scale and complexity of the machine.  Medical photography style."
+    },
+    {
+      "title": "Simple Motor: Harnessing Magnetic Force",
+      "caption": "Magnetic fields power motors! \nA simple demonstration shows how. \nA coil of wire rotates in a magnetic field. \nConverting electrical energy to motion. \nThe principle behind motors everywhere. \nMagnetic fields driving progress!",
+      "prompt": "A clear, well-lit image of a simple electric motor. The components (battery, wire coil, magnet) are clearly visible and labeled. The motor should be actively rotating.  Educational science project style."
+    }
+  ]
+]

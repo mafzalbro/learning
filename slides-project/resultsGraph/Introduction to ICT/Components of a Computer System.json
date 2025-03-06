@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Core: Processing Power",
+      "caption": "Every computer starts with its core. That's the Central Processing Unit, or CPU. Think of it as the brain. It executes instructions, making everything happen. Without it, your computer is just a fancy paperweight.",
+      "prompt": "A highly detailed close-up shot of a modern CPU, showcasing its intricate circuitry and design. Emphasize the metallic and silicon components with realistic lighting. The CPU should appear powerful and complex but visually appealing."
+    },
+    {
+      "title": "Memory: Short-Term Storage",
+      "caption": "Next up: memory, also known as RAM. This is where the computer stores data it's actively using. The more RAM, the more you can do at once, smoothly. It's like a computer's short-term memory.",
+      "prompt": "A stylized image of RAM modules, possibly glowing subtly. The background should suggest speed and data flow. Consider using abstract shapes and colors to represent data being stored and retrieved."
+    },
+    {
+      "title": "Storage: Long-Term Data Keeper",
+      "caption": "Then we have storage. This is where your files, programs, and operating system live. Hard drives and solid-state drives, or SSDs, are common types. It's like the computer's long-term memory.",
+      "prompt": "A split image showing both a traditional hard drive and a modern SSD. One side should show the platters of a hard drive, while the other shows the chips of an SSD. Visually contrast the two technologies."
+    },
+    {
+      "title": "Input Devices: Giving Commands",
+      "caption": "Input devices let you communicate with the computer. Keyboards, mice, and touchscreens are examples. They translate your actions into data the computer can understand.",
+      "prompt": "A collection of diverse input devices (keyboard, mouse, touchscreen tablet, microphone) arranged on a clean, modern desk. Focus on highlighting the different ways we interact with computers."
+    },
+    {
+      "title": "Output Devices: Showing Results",
+      "caption": "Output devices show you the computer's results. Monitors, printers, and speakers all fall into this category. They translate data back into a form you can perceive.",
+      "prompt": "A vibrant image showing a monitor displaying colorful graphics, a printer outputting a document, and speakers emitting sound waves. Emphasize the different sensory outputs of a computer."
+    },
+    {
+      "title": "The Motherboard: The Central Hub",
+      "caption": "The motherboard is the backbone of the computer. It connects all the components together, allowing them to communicate. It's the essential link for everything to work in harmony.",
+      "prompt": "A detailed overhead shot of a motherboard, highlighting the various ports, slots, and chips. Use lighting to emphasize the intricate pathways and connections on the board."
+    },
+    {
+      "title": "Power Supply: Energizing the System",
+      "caption": "The power supply provides electricity to all the components. It converts AC power from the wall into DC power the computer needs. Without it, nothing turns on!",
+      "prompt": "An image of a power supply unit, perhaps partially disassembled to show its internal components. Highlight the cables and connections that deliver power to the rest of the system."
+    },
+    {
+      "title": "Networking: Connecting to the World",
+      "caption": "Networking components allow your computer to communicate with other devices and the internet. This includes network cards, routers, and modems. It's how your computer connects to the world!",
+      "prompt": "An abstract image representing network connections, using lines and nodes to symbolize devices and data flow. The background should suggest a global network."
+    },
+    {
+      "title": "The Operating System: The Conductor",
+      "caption": "Finally, the operating system, like Windows, macOS, or Linux. It manages all the hardware and software, providing a user-friendly interface. It's the conductor of the computer's orchestra.",
+      "prompt": "A visually appealing representation of an operating system interface. Consider using abstract shapes and colors to symbolize different functions and processes being managed."
+    }
+  ]
+]

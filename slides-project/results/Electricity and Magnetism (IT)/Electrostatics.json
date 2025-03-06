@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Electrostatics: The Study of Stationary Charges",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is Electrostatics?</strong></li>\n<li><strong>Electric Charge: Positive &amp; Negative</strong></li>\n<li><strong>Charging Methods: Friction, Conduction, Induction</strong></li>\n<li><strong>Coulomb&#39;s Law: Force Between Charges</strong></li>\n<li><strong>Electric Fields: Visualizing the Force</strong></li>\n<li><strong>Electric Potential: Energy of Charge</strong></li>\n<li><strong>Capacitance: Storing Electrical Energy</strong></li>\n<li><strong>Applications of Electrostatics</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "What is Electrostatics?",
+    "content": "<p>Electrostatics is the branch of physics that deals with the phenomena arising from slowly moving or stationary electric charges.</p>\n<p>Simply put: It&#39;s the study of static electricity!</p>\n"
+  },
+  {
+    "title": "Electric Charge: The Basics",
+    "content": "<ul>\n<li>Electric charge is a fundamental property of matter.</li>\n<li>There are two types of charge:<ul>\n<li><strong>Positive (+)</strong> (carried by protons in the nucleus of an atom)</li>\n<li><strong>Negative (-)</strong> (carried by electrons orbiting the nucleus)</li>\n</ul>\n</li>\n<li>Like charges repel, and opposite charges attract.</li>\n</ul>\n"
+  },
+  {
+    "title": "Charging by Friction (Triboelectric Effect)",
+    "content": "<p>When two different materials are rubbed together, electrons can be transferred from one material to the other.</p>\n<ul>\n<li>One material becomes positively charged (loses electrons).</li>\n<li>The other material becomes negatively charged (gains electrons).</li>\n</ul>\n<p><em>Example: Rubbing a balloon on your hair.</em></p>\n"
+  },
+  {
+    "title": "Charging by Conduction",
+    "content": "<p>Charging by conduction involves direct contact between a charged object and a neutral object.</p>\n<ul>\n<li>Electrons flow from the charged object to the neutral object (or vice versa) until they have the same charge.</li>\n</ul>\n<p><em>Example: Touching a charged rod to a metal sphere.</em></p>\n"
+  },
+  {
+    "title": "Charging by Induction",
+    "content": "<p>Charging by induction is charging an object without direct contact.</p>\n<ol>\n<li>A charged object is brought near a neutral object.</li>\n<li>This causes a separation of charge within the neutral object.</li>\n<li>The neutral object is grounded, allowing electrons to flow either in or out of it.</li>\n<li>The ground is removed, and then the charged object is removed, leaving the neutral object charged.</li>\n</ol>\n<p><em>Example: Charging a metal sphere with a negatively charged rod without touching it.</em></p>\n"
+  },
+  {
+    "title": "Coulomb's Law: Quantifying the Force",
+    "content": "<p>Coulomb&#39;s Law describes the electrostatic force between two point charges:</p>\n<p>F = k * |q1 * q2| / r^2</p>\n<p>Where:</p>\n<ul>\n<li>F is the electrostatic force.</li>\n<li>k is Coulomb&#39;s constant (approximately 8.99 x 10^9 N⋅m²/C²).</li>\n<li>q1 and q2 are the magnitudes of the charges.</li>\n<li>r is the distance between the charges.</li>\n</ul>\n<p>Important points:\n*The force is attractive if the charges have opposite signs.\n*The force is repulsive if the charges have the same sign.</p>\n"
+  },
+  {
+    "title": "Electric Fields: A Region of Influence",
+    "content": "<p>An electric field is a region around a charged object where another charged object would experience a force.</p>\n<ul>\n<li>Electric field lines are used to visualize the electric field.</li>\n<li>They point in the direction of the force on a positive test charge.</li>\n<li>The density of the lines indicates the strength of the field.</li>\n<li>Electric fields are vector quantities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Field Lines: Visualizing the Field",
+    "content": "<ul>\n<li>Lines originate from positive charges and terminate on negative charges</li>\n<li>The number of lines is proportional to the magnitude of the charge.</li>\n<li>The lines are closer together where the field is stronger.</li>\n<li>Field lines never cross</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Potential: Energy and Charge",
+    "content": "<p>Electric potential (V) is the electric potential energy per unit charge.</p>\n<p>V = U / q</p>\n<p>Where:</p>\n<ul>\n<li>V is the electric potential (measured in volts).</li>\n<li>U is the electric potential energy (measured in joules).</li>\n<li>q is the charge (measured in coulombs).</li>\n</ul>\n<p><em>Electric potential is a scalar quantity.</em>\n<em>The electric potential difference between two points is often called voltage.</em></p>\n"
+  },
+  {
+    "title": "Equipotential Surfaces",
+    "content": "<p>An equipotential surface is a surface where the electric potential is the same everywhere.</p>\n<ul>\n<li>No work is done moving a charge along an equipotential surface.</li>\n<li>Electric field lines are always perpendicular to equipotential surfaces.</li>\n</ul>\n"
+  },
+  {
+    "title": "Capacitance: Storing Charge",
+    "content": "<p>A capacitor is a device that stores electrical energy in an electric field.</p>\n<ul>\n<li>It typically consists of two conducting plates separated by an insulator (dielectric).</li>\n<li>Capacitance (C) is the measure of a capacitor&#39;s ability to store charge.</li>\n</ul>\n<p>C = Q / V</p>\n<p>Where:</p>\n<ul>\n<li>C is the capacitance (measured in farads).</li>\n<li>Q is the charge stored (measured in coulombs).</li>\n<li>V is the voltage across the capacitor (measured in volts).</li>\n</ul>\n"
+  },
+  {
+    "title": "Parallel-Plate Capacitor",
+    "content": "<p>A parallel-plate capacitor consists of two parallel conducting plates of area A, separated by a distance d.</p>\n<p>The capacitance is given by:</p>\n<p>C = ε₀ * A / d</p>\n<p>Where:</p>\n<ul>\n<li>ε₀ is the permittivity of free space (approximately 8.85 x 10^-12 F/m).</li>\n</ul>\n"
+  },
+  {
+    "title": "Energy Stored in a Capacitor",
+    "content": "<p>The energy stored in a capacitor is given by:</p>\n<p>U = 1/2 * C * V^2</p>\n<p>Or equivalently:</p>\n<p>U = 1/2 * Q * V</p>\n<p>U = 1/2 * Q^2 / C</p>\n"
+  },
+  {
+    "title": "Applications of Electrostatics",
+    "content": "<p>Electrostatics has numerous applications in various fields:</p>\n<ul>\n<li><strong>Photocopiers and Laser Printers:</strong> Use electrostatic attraction to transfer toner onto paper.</li>\n<li><strong>Electrostatic Painting:</strong> Electrically charged paint particles are attracted to a grounded object, providing an even coating.</li>\n<li><strong>Air Filters:</strong> Remove dust and pollutants from the air using electrostatic attraction.</li>\n<li><strong>Van de Graaff Generators:</strong> Create high voltages for research purposes.</li>\n<li><strong>Lightning Rods:</strong> Protect buildings from lightning strikes by providing a path for the current to ground.</li>\n</ul>\n"
+  },
+  {
+    "title": "Electrostatic Discharge (ESD)",
+    "content": "<p>ESD is the sudden flow of electricity between two electrically charged objects caused by contact, an electrical short, or dielectric breakdown.</p>\n<ul>\n<li>It can damage sensitive electronic components.</li>\n<li>ESD precautions are essential in handling electronics (e.g., grounding straps, anti-static mats).</li>\n</ul>\n"
+  },
+  {
+    "title": "Dielectrics",
+    "content": "<p>A dielectric is an insulating material placed between the plates of a capacitor to increase its capacitance.</p>\n<ul>\n<li>Dielectrics have a dielectric constant (κ), which is a measure of how much the capacitance increases when the dielectric is inserted.</li>\n<li>C&#39; = κC (where C&#39; is the capacitance with the dielectric, and C is the capacitance without)</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary of Key Concepts",
+    "content": "<ul>\n<li>Electrostatics deals with stationary charges.</li>\n<li>Electric charge comes in two forms: positive and negative.</li>\n<li>Charging can occur through friction, conduction, and induction.</li>\n<li>Coulomb&#39;s Law quantifies the force between charges.</li>\n<li>Electric fields represent the force around a charged object.</li>\n<li>Electric potential is the energy per unit charge.</li>\n<li>Capacitors store electrical energy.</li>\n<li>Electrostatics has many practical applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conductors and Insulators",
+    "content": "<ul>\n<li><strong>Conductors:</strong> Materials that allow electric charge to move freely (e.g., metals).</li>\n<li><strong>Insulators:</strong> Materials that resist the flow of electric charge (e.g., rubber, glass).</li>\n<li>The difference arises from the availability of free electrons.</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes the presentation on electrostatics. We hope you found it informative! Feel free to ask any questions.</p>\n"
+  }
+]

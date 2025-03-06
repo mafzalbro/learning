@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Electric Fields: An Introduction",
+    "content": "<p>Welcome! This presentation will cover the basics of electric fields, a fundamental concept in physics.</p>\n<p><strong>What we&#39;ll explore:</strong></p>\n<ul>\n<li>What electric fields are.</li>\n<li>How they are created.</li>\n<li>Visualizing electric fields with field lines.</li>\n<li>Calculating electric field strength.</li>\n<li>The effects of electric fields on charged objects.</li>\n<li>Real-world applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is an Electric Field?",
+    "content": "<p>An electric field is a region around a charged object where another charged object will experience a force.</p>\n<ul>\n<li>Think of it as an invisible influence extending outwards from a charge.</li>\n<li>It&#39;s a vector field, meaning it has both magnitude (strength) and direction at every point in space.</li>\n<li>If you place a positive test charge in an electric field, it will experience a force in the direction of the field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Creating Electric Fields: Charges are the Source",
+    "content": "<p>Electric fields are created by electric charges.</p>\n<ul>\n<li><strong>Positive charges:</strong> Create electric fields that point <em>radially outward</em> from the charge.</li>\n<li><strong>Negative charges:</strong> Create electric fields that point <em>radially inward</em> toward the charge.</li>\n<li>The strength of the electric field is stronger closer to the charge and weaker further away.</li>\n</ul>\n"
+  },
+  {
+    "title": "Visualizing Electric Fields: Field Lines",
+    "content": "<p>Electric field lines are a way to visualize the electric field.</p>\n<ul>\n<li>They represent the direction and strength of the electric field.</li>\n<li>Lines point away from positive charges and towards negative charges.</li>\n<li>The closer the lines are together, the stronger the electric field.</li>\n<li>Field lines never cross!</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Field Lines: Examples",
+    "content": "<p><strong>Single Positive Charge:</strong></p>\n<ul>\n<li>Lines radiate outward from the charge.</li>\n</ul>\n<p><strong>Single Negative Charge:</strong></p>\n<ul>\n<li>Lines point inward towards the charge.</li>\n</ul>\n<p><strong>Two Equal and Opposite Charges (Dipole):</strong></p>\n<ul>\n<li>Lines go from the positive charge to the negative charge.</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Field Strength (E)",
+    "content": "<p>Electric field strength (E) is defined as the force (F) per unit positive charge (q) at a given point in space.</p>\n<p><strong>Equation:</strong></p>\n<p>  <em>E = F/q</em></p>\n<ul>\n<li><strong>Units:</strong> Newtons per Coulomb (N/C)</li>\n<li>Electric field is a vector quantity (magnitude and direction).</li>\n</ul>\n"
+  },
+  {
+    "title": "Calculating Electric Field Strength (Point Charge)",
+    "content": "<p>The electric field strength (E) due to a single point charge (Q) at a distance (r) from the charge is:</p>\n<p><strong>Equation:</strong></p>\n<p>  <em>E = kQ/r²</em></p>\n<p>where:</p>\n<ul>\n<li><em>k</em> is Coulomb&#39;s constant (approximately 8.99 x 10⁹ N⋅m²/C²).</li>\n<li><em>Q</em> is the magnitude of the source charge.</li>\n<li><em>r</em> is the distance from the source charge.</li>\n</ul>\n"
+  },
+  {
+    "title": "Superposition Principle",
+    "content": "<p>If there are multiple charges present, the total electric field at a point is the vector sum of the electric fields due to each individual charge.</p>\n<ul>\n<li>Calculate the electric field due to each charge separately.</li>\n<li>Add the electric field vectors together to find the net electric field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Forces on Charges in Electric Fields",
+    "content": "<p>A charged object placed in an electric field experiences a force.</p>\n<p><strong>Equation:</strong></p>\n<p>  <em>F = qE</em></p>\n<p>where:</p>\n<ul>\n<li><p><em>F</em> is the electric force.</p>\n</li>\n<li><p><em>q</em> is the charge of the object.</p>\n</li>\n<li><p><em>E</em> is the electric field strength.</p>\n</li>\n<li><p>Positive charges experience a force in the <em>same</em> direction as the electric field.</p>\n</li>\n<li><p>Negative charges experience a force in the <em>opposite</em> direction as the electric field.</p>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Motion of Charges in Electric Fields",
+    "content": "<p>Since charged particles experience a force in an electric field, they will accelerate.</p>\n<ul>\n<li>Use Newton&#39;s Second Law (F = ma) to calculate the acceleration of the charged particle.</li>\n<li>Apply kinematic equations to determine the motion of the particle (e.g., velocity, displacement).</li>\n</ul>\n"
+  },
+  {
+    "title": "Electric Fields and Conductors",
+    "content": "<p>Inside a conductor in electrostatic equilibrium:</p>\n<ul>\n<li>The electric field is always zero.</li>\n<li>Any excess charge resides on the surface of the conductor.</li>\n<li>The electric field at the surface of a conductor is perpendicular to the surface.</li>\n</ul>\n"
+  },
+  {
+    "title": "Shielding",
+    "content": "<p>A hollow conductor shields its interior from external electric fields.  This is because the charges redistribute themselves on the surface of the conductor to cancel out any external field inside.</p>\n<ul>\n<li>This is the principle behind a Faraday cage.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electric Fields: Electrostatic Painting",
+    "content": "<p>Electrostatic painting uses electric fields to efficiently coat objects with paint.</p>\n<ul>\n<li>The object to be painted is given a charge.</li>\n<li>The paint is atomized and given the opposite charge.</li>\n<li>The electric field between the object and the paint particles causes the paint to be attracted to the object, resulting in a uniform coating.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electric Fields: Inkjet Printers",
+    "content": "<p>Inkjet printers use electric fields to control the direction of ink droplets.</p>\n<ul>\n<li>Ink droplets are charged.</li>\n<li>Electric fields are used to deflect the droplets onto the paper in specific locations to form images and text.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electric Fields: Capacitors",
+    "content": "<p>Capacitors store electrical energy by accumulating charge on two conductive plates separated by an insulator.</p>\n<ul>\n<li>An electric field exists between the plates, storing energy.</li>\n<li>Used in many electronic circuits.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Electric Fields: Medical Equipment",
+    "content": "<p>Electric fields are used in a variety of medical equipment.</p>\n<ul>\n<li>Defibrillators: Use electric shocks to restore normal heart rhythm.</li>\n<li>Electrocardiograms (ECG): Measure electrical activity of the heart.</li>\n<li>Electroencephalograms (EEG): Measure electrical activity of the brain.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary: Key Concepts",
+    "content": "<ul>\n<li>Electric fields are regions around charged objects where other charges experience a force.</li>\n<li>Electric fields are created by electric charges (positive and negative).</li>\n<li>Electric field lines are a way to visualize electric fields.</li>\n<li>Electric field strength (E) is the force per unit charge.</li>\n<li>Electric fields exert forces on charged objects.</li>\n<li>Conductors shield their interiors from external electric fields.</li>\n</ul>\n"
+  },
+  {
+    "title": "Further Exploration",
+    "content": "<p>This is just an introduction to electric fields!  To delve deeper, consider exploring these topics:</p>\n<ul>\n<li>Electric Potential and Potential Energy</li>\n<li>Gauss&#39;s Law</li>\n<li>Electric Dipoles</li>\n<li>Electromagnetic Waves</li>\n</ul>\n"
+  },
+  {
+    "title": "Practice Problems",
+    "content": "<p>Test your understanding with these practice problems:</p>\n<ol>\n<li>A charge of +2 μC is placed in an electric field of 500 N/C. What is the force on the charge?</li>\n<li>Calculate the electric field strength 10 cm away from a point charge of -5 nC.</li>\n<li>Draw the electric field lines for a system of two equal positive charges.</li>\n</ol>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Thank you for learning about electric fields!  I hope this presentation was helpful.</p>\n<p>Feel free to ask any questions.</p>\n"
+  }
+]

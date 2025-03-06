@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Capacitance: Storing Electrical Energy",
+    "content": "<p>Welcome to the world of Capacitance!  In this presentation, we&#39;ll explore:</p>\n<ul>\n<li><strong>What is Capacitance?</strong> The basic concept and its units.</li>\n<li><strong>How Capacitors Work?</strong>  Understanding charge storage.</li>\n<li><strong>Types of Capacitors:</strong>  Different kinds for different uses.</li>\n<li><strong>Capacitance Calculation:</strong>  Factors affecting capacitance.</li>\n<li><strong>Capacitors in Circuits:</strong>  Series and parallel configurations.</li>\n<li><strong>Energy Stored in a Capacitor:</strong>  Quantifying energy storage.</li>\n<li><strong>Applications of Capacitors:</strong> Where do we use them?</li>\n<li><strong>Dielectrics:</strong> Enhance Capacitance and what are they?</li>\n<li><strong>Advantages and Disadvantages:</strong> The Pros and Cons</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Capacitance?",
+    "content": "<p>Capacitance is the ability of a component (a <em>capacitor</em>) to store electrical energy in an electric field.</p>\n<p>Think of it like a small rechargeable battery that can release its energy very quickly.</p>\n<ul>\n<li><strong>Symbol:</strong> C</li>\n<li><strong>Unit:</strong> Farad (F)  - named after Michael Faraday.</li>\n<li><strong>Definition:</strong>  Capacitance (C) = Charge (Q) / Voltage (V) or  C = Q/V</li>\n</ul>\n"
+  },
+  {
+    "title": "How Capacitors Work: Charge Storage",
+    "content": "<p>A capacitor typically consists of two conductive plates separated by an insulator (called a dielectric).</p>\n<ol>\n<li><strong>Charging:</strong> When a voltage is applied, electrons accumulate on one plate (making it negatively charged) and are removed from the other plate (making it positively charged).</li>\n<li><strong>Electric Field:</strong> This separation of charge creates an electric field between the plates.</li>\n<li><strong>Storing Energy:</strong>  The electric field stores the electrical energy. The higher the Voltage the higher the charge and the higher energy.</li>\n<li><strong>Discharging:</strong> When the voltage source is removed and a path is provided, the electrons flow back, neutralizing the charge and releasing the stored energy.</li>\n</ol>\n"
+  },
+  {
+    "title": "Types of Capacitors",
+    "content": "<p>There are many types of capacitors, each with different characteristics and best suited for different applications:</p>\n<ul>\n<li><strong>Ceramic Capacitors:</strong> Small, inexpensive, and commonly used.</li>\n<li><strong>Electrolytic Capacitors:</strong>  High capacitance values, polarized (must be connected with correct polarity).</li>\n<li><strong>Film Capacitors:</strong> Good stability and low losses.</li>\n<li><strong>Tantalum Capacitors:</strong> High capacitance in small size, also polarized.</li>\n<li><strong>Supercapacitors (Ultracapacitors):</strong> Extremely high capacitance, used for energy storage.</li>\n</ul>\n"
+  },
+  {
+    "title": "Factors Affecting Capacitance",
+    "content": "<p>The capacitance of a capacitor depends on:</p>\n<ul>\n<li><strong>Area of the Plates (A):</strong> Larger area = higher capacitance (more room for charge).</li>\n<li><strong>Distance Between the Plates (d):</strong> Smaller distance = higher capacitance (stronger electric field).</li>\n<li><strong>Dielectric Material (ε):</strong> The insulating material between the plates; different materials have different permittivities (ability to store energy).</li>\n</ul>\n<p>Formula:  C = ε * A / d</p>\n"
+  },
+  {
+    "title": "Capacitors in Series",
+    "content": "<p>When capacitors are connected in series (one after the other), the total capacitance is <em>less</em> than the smallest individual capacitance.</p>\n<ul>\n<li><strong>Why?</strong> The effective distance between the plates increases.</li>\n<li><strong>Formula:</strong> 1/C<sub>total</sub> = 1/C<sub>1</sub> + 1/C<sub>2</sub> + 1/C<sub>3</sub> + ...</li>\n<li><strong>Charge:</strong> The charge on each capacitor in series is the same.</li>\n<li><strong>Voltage:</strong> The voltage across each capacitor depends on its individual capacitance, such that the sum equals the total Voltage</li>\n</ul>\n"
+  },
+  {
+    "title": "Capacitors in Parallel",
+    "content": "<p>When capacitors are connected in parallel (side-by-side), the total capacitance is the <em>sum</em> of the individual capacitances.</p>\n<ul>\n<li><strong>Why?</strong> The effective area of the plates increases.</li>\n<li><strong>Formula:</strong> C<sub>total</sub> = C<sub>1</sub> + C<sub>2</sub> + C<sub>3</sub> + ...</li>\n<li><strong>Voltage:</strong> The voltage across each capacitor in parallel is the same.</li>\n<li><strong>Charge:</strong> The charge on each capacitor depends on its individual capacitance, such that the sum equals the total Charge</li>\n</ul>\n"
+  },
+  {
+    "title": "Energy Stored in a Capacitor",
+    "content": "<p>A charged capacitor stores electrical potential energy.</p>\n<ul>\n<li><strong>Formula:</strong>  Energy (U) = 1/2 * C * V<sup>2</sup><ul>\n<li>Where:<ul>\n<li>U is the energy in Joules (J)</li>\n<li>C is the capacitance in Farads (F)</li>\n<li>V is the voltage in Volts (V)</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>This energy can be released quickly, which is why capacitors are used in applications requiring a sudden burst of power.</p>\n"
+  },
+  {
+    "title": "Applications of Capacitors",
+    "content": "<p>Capacitors are found in countless electronic devices:</p>\n<ul>\n<li><strong>Power Supplies:</strong> Smoothing voltage fluctuations.</li>\n<li><strong>Filters:</strong> Blocking certain frequencies while allowing others to pass.</li>\n<li><strong>Energy Storage:</strong>  Flash cameras, electric vehicles (supercapacitors).</li>\n<li><strong>Timing Circuits:</strong>  Creating delays or oscillating signals.</li>\n<li><strong>Coupling Capacitors:</strong> Blocking DC signals while allowing AC signals to pass.</li>\n<li><strong>Tuning Circuits:</strong> Used in radios to select a particular frequency.</li>\n</ul>\n"
+  },
+  {
+    "title": "Dielectrics: Enhancing Capacitance",
+    "content": "<p>A dielectric is an insulating material placed between the capacitor plates.</p>\n<ul>\n<li><strong>Purpose:</strong><ul>\n<li>Increases the capacitance.</li>\n<li>Increases the breakdown voltage (the voltage at which the capacitor fails).</li>\n</ul>\n</li>\n<li><strong>How it works:</strong> The dielectric material becomes polarized when an electric field is applied, which reduces the electric field strength and allows more charge to be stored for a given voltage.</li>\n<li><strong>Examples:</strong> Paper, plastic, ceramic, mica, air (vacuum).</li>\n</ul>\n"
+  },
+  {
+    "title": "Dielectric Constant",
+    "content": "<p>The Dielectric constant (k) (also known as relative permittivity) indicates how many times the capacitor can store more energy with the dielectric than without it.</p>\n<ul>\n<li>Air: K = 1 (No dielectric)</li>\n<li>Paper: K = 3.7</li>\n<li>Glass: K = 4.7</li>\n<li>Mica: K = 5.4</li>\n<li>Silicon Dioxide: K = 3.9</li>\n<li>Water: K = 80</li>\n<li>Barium Strontium Titanate: K = 7500</li>\n</ul>\n"
+  },
+  {
+    "title": "Advantages of Capacitors",
+    "content": "<p>*Quick discharge time: they can discharge much faster than batteries\n*Can handle many charge and discharge cycles.\n*Can operate at a wide range of temperatures.</p>\n"
+  },
+  {
+    "title": "Disadvantages of Capacitors",
+    "content": "<p>*Capacity: The higher the desired capacity the larger the capacitor must be.\n*Electrolytic capacitors have polarity. \n*Lower voltage ratings than other components.</p>\n"
+  },
+  {
+    "title": "Capacitor Markings",
+    "content": "<p>It is important to understand how to read the capacitor markings.</p>\n<p>*Values under 10pF are in pF\n*Values over 10pF are in uF\n*Use the number of digits to determine how many zeros to add to the value. </p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes our introduction to Capacitance.  We&#39;ve covered the basic principles, different types of capacitors, and their many applications.  Hopefully this presentation helps you understand how capacitors work and how they are used in electronics.</p>\n"
+  }
+]

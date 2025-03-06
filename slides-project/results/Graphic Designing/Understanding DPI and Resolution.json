@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Understanding DPI and Resolution",
+    "content": "<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>What is DPI (Dots Per Inch)?</li>\n<li>What is Resolution?</li>\n<li>The Difference Between DPI and Resolution</li>\n<li>How DPI and Resolution Affect Image Quality</li>\n<li>DPI for Print vs. Screen</li>\n<li>Changing DPI and Resolution</li>\n<li>Best Practices for Different Uses</li>\n</ul>\n"
+  },
+  {
+    "title": "What is DPI (Dots Per Inch)?",
+    "content": "<p>DPI stands for <strong>Dots Per Inch</strong>. It&#39;s a measure of printing density.</p>\n<ul>\n<li>Specifically, it indicates how many individual dots of ink a printer puts within one inch.</li>\n<li>Higher DPI = More dots = Finer detail = Sharper print.</li>\n<li>Lower DPI = Fewer dots = Less detail = Less sharp print.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Resolution?",
+    "content": "<p>Resolution refers to the number of pixels in an image, usually expressed as width x height.</p>\n<ul>\n<li>For example: 1920 x 1080 (Full HD) means the image is 1920 pixels wide and 1080 pixels high.</li>\n<li>More pixels = More detail = Larger file size.</li>\n<li>Less pixels = Less detail = Smaller file size.</li>\n</ul>\n"
+  },
+  {
+    "title": "DPI vs. Resolution: Key Differences",
+    "content": "<p>Think of it this way:</p>\n<ul>\n<li><strong>Resolution:</strong> The total number of building blocks (pixels) in your image.</li>\n<li><strong>DPI:</strong> How densely you pack those building blocks (pixels) when printing.</li>\n</ul>\n<p>Resolution is about the digital image itself. DPI is about how that digital image translates to a physical print.</p>\n"
+  },
+  {
+    "title": "How DPI and Resolution Affect Image Quality",
+    "content": "<ul>\n<li><strong>Low Resolution + High DPI:</strong> Image might print small and sharp, but if you try to enlarge it, it will become blurry and pixelated.</li>\n<li><strong>High Resolution + Low DPI:</strong> Image might print large, but the quality will be poor and blurry due to lack of dots per inch.</li>\n<li><strong>High Resolution + High DPI:</strong> Ideal! Image will print large and retain its sharpness and detail.</li>\n</ul>\n"
+  },
+  {
+    "title": "DPI for Print vs. Screen",
+    "content": "<ul>\n<li><strong>Print:</strong> Generally, 300 DPI is considered the standard for high-quality prints (magazines, brochures, etc.).  150 DPI can be acceptable for larger prints viewed from a distance (posters).</li>\n<li><strong>Screen:</strong> Screen resolution determines how an image appears. Monitors typically display images at around 72 or 96 DPI.  Increasing DPI beyond this won&#39;t make the image look sharper on screen, it will only increase the file size.</li>\n</ul>\n"
+  },
+  {
+    "title": "DPI and Pixel Dimensions",
+    "content": "<p>DPI directly impacts the printed size of an image based on its pixel dimensions.</p>\n<ul>\n<li>An image that is 3000 pixels wide printed at 300 DPI will be 10 inches wide (3000 pixels / 300 DPI = 10 inches).</li>\n<li>The same image printed at 150 DPI will be 20 inches wide (3000 pixels / 150 DPI = 20 inches), but with potentially lower quality.</li>\n</ul>\n"
+  },
+  {
+    "title": "Changing DPI: Software Tools",
+    "content": "<p>You can change DPI using image editing software like:</p>\n<ul>\n<li><strong>Adobe Photoshop:</strong> Image &gt; Image Size</li>\n<li><strong>GIMP (Free):</strong> Image &gt; Scale Image</li>\n<li><strong>Online DPI Converters:</strong> Many free online tools are available.</li>\n</ul>\n<p><strong>Important:</strong> Changing DPI <em>after</em> an image is created doesn&#39;t add information. It simply changes the size at which it will be printed. If you increase DPI, the software may have to &#39;invent&#39; pixels leading to loss of quality.</p>\n"
+  },
+  {
+    "title": "Resampling: A Word of Caution",
+    "content": "<p><em>Resampling</em> refers to adding or removing pixels when changing resolution. Avoid drastically increasing resolution (upscaling) through resampling, as it can lead to blurry or artificial-looking results.  Downsampling (reducing resolution) is generally safer.</p>\n"
+  },
+  {
+    "title": "Best Practices: Starting with the End in Mind",
+    "content": "<p>The best approach is to know your intended use <em>before</em> you create or acquire an image.</p>\n<ul>\n<li><strong>Print:</strong> Determine the final print size and target DPI (usually 300 DPI).  Ensure your image resolution is sufficient for that size and DPI.</li>\n<li><strong>Web/Screen:</strong> Focus on pixel dimensions suitable for web display (e.g., 1920x1080 for a full-screen image). DPI is less critical.</li>\n</ul>\n"
+  },
+  {
+    "title": "Web Images: Optimizing for Size and Speed",
+    "content": "<p>For web images:</p>\n<ul>\n<li>Keep file sizes small for faster loading times.</li>\n<li>Use appropriate image formats (JPEG for photos, PNG for graphics with transparency).</li>\n<li>Compress images using tools like TinyPNG or ImageOptim.</li>\n<li>Don&#39;t use extremely high resolutions if they&#39;re not needed; it only slows down your website.</li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding PPI (Pixels Per Inch)",
+    "content": "<p>PPI stands for Pixels Per Inch. It&#39;s closely related to DPI and often used interchangeably, but technically:</p>\n<ul>\n<li><strong>DPI:</strong> Refers to the <em>physical</em> dots of ink on a printed page.</li>\n<li><strong>PPI:</strong> Refers to the <em>digital</em> pixels on a screen or in an image file.</li>\n</ul>\n<p>In practice, many software programs use DPI settings to control the PPI displayed.</p>\n"
+  },
+  {
+    "title": "Scanning and DPI",
+    "content": "<p>When scanning documents or photos:</p>\n<ul>\n<li>Choose a scan resolution (DPI) appropriate for your needs.  For archiving, 300 DPI is generally sufficient.</li>\n<li>Scanning at a higher DPI will create larger files but capture more detail.</li>\n<li>Consider the original size of the document or photo when setting the scan DPI.</li>\n</ul>\n"
+  },
+  {
+    "title": "Working with Vector Graphics",
+    "content": "<p>Vector graphics (created in programs like Adobe Illustrator or Inkscape) are different from raster graphics (images made of pixels). They are based on mathematical equations.</p>\n<ul>\n<li><strong>Vector graphics are resolution-independent.</strong> They can be scaled infinitely without losing quality.</li>\n<li>Therefore, DPI is less of a concern when working with vector images; the output device&#39;s resolution will determine the final sharpness.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary: Key Takeaways",
+    "content": "<ul>\n<li>DPI (Dots Per Inch) is a measure of printing density.</li>\n<li>Resolution is the number of pixels in an image (width x height).</li>\n<li>DPI affects print quality; higher DPI generally means sharper prints.</li>\n<li>Screen resolution is more important than DPI for digital display.</li>\n<li>Start with the end use in mind when determining resolution and DPI.</li>\n</ul>\n"
+  }
+]

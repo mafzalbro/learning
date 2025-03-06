@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "The Foundation: Electric and Magnetic Fields",
+      "caption": "Electromagnetism! The force that shapes our world. It all starts with electric and magnetic fields. Invisible forces, but incredibly powerful. These fields interact, creating fascinating phenomena. And it all began with Maxwell...",
+      "prompt": "A visually appealing representation of interacting electric and magnetic fields. Consider using vibrant colors to differentiate the fields, with lines of force clearly depicted. The composition should convey a sense of energy and dynamism, but remain uncluttered and easy to understand. Perhaps a stylized lightning bolt as a focal point."
+    },
+    {
+      "title": "Gauss's Law for Electricity: Charge Creates Fields",
+      "caption": "First, Gauss's Law for Electricity. Electric charge is the source of electric fields. The more charge, the stronger the field. Think of it like ripples in a pond, emanating from a central point.",
+      "prompt": "A positive electric charge at the center, surrounded by radiating electric field lines. The density of the lines should increase closer to the charge, illustrating the relationship between charge density and field strength. The background should be simple and uncluttered, focusing attention on the charge and its field."
+    },
+    {
+      "title": "Gauss's Law for Magnetism: No Magnetic Monopoles",
+      "caption": "Then, Gauss's Law for Magnetism. Unlike electric charges, magnetic monopoles don't exist. Every magnet has a north and south pole. Magnetic field lines always form closed loops.",
+      "prompt": "A horseshoe magnet with magnetic field lines looping from the north pole to the south pole. Emphasize the closed-loop nature of the field lines. Use contrasting colors for the north and south poles. The overall image should convey the idea that magnetic fields are always dipolar."
+    },
+    {
+      "title": "Faraday's Law: Changing Magnetic Fields Create Electric Fields",
+      "caption": "Faraday's Law reveals a crucial connection: a changing magnetic field creates an electric field! This is electromagnetic induction, the principle behind generators.",
+      "prompt": "A coil of wire with a moving magnet nearby. Illustrate the induced electric field in the coil as a result of the changing magnetic field. Use arrows to show the direction of the induced current. The image should suggest motion and change."
+    },
+    {
+      "title": "Ampère-Maxwell's Law: Current and Changing Electric Fields Create Magnetic Fields",
+      "caption": "Ampère-Maxwell's Law completes the picture. Electric current *and* changing electric fields both generate magnetic fields. This crucial addition by Maxwell unified electricity and magnetism.",
+      "prompt": "A wire carrying an electric current, surrounded by circular magnetic field lines. Also, show a capacitor charging, with electric field lines increasing between the plates, also creating magnetic field lines. Emphasize the relationship between current/changing electric field and the resulting magnetic field."
+    },
+    {
+      "title": "Maxwell's Equations: The Complete Set",
+      "caption": "These four equations, Maxwell's Equations, describe all classical electromagnetism. They're elegant, powerful, and fundamental.",
+      "prompt": "A visually appealing collage or arrangement of symbols representing the four Maxwell's Equations. Instead of directly writing the equations, use abstract symbols that suggest the concepts of electric charge, magnetic dipoles, changing fields, and the relationships between them. The overall impression should be one of order, beauty, and profound insight."
+    },
+    {
+      "title": "Electromagnetic Waves: Light Itself!",
+      "caption": "Maxwell's Equations predict the existence of electromagnetic waves. Light itself is an electromagnetic wave! Radio waves, microwaves, X-rays... all part of the electromagnetic spectrum.",
+      "prompt": "A depiction of an electromagnetic wave traveling through space. Show the oscillating electric and magnetic fields perpendicular to each other and to the direction of propagation. Use color gradients to represent the varying intensity of the fields. Consider a stylized sun or a light bulb in the background."
+    },
+    {
+      "title": "Communication: From Radio to Fiber Optics",
+      "caption": "Electromagnetic waves are the foundation of modern communication. From radio waves to fiber optics, we use them to transmit information across vast distances.",
+      "prompt": "A series of connected images depicting different forms of electromagnetic communication: a radio tower transmitting radio waves, a satellite communicating with Earth via microwaves, and a fiber optic cable transmitting light pulses. Arrange the images in a way that suggests the progression of communication technology."
+    },
+    {
+      "title": "Maxwell's Legacy: A World Powered by Electromagnetism",
+      "caption": "Maxwell's legacy is immense. His equations underpin nearly all of modern technology. From the smallest microchip to the largest power grid, electromagnetism shapes our world.",
+      "prompt": "A panoramic view of a modern city at night, illuminated by electric lights. Emphasize the intricate network of power lines and electronic devices that rely on electromagnetic principles. The image should convey a sense of interconnectedness and technological advancement, all thanks to Maxwell's groundbreaking work."
+    },
+    {
+      "title": "Beyond Maxwell: Quantum Electrodynamics",
+      "caption": "While Maxwell's equations are incredibly powerful, they're a classical theory. For a deeper understanding of light and matter interactions, we need Quantum Electrodynamics, or QED.",
+      "prompt": "An abstract representation of quantum electrodynamics (QED). Focus on particle interactions, using stylized photons and electrons. Avoid realistic depiction; aim for a visually intriguing and thought-provoking image that suggests the complex nature of QED. Think of visual metaphors like intertwining threads or shimmering particles."
+    }
+  ]
+]

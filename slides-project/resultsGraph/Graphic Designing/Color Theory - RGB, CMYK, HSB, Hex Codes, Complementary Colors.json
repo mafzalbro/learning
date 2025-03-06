@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "RGB Color Wheel Visualization",
+      "caption": "**(Scene: Bright, modern animation of the RGB color wheel rotating smoothly)**\n**(Voiceover):** What is RGB? It stands for Red, Green, and Blue. These three primary colors combine to create a vast spectrum of colors on your screens. Adjust the levels and see the magic happen. Think of it as the secret ingredient in all digital art!",
+      "prompt": "A vibrant, animated RGB color wheel. The primary colors (Red, Green, Blue) are clearly labeled. As the wheel rotates, show how they blend to create secondary and tertiary colors. Simple, clean design. Minimal background distractions."
+    },
+    {
+      "title": "CMYK Color Mixing Simulation",
+      "caption": "**(Scene: Digital representation of ink cartridges (Cyan, Magenta, Yellow, Black) injecting into a virtual mixing container.)**\n**(Voiceover):** Next up is CMYK. Cyan, Magenta, Yellow, and Black. This is the color model for printing. The more colors, the more deep they become. It's how printers bring your digital designs to life, ensuring accurate color reproduction on paper.",
+      "prompt": "A visually engaging simulation of CMYK color mixing. Show Cyan, Magenta, Yellow, and Black ink cartridges feeding into a mixing container. As the inks combine, display the resulting color and its CMYK values. Focus on the subtractive nature of CMYK."
+    },
+    {
+      "title": "HSB Color Picker Interface",
+      "caption": "**(Scene: A stylized HSB color picker interface on a tablet or computer screen.)**\n**(Voiceover):** Now, HSB: Hue, Saturation, and Brightness. Hue defines the color, saturation its intensity, and brightness its lightness or darkness. It's a more intuitive way to pick colors for artists. Learn them more and more!",
+      "prompt": "A clean and modern HSB color picker interface. Show sliders or controls for Hue, Saturation, and Brightness. As the values are adjusted, the selected color dynamically updates. Highlight the relationship between each component and the resulting color."
+    },
+    {
+      "title": "Hex Code Display with Corresponding Color",
+      "caption": "**(Scene: A grid of colored squares, each with its corresponding hex code displayed below.)**\n**(Voiceover):** Ever seen a color described by a # followed by letters and numbers? That's a Hex code! It's a shorthand way to represent a specific color value. Use for accurate representation of the color on computers",
+      "prompt": "A grid of different colored squares. Below each square, display its corresponding Hex code. Use a variety of colors, ranging from light to dark, and saturated to desaturated. Ensure the Hex codes are clearly legible."
+    },
+    {
+      "title": "Complementary Color Pair Illustration",
+      "caption": "**(Scene: Two contrasting colors, such as blue and orange, displayed side-by-side with lines connecting them.)**\n**(Voiceover):** Complementary colors sit opposite each other on the color wheel. Blue and Orange, Red and Green, Yellow and Purple. They create strong contrast and visual impact. Using them adds dimension, excitement and makes for very good designs",
+      "prompt": "An illustration showcasing several pairs of complementary colors (e.g., Red/Green, Blue/Orange, Yellow/Purple). Each pair should be displayed side-by-side, with a visual element (e.g., a connecting line or shape) emphasizing their relationship. Use simple shapes and a clean background."
+    },
+    {
+      "title": "RGB Color Channels - Separated and Combined",
+      "caption": "**(Scene: Start with a full-color image. Deconstruct it into its Red, Green, and Blue channels displayed individually in grayscale, then recombine them back into the original image.)**\n**(Voiceover):** Let's break down an image. Each color is created from different amounts of red, green and blue. By controlling these channels, you can adjust the colors and create various combinations. Learn to control and get the colors to the way you want to see them",
+      "prompt": "Start with a visually interesting full-color image (e.g., a flower or a landscape). Deconstruct it into its individual Red, Green, and Blue color channels, displayed as grayscale images. Show the separate channels blending back together to recreate the original full-color image. Label each channel clearly."
+    },
+    {
+      "title": "CMYK Printing Process Visualization",
+      "caption": "**(Scene: An animated representation of a printing press, showing the Cyan, Magenta, Yellow, and Black inks being applied in layers to create a final printed image.)**\n**(Voiceover):** Ever wonder how your favourite magazine is created. CMYK printing presses lay down layers of ink, starting with Cyan, then Magenta, then Yellow and lastly Black. The combination produces all the amazing photos. ",
+      "prompt": "An animated visualization of the CMYK printing process. Show each of the four CMYK inks (Cyan, Magenta, Yellow, Black) being applied in sequence to create a final printed image. Emphasize the layering effect and how the different inks combine to produce a full range of colors."
+    },
+    {
+      "title": "Color Harmony Wheel - Analogous Colors",
+      "caption": "**(Scene: Show a color wheel highlighting three analogous colors, such as blue, blue-green, and green.)**\n**(Voiceover):** Color harmony is created by using various combinations. Analogous colors. These colors sit beside each other on the color wheel. They often create calming colour effects and are seen within nature. ",
+      "prompt": "A color wheel highlighting a set of analogous colors (e.g., blue, blue-green, green). Visually emphasize the closeness of these colors on the wheel. Use a simple and uncluttered design. Label \"Analogous Colors\" clearly."
+    },
+    {
+      "title": "Visual Example of Split Complementary Colors",
+      "caption": "**(Scene: Shows a dominant color and two colors adjacent to its complement on the color wheel. For example: blue, yellow-orange, and red-orange.)**\n**(Voiceover):** Split Complementary colors are another interesting harmony option. This scheme uses a base color and the two colors adjacent to its complement. This provides a high contrast but not as strong as complementary colors. Use these schemes to create more interesting and beautiful visuals",
+      "prompt": "A clean visual representation of a split complementary color scheme. Choose a dominant color and then show the two colors that flank its complement on the color wheel. Use a visually pleasing arrangement and label each color. For example Blue with Yellow-Orange and Red-Orange."
+    }
+  ]
+]

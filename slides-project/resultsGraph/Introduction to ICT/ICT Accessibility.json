@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Diverse Hands Using Assistive Technology",
+      "caption": "Welcome! Let's explore ICT Accessibility. It's all about making technology usable for everyone. That includes people with disabilities. Think accessible websites, software, and devices.  It creates equal opportunities.  Enabling participation in education, employment, and social life. ICT Accessibility:  Opening doors for all.",
+      "prompt": "An image showing a diverse group of hands interacting with various assistive technologies. Include a screen reader with braille output, a large-button phone, a person using voice control software on a tablet, and a person using a head pointer to navigate a computer. The background should be a bright, modern office or co-working space.  Emphasize inclusivity and usability."
+    },
+    {
+      "title": "A Person with Visual Impairment Using a Screen Reader",
+      "caption": "Screen readers are crucial tools. They convert text to speech.  Allowing visually impaired individuals to access digital content.  Websites must be designed for compatibility.  Using proper semantic HTML and alt text.  Accessibility benefits everyone. Clear layouts, keyboard navigation, and color contrast. Creating a better experience for all users.",
+      "prompt": "Close-up shot of a person with a visual impairment wearing headphones and using a computer with a screen reader. Focus on the concentration on their face and the screen displaying simple, well-structured content. The lighting should be soft and emphasize the user's engagement."
+    },
+    {
+      "title": "Accessible Website Design Interface",
+      "caption": "Accessible web design is essential.  Ensuring websites are usable by all.  This includes proper color contrast.  Meaningful alternative text for images.  Keyboard navigation. And clear, logical structure.  Testing with accessibility tools is key.  Making the web truly for everyone.",
+      "prompt": "An image depicting a website design interface, with highlighted areas indicating accessibility features.  Show a developer working on the code, with annotations pointing to areas such as alt text fields, color contrast checkers, and keyboard navigation settings. The overall aesthetic should be clean and modern."
+    },
+    {
+      "title": "Assistive Technology for Cognitive Disabilities",
+      "caption": "ICT accessibility also supports those with cognitive disabilities.  Tools like mind-mapping software.  Simplified interfaces.  And text-to-speech. Help users process information.  Breaking down complex tasks.  Boosting confidence and independence.  Making technology a powerful ally.",
+      "prompt": "An image showing a person with a cognitive disability using assistive technology.  Perhaps a tablet with a simplified user interface, or a mind-mapping program visualizing a complex task.  The person should appear focused and engaged, showcasing the positive impact of the technology."
+    },
+    {
+      "title": "Captioning and Subtitles in a Video Conference",
+      "caption": "Captioning and subtitles are vital.  Making video content accessible to deaf and hard-of-hearing individuals.  Accuracy and timing are critical.  Ensuring clear and understandable text.  Live captioning is increasingly available.  Breaking down communication barriers.  Making every voice heard.",
+      "prompt": "An image showing a video conference call, with accurate and well-timed captions displayed at the bottom of the screen. The participants in the call should be diverse, representing various backgrounds and abilities. The overall feel should be professional and inclusive."
+    },
+    {
+      "title": "Universal Design Principles Illustrated",
+      "caption": "Universal Design is a key principle.  Creating products and environments usable by all.  Regardless of ability.  This includes equitable use.  Flexibility.  Simple and intuitive design.  Perceptible information.  Tolerance for error.  And low physical effort.  Creating a more inclusive world.",
+      "prompt": "An abstract image representing the principles of Universal Design. Use visual metaphors to depict concepts like equitable use (balanced scales), flexibility (stretching fabric), simplicity (clean lines), and perceptible information (a clear icon). The color palette should be bright and inviting."
+    },
+    {
+      "title": "A Student Using a Wheelchair-Accessible Computer Lab",
+      "caption": "Accessible learning environments are crucial.  Providing equal access to education.  This includes wheelchair-accessible computer labs.  Adjustable desks.  Assistive software. And accessible learning materials.  Empowering students with disabilities.  Unlocking their full potential.",
+      "prompt": "An image depicting a student using a wheelchair in a modern, well-equipped computer lab. The lab should feature adjustable desks, ergonomic chairs, and assistive software options displayed on the computer screens. The student should appear focused and confident, demonstrating their engagement with the learning environment."
+    },
+    {
+      "title": "Voice Recognition Software in Action",
+      "caption": "Voice recognition software is a game-changer.  Allowing users to control computers and devices with their voice.  Beneficial for those with mobility impairments.  Or anyone who prefers hands-free interaction.  Advancements in AI improve accuracy.  Making technology more accessible than ever.  A voice for everyone.",
+      "prompt": "A person speaking into a microphone, with a computer screen displaying text being accurately transcribed in real-time.  The background should be a quiet, professional setting.  The image should convey a sense of ease and efficiency."
+    },
+    {
+      "title": "Impact of ICT Accessibility: Connecting Generations",
+      "caption": "The impact of ICT accessibility is profound.  Connecting generations.  Breaking down social barriers.  Empowering individuals to live full and independent lives.  It's about creating a more inclusive and equitable society.  Where everyone has the opportunity to thrive.  Accessibility: A fundamental right.",
+      "prompt": "An image depicting a young person helping an older adult use a tablet or smartphone. Both individuals are smiling and engaged. The background should be a comfortable and welcoming home environment, emphasizing the connection and shared experience facilitated by accessible technology."
+    }
+  ]
+]

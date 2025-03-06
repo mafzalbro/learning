@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Untouched Photograph",
+      "caption": "Hey there! Want to make your photos pop? Let's dive into basic photo editing. First up: Exposure! Too dark? Too bright? Adjust it! Next, Contrast. Add depth and dimension to your image. Now, let's talk White Balance. Get rid of those unwanted color casts. Finally, a touch of Sharpening. Make those details crisp and clear. Simple, right? Now go make some magic!",
+      "prompt": "A slightly underexposed photograph of a vibrant cityscape at sunset, before any editing has been applied. Focus on the colors and potential that the image holds."
+    },
+    {
+      "title": "Exposure Adjustment",
+      "caption": "Exposure sorted! Too dark, light it up! This controls the overall brightness of your image. Move the slider to the right to brighten, left to darken. It’s the foundation of a great photo. Find the sweet spot – not too bright, not too dark.",
+      "prompt": "The same cityscape photo from the previous prompt, but now with the exposure properly adjusted to a pleasing level. Highlight the difference in vibrancy and detail."
+    },
+    {
+      "title": "Contrast Boost",
+      "caption": "Contrast is key. It separates the bright from the dark. Adding contrast makes colors more vivid and defines shapes. A little goes a long way! Don’t overdo it, or you’ll lose detail.",
+      "prompt": "The same cityscape photo, now with a moderate amount of contrast added, making the colors pop and the details sharper. Demonstrate a balanced contrast level."
+    },
+    {
+      "title": "White Balance Correction",
+      "caption": "White Balance! Fix those funky colors! Is your photo too blue or too yellow? Adjust the temperature to balance it out. Look for natural colors. Aim for realism or the mood you desire.",
+      "prompt": "The same cityscape photo, initially with a slightly blue tint, then corrected with adjusted white balance to show true colors. Showcase the impact of accurate white balance."
+    },
+    {
+      "title": "Sharpening Details",
+      "caption": "Sharpening is the final touch. It enhances the details and textures. But be careful! Too much sharpening can create unwanted noise. A subtle adjustment makes a big difference. It's the secret to a professional look!",
+      "prompt": "The same cityscape photo, now with a subtle amount of sharpening applied, highlighting the crispness of buildings and other details. Avoid excessive sharpening artifacts."
+    },
+    {
+      "title": "Spot Removal Tool",
+      "caption": "Blemish be gone! The spot removal tool is your best friend. Get rid of distractions like dust or small imperfections. Click, drag, and poof! They're gone. Keep your photo clean and focused.",
+      "prompt": "A close-up portrait of a person with a few small blemishes on their face. An indication showing the spot removal tool being used to subtly remove one of the blemishes."
+    },
+    {
+      "title": "Cropping for Composition",
+      "caption": "Crop it like it's hot! Improve your composition with cropping. Remove distractions. Focus on the main subject. Experiment with different aspect ratios. Rule of thirds, anyone? It’s your artistic license!",
+      "prompt": "A slightly unbalanced landscape photo, followed by the same photo cropped according to the rule of thirds, demonstrating improved composition and a stronger focal point."
+    },
+    {
+      "title": "Saturation Adjustment",
+      "caption": "Saturation: the color booster! Want more vibrant hues? Increase the saturation. But don't go overboard! Too much can look unnatural. Find the right balance for eye-catching colors.",
+      "prompt": "A photograph of a colorful flower garden, initially with muted colors, followed by the same photo with slightly increased saturation, enhancing the vibrancy of the flowers without looking artificial."
+    },
+    {
+      "title": "Before & After",
+      "caption": "The magic of editing! See the difference? From dull to dazzling with just a few simple tweaks. Exposure, contrast, white balance, sharpening, and more. Now you know the basics! Go create your masterpiece!",
+      "prompt": "A split-screen image showing the original untouched cityscape photo on one side, and the fully edited version (with exposure, contrast, white balance, and sharpening adjustments) on the other side, clearly demonstrating the positive impact of basic photo editing."
+    }
+  ]
+]

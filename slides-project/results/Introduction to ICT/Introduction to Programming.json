@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Introduction to Programming",
+    "content": "<p>Welcome to the exciting world of programming!</p>\n<p>This presentation will cover:</p>\n<ul>\n<li>What is Programming?</li>\n<li>Why Learn to Program?</li>\n<li>Basic Programming Concepts</li>\n<li>Choosing Your First Programming Language</li>\n<li>Tools of the Trade</li>\n<li>A Glimpse into Different Programming Paradigms</li>\n<li>Next Steps and Resources</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Programming?",
+    "content": "<p>Programming is essentially telling a computer what to do.  It&#39;s like giving instructions, but instead of using human language, we use <em>programming languages</em>.</p>\n<p>Think of it as writing a recipe for a computer to follow.</p>\n<ul>\n<li><strong>Input:</strong> The computer receives data.</li>\n<li><strong>Process:</strong> The computer manipulates the data according to your instructions.</li>\n<li><strong>Output:</strong> The computer displays or provides the result.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why Learn to Program?",
+    "content": "<p>Programming skills are incredibly valuable in today&#39;s world! Here&#39;s why you should learn:</p>\n<ul>\n<li><strong>Problem Solving:</strong>  Programming helps you develop logical thinking and problem-solving skills.</li>\n<li><strong>Automation:</strong> Automate repetitive tasks and save time.</li>\n<li><strong>Career Opportunities:</strong> High demand and good salaries in various fields.</li>\n<li><strong>Innovation:</strong> Create your own software, websites, apps, and more!</li>\n<li><strong>Understanding Technology:</strong> Gain a deeper understanding of how technology works around you.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Programming Concepts",
+    "content": "<p>Let&#39;s look at some fundamental building blocks:</p>\n<ul>\n<li><strong>Variables:</strong>  Containers for storing data (e.g., name = &quot;Alice&quot;, age = 30).</li>\n<li><strong>Data Types:</strong>  Different types of data (e.g., numbers, text, true/false).</li>\n<li><strong>Operators:</strong>  Symbols that perform operations (e.g., +, -, *, /).</li>\n<li><strong>Control Flow:</strong>  Controlling the order in which instructions are executed (e.g., <code>if</code> statements, <code>for</code> loops).</li>\n<li><strong>Functions:</strong> Reusable blocks of code that perform a specific task.</li>\n</ul>\n"
+  },
+  {
+    "title": "Variables: Storing Data",
+    "content": "<p>Think of a variable as a labelled box where you can store information.</p>\n<p>Example:</p>\n<pre><code>name = &quot;Bob&quot;\nage = 25\npi = 3.14159\nis_student = True\n</code></pre>\n<ul>\n<li><code>name</code> stores text (a string).</li>\n<li><code>age</code> stores a whole number (an integer).</li>\n<li><code>pi</code> stores a decimal number (a float).</li>\n<li><code>is_student</code> stores a true/false value (a boolean).</li>\n</ul>\n"
+  },
+  {
+    "title": "Control Flow: Making Decisions",
+    "content": "<p>Control flow allows your program to make decisions based on conditions.</p>\n<p><strong><code>if</code> statement:</strong></p>\n<pre><code>if age &gt;= 18:\n    print(&quot;You are an adult.&quot;)\nelse:\n    print(&quot;You are not an adult.&quot;)\n</code></pre>\n<p><strong><code>for</code> loop:</strong></p>\n<pre><code>for i in range(5):\n    print(i)\n</code></pre>\n<p>(This will print numbers 0 to 4)</p>\n"
+  },
+  {
+    "title": "Functions: Reusable Code",
+    "content": "<p>Functions are like mini-programs within your program. They perform a specific task and can be called multiple times.</p>\n<pre><code>def greet(name):\n    print(&quot;Hello, &quot; + name + &quot;!&quot;)\n\ngreet(&quot;Charlie&quot;)  # Output: Hello, Charlie!\n</code></pre>\n<p>Functions help to organize your code and avoid repetition.</p>\n"
+  },
+  {
+    "title": "Choosing Your First Programming Language",
+    "content": "<p>Many great languages exist! Here are a few popular choices for beginners:</p>\n<ul>\n<li><strong>Python:</strong> Easy to read, versatile, and widely used in data science, web development, and more.</li>\n<li><strong>JavaScript:</strong> Essential for web development (front-end and back-end).</li>\n<li><strong>Java:</strong>  Object-oriented, used in enterprise applications and Android development.</li>\n<li><strong>C#:</strong> Developed by Microsoft, used in game development (Unity) and Windows applications.</li>\n<li><strong>Scratch:</strong> Visual programming language for learning basic concepts (especially for kids).</li>\n</ul>\n"
+  },
+  {
+    "title": "Python: A Great Starting Point",
+    "content": "<p>Python is often recommended for beginners because of its clear syntax and large community support.</p>\n<p>Key features:</p>\n<ul>\n<li>Easy to learn and read.</li>\n<li>Large standard library with many built-in functions.</li>\n<li>Extensive third-party libraries for various tasks.</li>\n<li>Used in web development (Django, Flask), data science (Pandas, NumPy), machine learning (TensorFlow, PyTorch), and more.</li>\n</ul>\n"
+  },
+  {
+    "title": "Tools of the Trade",
+    "content": "<p>You&#39;ll need a few tools to start programming:</p>\n<ul>\n<li><strong>Text Editor or IDE (Integrated Development Environment):</strong>  Where you write your code. Examples: VS Code, Sublime Text, PyCharm, IntelliJ IDEA.</li>\n<li><strong>Compiler or Interpreter:</strong> Translates your code into machine-readable instructions. Python uses an interpreter.</li>\n<li><strong>Terminal or Command Prompt:</strong>  Used to run your code and interact with your system.</li>\n<li><strong>Debugger:</strong> Helps you find and fix errors in your code.</li>\n</ul>\n"
+  },
+  {
+    "title": "IDEs vs. Text Editors",
+    "content": "<ul>\n<li><strong>Text Editors</strong>: Lightweight and fast.  Good for quick edits and small projects.  Require more manual configuration.</li>\n<li><strong>IDEs</strong>: More feature-rich, including code completion, debugging tools, and project management features. Can be more resource-intensive.</li>\n</ul>\n<p>Choose the one that suits your needs and comfort level.</p>\n"
+  },
+  {
+    "title": "A Glimpse into Programming Paradigms",
+    "content": "<p>Different ways of thinking about programming:</p>\n<ul>\n<li><strong>Imperative Programming:</strong>  Focuses on <em>how</em> to achieve a result (step-by-step instructions).</li>\n<li><strong>Object-Oriented Programming (OOP):</strong>  Organizes code into objects that have data and behavior.</li>\n<li><strong>Functional Programming:</strong>  Treats computation as the evaluation of mathematical functions.</li>\n</ul>\n<p>Most languages support multiple paradigms.</p>\n"
+  },
+  {
+    "title": "Object-Oriented Programming (OOP)",
+    "content": "<p>OOP is a popular paradigm that uses &#39;objects&#39; to represent things.</p>\n<p>Key concepts:</p>\n<ul>\n<li><strong>Classes:</strong> Blueprints for creating objects.</li>\n<li><strong>Objects:</strong> Instances of classes (e.g., a specific dog).</li>\n<li><strong>Encapsulation:</strong> Bundling data and methods that operate on that data within an object.</li>\n<li><strong>Inheritance:</strong>  Creating new classes based on existing classes.</li>\n<li><strong>Polymorphism:</strong>  The ability of objects to take on many forms.</li>\n</ul>\n"
+  },
+  {
+    "title": "Functional Programming",
+    "content": "<p>Functional programming focuses on using pure functions, which have no side effects. A pure function always returns the same output for the same input.</p>\n<p>Key concepts:</p>\n<ul>\n<li><strong>Immutability:</strong> Data cannot be changed after it is created.</li>\n<li><strong>Higher-Order Functions:</strong> Functions that can take other functions as arguments or return them as results.</li>\n<li><strong>Recursion:</strong>  A function calling itself.</li>\n</ul>\n"
+  },
+  {
+    "title": "Next Steps and Resources",
+    "content": "<p>Ready to dive in?</p>\n<ul>\n<li><strong>Online Tutorials:</strong>  Codecademy, Coursera, edX, freeCodeCamp, Khan Academy.</li>\n<li><strong>Books:</strong>  &quot;Automate the Boring Stuff with Python,&quot; &quot;Head First Programming.&quot;</li>\n<li><strong>Documentation:</strong>  Official documentation for your chosen language.</li>\n<li><strong>Practice:</strong>  Work on small projects to solidify your understanding.</li>\n<li><strong>Community:</strong>  Join online forums (Stack Overflow) to ask questions and learn from others.</li>\n<li><strong>GitHub:</strong> Explore and contribute to open-source projects.</li>\n</ul>\n"
+  },
+  {
+    "title": "Practice Makes Perfect!",
+    "content": "<p>The best way to learn programming is by doing it.  Start with small, manageable projects and gradually increase the complexity.</p>\n<p>Examples:</p>\n<ul>\n<li>A simple calculator</li>\n<li>A text-based game</li>\n<li>A program to automate a repetitive task</li>\n<li>A basic website</li>\n</ul>\n<p>Don&#39;t be afraid to experiment and make mistakes – that&#39;s how you learn!</p>\n"
+  },
+  {
+    "title": "Debugging: Finding and Fixing Errors",
+    "content": "<p>Debugging is a crucial skill for any programmer. It involves identifying and correcting errors in your code.</p>\n<p>Tips for debugging:</p>\n<ul>\n<li>Read the error messages carefully.</li>\n<li>Use a debugger to step through your code line by line.</li>\n<li>Print out the values of variables to see what&#39;s happening.</li>\n<li>Break down your code into smaller parts and test them individually.</li>\n<li>Ask for help from online communities or experienced programmers.</li>\n</ul>\n"
+  },
+  {
+    "title": "Version Control with Git",
+    "content": "<p>Git is a version control system that helps you track changes to your code and collaborate with others.</p>\n<p>Key concepts:</p>\n<ul>\n<li><strong>Repositories:</strong>  Folders where your code is stored.</li>\n<li><strong>Commits:</strong>  Snapshots of your code at a specific point in time.</li>\n<li><strong>Branches:</strong>  Separate lines of development.</li>\n<li><strong>Merging:</strong>  Combining changes from different branches.</li>\n</ul>\n<p>GitHub, GitLab, and Bitbucket are popular platforms for hosting Git repositories.</p>\n"
+  },
+  {
+    "title": "Algorithms and Data Structures",
+    "content": "<p>Algorithms are step-by-step procedures for solving problems. Data structures are ways of organizing and storing data.</p>\n<p>Understanding these concepts is essential for writing efficient and effective code.</p>\n<p>Examples of algorithms:</p>\n<ul>\n<li>Sorting algorithms (e.g., bubble sort, merge sort)</li>\n<li>Searching algorithms (e.g., binary search)</li>\n</ul>\n<p>Examples of data structures:</p>\n<ul>\n<li>Arrays</li>\n<li>Linked lists</li>\n<li>Trees</li>\n<li>Graphs</li>\n</ul>\n"
+  },
+  {
+    "title": "Keep Learning and Exploring!",
+    "content": "<p>The world of programming is constantly evolving.  Stay curious, keep learning, and explore new technologies.</p>\n<ul>\n<li>Read blogs and articles.</li>\n<li>Attend conferences and workshops.</li>\n<li>Contribute to open-source projects.</li>\n<li>Build your own projects and share them with the world.</li>\n</ul>\n<p>The possibilities are endless!</p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes the introduction to programming.</p>\n<p>We hope this presentation has sparked your interest in the exciting world of coding!</p>\n<p>Good luck on your programming journey!</p>\n"
+  }
+]

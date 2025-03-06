@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Introduction to Design Software: Photoshop, Illustrator, Figma, Canva",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>Overview:</strong> Understanding the role of design software.</li>\n<li><strong>Photoshop:</strong> Image editing and manipulation.</li>\n<li><strong>Illustrator:</strong> Vector graphics creation.</li>\n<li><strong>Figma:</strong> Collaborative UI/UX design.</li>\n<li><strong>Canva:</strong> User-friendly graphic design for everyone.</li>\n<li><strong>Choosing the Right Tool:</strong> Tips and considerations.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why Use Design Software?",
+    "content": "<p>Design software empowers you to:</p>\n<ul>\n<li><strong>Create Visuals:</strong>  From logos to marketing materials.</li>\n<li><strong>Edit Images:</strong> Enhance photos and create stunning effects.</li>\n<li><strong>Design Interfaces:</strong> Build user-friendly websites and apps.</li>\n<li><strong>Collaborate:</strong> Work with others on design projects.</li>\n<li><strong>Communicate Ideas:</strong> Visually convey your message effectively.</li>\n</ul>\n"
+  },
+  {
+    "title": "Adobe Photoshop: Image Editing Powerhouse",
+    "content": "<p>Photoshop is the industry standard for image editing. </p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Raster-based:</strong> Works with pixels.</li>\n<li><strong>Extensive Tools:</strong> Layers, filters, masks, retouching.</li>\n<li><strong>Image Manipulation:</strong>  Photo editing, compositing, digital painting.</li>\n<li><strong>File Formats:</strong> PSD, JPG, PNG, TIFF.</li>\n</ul>\n"
+  },
+  {
+    "title": "Photoshop: Common Uses",
+    "content": "<ul>\n<li><strong>Photo Retouching:</strong> Removing blemishes, adjusting colors.</li>\n<li><strong>Image Manipulation:</strong> Creating surreal or fantastical images.</li>\n<li><strong>Web Graphics:</strong>  Slicing images for websites.</li>\n<li><strong>Digital Painting:</strong>  Creating artwork from scratch.</li>\n<li><strong>Compositing:</strong> Combining multiple images seamlessly.</li>\n</ul>\n"
+  },
+  {
+    "title": "Adobe Illustrator: Vector Graphics Mastery",
+    "content": "<p>Illustrator is the go-to for creating scalable vector graphics.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Vector-based:</strong>  Uses paths and points, scalable without losing quality.</li>\n<li><strong>Precise Tools:</strong> Pen tool, shape tools, type tools.</li>\n<li><strong>Logo Design:</strong>  Creating logos that look sharp at any size.</li>\n<li><strong>Illustration:</strong>  Drawing illustrations and artwork.</li>\n<li><strong>File Formats:</strong> AI, EPS, SVG.</li>\n</ul>\n"
+  },
+  {
+    "title": "Illustrator: Common Uses",
+    "content": "<ul>\n<li><strong>Logo Design:</strong> Creating scalable and professional logos.</li>\n<li><strong>Illustrations:</strong> Designing artwork for print and web.</li>\n<li><strong>Typography:</strong>  Creating and manipulating text for visual impact.</li>\n<li><strong>Infographics:</strong>  Presenting data in visually appealing ways.</li>\n<li><strong>Print Design:</strong>  Creating layouts for brochures, posters, etc.</li>\n</ul>\n"
+  },
+  {
+    "title": "Figma: Collaborative UI/UX Design",
+    "content": "<p>Figma is a web-based tool for interface design and collaboration.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Web-based:</strong> Accessible from any device.</li>\n<li><strong>Real-time Collaboration:</strong> Multiple users can work simultaneously.</li>\n<li><strong>UI Design Focus:</strong>  Tools for creating website and app interfaces.</li>\n<li><strong>Prototyping:</strong>  Creating interactive prototypes to test user flows.</li>\n<li><strong>File Format:</strong> FIG.</li>\n</ul>\n"
+  },
+  {
+    "title": "Figma: Common Uses",
+    "content": "<ul>\n<li><strong>UI/UX Design:</strong> Designing user interfaces for websites and apps.</li>\n<li><strong>Prototyping:</strong> Creating interactive prototypes for user testing.</li>\n<li><strong>Collaboration:</strong>  Working with teams on design projects.</li>\n<li><strong>Wireframing:</strong>  Creating basic layouts to plan user flows.</li>\n<li><strong>Design Systems:</strong> Building and maintaining reusable design components.</li>\n</ul>\n"
+  },
+  {
+    "title": "Canva: Design for Everyone",
+    "content": "<p>Canva is a user-friendly graphic design platform.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Simple Interface:</strong>  Easy to learn and use.</li>\n<li><strong>Templates:</strong>  Tons of pre-designed templates for various purposes.</li>\n<li><strong>Drag-and-Drop:</strong>  Simple interface for quick design creation.</li>\n<li><strong>Social Media Graphics:</strong>  Create eye-catching posts for social media.</li>\n<li><strong>File Formats:</strong> PNG, JPG, PDF.</li>\n</ul>\n"
+  },
+  {
+    "title": "Canva: Common Uses",
+    "content": "<ul>\n<li><strong>Social Media Posts:</strong> Creating engaging content for platforms like Instagram, Facebook, and Twitter.</li>\n<li><strong>Presentations:</strong> Designing visually appealing presentations.</li>\n<li><strong>Posters and Flyers:</strong> Creating promotional materials for events.</li>\n<li><strong>Business Cards:</strong> Designing professional-looking business cards.</li>\n<li><strong>Invitations:</strong> Designing custom invitations for parties and events.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Differences: Raster vs. Vector",
+    "content": "<p><strong>Raster:</strong></p>\n<ul>\n<li>Made of pixels.</li>\n<li>Loses quality when scaled up.</li>\n<li>Best for photos and complex images.</li>\n<li>Photoshop is a prime example.</li>\n</ul>\n<p><strong>Vector:</strong></p>\n<ul>\n<li>Made of paths and points.</li>\n<li>Scales infinitely without losing quality.</li>\n<li>Best for logos, illustrations, and typography.</li>\n<li>Illustrator is a prime example.</li>\n</ul>\n"
+  },
+  {
+    "title": "Figma vs Canva - A Quick comparison",
+    "content": "<p><strong>Figma</strong>\n<em>Pro:</em> Better for complicated projects and it has real time collaboration.\n<em>Cons:</em> More difficult to learn, better for advanced users</p>\n<p><strong>Canva</strong>\n<em>Pro:</em> Easy to learn and use, ready to use templates available.\n<em>Cons:</em> Less control, better for beginners, not recommended for advanced users</p>\n"
+  },
+  {
+    "title": "Choosing the Right Tool: Considerations",
+    "content": "<ul>\n<li><strong>Project Needs:</strong> What are you trying to create?</li>\n<li><strong>Skill Level:</strong> Are you a beginner or an experienced designer?</li>\n<li><strong>Budget:</strong>  Do you need a free or paid solution?</li>\n<li><strong>Collaboration:</strong>  Will you be working with others?</li>\n<li><strong>Learning Curve:</strong> How much time are you willing to invest in learning?</li>\n</ul>\n"
+  },
+  {
+    "title": "Tool Selection: Use Cases",
+    "content": "<ul>\n<li><strong>Photo Editing:</strong> Photoshop</li>\n<li><strong>Logo Design:</strong> Illustrator</li>\n<li><strong>UI/UX Design:</strong> Figma</li>\n<li><strong>Social Media Graphics (Quick &amp; Easy):</strong> Canva</li>\n<li><strong>Print Design (Complex):</strong> Illustrator</li>\n<li><strong>Presentations (Simple):</strong> Canva/Figma</li>\n</ul>\n"
+  },
+  {
+    "title": "Getting Started: Resources",
+    "content": "<ul>\n<li><strong>Adobe:</strong> Official tutorials and documentation for Photoshop and Illustrator.</li>\n<li><strong>Figma:</strong> Figma Learn (official learning resources).</li>\n<li><strong>Canva:</strong> Canva Design School.</li>\n<li><strong>YouTube:</strong> Countless tutorials for all four programs.</li>\n<li><strong>Online Courses:</strong> Udemy, Coursera, Skillshare.</li>\n</ul>\n"
+  },
+  {
+    "title": "Pro Tip: Keyboard Shortcuts",
+    "content": "<p>Learning keyboard shortcuts can significantly speed up your workflow in any of these programs. Explore and master common shortcuts for the software you&#39;re using.</p>\n"
+  },
+  {
+    "title": "Pro Tip: Layers are Your Friend",
+    "content": "<p>Get comfortable using layers.  They allow you to organize your work, easily make changes, and create complex designs without being destructive.</p>\n"
+  },
+  {
+    "title": "Pro Tip: Practice Makes Perfect",
+    "content": "<p>The best way to learn design software is to practice. Experiment with different tools and techniques, and don&#39;t be afraid to make mistakes.  Start with small projects and gradually increase complexity.</p>\n"
+  },
+  {
+    "title": "The Importance of Design Principles",
+    "content": "<p>While software helps, understanding design principles is key: </p>\n<ul>\n<li><strong>Balance:</strong> Visual weight distribution.</li>\n<li><strong>Contrast:</strong>  Differences in color, size, shape.</li>\n<li><strong>Emphasis:</strong>  Drawing attention to key elements.</li>\n<li><strong>Proportion:</strong>  Relationship between sizes and scales.</li>\n<li><strong>Unity:</strong>  Creating a cohesive and harmonious design.</li>\n</ul>\n"
+  },
+  {
+    "title": "Beyond the Basics",
+    "content": "<p>Once you&#39;re comfortable with the basics, explore more advanced features:</p>\n<ul>\n<li><strong>Photoshop:</strong>  3D modeling, video editing.</li>\n<li><strong>Illustrator:</strong>  Pattern creation, variable fonts.</li>\n<li><strong>Figma:</strong>  Plugins, design systems.</li>\n<li><strong>Canva:</strong>  Brand kits, animated graphics.</li>\n</ul>\n"
+  },
+  {
+    "title": "Staying Up-to-Date",
+    "content": "<p>Design software is constantly evolving.  Keep learning by:</p>\n<ul>\n<li>**Following industry blogs and social media accounts.</li>\n<li>Watching online tutorials.</li>\n<li>Experimenting with new features.</li>\n<li>Joining online design communities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Collaboration Tips",
+    "content": "<ul>\n<li><strong>Figma &amp; Canva:</strong> Utilize shared workspaces and commenting features.</li>\n<li><strong>Photoshop &amp; Illustrator:</strong> Package files properly (fonts, linked images) for sharing.</li>\n<li><strong>Establish clear communication:</strong>  Use naming conventions and version control.</li>\n</ul>\n"
+  },
+  {
+    "title": "Copyright and Licensing",
+    "content": "<p>Be aware of copyright laws when using images, fonts, and other assets. Ensure you have the necessary licenses for commercial use.</p>\n"
+  },
+  {
+    "title": "Accessibility Considerations",
+    "content": "<p>Design with accessibility in mind:</p>\n<ul>\n<li><strong>Color Contrast:</strong> Ensure sufficient contrast for readability.</li>\n<li><strong>Alt Text:</strong> Provide descriptive alt text for images.</li>\n<li><strong>Font Size:</strong> Use legible font sizes.</li>\n<li><strong>Keyboard Navigation:</strong> Design for keyboard navigation.</li>\n</ul>\n"
+  },
+  {
+    "title": "Exporting Your Designs",
+    "content": "<p>Choose the appropriate file format based on the intended use:</p>\n<ul>\n<li><strong>Web:</strong> JPG, PNG, SVG</li>\n<li><strong>Print:</strong> PDF, TIFF</li>\n<li><strong>Social Media:</strong> JPG, PNG</li>\n</ul>\n<p>Optimize file size for faster loading times.</p>\n"
+  },
+  {
+    "title": "Troubleshooting Tips",
+    "content": "<ul>\n<li><strong>Software Crashes:</strong> Save your work frequently! Update your software and drivers.</li>\n<li><strong>Performance Issues:</strong> Close unnecessary applications. Increase RAM allocation.</li>\n<li><strong>Learning Challenges:</strong> Consult online forums and communities for help.</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes the introduction to design software.  We hope you found this helpful!</p>\n<ul>\n<li><strong>Questions?</strong></li>\n<li><strong>Feedback?</strong></li>\n</ul>\n"
+  }
+]

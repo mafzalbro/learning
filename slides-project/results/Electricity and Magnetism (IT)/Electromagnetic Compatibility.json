@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Electromagnetic Compatibility (EMC): Taming the Wireless World",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is EMC?</strong> Understanding the basics.</li>\n<li><strong>Why is EMC important?</strong> Real-world consequences of ignoring it.</li>\n<li><strong>Sources of Electromagnetic Interference (EMI):</strong> Where the noise comes from.</li>\n<li><strong>EMC Standards and Regulations:</strong> Who&#39;s in charge and what are the rules?</li>\n<li><strong>EMC Design Techniques:</strong> How to prevent problems.</li>\n<li><strong>EMC Testing:</strong> How to ensure compliance.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Electromagnetic Compatibility (EMC)?",
+    "content": "<p>EMC is the ability of electronic equipment to:</p>\n<ul>\n<li><strong>Function correctly in its intended electromagnetic environment.</strong> This means it works as expected without being disrupted by other devices.</li>\n<li><strong>Not emit excessive electromagnetic energy that interferes with other equipment.</strong>  It doesn&#39;t cause problems for other devices nearby.</li>\n</ul>\n<p>Think of it as electronic &#39;politeness&#39; – equipment playing nicely together.</p>\n"
+  },
+  {
+    "title": "Electromagnetic Interference (EMI) – The Villain",
+    "content": "<p>EMI is the disturbance caused by electromagnetic energy.</p>\n<ul>\n<li>Also known as &#39;noise&#39;.</li>\n<li>Can disrupt, degrade, or limit the performance of electronic equipment.</li>\n<li>Sources of EMI are everywhere: other electronics, power lines, radio signals, even static electricity.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why is EMC Important? Real-World Consequences",
+    "content": "<p>Lack of EMC can lead to serious problems:</p>\n<ul>\n<li><strong>System Malfunctions:</strong> Devices stop working correctly.</li>\n<li><strong>Data Corruption:</strong> Loss of important information.</li>\n<li><strong>Safety Hazards:</strong>  In critical systems (e.g., medical equipment, aircraft), EMI can be life-threatening.</li>\n<li><strong>Regulatory Non-Compliance:</strong> Fines and product recalls.</li>\n<li><strong>Reduced Product Reliability:</strong> Shorter lifespan and increased maintenance.</li>\n</ul>\n"
+  },
+  {
+    "title": "Sources of Electromagnetic Interference (EMI)",
+    "content": "<p>EMI comes in many forms, from various sources:</p>\n<ul>\n<li><strong>Natural Sources:</strong> Lightning, solar flares.</li>\n<li><strong>Man-Made Sources:</strong><ul>\n<li><strong>Intentional Radiators:</strong> Radio transmitters, cell phones, Wi-Fi routers.</li>\n<li><strong>Unintentional Radiators:</strong> Computers, power supplies, electric motors.</li>\n</ul>\n</li>\n<li><strong>Common Sources:</strong> Switching power supplies, microwave ovens, fluorescent lights, electric drills.</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of EMI: Conducted vs. Radiated",
+    "content": "<p>EMI travels in two main ways:</p>\n<ul>\n<li><strong>Conducted EMI:</strong> Travels through wires and cables (e.g., power cords).</li>\n<li><strong>Radiated EMI:</strong> Travels through the air as electromagnetic waves (like radio waves).</li>\n</ul>\n<p>Think of it like sound: conducted EMI is like sound traveling through a wall, while radiated EMI is like sound traveling through the air.</p>\n"
+  },
+  {
+    "title": "EMC Standards and Regulations: The Rules of the Game",
+    "content": "<p>Various organizations set standards and regulations to ensure EMC:</p>\n<ul>\n<li><strong>FCC (Federal Communications Commission):</strong>  In the United States, regulates devices that radiate radio frequency energy.</li>\n<li><strong>CISPR (Comité International Spécial des Perturbations Radioélectriques):</strong> International standards for radio disturbance characteristics.</li>\n<li><strong>IEC (International Electrotechnical Commission):</strong>  Develops international standards for electrical and electronic technologies.</li>\n<li><strong>European Union (CE Marking):</strong>  Products sold in the EU must meet EMC requirements to obtain CE marking.</li>\n</ul>\n"
+  },
+  {
+    "title": "EMC Design Techniques: Prevention is Key",
+    "content": "<p>Good design practices can significantly reduce EMI problems:</p>\n<ul>\n<li><strong>Shielding:</strong> Use metal enclosures to block electromagnetic fields.</li>\n<li><strong>Grounding:</strong> Create a low-impedance path to ground to dissipate unwanted currents.</li>\n<li><strong>Filtering:</strong> Use filters to block unwanted frequencies on power lines and signal cables.</li>\n<li><strong>Cable Management:</strong>  Use shielded cables and proper cable routing to minimize radiation.</li>\n<li><strong>Component Selection:</strong> Choose components with low EMI emissions.</li>\n</ul>\n"
+  },
+  {
+    "title": "Shielding: The Invisible Wall",
+    "content": "<p>Shielding is crucial for preventing EMI.</p>\n<ul>\n<li><strong>Purpose:</strong> To block electromagnetic fields from entering or exiting a device.</li>\n<li><strong>Methods:</strong><ul>\n<li>Metal enclosures (e.g., steel, aluminum).</li>\n<li>Shielded cables (coaxial cables, shielded twisted pair).</li>\n<li>Conductive gaskets (to seal gaps in enclosures).</li>\n</ul>\n</li>\n<li><strong>Effectiveness depends on:</strong> Material, thickness, and frequency of the signal.</li>\n</ul>\n"
+  },
+  {
+    "title": "Grounding: The Path of Least Resistance",
+    "content": "<p>Grounding provides a safe path for unwanted currents.</p>\n<ul>\n<li><strong>Purpose:</strong> To minimize voltage differences between different parts of a circuit.</li>\n<li><strong>Importance:</strong> Proper grounding reduces noise and prevents equipment damage.</li>\n<li><strong>Techniques:</strong><ul>\n<li>Single-point grounding.</li>\n<li>Multi-point grounding.</li>\n<li>Star grounding.</li>\n</ul>\n</li>\n<li><strong>Key Considerations:</strong> Ground loop prevention, low-impedance connections.</li>\n</ul>\n"
+  },
+  {
+    "title": "Filtering: Blocking the Noise",
+    "content": "<p>Filters remove unwanted frequencies from signals and power lines.</p>\n<ul>\n<li><strong>Purpose:</strong> To attenuate (reduce) noise.</li>\n<li><strong>Types of Filters:</strong><ul>\n<li>Low-pass filters (allow low frequencies to pass).</li>\n<li>High-pass filters (allow high frequencies to pass).</li>\n<li>Band-pass filters (allow a specific range of frequencies to pass).</li>\n<li>Band-stop filters (block a specific range of frequencies).</li>\n</ul>\n</li>\n<li><strong>Placement:</strong>  Filters are typically placed at the input of a device to prevent noise from entering.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cable Management: Taming the Wires",
+    "content": "<p>Proper cable management is essential for reducing radiated emissions.</p>\n<ul>\n<li><strong>Techniques:</strong><ul>\n<li>Use shielded cables.</li>\n<li>Minimize cable length.</li>\n<li>Keep cables away from sensitive circuits.</li>\n<li>Use cable ties to bundle cables together.</li>\n<li>Avoid sharp bends in cables.</li>\n</ul>\n</li>\n<li><strong>Importance:</strong> Reduces the antenna effect of cables.</li>\n</ul>\n"
+  },
+  {
+    "title": "Component Selection: Choose Wisely",
+    "content": "<p>Selecting components with low EMI emissions is critical.</p>\n<ul>\n<li><strong>Considerations:</strong><ul>\n<li>Use components with good shielding.</li>\n<li>Choose low-noise oscillators and clocks.</li>\n<li>Use decoupling capacitors to filter noise on power supply lines.</li>\n<li>Select connectors with good shielding characteristics.</li>\n</ul>\n</li>\n<li><strong>Impact:</strong> Reduces the overall EMI footprint of the device.</li>\n</ul>\n"
+  },
+  {
+    "title": "EMC Testing: Proving Compliance",
+    "content": "<p>EMC testing verifies that a device meets regulatory requirements.</p>\n<ul>\n<li><strong>Purpose:</strong> To ensure that a device does not emit excessive EMI and is immune to interference.</li>\n<li><strong>Types of Tests:</strong><ul>\n<li><strong>Emissions Testing:</strong> Measures the amount of EMI emitted by the device.</li>\n<li><strong>Immunity Testing:</strong>  Subjects the device to various EMI sources to see if it is affected.</li>\n</ul>\n</li>\n<li><strong>Test Environments:</strong><ul>\n<li>Anechoic chambers (for radiated emissions and immunity testing).</li>\n<li>Shielded rooms (for conducted emissions and immunity testing).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Emissions Testing: Measuring the Noise",
+    "content": "<p>Emissions testing measures the electromagnetic radiation from a device.</p>\n<ul>\n<li><strong>Purpose:</strong>  To ensure the device doesn&#39;t exceed regulatory limits for EMI emissions.</li>\n<li><strong>Methods:</strong><ul>\n<li>Using antennas to measure radiated emissions.</li>\n<li>Using line impedance stabilization networks (LISNs) to measure conducted emissions.</li>\n</ul>\n</li>\n<li><strong>Standards:</strong> FCC, CISPR, EN standards define limits and test procedures.</li>\n</ul>\n"
+  },
+  {
+    "title": "Immunity Testing: Stressing the System",
+    "content": "<p>Immunity testing evaluates a device&#39;s ability to withstand electromagnetic interference.</p>\n<ul>\n<li><strong>Purpose:</strong> To ensure the device functions correctly in the presence of EMI.</li>\n<li><strong>Types of Immunity Tests:</strong><ul>\n<li>Electrostatic discharge (ESD) testing.</li>\n<li>Radiated immunity testing.</li>\n<li>Conducted immunity testing.</li>\n<li>Surge immunity testing.</li>\n<li>Electrical fast transient/burst (EFT/B) testing.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Electrostatic Discharge (ESD) Testing",
+    "content": "<p>Simulates the effect of static electricity on electronic equipment.</p>\n<ul>\n<li><strong>Purpose:</strong>  To ensure the device is protected against ESD events (e.g., a person touching the device).</li>\n<li><strong>Method:</strong> Applying high-voltage discharges to various points on the device.</li>\n<li><strong>Standards:</strong> IEC 61000-4-2.</li>\n</ul>\n"
+  },
+  {
+    "title": "Radiated Immunity Testing",
+    "content": "<p>Subjects the device to electromagnetic fields to simulate external interference.</p>\n<ul>\n<li><strong>Purpose:</strong>  To ensure the device functions correctly in the presence of radio waves and other electromagnetic fields.</li>\n<li><strong>Method:</strong> Exposing the device to a range of frequencies and field strengths.</li>\n<li><strong>Standards:</strong> IEC 61000-4-3.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conducted Immunity Testing",
+    "content": "<p>Injects electromagnetic energy onto the power and signal cables of the device.</p>\n<ul>\n<li><strong>Purpose:</strong> To ensure the device functions correctly when noise is present on its cables.</li>\n<li><strong>Method:</strong> Using a coupling network to inject noise onto the cables.</li>\n<li><strong>Standards:</strong> IEC 61000-4-6.</li>\n</ul>\n"
+  },
+  {
+    "title": "EMC Design Checklist: A Summary",
+    "content": "<ul>\n<li><strong>Plan for EMC early in the design process.</strong></li>\n<li><strong>Select components with low EMI emissions.</strong></li>\n<li><strong>Implement proper shielding and grounding techniques.</strong></li>\n<li><strong>Use filters to suppress noise.</strong></li>\n<li><strong>Manage cables effectively.</strong></li>\n<li><strong>Test your design for EMC compliance.</strong></li>\n<li><strong>Iterate and improve your design based on test results.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Troubleshooting EMC Issues",
+    "content": "<p>When problems arise:</p>\n<ul>\n<li><strong>Identify the source of the EMI.</strong> (Is it internal or external?)</li>\n<li><strong>Isolate the affected circuit.</strong> (Which part of the system is failing?)</li>\n<li><strong>Experiment with shielding, grounding, and filtering.</strong> (Try different solutions).</li>\n<li><strong>Use a spectrum analyzer to visualize the EMI spectrum.</strong></li>\n<li><strong>Consult with an EMC expert if needed.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Common EMC Mistakes to Avoid",
+    "content": "<ul>\n<li><strong>Ignoring EMC until the end of the design process.</strong></li>\n<li><strong>Poor grounding practices.</strong></li>\n<li><strong>Using unshielded cables.</strong></li>\n<li><strong>Insufficient filtering.</strong></li>\n<li><strong>Lack of shielding in enclosures.</strong></li>\n<li><strong>Failing to test for EMC compliance.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "EMC Resources",
+    "content": "<ul>\n<li><strong>Regulatory Agency Websites:</strong> FCC, European Commission</li>\n<li><strong>Standards Organizations:</strong> CISPR, IEC, IEEE</li>\n<li><strong>EMC Consulting Firms:</strong> Specialized companies that offer EMC testing and consulting services.</li>\n<li><strong>Books and Online Courses:</strong> Numerous resources are available to learn more about EMC.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion: EMC – An Ongoing Process",
+    "content": "<p>EMC is a critical aspect of electronic design.</p>\n<ul>\n<li>It&#39;s essential to consider EMC throughout the entire design process.</li>\n<li>By following good EMC design practices, you can ensure that your products are reliable, safe, and compliant with regulations.</li>\n<li>Keeping up with evolving standards and technologies is crucial for continued success.</li>\n</ul>\n"
+  },
+  {
+    "title": "Q & A",
+    "content": "<p>Thank you for your attention!  Are there any questions?</p>\n"
+  }
+]

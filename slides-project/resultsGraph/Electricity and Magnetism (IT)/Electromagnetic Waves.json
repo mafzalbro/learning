@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Electromagnetic Spectrum Introduction",
+      "caption": "Electromagnetic waves are everywhere! They're a fundamental part of the universe. From radio waves carrying your favorite song... to the light that lets you see this screen... it's all electromagnetic energy.",
+      "prompt": "A visually appealing graphic depicting the electromagnetic spectrum, clearly labeling the different types of waves: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. Use vibrant colors and a clean, modern design."
+    },
+    {
+      "title": "Wave Properties: Wavelength",
+      "caption": "Each wave has a unique wavelength – the distance between two crests. Longer wavelengths, like radio waves, carry less energy.",
+      "prompt": "A close-up illustration of a wave demonstrating wavelength. Clearly label the crests and troughs. Use arrows to indicate the distance representing one wavelength. Highlight the wavelength difference between a long wave (radio) and a short wave (UV)."
+    },
+    {
+      "title": "Wave Properties: Frequency",
+      "caption": "Frequency is how many waves pass a point in a second. Higher frequency means more energy! Think of gamma rays versus radio waves.",
+      "prompt": "Two side-by-side illustrations of waves. One shows a low-frequency wave with few crests passing a point in one second. The other shows a high-frequency wave with many crests passing the same point in one second. Label each with 'Low Frequency' and 'High Frequency'."
+    },
+    {
+      "title": "Electromagnetic Waves: Transmission",
+      "caption": "Electromagnetic waves can travel through the vacuum of space. No medium required! That's how sunlight reaches Earth.",
+      "prompt": "A depiction of the Sun emitting electromagnetic waves traveling through space towards Earth. Show the waves visually propagating outwards from the Sun."
+    },
+    {
+      "title": "Radio Waves: Communication",
+      "caption": "Radio waves are vital for communication! From broadcasting to your phone's signal, they carry information wirelessly.",
+      "prompt": "An image showing a radio tower transmitting radio waves, which are then being received by a smartphone and a radio. Include visual representations of the waves traveling between the devices."
+    },
+    {
+      "title": "Microwaves: Heating Food",
+      "caption": "Microwaves can heat food by causing water molecules to vibrate. It's a quick and efficient way to cook!",
+      "prompt": "A cutaway view of a microwave oven heating a bowl of food. Highlight the microwaves bouncing around inside the oven and interacting with the water molecules in the food, causing them to vibrate. A slightly cartoonish but scientifically accurate representation."
+    },
+    {
+      "title": "Infrared Radiation: Heat",
+      "caption": "Infrared radiation is heat! Thermal cameras detect infrared, allowing us to see temperature differences.",
+      "prompt": "A thermal image of a person's face, showing the heat distribution as different colors. Label areas of higher temperature (e.g., around the eyes and mouth) with hotter colors like red and yellow, and cooler areas with cooler colors like blue and green."
+    },
+    {
+      "title": "Visible Light: Seeing the World",
+      "caption": "Visible light is the only part of the electromagnetic spectrum we can see. It's a rainbow of colors!",
+      "prompt": "A prism refracting white light into a rainbow of colors. Clearly label each color: red, orange, yellow, green, blue, indigo, and violet."
+    },
+    {
+      "title": "X-rays: Medical Imaging",
+      "caption": "X-rays penetrate soft tissue, allowing us to see bones. It's a powerful tool for medical diagnosis.",
+      "prompt": "An X-ray image of a human hand, clearly showing the bones. Contrast the dense bones with the surrounding soft tissue."
+    }
+  ]
+]

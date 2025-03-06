@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "DNA Sequencing Visualization",
+      "caption": "Bioinformatics: a field at the intersection of biology and computer science. \nIt's all about analyzing biological data, like DNA. \nWe use computers to decode the language of life, uncovering secrets hidden within our genes. \nThis helps us understand diseases, develop new medicines, and even trace our ancestry.",
+      "prompt": "Abstract visualization of DNA sequencing data. Think strands of colorful data flowing through a stylized computer interface. Focus on the beauty and complexity of genetic information, rather than literal representation. Use a vibrant color palette with blues, greens, and purples."
+    },
+    {
+      "title": "Protein Structure Prediction",
+      "caption": "Proteins are the workhorses of our cells. \nBioinformatics helps us predict their 3D structure from their amino acid sequence. \nKnowing the structure allows us to understand protein function. \nAnd that knowledge can lead to designing targeted therapies.",
+      "prompt": "A stylized 3D model of a protein molecule being assembled by virtual robotic arms. The protein should appear slightly translucent, with highlights emphasizing its complex shape. The background should be a dark, futuristic laboratory setting."
+    },
+    {
+      "title": "Phylogenetic Tree of Life",
+      "caption": "Evolution connects all living things. \nBioinformatics uses genetic data to build phylogenetic trees. \nThese trees show the evolutionary relationships between species. \nHelping us trace the history of life on Earth.",
+      "prompt": "A visually appealing phylogenetic tree emanating from a central point, branching outwards with increasing complexity. Each branch should be subtly colored to represent different groups of organisms. The overall feeling should be one of interconnectedness and vastness."
+    },
+    {
+      "title": "Genome Annotation Workflow",
+      "caption": "A genome is like a giant instruction manual. \nBioinformatics helps us annotate that manual, identifying genes and their functions. \nThis process reveals the blueprint of an organism. \nUnlocking its potential and secrets.",
+      "prompt": "A stylized flowchart representing the process of genome annotation. Use abstract icons to represent different steps like sequence alignment, gene prediction, and functional annotation. Connect the icons with flowing lines to show the workflow. Use a clean, modern design with muted colors."
+    },
+    {
+      "title": "Drug Discovery with Computational Biology",
+      "caption": "Finding new drugs is a long and costly process. \nComputational biology uses computers to simulate drug interactions. \nThis helps us identify promising drug candidates. \nSaving time and resources in the fight against disease.",
+      "prompt": "A computer screen displaying a molecule of a drug binding to a protein target. The drug molecule should be brightly colored and clearly visible. The protein target can be a more abstract, stylized representation. The screen should have code and graphs visible in the background, suggesting computational analysis."
+    },
+    {
+      "title": "Metagenomics Data Analysis",
+      "caption": "Metagenomics allows us to study entire microbial communities. \nBioinformatics tools analyze the genetic material from these communities. \nRevealing the diversity and interactions within these complex ecosystems. \nOffering insights into everything from human health to environmental sustainability.",
+      "prompt": "A swirling galaxy of microbial data, with each point representing a different species or gene. The overall effect should be chaotic yet beautiful, representing the vastness and complexity of metagenomic datasets. Use a mix of vibrant and subtle colors."
+    },
+    {
+      "title": "Personalized Medicine Powered by Bioinformatics",
+      "caption": "Each of us is unique. \nBioinformatics helps us understand how our genes influence our health. \nThis information can be used to tailor treatments to individual patients. \nLeading to more effective and personalized medicine.",
+      "prompt": "A double helix subtly overlaid on a human silhouette. The DNA strands should be glowing and contain abstract data visualizations. The silhouette should be a neutral color, highlighting the importance of genetic information in personalized medicine."
+    },
+    {
+      "title": "Big Data in Bioinformatics",
+      "caption": "Bioinformatics generates massive amounts of data. \nHandling and analyzing this data requires powerful computational tools. \nBig data approaches are revolutionizing biological research. \nOpening up new possibilities for discovery.",
+      "prompt": "A visual representation of a data stream flowing into a brain-shaped computer. Use a gradient of colors to represent the different types of data. Emphasize the scale and volume of data being processed by the computer."
+    },
+    {
+      "title": "The Future of Bioinformatics",
+      "caption": "Bioinformatics is a rapidly evolving field. \nNew technologies and algorithms are constantly being developed. \nThe future of biological research will be driven by computational innovation. \nLeading to a deeper understanding of life and health.",
+      "prompt": "A futuristic cityscape with towering structures made of DNA strands and glowing data pathways. The overall feeling should be optimistic and forward-looking, representing the potential of bioinformatics to transform the world."
+    }
+  ]
+]

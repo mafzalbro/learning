@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Design Software Gateway",
+      "caption": "Hey there, design enthusiasts! Ready to explore the world of creative software? We're diving into some popular tools that empower designers of all levels. Get ready to unleash your inner artist!",
+      "prompt": "A brightly lit gateway leading to four distinct landscapes, each representing a design software: a sleek cityscape (Photoshop), an abstract vector field (Illustrator), a collaborative workspace (Figma), and a colorful, user-friendly interface (Canva). The overall scene should evoke a sense of excitement and possibility."
+    },
+    {
+      "title": "Photoshop: Pixels Perfected",
+      "caption": "First up, Adobe Photoshop! This powerhouse is all about manipulating images, from retouching photos to creating stunning digital paintings. Think layers, filters, and endless possibilities for pixel-perfect creations.",
+      "prompt": "A highly detailed image showing a hand expertly manipulating a digital photograph within the Photoshop interface. The hand should be holding a stylus, making precise adjustments to color and lighting. Focus on the intricate details and professional quality."
+    },
+    {
+      "title": "Illustrator: Vector Virtuosity",
+      "caption": "Next, we have Adobe Illustrator, the king of vectors! Unlike Photoshop's pixels, Illustrator uses mathematical equations to create scalable graphics. Logos, illustrations, and typography – Illustrator's got you covered.",
+      "prompt": "An abstract and visually striking composition created entirely from vector shapes in Illustrator. The shapes should be bold, vibrant, and interconnected, forming a dynamic and scalable design. Emphasize the clean lines and mathematical precision of vector graphics."
+    },
+    {
+      "title": "Figma: Collaborate and Create",
+      "caption": "Now, let's talk Figma! This collaborative design tool is revolutionizing the way teams work together. Design, prototype, and gather feedback, all in one seamless online platform. Teamwork makes the dream work, right?",
+      "prompt": "A split-screen image showing multiple cursors actively collaborating on the same Figma design project in real-time. The design should be a clean and modern UI for a mobile application. The atmosphere should convey collaboration, efficiency, and teamwork."
+    },
+    {
+      "title": "Canva: Design for Everyone",
+      "caption": "Finally, we have Canva, the design tool for everyone! With its user-friendly interface and vast library of templates, Canva makes design accessible to all. Create social media graphics, presentations, and more, effortlessly.",
+      "prompt": "A cheerful and inviting scene showcasing the Canva interface. The screen should be filled with colorful templates, design elements, and user-friendly tools. A hand is selecting a pre-designed template for a social media post. Emphasize the ease of use and accessibility of Canva."
+    },
+    {
+      "title": "The Power of Choice",
+      "caption": "So, which software is right for you? It depends on your needs and goals! Photoshop for image editing, Illustrator for vector graphics, Figma for collaboration, and Canva for ease of use. Explore them all and find your perfect fit!",
+      "prompt": "Four distinct icons representing Photoshop, Illustrator, Figma, and Canva, arranged in a circular formation. Each icon should be visually appealing and reflect the unique style and capabilities of its corresponding software. A central glowing orb represents the potential for creative expression."
+    },
+    {
+      "title": "Design Your Future",
+      "caption": "With these design tools at your fingertips, the possibilities are endless. Experiment, learn, and unleash your creativity. The world is waiting for your designs!",
+      "prompt": "A hand holding a stylus above a digital tablet displaying a vibrant and dynamic design. The background shows a cityscape transforming with elements of the design being integrated into buildings and billboards. Convey the impact and influence of design on the world around us."
+    },
+    {
+      "title": "Beyond the Basics",
+      "caption": "This is just the beginning! Each software offers deep dive courses to grow your skills! Explore advanced techniques to make you a real pro!",
+      "prompt": "A digital illustration of different icons representing training programs with different design softwares in one scene. Have arrows pointing to each software icon from a central point, symbolizing deeper knowledge from the basics we learned."
+    },
+    {
+      "title": "Thank you!",
+      "caption": "That's all from us today! Go forth and create with your favorite software!",
+      "prompt": "All 4 logos of softwares together to represent the end of the session. Simple background and a hand pointing towards the logos."
+    }
+  ]
+]

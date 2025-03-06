@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Social Media Evolution Timeline",
+      "caption": "Social media: from humble beginnings to global phenomenon. // SixDegrees, the first social network, connected friends and family. // Then came blogging, forums, and platforms like MySpace and Friendster. // Facebook revolutionized social connection. // Twitter redefined instant communication. // Instagram brought visual storytelling to the forefront. // Now, TikTok dominates with short-form video. // The future of social media is being written every day. Stay connected.",
+      "prompt": "A visually appealing timeline depicting the evolution of social media platforms. Highlight key platforms like SixDegrees, MySpace, Facebook, Twitter, Instagram, and TikTok. Use icons and dates to illustrate the progression. Simple and clean design."
+    },
+    {
+      "title": "Global Social Media Usage Heatmap",
+      "caption": "Social media connects billions worldwide. // Some regions embrace it more than others. // North America and Europe show strong adoption rates. // Asia, with its massive population, leads in overall users. // Africa and South America are rapidly growing. // But access and censorship vary greatly. // Social media's reach is vast, but unevenly distributed. // Join the conversation.",
+      "prompt": "A world map heatmap showcasing the intensity of social media usage by country. Use vibrant colors to represent user penetration. Include a simple key to indicate usage levels. Focus on a visually engaging representation of global trends."
+    },
+    {
+      "title": "Interconnected Devices & Social Media",
+      "caption": "Social media lives on every device. // Smartphones put connection in your pocket. // Tablets offer a larger canvas for content. // Laptops and desktops enable in-depth engagement. // Smart TVs bring social experiences to the living room. // Wearable devices offer quick updates and notifications. // Social media is woven into our digital lives. // Stay connected, wherever you go.",
+      "prompt": "An image depicting various devices (smartphone, tablet, laptop, smartwatch, smart TV) connected by radiating lines, each device displaying a different social media platform interface. Emphasize the interconnectedness and accessibility of social media across different technologies."
+    },
+    {
+      "title": "Social Media Icons - Positive & Negative",
+      "caption": "Social media: a double-edged sword. // Connection, information, and community at your fingertips. // But also, misinformation, cyberbullying, and privacy concerns. // Balance is key. // Use social media wisely. // Engage responsibly. // Be mindful of its impact. // Choose connection over comparison.",
+      "prompt": "A balanced image showcasing popular social media icons on two sides. One side should be bright and colorful, representing the positive aspects of social media (connection, information). The other side should be darker and more subdued, representing the negative aspects (misinformation, privacy concerns). A central dividing line or shape to visually separate the two sides."
+    },
+    {
+      "title": "Social Media - A Global Conversation",
+      "caption": "Social media transcends borders and languages. // It connects people from all walks of life. // Sharing stories, ideas, and experiences. // Building communities around shared interests. // Amplifying voices that were once unheard. // Fostering global dialogue and understanding. // Let's use social media to build a better world. // Join the global conversation.",
+      "prompt": "An abstract image depicting a diverse group of people (represented by silhouettes or stylized figures) from different cultural backgrounds connected by speech bubbles with various languages and social media icons floating around them. Emphasize the global reach and diverse conversations happening on social media."
+    },
+    {
+      "title": "Social Media Marketing Cycle",
+      "caption": "Social media marketing: a continuous cycle. // Plan your strategy. // Create engaging content. // Share it with your audience. // Analyze the results. // Refine your approach. // Repeat the process. // Unlock your social media potential.",
+      "prompt": "A circular infographic representing the social media marketing cycle. Key steps include Planning, Content Creation, Sharing, Analysis, and Refinement. Use arrows to indicate the flow and visually distinct sections for each step. Clean and professional design."
+    },
+    {
+      "title": "Addiction to Social Media",
+      "caption": "Social media can be addictive. // Constant notifications. // Endless scrolling. // Fear of missing out. // Take breaks. // Set boundaries. // Prioritize real-life connections. // Reclaim your time and attention.",
+      "prompt": "An image depicting a person silhouetted against a bright, glowing smartphone screen, seemingly absorbed and isolated. The background should be blurred and slightly distorted to convey a sense of disorientation and addiction. The focus should be on the captivating and overwhelming nature of the screen."
+    },
+    {
+      "title": "Privacy Settings on Social Media",
+      "caption": "Privacy matters on social media. // Understand your privacy settings. // Control who sees your posts. // Be mindful of what you share. // Protect your personal information. // Review your connections. // Take control of your digital footprint. // Stay safe online.",
+      "prompt": "An image depicting a lock and key overlaid on a social media interface. The lock should be brightly lit and prominent, symbolizing the importance of privacy and security settings. Use icons related to privacy controls (visibility, sharing permissions). Clear and concise visual representation."
+    },
+    {
+      "title": "The Future of Social Media - AR/VR Integration",
+      "caption": "The future of social media is immersive. // Augmented reality overlays digital information onto the real world. // Virtual reality transports you to entirely new environments. // Imagine attending virtual concerts with friends. // Experiencing interactive storytelling. // Connecting in entirely new ways. // The possibilities are endless. // Embrace the future of social connection.",
+      "prompt": "An image depicting a person wearing AR/VR glasses, interacting with holographic social media elements floating in their environment. Show them engaging with friends through virtual avatars or participating in a virtual event. Futuristic and dynamic visual style."
+    }
+  ]
+]

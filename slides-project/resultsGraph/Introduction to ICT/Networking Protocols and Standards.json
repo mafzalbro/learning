@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Networking Cables & Ports",
+      "caption": "Welcome to the world of networking! Everything starts with connecting devices.\nThink of cables like roads for data.\nEthernet cables connect computers to routers.\nFiber optic cables are faster, used for long distances.\nPorts are like exits and entrances, labeled for specific connections.\nUnderstanding these basics is key to building a network!",
+      "prompt": "A visually appealing image showcasing a variety of networking cables (Ethernet, fiber optic, coaxial) neatly arranged next to their corresponding ports on a router or switch. Emphasize the different textures and colors of the cables. The background should be clean and professional."
+    },
+    {
+      "title": "The Internet Protocol (IP)",
+      "caption": "Every device on the internet has a unique address: an IP address.\nIt's like your home address, but for computers.\nIP addresses allow devices to find and communicate with each other.\nThey are essential for sending data packets across the network.\nTwo versions exist: IPv4 and the newer IPv6.\nUnderstanding IP is fundamental to understanding the Internet!",
+      "prompt": "An abstract representation of IP addresses. Visualize data packets traveling along a network, each packet clearly labeled with an IP address (either IPv4 or IPv6). The network can be represented as a glowing web or interconnected nodes. Focus on the concept of data routing."
+    },
+    {
+      "title": "Transmission Control Protocol (TCP)",
+      "caption": "TCP ensures reliable communication between devices.\nIt's like sending a registered letter; you know it arrived.\nTCP breaks data into packets, numbers them, and verifies delivery.\nIt handles retransmission of lost packets to avoid data corruption.\nThis guarantees data integrity in your online interactions.\nSo, browse with confidence; TCP is working behind the scenes!",
+      "prompt": "A visual analogy of TCP as a postal service ensuring reliable delivery of data packets. Show packets being organized, addressed, tracked, and delivered successfully. Illustrate the concept of error checking and retransmission if a packet is lost. Use bright, easy-to-understand imagery."
+    },
+    {
+      "title": "User Datagram Protocol (UDP)",
+      "caption": "UDP offers fast, but unreliable communication.\nThink of it like shouting across a room; you hope someone hears.\nUDP doesn't guarantee delivery or order of packets.\nIt's used when speed is more important than accuracy, like in streaming.\nLive video, online games, and DNS often use UDP.\nUDP is perfect when immediate data transfer is crucial!",
+      "prompt": "An abstract representation of UDP. Visualize data packets being sent quickly but without guaranteed delivery confirmation. Illustrate the potential for packets to be lost or arrive out of order. The focus should be on speed and efficiency, even at the expense of reliability. Perhaps a visual of a race with some vehicles falling behind."
+    },
+    {
+      "title": "Hypertext Transfer Protocol (HTTP)",
+      "caption": "HTTP is the foundation of the World Wide Web.\nIt's the language your browser uses to talk to web servers.\nWhen you click a link, HTTP sends a request.\nThe server responds with the webpage's content.\nHTTPS adds encryption for secure communication.\nSo, HTTP is the reason you can browse the internet!",
+      "prompt": "An image representing HTTP communication between a web browser and a server. Show a browser sending a request and a server responding with webpage content. Consider incorporating a visual representation of HTTPS encryption to highlight the security aspect."
+    },
+    {
+      "title": "Domain Name System (DNS)",
+      "caption": "DNS translates domain names into IP addresses.\nIt's like a phonebook for the internet.\nInstead of remembering complex IP addresses...\nYou can use easy-to-remember names like google.com.\nDNS servers look up the corresponding IP address for you.\nDNS makes navigating the internet simple!",
+      "prompt": "A visual metaphor for DNS as a phone book or address book. Show a user typing a domain name (e.g., google.com) and a DNS server looking up the corresponding IP address. The DNS server could be represented as a large database or a network of interconnected books."
+    },
+    {
+      "title": "Wireless Standards (Wi-Fi)",
+      "caption": "Wi-Fi allows devices to connect wirelessly to the internet.\nIt uses radio waves to transmit data.\nStandards like 802.11 define how Wi-Fi works.\nDifferent standards offer varying speeds and ranges.\nWi-Fi connects laptops, phones, and tablets without cables!\nWi-Fi makes our lives more convenient and mobile!",
+      "prompt": "An image depicting the Wi-Fi signal radiating from a wireless router, connecting to various devices (laptops, smartphones, tablets) in a modern home or office environment. Use visual cues to represent the strength and range of the Wi-Fi signal."
+    },
+    {
+      "title": "Network Topologies",
+      "caption": "Network topology describes the physical layout of devices.\nCommon topologies include bus, star, ring, and mesh.\nEach topology has its advantages and disadvantages.\nStar topology, with a central hub, is common in homes.\nMesh topology offers high redundancy but is more complex.\nUnderstanding topology helps design efficient networks!",
+      "prompt": "A diagram showcasing different network topologies (bus, star, ring, mesh) in a visually clear and distinct manner. Each topology should be clearly labeled with interconnected nodes representing devices. Use different colors to differentiate the topologies."
+    },
+    {
+      "title": "Open Systems Interconnection (OSI) Model",
+      "caption": "The OSI model is a conceptual framework for networking.\nIt divides network communication into seven layers.\nEach layer has specific functions and protocols.\nUnderstanding the OSI model helps troubleshoot network issues.\nIt simplifies the complexity of network communication.\nLearn the OSI layers for a deeper networking understanding!",
+      "prompt": "A visually appealing diagram of the OSI model, clearly labeling each of the seven layers (Application, Presentation, Session, Transport, Network, Data Link, Physical). Use icons or graphics to represent the function of each layer. The diagram should be organized and easy to understand."
+    }
+  ]
+]

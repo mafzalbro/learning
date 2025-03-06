@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Battery and Bulb: The Simplest Circuit",
+      "caption": "Video Script:\n[SCENE START] Visual of a single battery connected to a lit lightbulb. A hand appears and connects the final wire, completing the circuit and turning on the bulb.\nVOICEOVER: 'What is a DC circuit? It's electricity flowing in one direction...'\n[SCENE CONTINUES] Close up on the glowing filament.\nVOICEOVER: '...like a battery powering a lightbulb.'\n[SCENE SHOWS] An animated arrow showing the flow of electrons from the negative terminal to the positive terminal of the battery.\nVOICEOVER: 'Electrons move from negative to positive...' \n[SCENE ENDS] The light bulb fades to black.\nVOICEOVER: '...creating light! That's a basic DC circuit!'",
+      "prompt": "A clear illustration of a single AA battery connected to a small incandescent lightbulb with wires. Show the lightbulb glowing brightly. Emphasize simplicity and clarity in the connections."
+    },
+    {
+      "title": "Series Circuit: Dimming Lights",
+      "caption": "Video Script:\n[SCENE START] Show three lightbulbs connected in a series circuit, all dimly lit.\nVOICEOVER: 'In a series circuit, components are connected one after another...' \n[SCENE CONTINUES] A hand adds a fourth lightbulb to the series.\nVOICEOVER: '...adding more resistance.'\n[SCENE SHOWS] The lightbulbs dim even further.\nVOICEOVER: 'Notice how the lights get dimmer as we add more bulbs?'\n[SCENE ENDS] One of the lightbulbs is removed, and all the other bulbs go out.\nVOICEOVER: 'If one goes out, they all go out! That's a disadvantage of a series circuit.'",
+      "prompt": "Diagram of a series circuit with three lightbulbs connected to a battery. All three bulbs should be lit, but dimly. Add visual cues indicating the flow of electricity. Focus on the dimness of the light."
+    },
+    {
+      "title": "Parallel Circuit: Bright and Independent",
+      "caption": "Video Script:\n[SCENE START] Display three lightbulbs connected in a parallel circuit, all brightly lit.\nVOICEOVER: 'In a parallel circuit, components have their own path...' \n[SCENE CONTINUES] One of the lightbulbs is removed from the circuit.\nVOICEOVER: '...meaning if one fails...' \n[SCENE SHOWS] The remaining two lightbulbs stay lit at the same brightness.\nVOICEOVER: '...the others still work!'\n[SCENE ENDS] Another bulb is removed.\nVOICEOVER: 'Parallel circuits are more reliable.'\n[SCENE SHOWS] The remaining single bulb is brightly lit.",
+      "prompt": "Diagram of a parallel circuit with three lightbulbs connected to a battery. All three bulbs should be lit brightly. Clearly show the separate parallel branches in the circuit. Use bright colors to emphasize the light."
+    },
+    {
+      "title": "Resistors in Series: Total Resistance",
+      "caption": "Video Script:\n[SCENE START] Show a circuit with two resistors in series connected to a voltage source.\nVOICEOVER: 'Resistors control current. In series, they add up...' \n[SCENE CONTINUES] Text appears: 'Total Resistance = R1 + R2'\nVOICEOVER: '...to increase the total resistance.'\n[SCENE SHOWS] An animated hand points to each resistor in turn as the voiceover explains the equation.\nVOICEOVER: 'More resistance means less current!'\n[SCENE ENDS] A visual representation of the current decreasing with the increased resistance.",
+      "prompt": "A circuit diagram showing two resistors (labeled R1 and R2) connected in series with a battery (labeled V). Include an ammeter showing a low current reading. Highlight the path of the current with a thin, visible arrow."
+    },
+    {
+      "title": "Resistors in Parallel: Current Division",
+      "caption": "Video Script:\n[SCENE START] Show a circuit with two resistors in parallel connected to a voltage source.\nVOICEOVER: 'In parallel, resistors divide the current...' \n[SCENE CONTINUES] Text appears: 'Total Current = I1 + I2'\nVOICEOVER: '...providing multiple paths for electricity.'\n[SCENE SHOWS] An animated visual showing the current splitting at the junction and flowing through each resistor.\nVOICEOVER: 'The more paths, the less the overall resistance of the circuit'\n[SCENE ENDS] A visual representation of the total resistance of the circuit decreasing with the addition of the second resistor.",
+      "prompt": "A circuit diagram showing two resistors (labeled R1 and R2) connected in parallel with a battery (labeled V). Include two ammeters, one measuring the total current and one measuring the current through one of the resistors. Show the current splitting at the junction."
+    },
+    {
+      "title": "Ohm's Law: Voltage, Current, Resistance",
+      "caption": "Video Script:\n[SCENE START] Show a simple circuit with a battery, resistor, and ammeter.\nVOICEOVER: 'Ohm's Law is the foundation of circuits.' \n[SCENE CONTINUES] Text appears: 'V = IR'\nVOICEOVER: 'Voltage equals current times resistance.'\n[SCENE SHOWS] An animated graphic highlighting the relationship between voltage, current, and resistance.\nVOICEOVER: 'Increase the voltage, increase the current.'\n[SCENE ENDS] A visual representation of how changing voltage and resistance affects current.",
+      "prompt": "A clear and visually appealing representation of Ohm's Law (V=IR). Show a simple circuit diagram with a voltage source (V), a resistor (R), and an ammeter (I). Highlight each component with distinct colors. Include the formula V=IR in a clean, readable font."
+    },
+    {
+      "title": "Voltage Drop: Energy Dissipation",
+      "caption": "Video Script:\n[SCENE START] Display a circuit with a battery and a resistor. Use a voltmeter to measure the voltage across the resistor.\nVOICEOVER: 'Voltage drop is the energy used across a component...' \n[SCENE CONTINUES] Highlight the resistor in the circuit.\nVOICEOVER: '...like a resistor turning electrical energy into heat.'\n[SCENE SHOWS] An animated graphic showing the energy dissipation as heat from the resistor.\nVOICEOVER: 'The voltage drops as energy is used.'\n[SCENE ENDS] A visual representation of the voltage difference across the resistor.",
+      "prompt": "A circuit diagram with a battery, a resistor, and a voltmeter measuring the voltage across the resistor. Visually represent the voltage drop across the resistor, perhaps with a color gradient or a shrinking voltage symbol."
+    },
+    {
+      "title": "Short Circuit: A Dangerous Path",
+      "caption": "Video Script:\n[SCENE START] Show a normal circuit with a battery and a lightbulb.\nVOICEOVER: 'A short circuit bypasses the intended load...' \n[SCENE CONTINUES] A wire is connected directly across the battery terminals, bypassing the lightbulb.\nVOICEOVER: '...creating a path of very little resistance.'\n[SCENE SHOWS] Sparks are shown coming from the battery and the bypassing wire.\nVOICEOVER: 'This causes a huge current flow, which can be dangerous!'\n[SCENE ENDS] The lightbulb goes out, and the battery smokes.\nVOICEOVER: 'Avoid short circuits! They can damage equipment and cause fires!'",
+      "prompt": "An image depicting a short circuit. A battery with a wire directly connected across its terminals, bypassing a lightbulb. Show sparks and visual indicators of excessive current flow. Emphasize the danger and potential for damage."
+    },
+    {
+      "title": "Multimeter: Measuring Circuits",
+      "caption": "Video Script:\n[SCENE START] Show a hand holding a multimeter.\nVOICEOVER: 'A multimeter is a tool to measure voltage, current, and resistance.' \n[SCENE CONTINUES] The multimeter probes are used to measure the voltage across a battery.\nVOICEOVER: 'It helps diagnose and understand circuits...' \n[SCENE SHOWS] The multimeter is then used to measure the current in a circuit with a resistor.\nVOICEOVER: '...giving you the information you need.'\n[SCENE ENDS] The multimeter displays a resistance reading on a resistor.\nVOICEOVER: 'It's an essential tool for working with DC circuits.'",
+      "prompt": "An image featuring a multimeter being used to measure voltage in a simple DC circuit with a battery and a resistor. The multimeter display should show a voltage reading. The image should be well-lit and clearly show the components and connections."
+    }
+  ]
+]

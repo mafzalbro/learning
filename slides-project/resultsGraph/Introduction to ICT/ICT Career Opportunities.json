@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Network Infrastructure Visual",
+      "caption": "Welcome to the world of ICT! From connecting people to powering businesses, ICT is everywhere. One exciting path is Network Engineering. Build and maintain the backbone of communication, ensuring seamless connectivity worldwide. Learn the skills, connect the world!",
+      "prompt": "A visually appealing network diagram showing servers, computers, routers, and a cloud, connected by glowing data streams. Use a modern, clean design with a focus on interconnectedness. The overall mood should be optimistic and futuristic."
+    },
+    {
+      "title": "Cybersecurity Fortress",
+      "caption": "Concerned about digital safety? Cybersecurity is crucial! Protect valuable data and systems from cyber threats. Become an ethical hacker, a security analyst, or a cybersecurity consultant. Defend the digital frontier!",
+      "prompt": "A digital fortress representing cybersecurity. Visualize a shield protecting data streams from attacking viruses and hackers. Use a combination of abstract shapes, binary code, and vibrant colors to convey security and innovation."
+    },
+    {
+      "title": "Data Science Insights",
+      "caption": "Love data? Unlock its power with Data Science! Analyze trends, predict the future, and drive informed decisions. From healthcare to finance, data scientists are in high demand. Become a data detective!",
+      "prompt": "A visually engaging representation of data analysis. Show a brain surrounded by swirling data points, charts, and graphs. Emphasize the transformation of raw data into meaningful insights. Use a color palette that evokes intelligence and discovery."
+    },
+    {
+      "title": "Software Development Landscape",
+      "caption": "Dream of building apps and software? Software Development is your calling! Create innovative solutions that solve real-world problems. Code your way to a rewarding career. Build the future, one line of code at a time!",
+      "prompt": "A vibrant and dynamic representation of a coding environment. Include various programming languages' logos (Python, Java, Javascript), abstract code snippets, and icons representing app development. The image should convey creativity and innovation."
+    },
+    {
+      "title": "Cloud Computing Abstraction",
+      "caption": "The cloud is the future! Cloud Computing professionals manage and optimize cloud infrastructure. Enable businesses to scale, innovate, and thrive. Take your career to new heights, in the cloud!",
+      "prompt": "An abstract representation of cloud computing, using a network of interconnected clouds with glowing nodes. Show data flowing seamlessly between them. Use a calming color palette to represent accessibility and reliability."
+    },
+    {
+      "title": "Web Development Interface",
+      "caption": "Create stunning websites and online experiences! Web Development combines design and coding. Shape the digital world, one website at a time. Become a web wizard!",
+      "prompt": "A split screen showing both the design (UI/UX) side and the coding side of web development. Include elements like website mockups, HTML/CSS code snippets, and visual design tools. Emphasize the connection between creativity and technical skill."
+    },
+    {
+      "title": "IT Project Management Visualization",
+      "caption": "Lead and organize ICT projects to success! IT Project Management is about planning, execution, and delivery. Be the driving force behind innovation. Manage the future!",
+      "prompt": "A visual representation of a project management workflow. Show a team collaborating around a digital Gantt chart, with various milestones and deadlines. The image should convey organization, efficiency, and collaboration."
+    },
+    {
+      "title": "Database Administration Design",
+      "caption": "Manage and protect critical data. Database Administration is essential for businesses. Ensure data integrity, security, and availability. Become a data guardian!",
+      "prompt": "A visually compelling representation of a database system. Show interconnected servers and data blocks, protected by a security shield. Use a color scheme that evokes security and reliability."
+    },
+    {
+      "title": "AI and Machine Learning Connection",
+      "caption": "Step into the world of intelligent systems! AI and Machine Learning are transforming industries. Develop algorithms that learn and adapt. Become an AI innovator!",
+      "prompt": "An abstract representation of artificial intelligence and machine learning. Use glowing neural networks, data streams, and a stylized brain icon to convey the power of AI. Use vibrant colors to represent the excitement of this field."
+    }
+  ]
+]

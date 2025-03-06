@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Color Blindness Simulation on UI",
+      "caption": "Hello, design enthusiasts! Ever considered how color blindness impacts your user interface? Millions experience color vision deficiencies, turning vibrant designs into confusing puzzles. Today, we'll highlight why accessibility matters. It’s not just about compliance, it’s about inclusivity. Ensuring everyone can easily use and enjoy your product. Let's build a more accessible and user-friendly digital world, one design at a time.",
+      "prompt": "A split-screen showcasing the same UI element (e.g., a chart) side-by-side. On one side, show the normal color scheme. On the other side, show a simulation of how the same chart would appear to someone with protanopia (red-green color blindness). The background should be a clean, modern office environment."
+    },
+    {
+      "title": "Readability: Font Size & Contrast",
+      "caption": "Readability is king! Tiny fonts and low contrast? A recipe for frustrated users. Let's talk readability: font size and contrast. Increasing font size, even slightly, can drastically improve the user experience. And contrast? Essential! Ensure text stands out clearly against its background. These simple changes make a world of difference for everyone, especially users with visual impairments. Prioritize readability – design for everyone!",
+      "prompt": "An image showing two blocks of text side-by-side. One block has a small font size and low contrast against the background (e.g., light gray text on a white background). The other block has a larger font size and high contrast (e.g., dark gray text on a light gray background). Labels above each block clearly indicate 'Poor Readability' and 'Good Readability'."
+    },
+    {
+      "title": "UX: Keyboard Navigation",
+      "caption": "Mouse only? Think again! Many users rely on keyboard navigation. Is your website accessible without a mouse? Think keyboard navigation! Users with motor impairments, or those who simply prefer keyboard shortcuts, depend on it. Easy tab order, clear focus states – these details matter. Prioritize keyboard navigation for a smoother, more inclusive user experience. Make every click…optional.",
+      "prompt": "A screenshot of a website or application interface. Focus is visibly highlighted (e.g., a glowing outline) around an active element, such as a button or a form field. The image should convey a sense of keyboard navigation being used seamlessly. A hand hovers near the 'Tab' key on a keyboard in the lower corner of the image, subtly implying keyboard interaction."
+    },
+    {
+      "title": "Alternative Text for Images",
+      "caption": "Images speak volumes, but what about those who can't see them? Alternative text (alt text) is key. Describe your images! Alt text allows screen readers to convey visual information to users with visual impairments. Be descriptive, be concise, and provide context. Don't just say 'image'; explain what the image is and why it matters. Alt text: bridging the gap between visuals and accessibility.",
+      "prompt": "An image of a website featuring a visually appealing image (e.g., a landscape or a product shot). The image has a small icon in the corner indicating it's an image. An arrow points from the icon to a text box that contains descriptive alt text (e.g., 'A vibrant sunset over a mountain range'). The background should be a computer screen showing the website code, with the `alt` attribute highlighted."
+    },
+    {
+      "title": "Form Label Association",
+      "caption": "Forms shouldn't be a guessing game. Properly associate labels with input fields! Clear labels are crucial, but they're not enough. Ensure labels are correctly associated with their corresponding input fields using HTML. This allows screen readers to announce the label when the user focuses on the field. Properly labeled forms are essential for accessibility. Let's make form filling frustration-free for everyone!",
+      "prompt": "An image showing a simple HTML form with input fields (e.g., name, email). Correct HTML code is displayed alongside the form, highlighting the `<label>` and `<input>` elements and their proper association using the `for` and `id` attributes. Incorrect code examples could be faded in the background, emphasizing the correct approach."
+    },
+    {
+      "title": "Designing for Cognitive Accessibility",
+      "caption": "Cognitive accessibility: often overlooked, but vitally important. Design should be simple, predictable, and easy to understand. Break down complex tasks into smaller steps. Use clear language and consistent layouts. Provide helpful cues and feedback. Designing for cognitive accessibility benefits everyone, not just those with cognitive disabilities. Make your designs intuitive and enjoyable for all!",
+      "prompt": "An image showcasing two different website layouts. One layout is cluttered, with inconsistent navigation and confusing visual hierarchy. The other layout is clean, organized, and uses clear visual cues to guide the user. Labels clearly indicate 'Poor Cognitive Accessibility' and 'Good Cognitive Accessibility'."
+    },
+    {
+      "title": "Testing Your Designs for Accessibility",
+      "caption": "Don't guess, test! Accessibility testing is crucial to ensure your designs work for everyone. Use automated tools to identify common issues. Conduct user testing with people with disabilities. Get feedback and iterate on your designs. Accessibility isn't a one-time fix; it's an ongoing process. Continuous testing leads to continuous improvement. Build a more inclusive and user-friendly digital world through testing.",
+      "prompt": "An image showing a user with a screen reader interacting with a website. Another person is observing and taking notes. A laptop displays automated accessibility testing results. The overall feel should be collaborative and focused on improvement."
+    },
+    {
+      "title": "Semantic HTML",
+      "caption": "HTML isn't just for structure, it's for meaning! Use semantic HTML elements to improve accessibility. Think `<article>`, `<nav>`, `<aside>`, `<footer>`. These elements provide meaning to your content, making it easier for screen readers and search engines to understand. Semantic HTML is the foundation of accessible web design. Build better websites, one semantic element at a time!",
+      "prompt": "An image showing a code editor with HTML code. The code should use semantic HTML elements like `<header>`, `<nav>`, `<main>`, and `<footer>`. The different semantic sections are highlighted with different colors to visually distinguish them. A small comment box explains the importance of using semantic HTML."
+    },
+    {
+      "title": "The Business Case for Accessibility",
+      "caption": "Accessibility isn't just the right thing to do, it's the smart thing to do! Expanding your user base, improving SEO, reducing legal risks. Accessible designs benefit everyone, including your bottom line. Accessibility = Inclusivity = Bigger Market. Open your product to a larger audience, improve your brand reputation, and create a more ethical and sustainable business. Invest in accessibility: invest in success.",
+      "prompt": "An infographic style image showing the benefits of accessibility in design. The infographic should include icons representing concepts like increased user base, improved SEO, reduced legal risks, and positive brand reputation. Numbers and statistics could be used to highlight the financial benefits of accessible design."
+    }
+  ]
+]

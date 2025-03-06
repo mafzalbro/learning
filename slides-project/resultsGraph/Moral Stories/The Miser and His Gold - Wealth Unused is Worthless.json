@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "The Miser's Chest",
+      "caption": "A miser hides his gold. He counts it every day. But never spends a coin. Wealth unused is worthless.",
+      "prompt": "A dimly lit cellar. An old, wooden chest overflowing with gold coins. A gaunt, hunched figure with greedy eyes peering into the chest."
+    },
+    {
+      "title": "The Hidden Gold",
+      "caption": "He buries his gold deep. Afraid of thieves and loss. He guards it with his life. But what good is it there?",
+      "prompt": "A dark, muddy field. A hole in the ground with a small, treasure chest being lowered into it. A suspicious figure looking around nervously."
+    },
+    {
+      "title": "The Poor Man's Observation",
+      "caption": "A poor man watches him. He sees the wasted wealth. He understands the truth. Riches serve when shared.",
+      "prompt": "A simple, thatched-roof cottage. A figure in worn clothing observing from a window. The figure's face shows a mixture of pity and understanding."
+    },
+    {
+      "title": "The Discovery of the Loss",
+      "caption": "One day, the gold is gone. Stolen or scattered away. The miser is left with nothing. His hoard brought only pain.",
+      "prompt": "The same wooden chest from the first image, now empty and broken. The miser is wailing and clutching his head in despair."
+    },
+    {
+      "title": "The Miser's Regret",
+      "caption": "He realizes his mistake. Hoarding brought no joy, no peace. He learned a painful lesson. Giving brings true riches.",
+      "prompt": "The miser sitting alone in his empty house, looking dejected and filled with regret. Sunlight streams through a window, symbolizing a glimmer of hope."
+    },
+    {
+      "title": "The Baker's Generosity",
+      "caption": "A baker shares his bread. Feeding the hungry and poor. His kindness brings him joy. Wealth in action brings reward.",
+      "prompt": "A bustling bakery. The baker, with a warm smile, handing out loaves of bread to people in need. The scene is filled with light and warmth."
+    },
+    {
+      "title": "The Farmer's Abundance",
+      "caption": "A farmer shares his harvest. Helping his neighbors thrive. His generosity returns. Creating abundance for all.",
+      "prompt": "A bountiful field. The farmer sharing his crops with his neighbors. Everyone is smiling and working together."
+    },
+    {
+      "title": "The Wise Man's Advice",
+      "caption": "A wise man speaks the truth. \"Wealth is meant to be used. To help and build and share.\" A lesson for us all.",
+      "prompt": "A wise old man with a long white beard, sitting under a tree, imparting wisdom to a younger person. His expression is calm and knowing."
+    },
+    {
+      "title": "The Open Hand",
+      "caption": "Open your hand, and give. Share your wealth, and live. For wealth unused is lost. Kindness is its true cost.",
+      "prompt": "An open hand offering a single gold coin to another hand reaching out in need. The background is blurred, focusing attention on the act of giving."
+    },
+    {
+      "title": "A Happy Community",
+      "caption": "A thriving community. Built on kindness and trust. Where wealth is shared and used. Happiness for one, happiness for all.",
+      "prompt": "A vibrant village scene with people laughing, working together, and sharing resources. The image conveys a sense of community and well-being."
+    }
+  ]
+]

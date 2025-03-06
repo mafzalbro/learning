@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Computer Maintenance and Troubleshooting",
+    "content": "<p><strong>Welcome!</strong></p>\n<p>This presentation covers essential computer maintenance and troubleshooting techniques to keep your system running smoothly. We&#39;ll explore common issues, preventative measures, and solutions for both novice and advanced users.</p>\n<p><strong>What We&#39;ll Cover:</strong></p>\n<ul>\n<li>Understanding Computer Maintenance</li>\n<li>Common Problems &amp; Solutions</li>\n<li>Preventative Maintenance Tips</li>\n<li>Troubleshooting Techniques</li>\n<li>Software and Hardware Issues</li>\n<li>Basic Security Practices</li>\n<li>Resources and Tools</li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding Computer Maintenance",
+    "content": "<p>Computer maintenance is the process of keeping your computer hardware and software in good working order.  It&#39;s like giving your car regular check-ups!</p>\n<p><strong>Why is it important?</strong></p>\n<ul>\n<li><strong>Performance:</strong> A well-maintained computer runs faster and more efficiently.</li>\n<li><strong>Stability:</strong> Reduces crashes, freezes, and errors.</li>\n<li><strong>Security:</strong> Protects against viruses and malware.</li>\n<li><strong>Longevity:</strong> Extends the lifespan of your computer.</li>\n<li><strong>Data Protection:</strong> Helps prevent data loss.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Computer Problems",
+    "content": "<p>Let&#39;s look at some problems you might encounter:</p>\n<ul>\n<li><strong>Slow Performance:</strong> Programs take a long time to load, general sluggishness.</li>\n<li><strong>Freezing/Crashing:</strong> The computer stops responding or displays an error message.</li>\n<li><strong>Blue Screen of Death (BSOD):</strong> A critical error that forces a restart (Windows).</li>\n<li><strong>Virus/Malware Infections:</strong> Unwanted software causing issues.</li>\n<li><strong>Overheating:</strong> The computer gets too hot, leading to performance problems or shutdowns.</li>\n<li><strong>Storage Issues:</strong> Running out of disk space.</li>\n</ul>\n"
+  },
+  {
+    "title": "Solution: Slow Performance",
+    "content": "<p>If your computer is slow:</p>\n<ul>\n<li><strong>Close unnecessary programs:</strong> Too many programs running at once can strain resources.</li>\n<li><strong>Run a Disk Cleanup:</strong> Delete temporary files and other junk.</li>\n<li><strong>Defragment your hard drive (HDD only):</strong> (Not needed for SSDs)</li>\n<li><strong>Check for viruses and malware:</strong>  Run a scan with your antivirus software.</li>\n<li><strong>Update drivers:</strong> Outdated drivers can cause performance problems.</li>\n<li><strong>Consider upgrading RAM:</strong> More RAM can improve performance significantly.</li>\n</ul>\n"
+  },
+  {
+    "title": "Solution: Freezing/Crashing",
+    "content": "<p>Troubleshooting freezes and crashes:</p>\n<ul>\n<li><strong>Check for overheating:</strong> Ensure adequate ventilation.</li>\n<li><strong>Update drivers:</strong> Especially graphics card drivers.</li>\n<li><strong>Run a memory test:</strong>  Faulty RAM can cause crashes.</li>\n<li><strong>Check for hardware conflicts:</strong> Newly installed hardware might be the cause.</li>\n<li><strong>Reinstall the operating system (as a last resort):</strong> This will reset your computer.</li>\n</ul>\n"
+  },
+  {
+    "title": "Solution: Virus/Malware Infections",
+    "content": "<p>Dealing with malware:</p>\n<ul>\n<li><strong>Run a full system scan:</strong>  Use your antivirus software.</li>\n<li><strong>Use a dedicated malware removal tool:</strong>  Malwarebytes, Spybot Search &amp; Destroy are popular options.</li>\n<li><strong>Disconnect from the internet:</strong> To prevent further infection.</li>\n<li><strong>Restore from a backup:</strong> If the infection is severe.</li>\n<li><strong>Preventative Measures:</strong> Install a reputable antivirus program and be careful when downloading files or clicking on links.</li>\n</ul>\n"
+  },
+  {
+    "title": "Solution: Overheating",
+    "content": "<p>Preventing Overheating:</p>\n<ul>\n<li><strong>Clean the inside of your computer:</strong> Remove dust from fans and vents.</li>\n<li><strong>Ensure proper ventilation:</strong>  Don&#39;t block vents.</li>\n<li><strong>Reapply thermal paste:</strong> (Advanced users only) Replace the thermal paste on the CPU and GPU.</li>\n<li><strong>Use a laptop cooling pad:</strong>  For laptops.</li>\n<li><strong>Monitor CPU and GPU temperatures:</strong>  Use monitoring software.</li>\n</ul>\n"
+  },
+  {
+    "title": "Solution: Storage Issues",
+    "content": "<p>Managing Disk Space:</p>\n<ul>\n<li><strong>Uninstall unused programs:</strong> Free up space by removing programs you don&#39;t need.</li>\n<li><strong>Move large files to an external drive:</strong>  Photos, videos, and music.</li>\n<li><strong>Use cloud storage:</strong>  Store files online.</li>\n<li><strong>Enable Storage Sense (Windows):</strong>  Automatically deletes temporary files.</li>\n<li><strong>Upgrade your hard drive or SSD:</strong>  Consider a larger drive.</li>\n</ul>\n"
+  },
+  {
+    "title": "Preventative Maintenance: Software",
+    "content": "<p><strong>Keep your software up-to-date!</strong></p>\n<ul>\n<li><strong>Operating System Updates:</strong>  Install Windows/macOS updates regularly. They often include security patches and performance improvements.</li>\n<li><strong>Software Updates:</strong>  Update your applications (browsers, office suites, etc.).</li>\n<li><strong>Antivirus Updates:</strong>  Keep your antivirus software definitions up-to-date.</li>\n</ul>\n<p><strong>Schedule Regular Scans:</strong></p>\n<ul>\n<li>Run a full system scan with your antivirus software at least once a week.</li>\n</ul>\n"
+  },
+  {
+    "title": "Preventative Maintenance: Hardware",
+    "content": "<p><strong>Physical care is important!</strong></p>\n<ul>\n<li><strong>Clean your computer regularly:</strong>  Use compressed air to remove dust from vents and fans.</li>\n<li><strong>Keep your computer in a cool, dry environment:</strong>  Avoid extreme temperatures and humidity.</li>\n<li><strong>Handle components carefully:</strong>  When working inside the computer.</li>\n<li><strong>Protect from power surges:</strong>  Use a surge protector.</li>\n</ul>\n"
+  },
+  {
+    "title": "Troubleshooting Techniques: The Basics",
+    "content": "<p>When something goes wrong:</p>\n<ul>\n<li><strong>Identify the Problem:</strong>  What exactly is happening? When did it start?</li>\n<li><strong>Gather Information:</strong>  Error messages? Recent changes? System logs?</li>\n<li><strong>Reproduce the Problem:</strong>  Can you make it happen again? This helps isolate the cause.</li>\n<li><strong>Start with the Simple Solutions:</strong>  Reboot, check cables, update drivers.</li>\n<li><strong>Search Online:</strong>  Google is your friend! Many problems have already been solved.</li>\n<li><strong>Document Your Steps:</strong>  Keep track of what you&#39;ve tried.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Power of Restarting",
+    "content": "<p>Many problems are solved with a simple restart.</p>\n<ul>\n<li>The computer will close all processes and start again.</li>\n</ul>\n"
+  },
+  {
+    "title": "Software Issues: Common Examples",
+    "content": "<ul>\n<li><strong>Program Not Responding:</strong> Force quit the application (Task Manager on Windows, Activity Monitor on macOS).</li>\n<li><strong>Driver Issues:</strong>  Update or reinstall drivers.</li>\n<li><strong>Compatibility Issues:</strong>  Check if the software is compatible with your operating system.</li>\n<li><strong>DLL Errors (Windows):</strong>  Try reinstalling the program or searching for the missing DLL file.</li>\n<li><strong>Registry Errors (Windows):</strong>  Use a registry cleaner with caution (back up the registry first!).</li>\n</ul>\n"
+  },
+  {
+    "title": "Hardware Issues: Common Examples",
+    "content": "<ul>\n<li><strong>No Power:</strong> Check the power cord and power supply.</li>\n<li><strong>No Display:</strong> Check the monitor cable and graphics card.</li>\n<li><strong>Hard Drive Failure:</strong>  Back up your data immediately!  Consider replacing the drive.</li>\n<li><strong>Memory Errors:</strong>  Run a memory test.</li>\n<li><strong>Overheating:</strong> As discussed earlier.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Security Practices",
+    "content": "<p>Protecting Your Computer:</p>\n<ul>\n<li><strong>Use Strong Passwords:</strong>  Unique and complex passwords for all your accounts.</li>\n<li><strong>Enable Two-Factor Authentication (2FA):</strong>  Adds an extra layer of security.</li>\n<li><strong>Be Careful What You Click:</strong>  Avoid suspicious links and attachments.</li>\n<li><strong>Download Software from Trusted Sources:</strong>  Official websites or app stores.</li>\n<li><strong>Use a Firewall:</strong>  Helps prevent unauthorized access to your computer.</li>\n<li><strong>Back Up Your Data Regularly:</strong>  In case of hardware failure or malware infection.</li>\n</ul>\n"
+  },
+  {
+    "title": "Password Management",
+    "content": "<p>Strong passwords are your first line of defense.</p>\n<ul>\n<li><strong>Use a password manager:</strong> Generate and store strong, unique passwords.</li>\n<li><strong>Don&#39;t reuse passwords:</strong> Use a different password for each account.</li>\n<li><strong>Change passwords regularly:</strong> Especially for important accounts.</li>\n<li><strong>Don&#39;t share passwords:</strong> With anyone!</li>\n</ul>\n"
+  },
+  {
+    "title": "Data Backup Strategies",
+    "content": "<p>Protect your valuable data!</p>\n<ul>\n<li><strong>External Hard Drive:</strong>  Easy and affordable for local backups.</li>\n<li><strong>Cloud Backup:</strong>  Automatically backs up your data to a remote server (e.g., Google Drive, OneDrive, Dropbox, Backblaze).</li>\n<li><strong>Image Backup:</strong> Creates a complete image of your entire system, including the operating system, applications, and data.</li>\n<li><strong>Regular Schedule:</strong> Back up your data regularly (daily, weekly, or monthly).</li>\n</ul>\n"
+  },
+  {
+    "title": "Useful Resources and Tools",
+    "content": "<p>Here are some helpful tools:</p>\n<ul>\n<li><strong>Antivirus Software:</strong>  Norton, McAfee, Bitdefender, Windows Defender.</li>\n<li><strong>Malware Removal Tools:</strong>  Malwarebytes, Spybot Search &amp; Destroy.</li>\n<li><strong>System Monitoring Tools:</strong>  HWMonitor, CPU-Z.</li>\n<li><strong>Disk Cleanup Tools:</strong>  CCleaner (use with caution), Windows Disk Cleanup.</li>\n<li><strong>Driver Update Tools:</strong>  Driver Booster (use with caution), manually update from manufacturer&#39;s website.</li>\n<li><strong>Windows Task Manager / macOS Activity Monitor:</strong> Monitor processes and resource usage.</li>\n<li><strong>Event Viewer (Windows):</strong> View system logs and error messages.</li>\n</ul>\n"
+  },
+  {
+    "title": "Online Resources",
+    "content": "<p>The internet is a vast resource.</p>\n<ul>\n<li><strong>Manufacturer&#39;s Websites:</strong>  Driver downloads, support documentation.</li>\n<li><strong>Online Forums:</strong>  Get help from other users.</li>\n<li><strong>How-To Websites and Videos:</strong>  Tutorials and guides.</li>\n<li><strong>Search Engines:</strong>  Google, Bing, DuckDuckGo.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary: Key Takeaways",
+    "content": "<ul>\n<li>Regular computer maintenance is crucial for performance, stability, and security.</li>\n<li>Understanding common problems and their solutions can save you time and frustration.</li>\n<li>Preventative measures can minimize future issues.</li>\n<li>Strong security practices are essential for protecting your data.</li>\n<li>Don&#39;t be afraid to seek help from online resources or professionals.</li>\n</ul>\n"
+  },
+  {
+    "title": "Disclaimer",
+    "content": "<p>This presentation provides general information about computer maintenance and troubleshooting. Specific steps may vary depending on your computer and operating system. Always back up your data before making significant changes to your system. We are not responsible for any data loss or damage that may occur as a result of following these instructions.</p>\n"
+  },
+  {
+    "title": "Q&A",
+    "content": "<p>Questions?</p>\n<p>Thank you for your time!</p>\n"
+  }
+]

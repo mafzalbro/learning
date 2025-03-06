@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Spark Gap - The Unseen Threat",
+      "caption": "Electromagnetic Compatibility: the unsung hero of modern tech. Imagine a world of interference, where devices clash. That's where EMC comes in. It's about ensuring electronic devices play nicely together. Preventing unwanted interference. Protecting sensitive circuits. And keeping our technology reliable. EMC: the invisible shield keeping the digital world running smoothly.",
+      "prompt": "A stylized, slightly abstract image of a spark gap discharging, with radiating lines emanating outwards. Focus on the energy and potential disruption, but keep it visually appealing and not frightening. Use colors that evoke a sense of caution, like oranges and yellows, tempered with calming blues and greens."
+    },
+    {
+      "title": "Shielded Cable - A Safe Passage",
+      "caption": "Cables can be antennas, unintentionally radiating noise. Shielding acts like a Faraday cage. It blocks electromagnetic fields. Preventing signals from escaping or entering. Maintaining signal integrity. Reducing interference. Shielding: the silent guardian of clean communication.",
+      "prompt": "A cross-section view of a shielded cable. Highlight the different layers, particularly the shielding material (braided wire or foil). Use contrasting colors to clearly differentiate each layer. The focus should be on the protection provided by the shielding."
+    },
+    {
+      "title": "Ground Plane - The Foundation of Stability",
+      "caption": "Ground planes: the silent backbone of every circuit. They provide a reference point for voltage. Minimizing noise and interference. Creating a stable electrical environment. Facilitating signal return paths. Grounding: the key to reliable performance.",
+      "prompt": "An abstract image of a circuit board with a prominent ground plane. Emphasize the connectivity and solidity of the ground plane. Use a color palette that suggests stability and grounding, such as deep greens and earthy tones. Subtle patterns can suggest the flow of current."
+    },
+    {
+      "title": "Testing Chamber - Under Strict Observation",
+      "caption": "EMC testing: the rigorous examination. Putting devices through their paces. Simulating real-world conditions. Measuring radiated and conducted emissions. Ensuring compliance with regulations. Testing: proving technology is ready for anything.",
+      "prompt": "An anechoic chamber with a device under test (DUT) inside. Show the test equipment and antennas around the DUT. The image should convey a sense of precision and scientific scrutiny. Consider using a desaturated color palette to emphasize the clinical nature of the environment."
+    },
+    {
+      "title": "Filter - The Gatekeeper of Clean Signals",
+      "caption": "Filters: the selective gatekeepers. Allowing desired frequencies to pass. Blocking unwanted noise and interference. Cleaning up signals. Improving performance. Filtering: ensuring clarity in a noisy world.",
+      "prompt": "A stylized representation of a filter, possibly with a signal flowing through it. Visually depict the filtering process by showing how noise is removed and the desired signal is passed through cleanly. Use contrasting colors to represent the clean signal and the unwanted noise."
+    },
+    {
+      "title": "Circuit Board - A Symphony of Components",
+      "caption": "Every circuit board is a potential source and victim of electromagnetic interference. Component placement matters. Trace routing impacts signal integrity. Careful design is essential. The right layout minimizes noise. Creating a harmonious system. EMC design: the art of engineering order from complexity.",
+      "prompt": "A detailed close-up of a complex circuit board. Show various components (ICs, resistors, capacitors) and traces. Use depth of field to create a sense of scale and complexity. The lighting should highlight the intricate details of the board."
+    },
+    {
+      "title": "Antenna - The Double-Edged Sword",
+      "caption": "Antennas are designed to radiate electromagnetic energy. But unintended antennas can be problematic. Cables, enclosures, and even circuit board traces can radiate noise. Careful design prevents unwanted emissions. Minimizing interference. Ensuring compliance. Managing radiation: controlling the invisible waves.",
+      "prompt": "A stylized image of an antenna radiating electromagnetic waves. Use colors that evoke a sense of energy and propagation. The image should suggest both the intended and unintended radiation of electromagnetic energy. Subtle variations in color and intensity can differentiate between desired and undesired emissions."
+    },
+    {
+      "title": "EMC Symbol - The Mark of Assurance",
+      "caption": "The EMC symbol: a badge of honor. Indicating compliance with standards. Showing commitment to quality. Assuring customers of reliable performance. Look for the EMC mark. It signifies responsible design and testing. Peace of mind: knowing your device plays well with others.",
+      "prompt": "A prominent and clear display of the EMC compliance symbol (CE mark, FCC mark, etc.). The symbol should be visually appealing and easy to recognize. The background could be a subtle representation of electronic circuitry."
+    },
+    {
+      "title": "Near Field Probe - Investigating the Source",
+      "caption": "Near-field probes: the detectives of EMC. Pinpointing the source of interference. Mapping electromagnetic fields. Visualizing radiation patterns. Solving complex problems. Troubleshooting: uncovering the secrets of electromagnetic behavior.",
+      "prompt": "An image of a near-field probe being used to scan a circuit board. Show the probe connected to an oscilloscope or spectrum analyzer. The image should convey a sense of investigation and troubleshooting. Highlight the precision and accuracy of the near-field probing technique."
+    }
+  ]
+]

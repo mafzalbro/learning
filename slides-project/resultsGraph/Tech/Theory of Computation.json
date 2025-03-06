@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Abstract Machine",
+      "caption": "What if we could imagine a perfect, theoretical computer? This is the foundation of Theory of Computation. It explores the limits of what's possible to compute. From simple on/off switches… to complex algorithms… let's dive in!",
+      "prompt": "Abstract representation of a Turing machine. Focus on the concept of an infinite tape and read/write head. Use minimalist colors and a clean, futuristic aesthetic. The tape should appear to extend endlessly in both directions. Emphasis on the potential for computation, rather than mechanical detail."
+    },
+    {
+      "title": "Finite Automata: The Gatekeeper",
+      "caption": "Imagine a machine that can only be in one of a limited number of states. This is a Finite Automaton. They are like the gatekeepers, deciding if a sequence of actions is allowed or forbidden. They are surprisingly powerful!",
+      "prompt": "A diagram of a finite automaton. Use clear states (circles) and labeled transitions (arrows). Depict a simple automaton that recognizes a specific pattern, like strings ending in '01'. The overall style should be clean and easy to understand, like a textbook illustration."
+    },
+    {
+      "title": "Pushdown Automata: Adding Memory",
+      "caption": "What if we gave our machine a stack, like a pile of plates? Now it can remember things! This is a Pushdown Automaton. They can handle more complex patterns than finite automata. Memory is the key!",
+      "prompt": "Visualize a pushdown automaton. Include a diagram of the automaton itself, but also visually emphasize the stack – a vertical structure representing memory. Show an example of how the automaton interacts with the stack (pushing and popping symbols). Use a visual metaphor for memory – perhaps a library or a filing cabinet."
+    },
+    {
+      "title": "Turing Machine: The Universal Computer",
+      "caption": "The ultimate theoretical computer: The Turing Machine. It can perform any computation imaginable! It's the foundation of modern computer science. Understanding it unlocks the secrets of computation itself.",
+      "prompt": "A more detailed, but still abstract, depiction of a Turing machine. Show the tape, the read/write head, and a state diagram representing the machine's logic. Aim for an iconic image, symbolizing the power of computation. Consider a retro-futuristic design."
+    },
+    {
+      "title": "Computability: What Can Be Computed?",
+      "caption": "Some things are easy to compute, others… impossible! Computability theory explores these boundaries. It defines the limits of what machines can do. Are there problems no computer can solve? Yes!",
+      "prompt": "A visual representation of the boundary between computable and uncomputable problems. Use a Venn diagram or a similar graphic to divide the landscape of problems. One area should be clearly labeled as 'Computable', and the other as 'Uncomputable'. Emphasize the mystery and vastness of the uncomputable realm with a dark, nebulous texture."
+    },
+    {
+      "title": "Complexity: How Much Does It Cost?",
+      "caption": "Even if a problem is computable, it might take forever to solve! Complexity theory looks at the resources required: time and memory. Some problems are easy, some are hard, some are… NP-Complete!",
+      "prompt": "Visualize the concept of computational complexity. Use a graph to represent the growth of time or memory usage as the input size increases. Show examples of different complexity classes (e.g., linear, polynomial, exponential). Emphasize the difference between problems that can be solved efficiently and those that are intractable."
+    },
+    {
+      "title": "P vs. NP: The Million-Dollar Question",
+      "caption": "One of the biggest unsolved problems in computer science: is P equal to NP? If a solution is easy to *check*, is it also easy to *find*? The answer could change everything!",
+      "prompt": "A visually striking image representing the P vs. NP problem. Perhaps a road with a fork in the road, one path labeled 'P' (smooth and easy), the other 'NP' (challenging and uncertain). Use contrasting colors and lighting to emphasize the mystery and importance of the question. A treasure chest at the end of the 'P' path could symbolize the rewards of finding a solution."
+    },
+    {
+      "title": "The Church-Turing Thesis: Defining Computation",
+      "caption": "The Church-Turing Thesis states that any problem that can be solved by an algorithm can be solved by a Turing machine. It's a cornerstone of computer science. It defines what it means to compute.",
+      "prompt": "An abstract representation of the Church-Turing Thesis. Visualize different computational models (e.g., Turing machines, lambda calculus) converging to a single point, symbolizing their equivalence. Use a clean, mathematical style with clear lines and geometric shapes. Focus on the universality of computation."
+    },
+    {
+      "title": "Applications of Theory of Computation",
+      "caption": "Theory of Computation isn't just abstract! It's used in compilers, security, AI, and more. It's the foundation of many technologies we use every day. The theory becomes reality!",
+      "prompt": "Montage of different technologies that rely on Theory of Computation: a compiler translating code, a secure encryption algorithm, an AI learning model. Use a dynamic and visually engaging composition to show the breadth of applications. Connect these elements with subtle lines to demonstrate the underlying theoretical connection."
+    }
+  ]
+]

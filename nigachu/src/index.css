@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.covered-by-your-grace-regular {
+  font-family: "Covered By Your Grace", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.covered-by-your-grace-light {
+  font-family: "Covered By Your Grace", serif;
+}
+
+.golos-text-normal {
+  font-family: "Golos Text", serif;
+}
+
+@keyframes rotateTopBottom {
+  0% {
+    transform: rotate(0deg) translateY(0);
+  }
+  50% {
+    transform: rotate(30deg) translateY(-20px);
+  }
+  70% {
+    transform: rotate(-30deg) translateY(0);
+  }
+  100% {
+    transform: rotate(0deg) translateY(0);
+  }
+}
+
+.rotate-animation {
+  animation: rotateTopBottom 6s infinite ease-in-out;
+  transform-origin: top right;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.stroke {
+  -webkit-text-stroke: 2px #000;
+  text-stroke: 2px #000; /* Fallback */
+}
+
+.orange-gradient {
+  background: linear-gradient(90deg, #fff9f9 -18.58%, #ea4d4e 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.yellow-gradient {
+  background: linear-gradient(90deg, #fff -47.83%, #acff3c 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.no-spin::-webkit-inner-spin-button,
+.no-spin::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.no-spin {
+  -moz-appearance: textfield; /* For Firefox */
+}
+
+.text-gradient-green {
+  background: linear-gradient(to bottom, #9cc663, #ffffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-green-dark {
+  background: linear-gradient(to bottom, #9cc663, #000000);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-red {
+  background: linear-gradient(to bottom, #ea4d4e, #dedede);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.text-gradient-red-dark {
+  background: linear-gradient(to bottom, #ea4d4e, #000000);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-shadow-light {
+  -webkit-text-stroke: 0.4px #fff;
+}
+
+@media (max-width: 640px) {
+  .stroke {
+    -webkit-text-stroke: 1px #000;
+    text-stroke: 1px #000; /* Fallback */
+  }
+}

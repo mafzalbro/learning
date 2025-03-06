@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Introduction to Computer Science",
+        "content": "<p>Welcome to the fascinating world of Computer Science! This presentation will cover:</p>\n<ul>\n<li><strong>What is Computer Science?</strong></li>\n<li><strong>Fundamental Concepts:</strong> Algorithms, Data Structures</li>\n<li><strong>Programming Basics:</strong> Variables, Loops, Conditionals</li>\n<li><strong>Key Areas:</strong>  Software Development, Artificial Intelligence, Data Science, Cybersecurity</li>\n<li><strong>Why is Computer Science Important?</strong></li>\n</ul>\n"
+    },
+    {
+        "title": "What is Computer Science?",
+        "content": "<p>Computer Science is the study of computers and computational systems.  It&#39;s about:</p>\n<ul>\n<li><strong>Problem Solving:</strong>  Using computers to solve real-world problems.</li>\n<li><strong>Design:</strong>  Creating new software, hardware, and systems.</li>\n<li><strong>Theory:</strong>  Understanding the fundamental principles of computation.</li>\n<li><strong>Innovation:</strong>  Pushing the boundaries of what computers can do.</li>\n</ul>\n"
+    },
+    {
+        "title": "Algorithms: The Recipes of Computing",
+        "content": "<p>An algorithm is a step-by-step set of instructions for solving a problem.</p>\n<ul>\n<li>Think of it like a recipe for a computer.</li>\n<li>Example:  An algorithm to find the largest number in a list:<ol>\n<li>Assume the first number is the largest.</li>\n<li>Go through each number in the list.</li>\n<li>If a number is larger than the current largest, update the largest.</li>\n<li>The last &#39;largest&#39; number you saved is your answer.</li>\n</ol>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Data Structures: Organizing Information",
+        "content": "<p>Data structures are ways of organizing and storing data so that it can be used efficiently.</p>\n<ul>\n<li>Examples:<ul>\n<li><strong>Lists:</strong>  Ordered sequences of items.</li>\n<li><strong>Arrays:</strong> Similar to lists, fixed size.</li>\n<li><strong>Dictionaries (Hash Maps):</strong> Store data in key-value pairs (like a real dictionary).</li>\n<li><strong>Trees:</strong> Hierarchical data structure, good for searching.</li>\n</ul>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Programming: Talking to Computers",
+        "content": "<p>Programming is the process of writing instructions (code) that tell a computer what to do.</p>\n<ul>\n<li>We use programming languages like Python, Java, C++, JavaScript, etc.</li>\n<li>Code is translated into machine language that the computer can understand.</li>\n<li>Programming allows us to create software, apps, websites, and more!</li>\n</ul>\n"
+    },
+    {
+        "title": "Variables: Storing Data",
+        "content": "<p>Variables are like containers that hold information.</p>\n<ul>\n<li>Each variable has a name and a value.</li>\n<li>Example:\n<code>age = 25</code>  (The variable &#39;age&#39; holds the value 25)\n<code>name = &quot;Alice&quot;</code> (The variable &#39;name&#39; holds the string &quot;Alice&quot;)</li>\n<li>We can change the values of variables during a program.</li>\n</ul>\n"
+    },
+    {
+        "title": "Loops: Repeating Actions",
+        "content": "<p>Loops allow us to repeat a block of code multiple times.</p>\n<ul>\n<li><p><strong><code>for</code> loop:</strong>  Repeats a specific number of times.</p>\n</li>\n<li><p><strong><code>while</code> loop:</strong>  Repeats as long as a condition is true.</p>\n</li>\n<li><p>Example (Python):</p>\n<p><code>for i in range(5):</code>\n<code>print(i)</code>  # Prints 0, 1, 2, 3, 4</p>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Conditionals: Making Decisions",
+        "content": "<p>Conditionals allow our programs to make decisions based on certain conditions.</p>\n<ul>\n<li><p><code>if</code> statements:  Execute a block of code if a condition is true.</p>\n</li>\n<li><p><code>else</code> statements:  Execute a block of code if the <code>if</code> condition is false.</p>\n</li>\n<li><p><code>elif</code> (else if) statements:  Check another condition if the previous <code>if</code> condition is false.</p>\n</li>\n<li><p>Example (Python):\n<code>if age &gt;= 18:</code>\n<code>print(&quot;You are an adult.&quot;)</code>\n<code>else:</code>\n<code>print(&quot;You are a minor.&quot;)</code></p>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Software Development: Building Applications",
+        "content": "<p>Software development is the process of designing, coding, testing, and maintaining software applications.</p>\n<ul>\n<li>Involves:<ul>\n<li>Planning</li>\n<li>Design</li>\n<li>Coding</li>\n<li>Testing</li>\n<li>Deployment</li>\n<li>Maintenance</li>\n</ul>\n</li>\n<li>Different methodologies (Agile, Waterfall) are used.</li>\n</ul>\n"
+    },
+    {
+        "title": "Artificial Intelligence (AI): Making Machines Smart",
+        "content": "<p>AI is the field of computer science that aims to create machines that can perform tasks that typically require human intelligence.</p>\n<ul>\n<li>Examples:<ul>\n<li>Machine learning</li>\n<li>Natural language processing</li>\n<li>Computer vision</li>\n<li>Robotics</li>\n</ul>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Machine Learning: Learning from Data",
+        "content": "<p>Machine learning is a type of AI that allows computers to learn from data without being explicitly programmed.</p>\n<ul>\n<li>Algorithms are trained on large datasets.</li>\n<li>Examples:<ul>\n<li>Spam filtering</li>\n<li>Image recognition</li>\n<li>Recommendation systems</li>\n</ul>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Data Science: Extracting Knowledge from Data",
+        "content": "<p>Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data.</p>\n<ul>\n<li>Involves:<ul>\n<li>Data collection</li>\n<li>Data cleaning</li>\n<li>Data analysis</li>\n<li>Data visualization</li>\n</ul>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "Cybersecurity: Protecting Our Digital World",
+        "content": "<p>Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction.</p>\n<ul>\n<li>Essential in today&#39;s digital age.</li>\n<li>Includes:<ul>\n<li>Protecting against viruses and malware</li>\n<li>Securing networks</li>\n<li>Protecting data privacy</li>\n</ul>\n</li>\n</ul>\n"
+    },
+    {
+        "title": "The Internet of Things (IoT)",
+        "content": "<p>IoT refers to the network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, and connectivity which enables these objects to connect and exchange data.</p>\n<ul>\n<li>Examples: Smart home devices, wearable technology, connected cars.</li>\n<li>Raises concerns about data privacy and security.</li>\n</ul>\n"
+    },
+    {
+        "title": "Cloud Computing: Computing on Demand",
+        "content": "<p>Cloud computing provides on-demand access to computing resources – servers, storage, databases, networking, software, analytics, and intelligence – over the Internet (“the cloud”).</p>\n<ul>\n<li>Benefits: Scalability, cost-effectiveness, accessibility.</li>\n<li>Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP).</li>\n</ul>\n"
+    },
+    {
+        "title": "Databases: Organizing Large Amounts of Data",
+        "content": "<p>Databases are structured collections of data that are organized for efficient storage, retrieval, and management.</p>\n<ul>\n<li>Examples: Relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB).</li>\n<li>Crucial for almost all software applications.</li>\n</ul>\n"
+    },
+    {
+        "title": "Operating Systems: The Software that Manages Hardware",
+        "content": "<p>An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.</p>\n<ul>\n<li>Examples: Windows, macOS, Linux.</li>\n<li>Manages memory, processes, and I/O devices.</li>\n</ul>\n"
+    },
+    {
+        "title": "Computer Networks: Connecting Computers",
+        "content": "<p>A computer network is a set of computers connected together for the purpose of sharing resources.</p>\n<ul>\n<li>Types: Local Area Network (LAN), Wide Area Network (WAN), the Internet.</li>\n<li>Protocols: TCP/IP, HTTP.</li>\n</ul>\n"
+    },
+    {
+        "title": "Version Control: Managing Code Changes",
+        "content": "<p>Version control systems (like Git) track changes to computer code and allow multiple developers to work on the same project simultaneously.</p>\n<ul>\n<li>Essential for software development teams.</li>\n<li>Benefits: Collaboration, rollback, history tracking.</li>\n</ul>\n"
+    },
+    {
+        "title": "Why is Computer Science Important?",
+        "content": "<p>Computer Science is everywhere!  It powers:</p>\n<ul>\n<li><strong>Technology:</strong>  Smartphones, laptops, the internet.</li>\n<li><strong>Medicine:</strong>  Medical imaging, drug discovery.</li>\n<li><strong>Finance:</strong>  Trading algorithms, online banking.</li>\n<li><strong>Entertainment:</strong>  Video games, movies, music streaming.</li>\n<li><strong>Education:</strong>  Online learning platforms.</li>\n</ul>\n<p>Computer science skills are in high demand and offer exciting career opportunities.</p>\n"
+    },
+    {
+        "title": "Getting Started with Computer Science",
+        "content": "<p>Ready to dive in?</p>\n<ul>\n<li><strong>Learn a programming language:</strong> Python is a great starting point.</li>\n<li><strong>Take online courses:</strong>  Coursera, edX, Khan Academy offer excellent resources.</li>\n<li><strong>Work on personal projects:</strong>  Build something you&#39;re interested in.</li>\n<li><strong>Join a coding community:</strong>  Connect with other learners and developers.</li>\n</ul>\n<p>The possibilities are endless!</p>\n"
+    },
+    {
+        "title": "Ethical Considerations in Computer Science",
+        "content": "<p>As computer scientists, we have a responsibility to consider the ethical implications of our work.  This includes:</p>\n<ul>\n<li><strong>Privacy:</strong>  Protecting user data.</li>\n<li><strong>Bias:</strong>  Avoiding bias in algorithms.</li>\n<li><strong>Security:</strong>  Ensuring the security of systems.</li>\n<li><strong>Accessibility:</strong> Making technology accessible to everyone.</li>\n</ul>\n"
+    },
+    {
+        "title": "The Future of Computer Science",
+        "content": "<p>Computer Science is a rapidly evolving field.  Exciting advancements are on the horizon, including:</p>\n<ul>\n<li><strong>Quantum computing:</strong>  Revolutionizing computation.</li>\n<li><strong>Advanced AI:</strong>  Creating more intelligent systems.</li>\n<li><strong>Biotechnology:</strong>  Integrating computer science with biology.</li>\n<li><strong>Sustainable Computing:</strong> Reducing the environmental impact of computing.</li>\n</ul>\n"
+    }
+]

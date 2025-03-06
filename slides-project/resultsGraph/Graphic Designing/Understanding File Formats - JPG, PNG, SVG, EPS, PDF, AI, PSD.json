@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "File Format Alphabet Soup",
+      "caption": "Hey everyone! Ever feel lost in the world of file formats? JPG, PNG, SVG... it can be confusing. Let's break it down simply. Think of them as different languages for your computer to understand images and documents. Each one has its strengths and weaknesses. So, let's explore the basics! We'll make file formats a little less intimidating.",
+      "prompt": "A colorful illustration depicting various file format icons (JPG, PNG, SVG, EPS, PDF, AI, PSD) floating in a friendly, cartoon-like way.  The icons should be easily recognizable and inviting, not intimidating.  A subtle background suggests digital space."
+    },
+    {
+      "title": "JPG: The Everyday Image",
+      "caption": "First up: JPG! It's the go-to for photos. JPGs compress images, making them smaller for easy sharing. But that compression can mean some loss of quality, especially if you save it multiple times. Great for everyday snapshots, not the best for professional graphics.",
+      "prompt": "A realistic photo of a sunset, gradually fading to a slightly pixelated version of the same sunset. The pixelated version should still be recognizable but clearly showing the effects of JPG compression."
+    },
+    {
+      "title": "PNG: Lossless Perfection",
+      "caption": "Next, PNG! Unlike JPG, PNG uses lossless compression.  That means no quality is lost when saving.  PNG also supports transparency, making it perfect for logos and graphics with see-through elements. Think crisp lines and vibrant colors!",
+      "prompt": "A transparent PNG logo of a stylized butterfly overlayed on a colorful background. The background should be partially visible through the transparent parts of the logo, highlighting the PNG's transparency capabilities."
+    },
+    {
+      "title": "SVG: Scalable Vector Magic",
+      "caption": "Meet SVG! This format uses vectors, which are mathematical descriptions of shapes. This means SVGs can be scaled up or down without losing any quality!  Ideal for logos, icons, and illustrations that need to look sharp at any size.",
+      "prompt": "A simple line drawing of a star.  One version of the star is very small, and another version of the same star is massively enlarged, but both remain perfectly sharp and crisp.  The title 'SVG' is subtly included."
+    },
+    {
+      "title": "EPS: The Print Professional",
+      "caption": "EPS is the professional's choice for print. It supports both vector and raster data, making it versatile for complex graphics and illustrations. Often used for logos and other artwork that needs to be printed at high resolution.",
+      "prompt": "A stylized image representing a printing press alongside a high-quality, detailed logo in the EPS format. The logo should appear crisp and professional, ready for print."
+    },
+    {
+      "title": "PDF: The Universal Document",
+      "caption": "PDF: Portable Document Format. The king of document sharing!  PDFs preserve formatting and fonts across different devices and operating systems. Perfect for reports, resumes, and anything you want to look consistent everywhere.",
+      "prompt": "An image of a document displayed flawlessly on a variety of devices: a laptop, a tablet, and a smartphone. The document should be the same on all screens, demonstrating PDF's universal compatibility."
+    },
+    {
+      "title": "AI: Adobe Illustrator's Native Format",
+      "caption": "AI is the native file format for Adobe Illustrator. It's a vector-based format, ideal for creating and editing complex illustrations and designs. Think logos, icons, and other scalable graphics created in Illustrator.",
+      "prompt": "A screenshot of the Adobe Illustrator interface with a complex vector illustration being edited. Highlight the different layers and vector points within the design."
+    },
+    {
+      "title": "PSD: Adobe Photoshop's Powerhouse",
+      "caption": "PSD: Adobe Photoshop's native format. It's a layered image format, perfect for editing photos and creating complex digital art. PSDs retain all the layers and editing information, allowing for non-destructive editing.",
+      "prompt": "A screenshot of the Adobe Photoshop interface with a multi-layered image being edited. Show the layers panel with various adjustment layers, masks, and effects applied to the image."
+    },
+    {
+      "title": "Choosing the Right Format",
+      "caption": "So, which format should you use? Consider the purpose. JPGs for photos, PNGs for transparency, SVGs for scalability, PDFs for documents, EPS for professional printing, and AI/PSD for advanced editing in their respective Adobe software. Now you're file format savvy!",
+      "prompt": "A decision tree diagram illustrating the process of choosing the correct file format based on the intended use (e.g., photos, logos, documents, print).  Use simple, visually appealing graphics and clear labels."
+    }
+  ]
+]

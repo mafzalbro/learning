@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "DPI Explained: The Dots That Define Your Image",
+      "caption": "Ever wondered what DPI is? It stands for Dots Per Inch. It's a measure of image resolution. More dots mean a sharper picture. Less dots, a blurrier one. Think of it like building with LEGOs - smaller bricks create finer detail.",
+      "prompt": "A close-up image showcasing a grid of tiny colored dots forming a larger picture. The image should have a portion in sharp focus, revealing the individual dots, and a blurred portion to illustrate the impact of low DPI. Use vibrant colors and clear separation between the focused and blurred areas."
+    },
+    {
+      "title": "Resolution: Beyond the Screen, Into Print",
+      "caption": "Resolution is crucial for printing. Low resolution images look pixelated when printed. Aim for 300 DPI for professional-quality prints. This ensures your photos and designs look crisp, clear, and amazing.",
+      "prompt": "A side-by-side comparison showing the same image printed at 72 DPI (pixelated and blurry) and 300 DPI (sharp and clear). The image should be a photograph of a person or landscape, demonstrating the difference in print quality. Use a split-screen effect to clearly distinguish the two versions."
+    },
+    {
+      "title": "DPI vs. PPI: What's the Difference?",
+      "caption": "DPI (Dots Per Inch) relates to printing. PPI (Pixels Per Inch) refers to screens. While related, they aren't the same. Screens use pixels, printers use dots. Understanding the difference is key for optimal image quality.",
+      "prompt": "An image showing two icons: a printer and a computer monitor. Above the printer is the abbreviation 'DPI' and above the monitor is 'PPI'.  Connect the printer to a paper with dots and the computer monitor to pixels with a small line from both of them."
+    },
+    {
+      "title": "Web Images: Keep it Lean and Mean",
+      "caption": "For the web, high DPI isn't always necessary. Lower DPI files load faster. Aim for 72 or 96 DPI for web images. This optimizes loading times without sacrificing too much visual appeal on screen.",
+      "prompt": "A split screen image. One side displays a website loading slowly with a buffering symbol. The other side shows the same website loading quickly and smoothly.  Text overlay should read 'High DPI' on the slow side and 'Low DPI' on the fast side."
+    },
+    {
+      "title": "Scaling Images: A Resolution Disaster?",
+      "caption": "Enlarging low-resolution images results in pixelation. It's better to start with a high-resolution image and scale down.  Scaling up adds no information, only enlarging the existing pixels.",
+      "prompt": "An image illustrating a small, pixelated image being blown up to a large size, resulting in severe pixelation. Next to it, show a large, high-resolution image being scaled down, maintaining its clarity. Clearly label 'Scaling Up (Bad)' and 'Scaling Down (Good)'."
+    },
+    {
+      "title": "Checking Your DPI: It's Easier Than You Think!",
+      "caption": "Checking DPI is easy. Right-click the image and view its properties. Look for resolution or DPI values. Many photo editing programs also display DPI information.",
+      "prompt": "A screenshot of a computer desktop showing the steps to check an image's DPI in file properties. Highlight the section where the DPI value is displayed. The image should be clear and easy to follow."
+    },
+    {
+      "title": "The Sweet Spot: Finding the Right Resolution",
+      "caption": "The ideal resolution depends on its intended use. Prints need higher resolution. Web images can be lower. Finding the right balance ensures quality and performance.",
+      "prompt": "An image visually representing a balanced scale. On one side, place a print icon with 'High DPI'. On the other side, place a web icon with 'Low DPI'. The scale should be balanced, indicating the need to find the right balance for different purposes."
+    },
+    {
+      "title": "Beyond DPI: Image Dimensions Matter Too!",
+      "caption": "DPI isn't everything. Image dimensions (e.g., 1920x1080) also influence quality. A small image with high DPI might still look bad if it's too small to begin with.  Think of it as the size of the canvas itself.",
+      "prompt": "An image depicting a small picture frame within a much larger picture frame. Both frames contain the same image, but the smaller frame shows a more cropped or lower detail version. Visually emphasize the size difference and its impact on image content."
+    },
+    {
+      "title": "Resolution Recap: Key Takeaways!",
+      "caption": "DPI is important for printing, PPI for screens. Start with high resolution when possible. Optimize images for their intended use. Understanding these principles leads to better image quality!",
+      "prompt": "A montage of images from the previous prompts, arranged in a visually appealing collage.  Include icons representing printing, screens, scaling, and the file properties window.  The overall image should serve as a visual summary of the key concepts."
+    }
+  ]
+]

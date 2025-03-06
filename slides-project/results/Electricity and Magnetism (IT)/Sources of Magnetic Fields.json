@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Sources of Magnetic Fields",
+    "content": "<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>Introduction to Magnetic Fields</li>\n<li>Magnetic Field from Moving Charges</li>\n<li>Magnetic Field from Current-Carrying Wires</li>\n<li>Ampere&#39;s Law</li>\n<li>Solenoids and Toroids</li>\n<li>Magnetic Materials</li>\n<li>Earth&#39;s Magnetic Field</li>\n</ul>\n"
+  },
+  {
+    "title": "Introduction to Magnetic Fields",
+    "content": "<ul>\n<li>Magnetic fields are a fundamental force of nature, just like gravity and electricity.</li>\n<li>They are created by moving electric charges.</li>\n<li>We represent magnetic fields with magnetic field lines.</li>\n<li><strong>Units:</strong> Tesla (T)</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field from Moving Charges",
+    "content": "<ul>\n<li>A single moving charge creates a magnetic field around it.</li>\n<li>The strength and direction of the field depend on the charge&#39;s:<ul>\n<li><strong>Magnitude:</strong> Larger charge = stronger field</li>\n<li><strong>Velocity:</strong> Faster speed = stronger field</li>\n<li><strong>Direction:</strong> Determined by the right-hand rule (explained later).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Right-Hand Rule (for a single moving charge)",
+    "content": "<ul>\n<li>Point your thumb in the direction of the charge&#39;s velocity (+ charge).</li>\n<li>Curl your fingers.</li>\n<li>Your fingers point in the direction of the magnetic field lines around the charge.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field from Current-Carrying Wires",
+    "content": "<ul>\n<li>A current is simply a flow of many moving charges.</li>\n<li>Therefore, a current-carrying wire creates a magnetic field around it.</li>\n<li>The strength and direction of the field depend on:<ul>\n<li><strong>Current (I):</strong> Larger current = stronger field</li>\n<li><strong>Distance from the wire (r):</strong> Closer distance = stronger field</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Right-Hand Rule (for a current-carrying wire)",
+    "content": "<ul>\n<li>Point your thumb in the direction of the current (conventional current: positive charge flow).</li>\n<li>Curl your fingers around the wire.</li>\n<li>Your fingers point in the direction of the magnetic field lines around the wire.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field Around a Long Straight Wire",
+    "content": "<ul>\n<li>The magnetic field lines form circles around the wire.</li>\n<li>The field strength decreases as you move further away from the wire.</li>\n<li>The formula to calculate the magnetic field (B) is:<ul>\n<li>B = (μ₀ * I) / (2π * r)</li>\n<li>Where:<ul>\n<li>μ₀ is the permeability of free space (a constant)</li>\n<li>I is the current</li>\n<li>r is the distance from the wire</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Ampere's Law",
+    "content": "<ul>\n<li>Ampere&#39;s Law is a powerful tool for calculating magnetic fields, especially in situations with symmetry.</li>\n<li>It relates the integral of the magnetic field around a closed loop to the current passing through the loop.</li>\n<li>∫ B ⋅ dl = μ₀ * I_enclosed</li>\n</ul>\n"
+  },
+  {
+    "title": "Applying Ampere's Law",
+    "content": "<ol>\n<li><strong>Choose an Amperian Loop:</strong> A closed loop that exploits the symmetry of the problem.</li>\n<li><strong>Calculate the Line Integral:</strong>  ∫ B ⋅ dl  (usually simplified by choosing loops where B is constant and parallel to dl).</li>\n<li><strong>Determine the Enclosed Current:</strong> I_enclosed is the net current passing through the loop.</li>\n<li><strong>Solve for B:</strong>  Use Ampere&#39;s Law to calculate the magnetic field.</li>\n</ol>\n"
+  },
+  {
+    "title": "Solenoids",
+    "content": "<ul>\n<li>A solenoid is a coil of wire wound into a tight helix.</li>\n<li>When current flows through the solenoid, it creates a relatively uniform magnetic field inside.</li>\n<li>Outside the solenoid, the magnetic field is much weaker.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field Inside a Solenoid",
+    "content": "<ul>\n<li>The magnetic field inside an ideal solenoid (long and tightly wound) is approximately uniform and parallel to the axis of the solenoid.</li>\n<li>B = μ₀ * n * I<ul>\n<li>Where:<ul>\n<li>μ₀ is the permeability of free space</li>\n<li>n is the number of turns per unit length (N/L)</li>\n<li>I is the current</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Toroids",
+    "content": "<ul>\n<li>A toroid is a solenoid bent into a doughnut shape.</li>\n<li>The magnetic field is confined almost entirely within the toroid.</li>\n<li>Toroids are used in various applications, like fusion reactors.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field Inside a Toroid",
+    "content": "<ul>\n<li>The magnetic field inside a toroid is not uniform but varies with the distance from the center of the toroid.</li>\n<li>B = (μ₀ * N * I) / (2π * r)<ul>\n<li>Where:<ul>\n<li>μ₀ is the permeability of free space</li>\n<li>N is the total number of turns</li>\n<li>I is the current</li>\n<li>r is the distance from the center of the toroid</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Materials",
+    "content": "<ul>\n<li>Materials respond to magnetic fields in different ways.</li>\n<li><strong>Diamagnetic:</strong> Weakly repelled by magnetic fields.</li>\n<li><strong>Paramagnetic:</strong> Weakly attracted to magnetic fields.</li>\n<li><strong>Ferromagnetic:</strong> Strongly attracted to magnetic fields and can become permanently magnetized (e.g., iron, nickel, cobalt).</li>\n</ul>\n"
+  },
+  {
+    "title": "Ferromagnetism",
+    "content": "<ul>\n<li>Ferromagnetic materials have tiny regions called domains.</li>\n<li>In an unmagnetized material, the domains are randomly oriented.</li>\n<li>When a magnetic field is applied, the domains align, creating a strong magnetic field.</li>\n<li>When the external field is removed, some alignment remains, resulting in a permanent magnet.</li>\n</ul>\n"
+  },
+  {
+    "title": "Hysteresis",
+    "content": "<ul>\n<li>The magnetization of a ferromagnetic material does not immediately return to zero when the applied magnetic field is removed. This lagging effect is called Hysteresis.</li>\n<li>The Hysteresis loop shows the relationship between the magnetic field strength (H) and the magnetization (M) of the material.</li>\n</ul>\n"
+  },
+  {
+    "title": "Earth's Magnetic Field",
+    "content": "<ul>\n<li>The Earth has its own magnetic field, which protects us from harmful solar radiation.</li>\n<li>It&#39;s thought to be generated by the movement of molten iron in the Earth&#39;s core (the dynamo effect).</li>\n<li>The Earth&#39;s magnetic field is not static and can change over time.</li>\n</ul>\n"
+  },
+  {
+    "title": "Earth's Magnetic Poles",
+    "content": "<ul>\n<li>The Earth&#39;s magnetic poles are not located at the geographic poles.</li>\n<li>The magnetic north pole is actually located in the Arctic region of Canada.</li>\n<li>The magnetic poles also drift over time.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications of Magnetic Fields",
+    "content": "<ul>\n<li><strong>Electric Motors:</strong> Magnetic forces are used to rotate coils of wire.</li>\n<li><strong>Generators:</strong>  Moving a conductor through a magnetic field induces a current.</li>\n<li><strong>MRI (Magnetic Resonance Imaging):</strong> Uses strong magnetic fields and radio waves to create detailed images of the body.</li>\n<li><strong>Data Storage:</strong> Hard drives use magnetic fields to store data on a magnetic disk.</li>\n<li><strong>Maglev Trains:</strong> Use powerful magnets to levitate and propel trains at high speeds.</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary",
+    "content": "<ul>\n<li>Moving charges and currents create magnetic fields.</li>\n<li>Ampere&#39;s Law is a powerful tool for calculating magnetic fields.</li>\n<li>Solenoids and toroids produce relatively uniform magnetic fields.</li>\n<li>Magnetic materials respond differently to magnetic fields.</li>\n<li>The Earth has its own magnetic field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Further Exploration",
+    "content": "<ul>\n<li>Electromagnetic Induction</li>\n<li>Magnetic Force on a Moving Charge</li>\n<li>Applications of Magnetism in Technology</li>\n</ul>\n"
+  }
+]

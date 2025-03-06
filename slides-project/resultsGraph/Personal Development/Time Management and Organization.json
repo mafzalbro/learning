@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Overwhelmed Person at Desk",
+      "caption": "Feeling buried? Time management can help. Start by prioritizing tasks. Focus on what's urgent and important first. Break down big projects into smaller steps. You got this!",
+      "prompt": "A person sitting at a desk, surrounded by stacks of papers and open books. They look stressed and overwhelmed. The lighting is slightly dim."
+    },
+    {
+      "title": "Digital Calendar on Tablet",
+      "caption": "Use a calendar to schedule everything. Appointments, deadlines, even breaks. Set reminders to stay on track. Visualizing your day brings clarity.",
+      "prompt": "A close-up of a digital calendar displayed on a tablet. The calendar is colorful and organized, with clear appointments and deadlines. The background is blurred."
+    },
+    {
+      "title": "To-Do List with Checkmarks",
+      "caption": "Create a to-do list each day. Write down everything you need to accomplish. Check things off as you complete them. It's satisfying and motivating!",
+      "prompt": "A partially completed to-do list on a notepad. Several items have checkmarks beside them, while others are still unchecked. A pen rests on top of the notepad."
+    },
+    {
+      "title": "Clock with Gear Mechanism",
+      "caption": "Time is valuable, don't waste it. Identify time-wasting activities. Limit distractions like social media and email. Reclaim your focus and boost productivity.",
+      "prompt": "A close-up of a clock with visible gears and cogs. The gears are intricately connected and symbolize the mechanics of time management. The background is a soft, diffused light."
+    },
+    {
+      "title": "Organized Desk with Plants",
+      "caption": "A clean workspace promotes a clear mind. Declutter your desk and organize your files. A tidy environment reduces stress and increases efficiency.",
+      "prompt": "A well-organized desk with a laptop, a notebook, and a pen. There are also a few small plants and decorative items. The desk is clean and uncluttered, with good lighting."
+    },
+    {
+      "title": "Person Using Pomodoro Timer",
+      "caption": "Try the Pomodoro Technique. Work in focused bursts with short breaks. It improves concentration and prevents burnout. 25 minutes on, 5 minutes off!",
+      "prompt": "A person using a Pomodoro timer (either a traditional tomato-shaped timer or a phone app). They are focused on a task at a desk. The scene suggests concentrated work."
+    },
+    {
+      "title": "File Folders Labeled and Organized",
+      "caption": "Organize your digital files too. Use folders and clear naming conventions. Search becomes faster and you'll find everything you need instantly.",
+      "prompt": "A row of file folders, neatly labeled and organized in a filing cabinet or on a shelf. The labels are clear and easy to read. The scene conveys a sense of order and efficiency."
+    },
+    {
+      "title": "Person Saying 'No'",
+      "caption": "Learn to say 'no' to extra commitments. Protect your time and energy. Focus on your priorities and avoid overextending yourself. Your time is precious.",
+      "prompt": "A person with their hand raised in a gesture of refusal. The background is blurred and abstract, suggesting they are declining an offer or request."
+    },
+    {
+      "title": "Pathway with Signpost (Time Management)",
+      "caption": "Effective time management is a skill. Practice these techniques consistently. You'll gain control of your day and achieve your goals. Take control!",
+      "prompt": "A pathway leading to a signpost with various directions, one of which is clearly labeled 'Time Management'. The scene suggests making choices and heading towards a more organized and productive life."
+    },
+    {
+      "title": "Balanced Scales (Work & Life)",
+      "caption": "Balance work and personal life. Schedule time for relaxation and hobbies. It helps recharge your batteries and avoid burnout. A happier you is a productive you!",
+      "prompt": "A set of scales, perfectly balanced with items representing work (e.g., a laptop) on one side and items representing personal life (e.g., a book, headphones) on the other. The image symbolizes a healthy work-life balance."
+    }
+  ]
+]

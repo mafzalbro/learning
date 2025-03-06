@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Working with Images and Graphics: Vector vs. Raster",
+    "content": "<p><strong>What we&#39;ll cover:</strong></p>\n<ul>\n<li>Understanding Raster Images</li>\n<li>Understanding Vector Graphics</li>\n<li>Key Differences between Vector and Raster</li>\n<li>Advantages and Disadvantages of Each</li>\n<li>Common File Formats</li>\n<li>When to Use Vector vs. Raster</li>\n<li>Converting Between Vector and Raster</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Raster Images?",
+    "content": "<ul>\n<li>Raster images are made up of tiny squares called <strong>pixels</strong>.</li>\n<li>Think of it like a mosaic made of colored tiles.</li>\n<li>Each pixel has a specific color assigned to it.</li>\n<li>Popular examples: Photos, scans, and images from digital cameras.</li>\n</ul>\n"
+  },
+  {
+    "title": "Raster Image Example",
+    "content": "<p>Imagine a close-up of a digital photo. You&#39;ll start to see the individual pixels!  This pixelation becomes more obvious when you zoom in or scale up the image.</p>\n"
+  },
+  {
+    "title": "Understanding Vector Graphics",
+    "content": "<ul>\n<li>Vector graphics are created using <strong>mathematical equations</strong>.</li>\n<li>These equations define lines, curves, and shapes.</li>\n<li>They are not based on pixels.</li>\n<li>Think of it like drawing with a precise compass and ruler.</li>\n</ul>\n"
+  },
+  {
+    "title": "Vector Graphic Example",
+    "content": "<p>Imagine a logo created in Adobe Illustrator. No matter how much you zoom in, the lines and curves remain crisp and sharp!</p>\n"
+  },
+  {
+    "title": "Key Differences: Pixel vs. Math",
+    "content": "<p><strong>Raster:</strong></p>\n<ul>\n<li>Pixel-based</li>\n<li>Resolution-dependent (image quality degrades when scaled up)</li>\n<li>Good for complex images with many colors and shades</li>\n</ul>\n<p><strong>Vector:</strong></p>\n<ul>\n<li>Equation-based</li>\n<li>Resolution-independent (scales infinitely without loss of quality)</li>\n<li>Good for logos, illustrations, and text</li>\n</ul>\n"
+  },
+  {
+    "title": "Advantages of Raster Images",
+    "content": "<ul>\n<li><strong>Detailed Images:</strong> Excellent for representing complex details, shading, and colors.</li>\n<li><strong>Realistic Appearance:</strong> Ideal for photographs and images that require a realistic look.</li>\n<li><strong>Easy to Capture:</strong> Easily created with cameras and scanners.</li>\n</ul>\n"
+  },
+  {
+    "title": "Disadvantages of Raster Images",
+    "content": "<ul>\n<li><strong>Scaling Issues:</strong> Lose quality and become pixelated when enlarged.</li>\n<li><strong>Large File Sizes:</strong> Can have large file sizes, especially for high-resolution images.</li>\n<li><strong>Difficult to Edit:</strong> Editing individual elements can be challenging.</li>\n</ul>\n"
+  },
+  {
+    "title": "Advantages of Vector Graphics",
+    "content": "<ul>\n<li><strong>Scalability:</strong> Can be scaled up or down infinitely without losing quality.</li>\n<li><strong>Small File Sizes:</strong> Generally have smaller file sizes than raster images.</li>\n<li><strong>Easy to Edit:</strong> Individual elements can be easily edited and modified.</li>\n</ul>\n"
+  },
+  {
+    "title": "Disadvantages of Vector Graphics",
+    "content": "<ul>\n<li><strong>Less Realistic:</strong> May not be suitable for images that require photographic realism.</li>\n<li><strong>Complexity:</strong> Creating complex, detailed images can be time-consuming.</li>\n<li><strong>Not Ideal for Photos:</strong> Not the best choice for displaying photographs.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Raster File Formats",
+    "content": "<ul>\n<li><strong>JPEG (.jpg or .jpeg):</strong> Good for photos, lossy compression.</li>\n<li><strong>PNG (.png):</strong> Good for graphics with transparency, lossless compression.</li>\n<li><strong>GIF (.gif):</strong> Good for simple animations and graphics with limited colors, lossless compression.</li>\n<li><strong>TIFF (.tif or .tiff):</strong> Good for high-quality images, lossless compression.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Vector File Formats",
+    "content": "<ul>\n<li><strong>SVG (.svg):</strong> Scalable Vector Graphics, web-friendly.</li>\n<li><strong>AI (.ai):</strong> Adobe Illustrator file format.</li>\n<li><strong>EPS (.eps):</strong> Encapsulated PostScript, often used for print.</li>\n<li><strong>PDF (.pdf):</strong> Portable Document Format (can contain both vector and raster elements).</li>\n</ul>\n"
+  },
+  {
+    "title": "When to Use Vector Graphics",
+    "content": "<ul>\n<li><strong>Logos:</strong> Logos need to be scalable for various uses.</li>\n<li><strong>Illustrations:</strong> Cartoons, diagrams, and technical drawings.</li>\n<li><strong>Typography:</strong> Fonts and text elements.</li>\n<li><strong>Icons:</strong> Simple, scalable symbols.</li>\n</ul>\n"
+  },
+  {
+    "title": "When to Use Raster Images",
+    "content": "<ul>\n<li><strong>Photographs:</strong> Capturing realistic scenes and details.</li>\n<li><strong>Scanned Documents:</strong> Digitizing physical documents.</li>\n<li><strong>Images with Complex Shading:</strong> Images with gradients and subtle color variations.</li>\n<li><strong>Web Graphics (sometimes):</strong> Optimized JPEGs and PNGs for web use.</li>\n</ul>\n"
+  },
+  {
+    "title": "Converting Between Vector and Raster",
+    "content": "<ul>\n<li><strong>Vector to Raster (Rasterizing):</strong> Converts a vector graphic into a pixel-based image. This is a one-way process – you lose the ability to infinitely scale the image without quality loss.</li>\n<li><strong>Raster to Vector (Tracing):</strong> Converts a raster image into a vector graphic.  The results can vary depending on the complexity and quality of the original raster image.  Often requires manual cleanup and editing.</li>\n</ul>\n"
+  },
+  {
+    "title": "Converting Raster to Vector: Considerations",
+    "content": "<ul>\n<li><strong>Complexity:</strong> Simple raster images convert to vectors more easily.</li>\n<li><strong>Accuracy:</strong> The more complex the image, the less accurate the conversion.</li>\n<li><strong>Software:</strong> Specialized software is needed for accurate conversion.</li>\n</ul>\n"
+  },
+  {
+    "title": "Real-World Example: Website Logo",
+    "content": "<ul>\n<li><strong>Initial Design:</strong> Created as a vector graphic (e.g., in Adobe Illustrator) for scalability.</li>\n<li><strong>Website Use:</strong> Exported as an SVG for clear display on different screen sizes.</li>\n<li><strong>Favicon:</strong> A smaller, rasterized version (e.g., PNG or ICO) is used for the browser tab icon.</li>\n</ul>\n"
+  },
+  {
+    "title": "Key Takeaway",
+    "content": "<p>Choosing between vector and raster depends on the type of image, its intended use, and the desired level of quality and scalability.  Understanding their differences allows for optimal image creation and usage.</p>\n"
+  },
+  {
+    "title": "Summary: Vector vs. Raster",
+    "content": "<ul>\n<li><strong>Raster:</strong> Pixels, resolution-dependent, photos, complex images, large files.</li>\n<li><strong>Vector:</strong> Equations, resolution-independent, logos, illustrations, small files.</li>\n</ul>\n"
+  },
+  {
+    "title": "Questions?",
+    "content": "<p>Do you have any questions about working with Vector and Raster images?</p>\n"
+  }
+]

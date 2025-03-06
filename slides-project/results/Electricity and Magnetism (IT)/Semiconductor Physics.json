@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Semiconductor Physics: A Beginner's Guide",
+    "content": "<p>Welcome to the world of semiconductors! This presentation will cover:</p>\n<ul>\n<li><strong>What are Semiconductors?</strong> Their unique properties and importance.</li>\n<li><strong>Atomic Structure &amp; Bonding:</strong>  Understanding the building blocks.</li>\n<li><strong>Energy Bands:</strong>  How electrons move and conduct.</li>\n<li><strong>Intrinsic &amp; Extrinsic Semiconductors:</strong> Pure vs. Doped materials.</li>\n<li><strong>Charge Carriers:</strong> Electrons and Holes - the movers and shakers.</li>\n<li><strong>PN Junctions:</strong> The foundation of diodes and transistors.</li>\n<li><strong>Basic Semiconductor Devices:</strong> Diodes, Transistors, and their applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Semiconductors?",
+    "content": "<p>Semiconductors are materials with electrical conductivity between conductors (like copper) and insulators (like rubber).</p>\n<ul>\n<li><strong>Key Property:</strong> Their conductivity can be controlled!</li>\n<li><strong>Examples:</strong> Silicon (Si), Germanium (Ge), Gallium Arsenide (GaAs).</li>\n<li><strong>Importance:</strong> Found in nearly every electronic device – computers, phones, solar cells, etc.</li>\n</ul>\n"
+  },
+  {
+    "title": "Atomic Structure and Bonding",
+    "content": "<p>Let&#39;s look at Silicon (Si) as an example.</p>\n<ul>\n<li><strong>Silicon has 4 valence electrons:</strong> These are the outermost electrons involved in bonding.</li>\n<li><strong>Covalent Bonds:</strong> Each Si atom shares electrons with 4 neighboring Si atoms, forming a stable crystal lattice.</li>\n<li><strong>Analogy:</strong> Think of it like everyone holding hands in a circle.</li>\n</ul>\n"
+  },
+  {
+    "title": "Energy Bands: A Simplified View",
+    "content": "<p>Electrons in atoms can only have specific energy levels. In solids, these energy levels broaden into bands.</p>\n<ul>\n<li><strong>Valence Band:</strong> Where electrons are usually found (low energy).</li>\n<li><strong>Conduction Band:</strong> Where electrons need to be to conduct electricity (high energy).</li>\n<li><strong>Energy Gap (Band Gap):</strong> The energy difference between the valence and conduction bands.  Semiconductors have a moderate band gap.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conductors, Insulators, and Semiconductors",
+    "content": "<ul>\n<li><strong>Conductors:</strong>  Valence and conduction bands overlap. Electrons flow easily (e.g., Copper).</li>\n<li><strong>Insulators:</strong> Large energy gap. Electrons need a lot of energy to jump to the conduction band (e.g., Rubber).</li>\n<li><strong>Semiconductors:</strong> Moderate energy gap. Can be controlled with temperature, light, or doping (e.g., Silicon).</li>\n</ul>\n"
+  },
+  {
+    "title": "Intrinsic Semiconductors: Pure Silicon",
+    "content": "<p>Intrinsic semiconductors are pure materials with no impurities added.</p>\n<ul>\n<li><strong>At room temperature:</strong> Some electrons gain enough thermal energy to jump to the conduction band, creating a small amount of conductivity.</li>\n<li><strong>Electron-Hole Pairs:</strong> When an electron jumps to the conduction band, it leaves behind a &#39;hole&#39; in the valence band.  Both the electron and hole can contribute to current.</li>\n</ul>\n"
+  },
+  {
+    "title": "Extrinsic Semiconductors: Doping",
+    "content": "<p>Doping is adding impurities to a semiconductor to control its conductivity.</p>\n<ul>\n<li><strong>N-type:</strong> Adding elements with more valence electrons (e.g., Phosphorus to Silicon).<ul>\n<li>Creates excess electrons (negative charge carriers).</li>\n</ul>\n</li>\n<li><strong>P-type:</strong> Adding elements with fewer valence electrons (e.g., Boron to Silicon).<ul>\n<li>Creates excess holes (positive charge carriers).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "N-Type Semiconductor",
+    "content": "<p>Phosphorus has 5 valence electrons. When it replaces a Silicon atom:</p>\n<ul>\n<li>4 electrons form covalent bonds.</li>\n<li>The 5th electron is loosely bound and easily jumps to the conduction band.</li>\n<li>Phosphorus acts as a &#39;donor&#39; of electrons.</li>\n</ul>\n"
+  },
+  {
+    "title": "P-Type Semiconductor",
+    "content": "<p>Boron has 3 valence electrons. When it replaces a Silicon atom:</p>\n<ul>\n<li>It creates a &#39;hole&#39; - a missing electron in a covalent bond.</li>\n<li>Electrons from neighboring atoms can easily jump into this hole, creating a moving positive charge.</li>\n<li>Boron acts as an &#39;acceptor&#39; of electrons.</li>\n</ul>\n"
+  },
+  {
+    "title": "Charge Carriers: Electrons and Holes",
+    "content": "<ul>\n<li><strong>Electrons:</strong> Negative charge carriers in the conduction band.</li>\n<li><strong>Holes:</strong> Positive charge carriers in the valence band.</li>\n<li><strong>Current:</strong> The flow of charge carriers.<ul>\n<li>Electrons move in the opposite direction of the electric field.</li>\n<li>Holes move in the same direction as the electric field (think of it as a bubble rising in water).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "The PN Junction: The Heart of Many Devices",
+    "content": "<p>A PN junction is formed by joining a P-type and an N-type semiconductor.</p>\n<ul>\n<li><strong>Diffusion:</strong> Electrons from the N-type side diffuse into the P-type side, and holes from the P-type side diffuse into the N-type side.</li>\n<li><strong>Depletion Region:</strong> This diffusion creates a region near the junction with very few free charge carriers.</li>\n<li><strong>Built-in Voltage:</strong> An electric field forms across the depletion region, preventing further diffusion at equilibrium.</li>\n</ul>\n"
+  },
+  {
+    "title": "PN Junction: Forward Bias",
+    "content": "<p>Applying a positive voltage to the P-side and a negative voltage to the N-side.</p>\n<ul>\n<li><strong>Reduces the depletion region width.</strong></li>\n<li><strong>Lowers the barrier to current flow.</strong></li>\n<li><strong>Large current flows through the junction.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "PN Junction: Reverse Bias",
+    "content": "<p>Applying a negative voltage to the P-side and a positive voltage to the N-side.</p>\n<ul>\n<li><strong>Increases the depletion region width.</strong></li>\n<li><strong>Increases the barrier to current flow.</strong></li>\n<li><strong>Very little current flows (ideally zero, but there&#39;s a small leakage current).</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "The Semiconductor Diode",
+    "content": "<p>A PN junction is the basic structure of a diode.</p>\n<ul>\n<li><strong>Symbol:</strong>  Looks like an arrow pointing to a line.</li>\n<li><strong>Function:</strong> Allows current to flow easily in one direction (forward bias) and blocks it in the other (reverse bias).</li>\n<li><strong>Applications:</strong> Rectifiers (converting AC to DC), switches, and much more!</li>\n</ul>\n"
+  },
+  {
+    "title": "Diode Applications: Rectification",
+    "content": "<p>Diodes can be used to convert alternating current (AC) to direct current (DC).</p>\n<ul>\n<li><strong>Half-wave Rectifier:</strong> A single diode allows only one half of the AC waveform to pass.</li>\n<li><strong>Full-wave Rectifier:</strong> Uses multiple diodes to convert both halves of the AC waveform to DC (more efficient).</li>\n</ul>\n"
+  },
+  {
+    "title": "The Bipolar Junction Transistor (BJT)",
+    "content": "<p>A BJT is a three-terminal device that can amplify or switch electronic signals.</p>\n<ul>\n<li><strong>Structure:</strong> Two PN junctions placed back-to-back (NPN or PNP).</li>\n<li><strong>Terminals:</strong> Emitter, Base, Collector.</li>\n<li><strong>Operation:</strong> A small current at the Base controls a larger current between the Collector and Emitter.</li>\n</ul>\n"
+  },
+  {
+    "title": "BJT: NPN Transistor",
+    "content": "<p>In an NPN transistor:</p>\n<ul>\n<li>The Base is P-type, and the Emitter and Collector are N-type.</li>\n<li>A small current injected into the Base allows a larger current to flow from the Collector to the Emitter.</li>\n<li>Used in amplifiers and switches.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Field-Effect Transistor (FET)",
+    "content": "<p>Another type of transistor that uses an electric field to control current flow.</p>\n<ul>\n<li><strong>Types:</strong> MOSFET (Metal-Oxide-Semiconductor FET) is the most common.</li>\n<li><strong>Terminals:</strong> Source, Gate, Drain.</li>\n<li><strong>Operation:</strong>  Voltage applied to the Gate controls the current flow between the Source and Drain.</li>\n</ul>\n"
+  },
+  {
+    "title": "MOSFET: A Closer Look",
+    "content": "<p>MOSFETs are widely used in integrated circuits (ICs).</p>\n<ul>\n<li><strong>Types:</strong>  NMOS (N-channel) and PMOS (P-channel).</li>\n<li><strong>Advantages:</strong> High input impedance, low power consumption.</li>\n<li><strong>Applications:</strong> Microprocessors, memory chips, and countless other devices.</li>\n</ul>\n"
+  },
+  {
+    "title": "Integrated Circuits (ICs)",
+    "content": "<p>ICs (also known as microchips) contain millions or even billions of transistors and other components on a single piece of semiconductor material (usually Silicon).</p>\n<ul>\n<li><strong>Complexity:</strong> Enables incredibly complex functions in small packages.</li>\n<li><strong>Manufacturing:</strong> Requires highly precise and controlled processes.</li>\n<li><strong>Revolution:</strong> The foundation of modern electronics.</li>\n</ul>\n"
+  },
+  {
+    "title": "Semiconductors and Solar Cells",
+    "content": "<p>Solar cells (photovoltaic cells) use semiconductors to convert sunlight directly into electricity.</p>\n<ul>\n<li><strong>Process:</strong> Photons from sunlight excite electrons in the semiconductor, creating electron-hole pairs.</li>\n<li><strong>PN Junction:</strong> The PN junction separates these charge carriers, generating a voltage and current.</li>\n<li><strong>Renewable Energy:</strong> A clean and sustainable source of power.</li>\n</ul>\n"
+  },
+  {
+    "title": "Advanced Semiconductor Materials",
+    "content": "<p>Beyond Silicon, researchers are exploring new semiconductor materials with enhanced properties.</p>\n<ul>\n<li><strong>Gallium Nitride (GaN):</strong>  Used in high-power and high-frequency applications (e.g., LEDs, power amplifiers).</li>\n<li><strong>Silicon Carbide (SiC):</strong>  Used in high-voltage and high-temperature applications (e.g., electric vehicle inverters).</li>\n<li><strong>Organic Semiconductors:</strong>  Used in flexible electronics and displays.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of Semiconductors",
+    "content": "<p>Semiconductor technology continues to evolve rapidly.</p>\n<ul>\n<li><strong>Smaller Transistors:</strong>  Driving for even more powerful and energy-efficient devices.</li>\n<li><strong>New Materials:</strong>  Exploring materials with improved performance characteristics.</li>\n<li><strong>Quantum Computing:</strong>  Semiconductors may play a crucial role in the development of quantum computers.</li>\n</ul>\n"
+  }
+]

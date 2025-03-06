@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Symmetrical Balance: A Reflecting Pond",
+      "caption": "**(Scene: Opens with a calm, perfectly still pond reflecting trees and sky)** Voiceover: 'Balance. It's not just about equal weight.' **(Scene: Pond ripples slightly, blurring the reflection)** 'It's about visual stability.' **(Scene: Reflection returns to perfect symmetry)** 'Symmetrical balance creates a sense of formality and peace.' **(Scene: Dissolves to a perfectly centered photograph of a flower)** 'Easy on the eyes, isn't it?'",
+      "prompt": "A serene landscape featuring a perfectly still pond reflecting trees and sky with perfect symmetry. The lighting is soft and diffused, creating a sense of calm and tranquility."
+    },
+    {
+      "title": "Asymmetrical Balance: Mobile Sculpture",
+      "caption": "**(Scene: Shows a well lit mobile sculpture with various shapes and sizes hanging in balance)** Voiceover: 'But balance can be dynamic!' **(Scene: Mobile gently rotates)** 'Asymmetrical balance uses different elements to create visual equilibrium.' **(Scene: Close-up on the different shapes)** 'Think contrasting shapes, colors, and sizes working together.' **(Scene: Mobile stops, perfectly balanced)** 'Unexpected, but still pleasing to the eye.'",
+      "prompt": "A well-lit mobile sculpture featuring various shapes and sizes in asymmetrical balance. The background is clean and uncluttered, highlighting the interplay of forms."
+    },
+    {
+      "title": "Contrast: Light and Dark Landscapes",
+      "caption": "**(Scene: Quick cut, showing a dark forest scene, followed by a bright, snow-covered mountain.)** Voiceover: 'Contrast: It's all about difference.' **(Scene: Close-up of the dark forest scene, highlighting the shadows.)** 'Dark versus light...' **(Scene: Close-up of the snow, highlighting the brightness.)** '...big versus small...' **(Scene: Back to the dark forest, then back to the bright snow.)** '...color versus color.' **(Scene: Both scenes are shown side by side.)** 'Create interest and emphasis with powerful contrasts.'",
+      "prompt": "A split image. One side is a deep, shadowy forest with dense foliage. The other side is a bright, snow-covered mountain landscape under a clear blue sky. The contrast between the two scenes is stark and dramatic."
+    },
+    {
+      "title": "Alignment: Books on a Shelf",
+      "caption": "**(Scene: Opens with a chaotic bookshelf with books randomly placed.)** Voiceover: 'Alignment: Order from chaos!' **(Scene: Time lapse showing the books neatly aligned, spine forward.)** 'It creates a visual connection between elements.' **(Scene: Close-up of the spines, perfectly aligned.)** 'Whether it's left, right, center...' **(Scene: Another bookshelf with books center aligned.)** '...alignment brings clarity and professionalism.' **(Scene: Back to the original, neatly organized bookshelf.)** 'Easy to scan, easy to understand.'",
+      "prompt": "A neatly arranged bookshelf with books aligned perfectly, showcasing the principles of left alignment, right alignment, and center alignment. The background is simple and unobtrusive."
+    },
+    {
+      "title": "Repetition: Patterned Wall",
+      "caption": "**(Scene: Begins with a close up of a single tile on a patterned wall.)** Voiceover: 'Repetition: Visual rhythm!' **(Scene: Camera pulls back to reveal the entire patterned wall.)** 'Repeating elements create unity and consistency.' **(Scene: Close-up on the pattern, showing the repeated elements.)** 'It can be shapes, colors, or textures...' **(Scene: Quick cuts showing different patterns - geometric, floral, abstract.)** '...building a strong and memorable design.'",
+      "prompt": "A vibrant and colorful patterned wall showcasing repetition of shapes, colors, and textures. The pattern should be visually appealing and create a sense of rhythm and unity."
+    },
+    {
+      "title": "Proximity: Grouped Objects on a Table",
+      "caption": "**(Scene: Wide shot of a table with various unrelated objects scattered across it.)** Voiceover: 'Proximity: Grouping things together.' **(Scene: Hands rearrange the objects into distinct groups.)** 'Elements placed close together are perceived as related.' **(Scene: Close-up of each group, highlighting their relationship.)** 'Creating visual relationships and improving readability.' **(Scene: Wide shot again, showing the organized groups.)** 'Less clutter, more clarity.'",
+      "prompt": "A tabletop arrangement featuring various objects grouped according to proximity. Each group should consist of objects with a common theme or purpose. The background is a neutral color to emphasize the groupings."
+    },
+    {
+      "title": "Negative Space: Logo Design",
+      "caption": "**(Scene: Begins with a white background, a very simple logo is displayed in black lines)** Voiceover: 'Negative Space: The power of emptiness.' **(Scene: The Logo zooms in focusing on negative space )** 'The space around and between the elements.' **(Scene: The camera pulls back to show entire logo)** 'It creates shape, adds meaning, and enhances impact.' **(Scene: The logo disappears in the background to show only the logo's negative space.)** 'Don't underestimate the power of what's *not* there.'",
+      "prompt": "A minimalist logo design that effectively utilizes negative space to create a hidden image or symbol. The background is clean and uncluttered, highlighting the interplay of positive and negative forms."
+    },
+    {
+      "title": "Visual Hierarchy: Website Landing Page",
+      "caption": "**(Scene: Shows a mock landing page on a computer screen with all elements the same size.)** Voiceover: 'Visual Hierarchy: Leading the eye.' **(Scene: Elements on the landing page are resized and repositioned to create a clear visual hierarchy.)** 'Use size, color, and placement to guide the viewer.' **(Scene: Focus on the headline, then the call to action button, then the supporting text.)** 'Highlighting the most important information first.' **(Scene: The landing page is now easy to scan and understand.)** 'Control where the eye goes!'",
+      "prompt": "A mock website landing page design that effectively utilizes visual hierarchy to guide the viewer's eye through the content. Use size, color, and placement to emphasize key elements and create a clear flow of information."
+    },
+    {
+      "title": "Unity: Color Palette",
+      "caption": "**(Scene: Shows a close-up of various, seemingly unrelated objects with different colours and sizes.)** Voiceover: 'Unity: Bringing it all together.' **(Scene: The objects slowly become unified with a common colour palette.)** 'Shared elements create a sense of harmony.' **(Scene: Colour palette is displayed on screen.)** 'Whether it's color, typography, or style...' **(Scene: All objects now harmonise with the Colour palette)** '...unity makes your design feel complete and cohesive.'",
+      "prompt": "A collection of diverse objects arranged to showcase a unified color palette. The objects should vary in shape, size, and texture, but be connected by a common color scheme."
+    }
+  ]
+]

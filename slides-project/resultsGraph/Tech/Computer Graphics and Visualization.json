@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Pixel Paradise",
+      "caption": "Welcome to the world of Computer Graphics! \nEver wondered how stunning visuals are created? \nIt's all about pixels, the tiny building blocks of images. \nManipulating these pixels lets us create incredible art and simulations.\nFrom video games to movies, computer graphics are everywhere!",
+      "prompt": "A vibrant and colorful landscape composed entirely of large, clearly visible pixels. The landscape includes mountains, a lake, and a sunset, all pixelated in a retro video game style. High resolution."
+    },
+    {
+      "title": "The Geometry of Illusion",
+      "caption": "At its heart, Computer Graphics uses geometry. \nThink lines, shapes, and 3D models.\nThese elements are the foundation for constructing complex scenes. \nAlgorithms then transform this geometry into the images we see on screen. \nIt's a fascinating blend of math and art!",
+      "prompt": "A complex, interconnected network of geometric shapes (cubes, spheres, cones, pyramids) suspended in a dark void. The shapes are made of glowing, translucent materials with internal light sources. Focus on the interplay of light and shadow."
+    },
+    {
+      "title": "Shading and Lighting Secrets",
+      "caption": "Want to make your creations look realistic?\nLighting and shading are key! \nDifferent algorithms simulate how light interacts with surfaces. \nThis creates depth, texture, and mood. \nMastering these techniques elevates your graphics to the next level!",
+      "prompt": "A single, highly detailed 3D model of a red apple. The apple should have realistic skin texture and a subtle sheen. Demonstrate various lighting scenarios: diffuse lighting, specular highlights, and subsurface scattering. Three separate renders, each showcasing a different lighting effect."
+    },
+    {
+      "title": "Rendering Realities",
+      "caption": "Rendering is the process of turning 3D models into 2D images. \nDifferent rendering techniques offer varying levels of realism and speed. \nRay tracing simulates light paths for stunning detail. \nRasterization is faster, ideal for real-time applications. \nChoosing the right technique is crucial!",
+      "prompt": "A side-by-side comparison of two images: one rendered using ray tracing, the other using rasterization. The scene should be a simple living room interior. Highlight the differences in lighting, reflections, and shadow quality between the two rendering methods."
+    },
+    {
+      "title": "Visualization: Data in Sight",
+      "caption": "Computer Graphics isn't just about pretty pictures. \nIt's also about visualizing data! \nComplex information can be transformed into charts, graphs, and interactive displays. \nThis helps us understand trends, patterns, and insights. \nVisualization makes data accessible and engaging.",
+      "prompt": "A vibrant and dynamic 3D scatter plot visualizing a dataset of global temperatures over time. The data points are colored according to temperature, ranging from blue (cold) to red (hot). The plot is interactive, allowing the viewer to rotate and zoom in."
+    },
+    {
+      "title": "The Power of Simulation",
+      "caption": "Computer Graphics enables realistic simulations. \nFrom fluid dynamics to cloth simulation, we can model complex physical phenomena. \nThis is used in engineering, science, and entertainment. \nSimulations allow us to predict outcomes and explore possibilities. \nIt's a powerful tool for innovation!",
+      "prompt": "A simulation of water flowing realistically through a complex environment, such as a rocky riverbed. Showcase the water's interaction with the environment: splashing, foam, and reflections. Focus on accurate and visually appealing fluid dynamics."
+    },
+    {
+      "title": "Animation: Bringing Things to Life",
+      "caption": "Animation is where Computer Graphics truly shines! \nBy creating a sequence of images, we can bring characters and objects to life. \nKeyframing, motion capture, and procedural animation are just a few techniques. \nAnimation fuels movies, games, and countless other applications! \nIt's the art of creating the illusion of movement.",
+      "prompt": "A short animated sequence showing a stylized 3D character running through a forest. The character should have exaggerated features and a dynamic, expressive animation style. Focus on smooth, fluid movement and appealing character design."
+    },
+    {
+      "title": "The Future of Graphics",
+      "caption": "Computer Graphics is constantly evolving. \nVirtual reality and augmented reality are pushing boundaries. \nReal-time rendering and AI are revolutionizing the field. \nThe future holds endless possibilities for creating immersive and interactive experiences. \nGet ready for the next generation of visuals!",
+      "prompt": "A futuristic cityscape rendered in a hyper-realistic style. The city is filled with flying vehicles, holographic advertisements, and advanced technology. Showcase the cutting edge of computer graphics capabilities, pushing the boundaries of realism and detail."
+    },
+    {
+      "title": "Interactive Graphics Demystified",
+      "caption": "Interactive Graphics enable real-time user control. \nIt's the foundation for video games and simulations. \nUser input determines what happens on screen. \nThis requires efficient rendering and responsive feedback. \nInteractive Graphics put you in the driver's seat!",
+      "prompt": "A first-person perspective screenshot of a video game environment. The environment is a stylized, futuristic laboratory. The image should capture the feeling of immersion and interactivity, with elements like interactive consoles, glowing screens, and a sense of depth."
+    }
+  ]
+]

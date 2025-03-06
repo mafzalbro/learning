@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "title": "Empathy: Walking in Someone Else's Shoes",
+      "caption": "Ever feel stuck solving a problem? Design Thinking starts with empathy. Understand your user. What are their needs? What are their frustrations? Imagine walking a mile in their shoes. True innovation comes from understanding the people we're designing for.",
+      "prompt": "A group of diverse individuals collaboratively brainstorming, looking at a whiteboard covered in sticky notes with user profiles and needs written on them. The scene is bright and collaborative."
+    },
+    {
+      "title": "Define: Pinpointing the Real Problem",
+      "caption": "Okay, you've empathized. Now it's time to define. What's the REAL problem you're trying to solve? Don't just treat the symptoms. Dig deep. Craft a clear and concise problem statement. This is your guiding star throughout the process.",
+      "prompt": "A single focused individual meticulously writing a problem statement on a whiteboard, surrounded by discarded ideas. The focus is sharp and deliberate."
+    },
+    {
+      "title": "Ideate: Brainstorming a Universe of Solutions",
+      "caption": "Ready to unleash your creativity? This is ideation! Think outside the box. No idea is too crazy. Quantity over quality at this stage. Generate as many potential solutions as possible. Embrace the power of 'what if?'",
+      "prompt": "A burst of colorful ideas emanating from a person's head, transforming into abstract shapes and symbols. The overall impression is energetic and imaginative."
+    },
+    {
+      "title": "Prototype: Bringing Ideas to Life",
+      "caption": "Time to get your hands dirty! Build a quick and dirty prototype. It doesn't have to be perfect. The goal is to test your assumptions. Use simple materials like cardboard, paper, or clay. Fail fast, learn faster.",
+      "prompt": "Hands constructing a simple cardboard prototype of a user interface, featuring buttons and a screen. The setting is a workshop or maker space."
+    },
+    {
+      "title": "Test: Gathering Feedback and Iterating",
+      "caption": "Put your prototype in front of real users. Observe how they interact with it. Gather feedback. What works? What doesn't? Be open to criticism. This is your chance to refine your solution. Iterate, iterate, iterate!",
+      "prompt": "A person observing another person interacting with a prototype device. The observer is taking notes and paying close attention to the user's facial expressions."
+    },
+    {
+      "title": "The Power of Iteration",
+      "caption": "Design Thinking isn't a linear process. It's iterative. You'll likely cycle through these stages multiple times. Each iteration brings you closer to a truly innovative solution. Embrace the loop!",
+      "prompt": "A circular diagram depicting the Design Thinking process (Empathize, Define, Ideate, Prototype, Test) with arrows showing the cyclical nature of the process."
+    },
+    {
+      "title": "Design Thinking: A Team Sport",
+      "caption": "Design Thinking thrives on collaboration. Bring together diverse perspectives and skill sets. Encourage open communication and constructive feedback. The best solutions often emerge from a team effort.",
+      "prompt": "A diverse team working together around a table, enthusiastically discussing ideas and sketching on a large sheet of paper. The atmosphere is collaborative and energetic."
+    },
+    {
+      "title": "Thinking Outside the (White) Box",
+      "caption": "Design Thinking isn't just for products. It's a powerful problem-solving framework applicable to any challenge. From business strategy to social innovation, Design Thinking can help you create meaningful impact.",
+      "prompt": "An abstract image representing a problem being solved by light and creative energy, pushing outward from a central point. The background is dark, emphasizing the emergence of the solution."
+    },
+    {
+      "title": "Design Thinking: Empowering Innovation",
+      "caption": "Design Thinking empowers you to be a creative problem-solver. It's a mindset, a skillset, and a framework for innovation. So, embrace the process, be curious, and start designing a better world.",
+      "prompt": "A confident person standing on a hilltop, overlooking a futuristic city representing innovation and progress. The person is smiling and empowered."
+    },
+    {
+      "title": "Embrace the Messy Middle",
+      "caption": "Design thinking can feel chaotic! Embracing the messy middle - the undefined area of ideation and problem solving - is key. Don't fear the unknown; explore it! Innovation often comes from discomfort.",
+      "prompt": "A colorful, chaotic yet organized workspace with various materials, sketches, and prototypes spread across the table. It represents a productive, albeit messy, creative process."
+    }
+  ]
+]

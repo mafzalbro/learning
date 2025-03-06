@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Hardware Basics: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover the fundamental components of computer hardware, explaining what they are, what they do, and how they interact.  We&#39;ll explore everything from the CPU to peripherals, aiming to provide a clear and concise understanding for everyone, from beginners to those seeking a refresher.</p>\n<p><strong>Here&#39;s what we&#39;ll cover:</strong></p>\n<ul>\n<li>What is Hardware?</li>\n<li>The Central Processing Unit (CPU)</li>\n<li>Memory (RAM)</li>\n<li>Storage Devices (Hard Drives, SSDs)</li>\n<li>The Motherboard</li>\n<li>Graphics Card (GPU)</li>\n<li>Input Devices (Keyboard, Mouse)</li>\n<li>Output Devices (Monitor, Printer)</li>\n<li>Power Supply (PSU)</li>\n<li>Computer Case &amp; Cooling</li>\n<li>Basic Troubleshooting</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Hardware?",
+    "content": "<p>Hardware refers to the physical components of a computer system that you can touch and see.  Think of it as the computer&#39;s body, while software is its mind.  </p>\n<p><strong>Examples of Hardware:</strong></p>\n<ul>\n<li>Monitor</li>\n<li>Keyboard</li>\n<li>Mouse</li>\n<li>Hard Drive</li>\n<li>RAM</li>\n<li>CPU</li>\n<li>Printer</li>\n</ul>\n"
+  },
+  {
+    "title": "The Central Processing Unit (CPU)",
+    "content": "<p>The CPU (Central Processing Unit) is the &quot;brain&quot; of the computer. It executes instructions and performs calculations. Think of it as the chief decision-maker.</p>\n<p><strong>Key Functions:</strong></p>\n<ul>\n<li>Fetching instructions from memory</li>\n<li>Decoding those instructions</li>\n<li>Executing the instructions</li>\n<li>Storing the results</li>\n</ul>\n<p><strong>Important Terms:</strong></p>\n<ul>\n<li><strong>Clock Speed (GHz):</strong> How many instructions the CPU can process per second. Higher is generally faster.</li>\n<li><strong>Cores:</strong>  The number of independent processing units within a CPU. More cores allow for better multitasking.</li>\n</ul>\n"
+  },
+  {
+    "title": "Memory (RAM)",
+    "content": "<p>RAM (Random Access Memory) is temporary storage for data that the CPU is actively using.  It&#39;s much faster than a hard drive or SSD, allowing for quick access to information.  Think of it as the computer&#39;s short-term memory.</p>\n<p><strong>Key Points:</strong></p>\n<ul>\n<li>RAM is <em>volatile</em>, meaning data is lost when the power is turned off.</li>\n<li>More RAM generally allows you to run more programs simultaneously without slowing down your computer.</li>\n<li>Measured in Gigabytes (GB).</li>\n</ul>\n"
+  },
+  {
+    "title": "Storage Devices (Hard Drives & SSDs)",
+    "content": "<p>Storage devices are used for permanently storing data, such as your operating system, applications, and files.</p>\n<p><strong>Two Main Types:</strong></p>\n<ul>\n<li><strong>Hard Disk Drives (HDDs):</strong> Use spinning platters to store data.  They are cheaper per gigabyte but slower than SSDs.</li>\n<li><strong>Solid State Drives (SSDs):</strong> Use flash memory to store data. They are much faster, more durable, and use less power than HDDs, but are generally more expensive.</li>\n</ul>\n<p><strong>Measured in Gigabytes (GB) or Terabytes (TB).</strong></p>\n"
+  },
+  {
+    "title": "The Motherboard",
+    "content": "<p>The motherboard is the main circuit board of the computer. It connects all the other components, allowing them to communicate with each other.  Think of it as the computer&#39;s nervous system.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li>Sockets for the CPU and RAM.</li>\n<li>Slots for expansion cards (e.g., graphics card).</li>\n<li>Connectors for storage devices, power supply, and peripherals.</li>\n<li>Chipset that controls communication between components.</li>\n</ul>\n"
+  },
+  {
+    "title": "Graphics Card (GPU)",
+    "content": "<p>The Graphics Card (GPU - Graphics Processing Unit) is responsible for rendering images, videos, and other visual content.  It&#39;s particularly important for gaming, video editing, and other graphics-intensive tasks.</p>\n<p><strong>Key Points:</strong></p>\n<ul>\n<li>GPUs have their own dedicated memory (VRAM).</li>\n<li>A dedicated GPU will significantly improve performance in graphically demanding applications.</li>\n<li>Integrated graphics (built into the CPU) are sufficient for basic tasks but not for gaming or professional graphics work.</li>\n</ul>\n"
+  },
+  {
+    "title": "Input Devices",
+    "content": "<p>Input devices allow you to send information to the computer.</p>\n<p><strong>Common Examples:</strong></p>\n<ul>\n<li><strong>Keyboard:</strong> Used for typing text and commands.</li>\n<li><strong>Mouse:</strong> Used for navigating the graphical user interface (GUI).</li>\n<li><strong>Microphone:</strong> Used for recording audio.</li>\n<li><strong>Webcam:</strong> Used for capturing video.</li>\n<li><strong>Scanner:</strong> Used for converting physical documents into digital images.</li>\n</ul>\n"
+  },
+  {
+    "title": "Output Devices",
+    "content": "<p>Output devices allow the computer to display or present information to you.</p>\n<p><strong>Common Examples:</strong></p>\n<ul>\n<li><strong>Monitor:</strong> Displays visual output.</li>\n<li><strong>Printer:</strong> Creates physical copies of documents.</li>\n<li><strong>Speakers:</strong> Produce audio output.</li>\n<li><strong>Projector:</strong> Projects images onto a screen.</li>\n</ul>\n"
+  },
+  {
+    "title": "Power Supply (PSU)",
+    "content": "<p>The Power Supply Unit (PSU) converts AC power from the wall outlet into DC power that the computer&#39;s components can use.  It&#39;s crucial to have a PSU with sufficient wattage to power all your components.</p>\n<p><strong>Key Considerations:</strong></p>\n<ul>\n<li><strong>Wattage:</strong> The amount of power the PSU can provide.</li>\n<li><strong>Efficiency:</strong> How efficiently the PSU converts AC to DC power (e.g., 80+ rating).</li>\n<li><strong>Connectors:</strong> Ensures the PSU has the necessary connectors for all your components.</li>\n</ul>\n"
+  },
+  {
+    "title": "Computer Case & Cooling",
+    "content": "<p>The computer case houses and protects all the internal components.  Cooling solutions are essential to prevent components from overheating.</p>\n<p><strong>Case:</strong></p>\n<ul>\n<li>Provides physical protection.</li>\n<li>Helps with airflow.</li>\n<li>Available in various sizes and styles.</li>\n</ul>\n<p><strong>Cooling:</strong></p>\n<ul>\n<li><strong>Fans:</strong>  Circulate air to dissipate heat.</li>\n<li><strong>Heatsinks:</strong>  Attached to components to draw heat away.</li>\n<li><strong>Liquid Cooling:</strong>  Uses liquid to transfer heat away from components more efficiently.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Troubleshooting: No Power",
+    "content": "<p>If your computer won&#39;t turn on, start with these basic checks:</p>\n<ul>\n<li><strong>Check the Power Cord:</strong> Make sure it&#39;s securely plugged into the wall and the PSU.</li>\n<li><strong>Check the Power Switch:</strong> Ensure the power switch on the back of the PSU is turned on.</li>\n<li><strong>Test the Outlet:</strong> Plug another device into the outlet to make sure it&#39;s working.</li>\n<li><strong>Internal Connections:</strong> If you are comfortable, check the power connections inside the PC.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Troubleshooting: No Display",
+    "content": "<p>If your computer turns on but there&#39;s no display, try these:</p>\n<ul>\n<li><strong>Check the Monitor Cable:</strong> Ensure it&#39;s securely connected to both the monitor and the computer (graphics card or motherboard).</li>\n<li><strong>Try a Different Cable:</strong> A faulty cable can cause display issues.</li>\n<li><strong>Test the Monitor:</strong> Ensure the monitor is powered on and set to the correct input.</li>\n<li><strong>Reseat the Graphics Card:</strong> Carefully remove and reinsert the graphics card (if you have one).</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Troubleshooting: Slow Performance",
+    "content": "<p>If your computer is running slowly:</p>\n<ul>\n<li><strong>Close Unnecessary Programs:</strong> Free up RAM and CPU resources.</li>\n<li><strong>Run a Virus Scan:</strong> Malware can significantly slow down a computer.</li>\n<li><strong>Defragment Your Hard Drive (HDD Only):</strong> This can improve performance by organizing files.</li>\n<li><strong>Check for Driver Updates:</strong> Outdated drivers can cause performance issues.</li>\n<li><strong>Consider upgrading RAM or switching to SSD</strong> This can have a HUGE impact on performance!</li>\n</ul>\n"
+  },
+  {
+    "title": "Hardware Upgrades: RAM",
+    "content": "<p>Upgrading your RAM is often the easiest and most effective way to improve performance, especially if you frequently run multiple programs simultaneously.</p>\n<p><strong>Things to Consider:</strong></p>\n<ul>\n<li><strong>Motherboard Compatibility:</strong> Check what type of RAM your motherboard supports (DDR4, DDR5, etc.) and the maximum amount of RAM it can handle.</li>\n<li><strong>Speed (MHz):</strong> Faster RAM can improve performance, but make sure your motherboard supports the speed.</li>\n<li><strong>Capacity (GB):</strong> Determine how much RAM you need based on your usage.</li>\n</ul>\n"
+  },
+  {
+    "title": "Hardware Upgrades: Storage (SSD)",
+    "content": "<p>Switching from a traditional HDD to an SSD is one of the most noticeable upgrades you can make. It will drastically improve boot times, application loading speeds, and overall system responsiveness.</p>\n<p><strong>Things to Consider:</strong></p>\n<ul>\n<li><strong>Interface:</strong> SATA SSDs are compatible with most motherboards. NVMe SSDs (M.2) offer even faster performance but require a compatible M.2 slot.</li>\n<li><strong>Capacity (GB/TB):</strong> Choose a capacity that meets your storage needs.</li>\n<li><strong>Budget:</strong> SSDs are generally more expensive than HDDs per gigabyte.</li>\n</ul>\n"
+  },
+  {
+    "title": "Hardware Upgrades: Graphics Card (GPU)",
+    "content": "<p>Upgrading your graphics card is essential for improving performance in gaming, video editing, and other graphics-intensive applications.</p>\n<p><strong>Things to Consider:</strong></p>\n<ul>\n<li><strong>Budget:</strong> Graphics cards can range in price from a few hundred dollars to over a thousand.</li>\n<li><strong>Power Supply:</strong> Make sure your power supply has sufficient wattage to support the new graphics card.</li>\n<li><strong>Motherboard Compatibility:</strong> Ensure your motherboard has a compatible PCIe slot.</li>\n<li><strong>Monitor Resolution &amp; Refresh Rate:</strong> Choose a graphics card that can handle your monitor&#39;s resolution and refresh rate.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cleaning Your Hardware",
+    "content": "<p>Dust buildup can cause overheating and reduce the lifespan of your components. Regular cleaning is essential.</p>\n<p><strong>Tips:</strong></p>\n<ul>\n<li><strong>Use Compressed Air:</strong> To remove dust from fans, heatsinks, and other hard-to-reach areas.</li>\n<li><strong>Vacuum Cleaner (with brush attachment):</strong> Be careful not to touch components directly.</li>\n<li><strong>Anti-Static Wrist Strap:</strong> To prevent electrostatic discharge (ESD).</li>\n<li><strong>Clean Regularly:</strong> Every 3-6 months, depending on your environment.</li>\n</ul>\n"
+  },
+  {
+    "title": "Static Electricity (ESD) Precautions",
+    "content": "<p>Static electricity can damage sensitive electronic components. Always take precautions to prevent ESD when working with hardware.</p>\n<p><strong>Key Precautions:</strong></p>\n<ul>\n<li><strong>Anti-Static Wrist Strap:</strong> Connect it to a grounded metal object.</li>\n<li><strong>Anti-Static Mat:</strong> Work on an anti-static mat.</li>\n<li><strong>Handle Components by the Edges:</strong> Avoid touching the pins or contacts.</li>\n<li><strong>Discharge Yourself:</strong> Touch a grounded metal object before touching any components.</li>\n</ul>\n"
+  },
+  {
+    "title": "Important Tools for Hardware Work",
+    "content": "<p>Having the right tools makes hardware work much easier and safer.</p>\n<p><strong>Essential Tools:</strong></p>\n<ul>\n<li><strong>Screwdrivers:</strong> Phillips head and flathead screwdrivers in various sizes.</li>\n<li><strong>Anti-Static Wrist Strap:</strong> Protects components from ESD.</li>\n<li><strong>Needle-Nose Pliers:</strong> For reaching tight spaces and manipulating small parts.</li>\n<li><strong>Zip Ties or Velcro Straps:</strong> For cable management.</li>\n<li><strong>Compressed Air:</strong> For cleaning dust.</li>\n</ul>\n"
+  },
+  {
+    "title": "BIOS/UEFI: Your Computer's Startup Settings",
+    "content": "<p>The BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) is a firmware that runs when you first turn on your computer. It initializes the hardware and loads the operating system.</p>\n<p><strong>Key Functions:</strong></p>\n<ul>\n<li><strong>Hardware Initialization:</strong> Tests and initializes the hardware components.</li>\n<li><strong>Boot Order:</strong> Determines the order in which the computer tries to boot from different storage devices.</li>\n<li><strong>System Settings:</strong> Allows you to configure various system settings, such as CPU clock speed, memory timings, and fan speeds.</li>\n</ul>\n<p><strong>Accessing BIOS/UEFI:</strong></p>\n<ul>\n<li>Press a specific key during startup (usually Del, F2, F12, or Esc). The key varies depending on the motherboard manufacturer.</li>\n</ul>\n"
+  },
+  {
+    "title": "Form Factors: ATX, Micro-ATX, Mini-ITX",
+    "content": "<p>Form factor refers to the size and shape of a motherboard. The most common form factors are ATX, Micro-ATX, and Mini-ITX.</p>\n<p><strong>ATX:</strong></p>\n<ul>\n<li>Standard size, offers the most expansion slots and features.</li>\n</ul>\n<p><strong>Micro-ATX:</strong></p>\n<ul>\n<li>Smaller than ATX, with fewer expansion slots.</li>\n</ul>\n<p><strong>Mini-ITX:</strong></p>\n<ul>\n<li>Smallest form factor, ideal for compact PCs.</li>\n</ul>\n<p><strong>Consider the case size and the number of expansion slots needed when choosing a motherboard form factor.</strong></p>\n"
+  },
+  {
+    "title": "Pin Connectors: Front Panel, USB, Audio",
+    "content": "<p>Connecting the front panel connectors (power button, reset button, LED indicators), USB ports, and audio jacks to the motherboard can be tricky. Refer to your motherboard manual for the correct pinout diagrams.</p>\n<p><strong>Key Connectors:</strong></p>\n<ul>\n<li><strong>Front Panel Connector:</strong> Connects the power button, reset button, and LED indicators.</li>\n<li><strong>USB Connectors:</strong> Connects the front panel USB ports.</li>\n<li><strong>Audio Connectors:</strong> Connects the front panel audio jacks.</li>\n</ul>\n<p><strong>Always double-check the pinout diagram before connecting anything to avoid damaging the motherboard.</strong></p>\n"
+  },
+  {
+    "title": "Cable Management: Keeping Things Tidy",
+    "content": "<p>Good cable management improves airflow, makes it easier to work inside the case, and enhances the overall appearance of your PC.</p>\n<p><strong>Tips:</strong></p>\n<ul>\n<li><strong>Route Cables Behind the Motherboard Tray:</strong> Utilize the space behind the motherboard tray to hide cables.</li>\n<li><strong>Use Zip Ties or Velcro Straps:</strong> To bundle and secure cables.</li>\n<li><strong>Hide Excess Cable Length:</strong> Tuck away any excess cable length to keep things neat.</li>\n<li><strong>Plan Your Cable Routing:</strong> Before connecting everything, plan out how you&#39;re going to route the cables.</li>\n</ul>\n"
+  },
+  {
+    "title": "Identifying Hardware: Device Manager (Windows)",
+    "content": "<p>The Device Manager in Windows allows you to view all the hardware components installed in your computer and check their status.</p>\n<p><strong>How to Access Device Manager:</strong></p>\n<ul>\n<li>Right-click on the Start button and select &quot;Device Manager.&quot;</li>\n</ul>\n<p><strong>Key Uses:</strong></p>\n<ul>\n<li><strong>Identify Unknown Devices:</strong> If a device is not recognized, it will be listed as an &quot;Unknown Device&quot; with a yellow exclamation mark.</li>\n<li><strong>Update Drivers:</strong> You can update drivers for specific devices through Device Manager.</li>\n<li><strong>Troubleshoot Hardware Issues:</strong> Device Manager can help you identify and troubleshoot hardware-related problems.</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You! & Further Learning",
+    "content": "<p>Thank you for attending this presentation on Hardware Basics! We hope this has provided you with a solid foundation for understanding computer hardware.</p>\n<p><strong>Further Learning Resources:</strong></p>\n<ul>\n<li>Online Tutorials (YouTube, websites like How-To Geek)</li>\n<li>Computer Hardware Books</li>\n<li>Online Forums and Communities (Reddit, etc.)</li>\n<li>Experiment! Build or upgrade your own computer to gain hands-on experience.</li>\n</ul>\n"
+  }
+]

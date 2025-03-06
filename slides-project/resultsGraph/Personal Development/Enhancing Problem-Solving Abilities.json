@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Brainstorming Session",
+      "caption": "Start with a captivating question: 'Stuck on a problem? Don't worry, we all are sometimes!'\nBriefly explain: 'Problem-solving is a skill, and like any skill, it can be improved.'\nIntroduce the first tip: 'First, define the problem clearly. What exactly are you trying to solve?'\nMove to the second tip: 'Next, gather information. Research, analyze, and understand all aspects.'\nThird tip: 'Brainstorm solutions. Don't judge, just generate ideas!'\nFourth Tip: 'Evaluate your options and pick the best solution.\nTest your solution. If it doesn't work, don't give up!\nRepeat: 'Remember, problem-solving is a journey. Keep practicing, and you'll get better!'\nEnd with encouragement: 'So, embrace challenges and unlock your problem-solving potential!'",
+      "prompt": "A diverse group of people collaborating around a table, enthusiastically brainstorming ideas. Sticky notes, diagrams, and laptops are scattered around. Bright and energetic lighting."
+    },
+    {
+      "title": "The Power of Perspective",
+      "caption": "Open with: 'Imagine looking at the same puzzle from different angles…'\nState the core idea: 'That's the power of perspective in problem-solving.'\nExplain the benefit: 'Seeing a problem from different viewpoints unlocks hidden solutions.'\nProvide an example: 'Try stepping into someone else's shoes to understand their perspective.'\nDescribe the process: 'Ask yourself, 'How would someone else approach this?' '\nReinforce the idea: 'Changing your perspective can lead to unexpected breakthroughs.'\nAdd a challenge: 'Challenge your assumptions and biases. Are you seeing the whole picture?'\nConclude with: 'So, broaden your perspective and watch your problem-solving skills soar!'",
+      "prompt": "A person looking at a complex maze from above. A second perspective shows the maze simplified and with a clear path highlighted. A third perspective shows a person lost within the maze at ground level. The light source is coming from above, highlighting the clear path."
+    },
+    {
+      "title": "Breaking Down Problems",
+      "caption": "Start with the problem:'Overwhelmed by a large problem?'\nIntroduce: 'The secret is to break it down into smaller, manageable steps.'\nExplain: 'Deconstructing a complex problem makes it less daunting and easier to tackle.'\nDemonstrate the technique: 'Identify the individual components of the problem.'\nProvide a strategy: 'Then, address each component one at a time.'\nAdd a result:'It will make you feel more organized!'\nEmphasize: 'Each step will bring you closer to the final solution.'\nFinish with: 'So, break it down, step by step, and conquer any problem!'",
+      "prompt": "A large, monolithic rock being carefully chipped away into smaller, more manageable stones. The smaller stones are arranged in a clear pathway leading towards a goal flag in the distance."
+    },
+    {
+      "title": "The Importance of Asking 'Why?'",
+      "caption": "Begin with: 'The question 'why' is a powerful tool.'\nExplain: 'It helps you uncover the root cause of a problem.'\nIllustrate: 'Don't just treat the symptoms, dig deeper!'\nProvide an example: 'Ask 'why' five times to get to the core issue.'\nDemonstrate the process: 'Each 'why' peels back another layer of complexity.'\nHighlight: 'A single issue can result in a complex challenge!'\nEmphasize: 'It will help to remove the actual reason for the problem.'\nConclude: 'So, ask 'why' relentlessly and solve problems at their source!'",
+      "prompt": "A person digging down into the earth with a shovel, passing through layers of soil and rock to reveal a hidden root system at the bottom. A speech bubble above the person's head contains a question mark and the word 'Why?'."
+    },
+    {
+      "title": "Learn from Mistakes",
+      "caption": "Lead with: 'Mistakes are inevitable but they can be lessons.'\nExplain the value: 'Every failure is an opportunity to learn and grow.'\nIllustrate: 'Analyze what went wrong and why.'\nProvide a process: 'Identify the areas where you can improve.\nEmphasize that Mistakes will help you think out of the box!'\nEncourage: 'Don't be afraid to make mistakes; embrace them.'\nOffer a perspective: 'Mistakes can offer growth and knowledge.'\nConclude with: 'So, learn from your mistakes and turn setbacks into stepping stones!'",
+      "prompt": "A path with a few obstacles on it, but each obstacle is labeled with a lesson learned, leading to a person standing on a hill at the top smiling"
+    },
+    {
+      "title": "Seek Collaboration",
+      "caption": "Open with: 'Two heads are better than one.'\nExplain: 'Collaboration is a great weapon.'\nIllustrate: 'It brings diverse perspectives and skills to the table.'\nSuggest: 'So, embrace the power of teamwork.'\nAdd value: 'Share your ideas and listen to others.'\nReinforce: 'Brainstorm solutions together.'\nConclude: 'Working can open new ways for you to solve complex problems'",
+      "prompt": "A group of diverse individuals working on a large puzzle together, each contributing pieces to complete the image. The image on the puzzle is of a blooming flower, representing growth and solutions."
+    },
+    {
+      "title": "Use Visualization",
+      "caption": "Start with: 'Visualize the solution!'\nExplain: 'It helps you better understand the problem.'\nIllustrate: 'Picture the desired outcome in your mind.'\nSuggest: 'Create diagrams, flowcharts, or mind maps.'\nAdd value: 'You should try to imagine the complete system in your mind.'\nReinforce: 'Visualization aids you in planning all the possible outcome of the problem.'\nConclude: 'Try to visualize the whole system, it will improve your skills.'",
+      "prompt": "A person sitting cross-legged, meditating. Above their head is a transparent bubble containing complex diagrams, flowcharts, and mind maps, visualizing different problem-solving scenarios."
+    },
+    {
+      "title": "Stay Curious",
+      "caption": "Open with: 'Stay curious about everything!'\nExplain: 'Curiosity fuels your desire to learn and explore new ideas.'\nIllustrate: 'Ask questions, challenge assumptions, and seek new insights.'\nSuggest: 'Read books, attend workshops, and engage in discussions.'\nAdd value: 'The wider your knowledge base, the more effectively you can solve problems.'\nReinforce: 'Curiosity is not bad.'\nConclude: 'The curiosity will guide you through your journey.'",
+      "prompt": "A person with a curious expression looking up at a night sky filled with stars, planets, and constellations. Their mind is filled with question marks and thought bubbles representing different areas of knowledge."
+    },
+    {
+      "title": "Practice Regularly",
+      "caption": "Begin with: 'Practice makes perfect.'\nExplain: 'Problem-solving is a skill that requires continuous practice.'\nIllustrate: 'Solve puzzles, play strategy games, and tackle real-world challenges.'\nSuggest: 'The more you practice, the better you become.'\nAdd value: 'You will gain new knowledge every time you practice.'\nReinforce: 'Make it a habit to engage in problem-solving activities.'\nConclude: 'So, practice regularly and sharpen your problem-solving skills!'",
+      "prompt": "A person diligently working on a complex jigsaw puzzle. The puzzle is nearly complete, with only a few pieces remaining. Tools like magnifying glasses and solution guides are scattered around, indicating a dedicated approach to problem-solving."
+    }
+  ]
+]

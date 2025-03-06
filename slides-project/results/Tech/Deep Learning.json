@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Deep Learning: A Gentle Introduction",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is Deep Learning?</strong> The basics explained.</li>\n<li><strong>Key Concepts:</strong> Neural Networks, Activation Functions, Loss Functions.</li>\n<li><strong>Popular Architectures:</strong> CNNs, RNNs, Transformers.</li>\n<li><strong>Applications:</strong> Image Recognition, Natural Language Processing, and more.</li>\n<li><strong>Tools &amp; Frameworks:</strong> TensorFlow, PyTorch.</li>\n<li><strong>Getting Started:</strong> Resources for further learning.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Deep Learning?",
+    "content": "<p>Deep Learning is a subfield of Machine Learning that uses <strong>Artificial Neural Networks</strong> with many layers (hence, &#39;deep&#39;) to learn complex patterns from data.</p>\n<p>Think of it like this:</p>\n<ul>\n<li><strong>Traditional Machine Learning:</strong> Feature engineering is often required.</li>\n<li><strong>Deep Learning:</strong> Learns features automatically from raw data.</li>\n</ul>\n<p>This allows it to handle more complex problems.</p>\n"
+  },
+  {
+    "title": "Neural Networks: The Building Blocks",
+    "content": "<p>A Neural Network is inspired by the structure of the human brain. It consists of:</p>\n<ul>\n<li><strong>Neurons (Nodes):</strong> Basic processing units.</li>\n<li><strong>Connections (Edges):</strong> Connect neurons and transmit signals.</li>\n<li><strong>Layers:</strong> Organise neurons into input, hidden, and output layers.</li>\n</ul>\n<p><strong>Input Layer:</strong> Receives the data.\n<strong>Hidden Layers:</strong> Perform complex calculations.\n<strong>Output Layer:</strong> Produces the final prediction.</p>\n"
+  },
+  {
+    "title": "Activation Functions: Adding Non-Linearity",
+    "content": "<p>Activation functions introduce non-linearity to the network. This is crucial because:</p>\n<ul>\n<li>Without them, a neural network would just be a linear regression model.</li>\n<li>Non-linearity allows the network to learn complex relationships.</li>\n</ul>\n<p>Examples:</p>\n<ul>\n<li><strong>ReLU (Rectified Linear Unit):</strong> Simple and commonly used. <code>f(x) = max(0, x)</code></li>\n<li><strong>Sigmoid:</strong> Outputs values between 0 and 1 (useful for probabilities). <code>f(x) = 1 / (1 + e^-x)</code></li>\n<li><strong>Tanh (Hyperbolic Tangent):</strong> Outputs values between -1 and 1. <code>f(x) = (e^x - e^-x) / (e^x + e^-x)</code></li>\n</ul>\n"
+  },
+  {
+    "title": "Loss Functions: Measuring Performance",
+    "content": "<p>A loss function quantifies the difference between the predicted output and the actual output.</p>\n<p>The goal of training is to minimize this loss.</p>\n<p>Examples:</p>\n<ul>\n<li><strong>Mean Squared Error (MSE):</strong> For regression problems.</li>\n<li><strong>Cross-Entropy Loss:</strong> For classification problems.</li>\n</ul>\n<p>Optimization algorithms (e.g., Gradient Descent) are used to adjust the network&#39;s parameters to reduce the loss.</p>\n"
+  },
+  {
+    "title": "Convolutional Neural Networks (CNNs)",
+    "content": "<p>CNNs are particularly effective for image and video processing.</p>\n<p>Key features:</p>\n<ul>\n<li><strong>Convolutional Layers:</strong> Use filters to detect features (edges, shapes, textures).</li>\n<li><strong>Pooling Layers:</strong> Reduce the spatial dimensions of the feature maps.</li>\n<li><strong>Fully Connected Layers:</strong> Combine the learned features for classification.</li>\n</ul>\n<p>Commonly used for image recognition, object detection, and image segmentation.</p>\n"
+  },
+  {
+    "title": "Recurrent Neural Networks (RNNs)",
+    "content": "<p>RNNs are designed for processing sequential data (e.g., text, time series).</p>\n<p>Key feature:</p>\n<ul>\n<li><strong>Recurrent Connections:</strong> Allow the network to maintain a &#39;memory&#39; of previous inputs.</li>\n</ul>\n<p>Variants:</p>\n<ul>\n<li><strong>Long Short-Term Memory (LSTM):</strong> Addresses the vanishing gradient problem in RNNs.</li>\n<li><strong>Gated Recurrent Unit (GRU):</strong> A simpler alternative to LSTM.</li>\n</ul>\n<p>Commonly used for natural language processing (NLP), speech recognition, and machine translation.</p>\n"
+  },
+  {
+    "title": "Transformers: Attention is All You Need",
+    "content": "<p>Transformers are a revolutionary architecture that has achieved state-of-the-art results in NLP and other domains.</p>\n<p>Key features:</p>\n<ul>\n<li><strong>Attention Mechanism:</strong> Allows the network to focus on the most relevant parts of the input sequence.</li>\n<li><strong>Parallel Processing:</strong> Unlike RNNs, transformers can process the entire input sequence in parallel.</li>\n</ul>\n<p>Widely used in machine translation, text summarization, and question answering.</p>\n"
+  },
+  {
+    "title": "Deep Learning Applications: Image Recognition",
+    "content": "<p>Deep Learning powers many image recognition tasks, including:</p>\n<ul>\n<li><strong>Image Classification:</strong> Identifying the object in an image (e.g., cat vs. dog).</li>\n<li><strong>Object Detection:</strong> Locating and identifying multiple objects in an image.</li>\n<li><strong>Image Segmentation:</strong> Dividing an image into regions corresponding to different objects or parts of objects.</li>\n</ul>\n<p>Examples: Self-driving cars, medical imaging, security systems.</p>\n"
+  },
+  {
+    "title": "Deep Learning Applications: Natural Language Processing",
+    "content": "<p>Deep Learning has transformed NLP, enabling breakthroughs in:</p>\n<ul>\n<li><strong>Machine Translation:</strong> Translating text from one language to another.</li>\n<li><strong>Text Summarization:</strong> Generating concise summaries of long documents.</li>\n<li><strong>Sentiment Analysis:</strong> Determining the emotional tone of a piece of text.</li>\n<li><strong>Chatbots:</strong> Creating conversational AI agents.</li>\n</ul>\n<p>Examples: Google Translate, virtual assistants (Siri, Alexa).</p>\n"
+  },
+  {
+    "title": "Deep Learning Applications: Other Areas",
+    "content": "<p>Beyond image and text, Deep Learning is being applied in:</p>\n<ul>\n<li><strong>Finance:</strong> Fraud detection, algorithmic trading.</li>\n<li><strong>Healthcare:</strong> Drug discovery, disease diagnosis.</li>\n<li><strong>Robotics:</strong> Autonomous navigation, object manipulation.</li>\n<li><strong>Gaming:</strong> Creating realistic and intelligent game AI.</li>\n</ul>\n"
+  },
+  {
+    "title": "Tools & Frameworks: TensorFlow",
+    "content": "<p>TensorFlow is an open-source Deep Learning framework developed by Google.</p>\n<p>Key features:</p>\n<ul>\n<li><strong>Computational Graph:</strong> Represents the neural network as a graph of operations.</li>\n<li><strong>Automatic Differentiation:</strong> Simplifies the calculation of gradients.</li>\n<li><strong>Support for CPUs, GPUs, and TPUs:</strong> Allows for scalable training.</li>\n</ul>\n<p>Widely used in research and industry.</p>\n"
+  },
+  {
+    "title": "Tools & Frameworks: PyTorch",
+    "content": "<p>PyTorch is another popular open-source Deep Learning framework, known for its flexibility and ease of use.</p>\n<p>Key features:</p>\n<ul>\n<li><strong>Dynamic Computational Graph:</strong> Allows for more flexible model design.</li>\n<li><strong>Pythonic Interface:</strong> Easy to learn for Python developers.</li>\n<li><strong>Strong Community Support:</strong> Large and active community.</li>\n</ul>\n<p>Favored by researchers and academics.</p>\n"
+  },
+  {
+    "title": "Tools & Frameworks: Keras",
+    "content": "<p>Keras is a high-level API for building and training neural networks.</p>\n<p>Key features:</p>\n<ul>\n<li><strong>User-Friendly:</strong> Simplifies the process of building complex models.</li>\n<li><strong>Modular:</strong> Allows for easy customization and experimentation.</li>\n<li><strong>Integration with TensorFlow and other backends:</strong> Provides flexibility in choosing the underlying framework.</li>\n</ul>\n<p>Often used for rapid prototyping and experimentation.</p>\n"
+  },
+  {
+    "title": "Getting Started: Learning Resources",
+    "content": "<p>Ready to dive deeper?</p>\n<ul>\n<li><strong>Online Courses:</strong> Coursera, edX, Udacity, fast.ai.</li>\n<li><strong>Books:</strong> Deep Learning (Goodfellow et al.), Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow (Géron).</li>\n<li><strong>Tutorials:</strong> TensorFlow tutorials, PyTorch tutorials, Keras documentation.</li>\n<li><strong>Research Papers:</strong> ArXiv, NeurIPS, ICML.</li>\n</ul>\n"
+  },
+  {
+    "title": "Getting Started: Building Your First Model",
+    "content": "<p>Start with simple projects like:</p>\n<ul>\n<li><strong>Image Classification:</strong> Classify images from the MNIST dataset (digits) or CIFAR-10 dataset (objects).</li>\n<li><strong>Text Classification:</strong> Classify movie reviews as positive or negative.</li>\n<li><strong>Regression:</strong> Predict house prices based on features like size and location.</li>\n</ul>\n<p>Focus on understanding the basic concepts and gradually increase the complexity of your projects.</p>\n"
+  },
+  {
+    "title": "Key Takeaways",
+    "content": "<ul>\n<li>Deep Learning uses artificial neural networks with multiple layers to extract complex patterns from data.</li>\n<li>Activation functions are required to introduce non-linearity.\n*CNNs are ideal for image processing, RNNs for sequential data, and Transformers for language tasks. </li>\n<li>TensorFlow and Pytorch are common Frameworks</li>\n</ul>\n"
+  },
+  {
+    "title": "Tips and Tricks",
+    "content": "<ul>\n<li><strong>Data Preprocessing:</strong> Clean and prepare your data before training.</li>\n<li><strong>Hyperparameter Tuning:</strong> Experiment with different learning rates, batch sizes, and network architectures.</li>\n<li><strong>Regularization:</strong> Prevent overfitting using techniques like dropout and weight decay.</li>\n<li><strong>Monitoring:</strong> Track the performance of your model during training and validation.</li>\n<li><strong>Visualization:</strong> Use visualizations to understand the behaviour of your network.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Future of Deep Learning",
+    "content": "<p>Deep Learning is a rapidly evolving field with exciting future directions:</p>\n<ul>\n<li><strong>Explainable AI (XAI):</strong> Making Deep Learning models more transparent and interpretable.</li>\n<li><strong>Self-Supervised Learning:</strong> Training models on unlabeled data.</li>\n<li><strong>Federated Learning:</strong> Training models on decentralized data while preserving privacy.</li>\n<li><strong>Quantum Machine Learning:</strong> Using quantum computers to accelerate Deep Learning.</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You! Q&A",
+    "content": "<p>Thank you for your time! Any questions?</p>\n"
+  }
+]

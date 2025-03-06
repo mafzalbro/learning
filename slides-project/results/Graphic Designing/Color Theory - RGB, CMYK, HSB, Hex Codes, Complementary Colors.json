@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Color Theory: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>RGB:</strong> Red, Green, Blue - Colors for screens.</li>\n<li><strong>CMYK:</strong> Cyan, Magenta, Yellow, Key (Black) - Colors for printing.</li>\n<li><strong>HSB:</strong> Hue, Saturation, Brightness - A more intuitive color model.</li>\n<li><strong>Hex Codes:</strong> A shorthand for RGB colors.</li>\n<li><strong>Complementary Colors:</strong> Finding colors that look good together.</li>\n</ul>\n<p>Let&#39;s dive in!</p>\n"
+  },
+  {
+    "title": "RGB: Red, Green, Blue",
+    "content": "<ul>\n<li><strong>What it is:</strong> RGB is an additive color model used for displaying images on screens (monitors, phones, TVs).</li>\n<li><strong>How it works:</strong> Colors are created by mixing different amounts of red, green, and blue light.</li>\n<li><strong>Values:</strong> Each color (Red, Green, Blue) has a value from 0 to 255.</li>\n<li><strong>Examples:</strong><ul>\n<li>(255, 0, 0) = Red</li>\n<li>(0, 255, 0) = Green</li>\n<li>(0, 0, 255) = Blue</li>\n<li>(255, 255, 255) = White</li>\n<li>(0, 0, 0) = Black</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "CMYK: Cyan, Magenta, Yellow, Key (Black)",
+    "content": "<ul>\n<li><strong>What it is:</strong> CMYK is a subtractive color model used for printing.</li>\n<li><strong>How it works:</strong> Colors are created by subtracting amounts of cyan, magenta, yellow, and black ink from white paper.</li>\n<li><strong>Values:</strong> Each color (Cyan, Magenta, Yellow, Black) has a value from 0% to 100%.</li>\n<li><strong>Examples:</strong><ul>\n<li>(100, 0, 0, 0) = Cyan</li>\n<li>(0, 100, 0, 0) = Magenta</li>\n<li>(0, 0, 100, 0) = Yellow</li>\n<li>(0, 0, 0, 100) = Black</li>\n<li>(0, 0, 0, 0) = White (Paper color)</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "RGB vs. CMYK: Key Differences",
+    "content": "<ul>\n<li><strong>RGB:</strong> Used for screens (digital displays).</li>\n<li><strong>CMYK:</strong> Used for printing.</li>\n<li><strong>RGB:</strong> Additive (starts with black, adds light).</li>\n<li><strong>CMYK:</strong> Subtractive (starts with white, subtracts ink).</li>\n<li><strong>Color Conversion:</strong> Converting between RGB and CMYK can sometimes result in slight color variations.</li>\n</ul>\n"
+  },
+  {
+    "title": "HSB (HSV): Hue, Saturation, Brightness (Value)",
+    "content": "<ul>\n<li><strong>What it is:</strong> HSB is a color model that&#39;s more intuitive for humans.</li>\n<li><strong>Hue:</strong> The color type (red, green, blue, yellow, etc.). Measured in degrees (0-360).</li>\n<li><strong>Saturation:</strong> The intensity or purity of the color.  0% is gray, 100% is fully saturated.</li>\n<li><strong>Brightness (Value):</strong>  How light or dark the color is. 0% is black, 100% is the full color.</li>\n<li><strong>Why it&#39;s useful:</strong> Easier to pick colors based on how you perceive them.</li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding HSB Values",
+    "content": "<ul>\n<li><strong>Hue (0-360):</strong> Think of it as a color wheel.<ul>\n<li>0°: Red</li>\n<li>120°: Green</li>\n<li>240°: Blue</li>\n</ul>\n</li>\n<li><strong>Saturation (0-100%):</strong><ul>\n<li>0%: Grayscale (no color)</li>\n<li>100%: Pure color</li>\n</ul>\n</li>\n<li><strong>Brightness (0-100%):</strong><ul>\n<li>0%: Black</li>\n<li>100%: Full color</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Hex Codes: A Shorthand for RGB",
+    "content": "<ul>\n<li><strong>What it is:</strong> A hexadecimal representation of RGB colors.</li>\n<li><strong>Format:</strong>  <code>#RRGGBB</code> (e.g., <code>#FF0000</code> for red).</li>\n<li><strong>Values:</strong> RR (Red), GG (Green), and BB (Blue) are two-digit hexadecimal numbers (00 to FF).</li>\n<li><strong>Hexadecimal:</strong> A number system based on 16 (0-9, A-F).</li>\n<li><strong>Example:</strong><ul>\n<li><code>#FF0000</code> = Red (R=255, G=0, B=0)</li>\n<li><code>#00FF00</code> = Green (R=0, G=255, B=0)</li>\n<li><code>#0000FF</code> = Blue (R=0, G=0, B=255)</li>\n<li><code>#FFFFFF</code> = White</li>\n<li><code>#000000</code> = Black</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Hex Code Examples",
+    "content": "<ul>\n<li><code>#C0C0C0</code>: Silver</li>\n<li><code>#808080</code>: Gray</li>\n<li><code>#FFA500</code>: Orange</li>\n<li><code>#800080</code>: Purple</li>\n<li><code>#4682B4</code>: Steel Blue</li>\n</ul>\n<p>Many online tools can convert between RGB and Hex codes.</p>\n"
+  },
+  {
+    "title": "Complementary Colors",
+    "content": "<ul>\n<li><strong>What they are:</strong> Colors that are opposite each other on the color wheel.</li>\n<li><strong>Why they work:</strong>  They create a strong contrast and visual interest.</li>\n<li><strong>Examples:</strong><ul>\n<li>Red and Green</li>\n<li>Blue and Orange</li>\n<li>Yellow and Purple</li>\n</ul>\n</li>\n<li><strong>Using them effectively:</strong>  Often best used with one color as the dominant color and the complementary color as an accent.</li>\n</ul>\n"
+  },
+  {
+    "title": "Finding Complementary Colors",
+    "content": "<ul>\n<li><strong>Color Wheel:</strong> The easiest way to find complementary colors is to use a color wheel.</li>\n<li><strong>Online Tools:</strong> Many online color palette generators will automatically show you the complementary color.</li>\n<li><strong>Experiment:</strong>  Don&#39;t be afraid to try different shades and tints of complementary colors to find the perfect combination.</li>\n</ul>\n"
+  },
+  {
+    "title": "Using Complementary Colors in Design",
+    "content": "<ul>\n<li><strong>Websites:</strong> Use a primary color for your website&#39;s background and a complementary color for buttons or calls to action.</li>\n<li><strong>Logos:</strong> A bold combination of complementary colors can make your logo stand out.</li>\n<li><strong>Art:</strong>  Artists often use complementary colors to create vibrant and dynamic paintings.</li>\n<li><strong>Photography:</strong>  Look for scenes where complementary colors naturally occur to create visually appealing photos.</li>\n</ul>\n"
+  },
+  {
+    "title": "Triadic Colors",
+    "content": "<ul>\n<li><strong>What they are:</strong> Three colors that are equally spaced on the color wheel.</li>\n<li><strong>How they work:</strong> Create a balanced and harmonious color scheme.</li>\n<li><strong>Examples:</strong> Red, Yellow, and Blue; Green, Orange, and Violet.</li>\n</ul>\n"
+  },
+  {
+    "title": "Analogous Colors",
+    "content": "<ul>\n<li><strong>What they are:</strong> Colors that are next to each other on the color wheel.</li>\n<li><strong>How they work:</strong> Create a harmonious and calming color scheme.</li>\n<li><strong>Examples:</strong> Blue, Blue-Green, and Green; Red, Red-Orange, and Orange.</li>\n</ul>\n"
+  },
+  {
+    "title": "Monochromatic Colors",
+    "content": "<ul>\n<li><strong>What they are:</strong> Different shades and tints of a single color.</li>\n<li><strong>How they work:</strong> Create a simple and elegant color scheme.</li>\n<li><strong>Examples:</strong> Light Blue, Blue, and Dark Blue.</li>\n</ul>\n"
+  },
+  {
+    "title": "Color Accessibility",
+    "content": "<ul>\n<li><strong>Contrast:</strong> Ensure sufficient contrast between text and background colors, especially for users with visual impairments.</li>\n<li><strong>Colorblindness:</strong> Be mindful of how colorblind users perceive colors. Avoid relying solely on color to convey important information.</li>\n<li><strong>Tools:</strong> Use color contrast checkers and simulators to assess accessibility.</li>\n</ul>\n"
+  },
+  {
+    "title": "Color Psychology",
+    "content": "<ul>\n<li><strong>Red:</strong> Excitement, energy, passion.</li>\n<li><strong>Blue:</strong> Calmness, trust, stability.</li>\n<li><strong>Yellow:</strong> Happiness, optimism, creativity.</li>\n<li><strong>Green:</strong> Nature, growth, harmony.</li>\n<li><strong>Purple:</strong> Royalty, luxury, mystery.</li>\n</ul>\n"
+  },
+  {
+    "title": "Tools for Color Selection",
+    "content": "<ul>\n<li><strong>Adobe Color:</strong> A web-based tool for creating and exploring color palettes.</li>\n<li><strong>Coolors:</strong> A super fast color scheme generator.</li>\n<li><strong>Paletton:</strong> Another color scheme designer with more options.</li>\n<li><strong>ColorZilla (Browser Extension):</strong> A browser extension for identifying colors on any webpage.</li>\n</ul>\n"
+  },
+  {
+    "title": "Common Mistakes to Avoid",
+    "content": "<ul>\n<li><strong>Overusing too many colors:</strong> Keep it simple; use a limited palette.</li>\n<li><strong>Ignoring contrast:</strong> Ensure sufficient contrast for readability.</li>\n<li><strong>Using colors without a purpose:</strong> Colors should enhance the message, not distract from it.</li>\n<li><strong>Not considering your audience:</strong> Choose colors that resonate with your target audience.</li>\n</ul>\n"
+  },
+  {
+    "title": "Experimenting with Color",
+    "content": "<ul>\n<li><strong>Practice:</strong> The best way to learn about color is to experiment.</li>\n<li><strong>Try different combinations:</strong> See what works and what doesn&#39;t.</li>\n<li><strong>Analyze existing designs:</strong> Pay attention to the color choices in websites, logos, and art that you admire.</li>\n<li><strong>Don&#39;t be afraid to break the rules:</strong> Color theory is a guideline, not a rigid set of rules.</li>\n</ul>\n"
+  },
+  {
+    "title": "Conclusion",
+    "content": "<p>Color is a powerful tool! Understanding the basics of RGB, CMYK, HSB, Hex codes, and color relationships will help you create more effective and visually appealing designs. Keep learning, keep experimenting, and have fun!</p>\n"
+  }
+]

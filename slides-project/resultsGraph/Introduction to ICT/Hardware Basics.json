@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Motherboard Overview",
+      "caption": "Welcome! Today, we're exploring computer hardware. Let's start with the motherboard. It's the backbone of your system. Everything connects here. Think of it as the city's main grid.",
+      "prompt": "A visually appealing motherboard with various components (CPU socket, RAM slots, PCI-e slots) clearly labeled with simple, clean icons.  The motherboard should be modern and well-lit, suggesting cleanliness and efficiency."
+    },
+    {
+      "title": "CPU: The Brains",
+      "caption": "Next up, the CPU, or Central Processing Unit. It's the brain of the computer. It executes instructions.  A faster CPU means quicker processing.",
+      "prompt": "A CPU chip, perhaps resting on a clean anti-static surface.  Highlight the gold contacts. The background should be slightly blurred to emphasize the CPU. Focus on the intricate detail and technological feel."
+    },
+    {
+      "title": "RAM: Short-Term Memory",
+      "caption": "Then we have RAM, or Random Access Memory.  It's the computer's short-term memory.  The more RAM, the more you can do simultaneously.  Like having more space on your desk to work.",
+      "prompt": "Several RAM sticks installed in a motherboard.  Use a perspective that shows the clips holding the RAM in place.  Subtle lighting to accentuate the metal contacts and labels."
+    },
+    {
+      "title": "Storage: Long-Term Memory",
+      "caption": "For long-term storage, we use hard drives or SSDs.  Hard drives are mechanical, slower but cheaper.  SSDs are faster and more durable, but pricier.  Think of them as libraries for all your files.",
+      "prompt": "A side-by-side comparison of a traditional hard drive and an SSD.  The hard drive should have its casing partially removed to show the platters. The SSD should show its internal chips. Clean and informative."
+    },
+    {
+      "title": "GPU: Graphics Power",
+      "caption": "The GPU, or Graphics Processing Unit, handles visuals.  It's essential for gaming and video editing.  A powerful GPU leads to smoother graphics.",
+      "prompt": "A high-end graphics card with visible cooling fans and heatsinks. Emphasize the complexity of the design. Add subtle lighting effects to highlight key features."
+    },
+    {
+      "title": "Power Supply: The Source",
+      "caption": "The power supply unit (PSU) provides power.  It converts AC power to DC power.  Choose a PSU with enough wattage for your system. It's the lifeblood.",
+      "prompt": "A modular power supply with cables plugged into it. Show the different types of connectors and the wattage label clearly. Focus on the robust and reliable nature of the PSU."
+    },
+    {
+      "title": "Cooling: Keeping it Chill",
+      "caption": "Cooling solutions prevent overheating.  CPU coolers and case fans are vital.  Overheating can damage components.  Keeping it cool keeps it efficient.",
+      "prompt": "A CPU cooler installed on a motherboard with RGB lighting. Show the fan blades and the heatsink in detail. The lighting should be subtle and not overpowering."
+    },
+    {
+      "title": "Input/Output Ports",
+      "caption": "Input/output (I/O) ports connect devices.  USB, HDMI, and Ethernet are common.  They allow communication with the outside world. They are your computer's senses.",
+      "prompt": "A close-up of the I/O panel on a motherboard. Show the various ports (USB, HDMI, Ethernet, audio jacks) clearly labeled with small icons."
+    },
+    {
+      "title": "Putting it Together",
+      "caption": "All these components work together.  They create a functional computer.  Understanding these basics is key.  Now you know your hardware!",
+      "prompt": "An assembled computer inside a clear case, showcasing all the components working together.  Use soft, ambient lighting to create a visually appealing and informative image. Show the general overview with good cable management."
+    }
+  ]
+]

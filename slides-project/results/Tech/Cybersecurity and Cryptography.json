@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Cybersecurity and Cryptography: A Beginner's Guide",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>What is Cybersecurity?</strong> Protecting data and systems.</li>\n<li><strong>Key Cybersecurity Threats:</strong> Understanding the dangers.</li>\n<li><strong>Basic Security Practices:</strong> Simple steps to stay safe.</li>\n<li><strong>What is Cryptography?</strong> The science of secret codes.</li>\n<li><strong>Encryption Basics:</strong> Securing information with algorithms.</li>\n<li><strong>Practical Applications:</strong> How these concepts are used in everyday life.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Cybersecurity?",
+    "content": "<p>Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, or theft. It&#39;s like a digital bodyguard for your information.</p>\n<p>Think of it as locking your house, but for your online world.  It involves everything from strong passwords to complex security systems.</p>\n"
+  },
+  {
+    "title": "Common Cybersecurity Threats",
+    "content": "<p>Here are some of the most common threats you&#39;ll encounter:</p>\n<ul>\n<li><strong>Malware:</strong> Viruses, worms, and Trojans that can harm your computer.</li>\n<li><strong>Phishing:</strong> Tricking you into giving away sensitive information.</li>\n<li><strong>Ransomware:</strong> Holding your data hostage until you pay a ransom.</li>\n<li><strong>Social Engineering:</strong> Manipulating people to gain access to systems or information.</li>\n<li><strong>Denial-of-Service (DoS) attacks:</strong> Overwhelming a server to make it unavailable.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Security Practices: Passwords",
+    "content": "<p>Passwords are your first line of defense! Follow these tips:</p>\n<ul>\n<li><strong>Use strong passwords:</strong> At least 12 characters, with a mix of uppercase, lowercase, numbers, and symbols.</li>\n<li><strong>Don&#39;t reuse passwords:</strong> Use a different password for each account.</li>\n<li><strong>Use a password manager:</strong>  A secure way to store and manage your passwords.</li>\n<li><strong>Enable Two-Factor Authentication (2FA):</strong>  Adds an extra layer of security.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Security Practices: Software Updates",
+    "content": "<p>Keep your software up-to-date! Updates often include security patches that fix vulnerabilities that hackers can exploit.</p>\n<ul>\n<li><strong>Enable automatic updates:</strong>  For your operating system, web browser, and other software.</li>\n<li><strong>Install updates promptly:</strong>  Don&#39;t delay installing security updates.</li>\n<li><strong>Be wary of fake updates:</strong>  Download updates only from official sources.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Security Practices: Be Careful Online",
+    "content": "<p>Think before you click!</p>\n<ul>\n<li><strong>Don&#39;t click on suspicious links:</strong> Especially in emails or social media.</li>\n<li><strong>Be wary of email attachments:</strong>  From unknown senders.</li>\n<li><strong>Verify website addresses:</strong>  Make sure you&#39;re on the legitimate website before entering sensitive information.</li>\n<li><strong>Be cautious about sharing personal information online:</strong>  Think before you post.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Cryptography?",
+    "content": "<p>Cryptography is the art and science of concealing information.  It&#39;s all about transforming readable data (plaintext) into unreadable data (ciphertext), and vice versa.</p>\n<p>Think of it as secret codes.  It&#39;s been used for centuries to protect sensitive communications.</p>\n"
+  },
+  {
+    "title": "Encryption: The Heart of Cryptography",
+    "content": "<p>Encryption is the process of converting plaintext into ciphertext using an algorithm and a key. Only someone with the correct key can decrypt the ciphertext back into plaintext.</p>\n<ul>\n<li><strong>Algorithm:</strong> The mathematical formula used for encryption and decryption.</li>\n<li><strong>Key:</strong>  A secret piece of information that controls the encryption and decryption process. The stronger the key, the harder it is to break the encryption.</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of Encryption: Symmetric-key",
+    "content": "<p>Symmetric-key encryption uses the same key for both encryption and decryption.</p>\n<ul>\n<li><strong>Simple and fast:</strong> But requires a secure way to share the key.</li>\n<li><strong>Examples:</strong> AES (Advanced Encryption Standard), DES (Data Encryption Standard) [Older].</li>\n</ul>\n"
+  },
+  {
+    "title": "Types of Encryption: Asymmetric-key",
+    "content": "<p>Asymmetric-key encryption (also known as public-key cryptography) uses two different keys: a public key and a private key.</p>\n<ul>\n<li><strong>Public key:</strong>  Can be shared with anyone.</li>\n<li><strong>Private key:</strong>  Must be kept secret.</li>\n</ul>\n<p>Data encrypted with the public key can only be decrypted with the corresponding private key.  This solves the key exchange problem.</p>\n<ul>\n<li><strong>Examples:</strong> RSA, ECC (Elliptic Curve Cryptography).</li>\n</ul>\n"
+  },
+  {
+    "title": "Hashing: One-Way Function",
+    "content": "<p>Hashing is a one-way cryptographic function that takes an input (e.g., a password) and produces a fixed-size string of characters (a hash value).</p>\n<ul>\n<li><strong>Cannot be reversed:</strong> You can&#39;t get the original input from the hash value.</li>\n<li><strong>Used for password storage:</strong> Store the hash of the password, not the password itself.</li>\n<li><strong>Examples:</strong> SHA-256, SHA-3, MD5 (MD5 is considered insecure for password storage).</li>\n</ul>\n"
+  },
+  {
+    "title": "Digital Signatures",
+    "content": "<p>Digital signatures use cryptography to verify the authenticity and integrity of digital documents.</p>\n<ul>\n<li><strong>Uses asymmetric-key cryptography:</strong> The sender encrypts a hash of the document with their private key, creating a digital signature.</li>\n<li><strong>The recipient uses the sender&#39;s public key:</strong> To decrypt the signature and verify the document&#39;s integrity.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cryptography in Action: HTTPS",
+    "content": "<p>HTTPS (Hypertext Transfer Protocol Secure) uses encryption to protect communication between your web browser and a website.</p>\n<ul>\n<li><strong>Uses SSL/TLS:</strong> Secure Sockets Layer/Transport Layer Security protocols to encrypt the data.</li>\n<li><strong>Look for the padlock icon:</strong> In your browser&#39;s address bar to indicate a secure connection.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cryptography in Action: Email Encryption",
+    "content": "<p>Email encryption protects the contents of your emails from being read by unauthorized parties.</p>\n<ul>\n<li><strong>S/MIME and PGP:</strong> Common protocols for email encryption.</li>\n<li><strong>Requires digital certificates:</strong>  To verify the identity of the sender and recipient.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cryptography in Action: VPNs",
+    "content": "<p>A Virtual Private Network (VPN) encrypts your internet traffic and routes it through a secure server.</p>\n<ul>\n<li><strong>Protects your privacy:</strong>  By hiding your IP address and location.</li>\n<li><strong>Can be used to bypass censorship:</strong>  And access content that is blocked in your region.</li>\n</ul>\n"
+  },
+  {
+    "title": "Staying Safe: Tips and Resources",
+    "content": "<ul>\n<li><strong>Stay informed:</strong>  Keep up-to-date on the latest cybersecurity threats and best practices.</li>\n<li><strong>Be skeptical:</strong>  Don&#39;t trust everything you see online.</li>\n<li><strong>Use security tools:</strong>  Install antivirus software, firewalls, and password managers.</li>\n<li><strong>Educate yourself:</strong>  Take online courses or workshops on cybersecurity.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cybersecurity Certifications",
+    "content": "<p>Several certifications can boost your cybersecurity career. Some popular options include:</p>\n<ul>\n<li><strong>CompTIA Security+:</strong> A foundational certification covering essential security skills.</li>\n<li><strong>Certified Ethical Hacker (CEH):</strong> Focuses on penetration testing and ethical hacking.</li>\n<li><strong>Certified Information Systems Security Professional (CISSP):</strong> A globally recognized certification for security professionals.</li>\n<li><strong>Certified Information Security Manager (CISM):</strong> For professionals managing information security programs.</li>\n</ul>\n"
+  },
+  {
+    "title": "Quantum Computing and Cryptography",
+    "content": "<p>Quantum computing poses a potential threat to current encryption methods. </p>\n<ul>\n<li><strong>Shor&#39;s Algorithm:</strong> A quantum algorithm that can break many widely used public-key cryptosystems (like RSA).</li>\n<li><strong>Post-Quantum Cryptography (PQC):</strong> Research and development of cryptographic systems that are resistant to attacks from quantum computers.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Importance of Regular Security Audits",
+    "content": "<p>Regular security audits help identify vulnerabilities and weaknesses in your systems. </p>\n<ul>\n<li><strong>Penetration Testing:</strong> Simulated attacks to test the effectiveness of security controls.</li>\n<li><strong>Vulnerability Scanning:</strong> Automated tools to identify known vulnerabilities.</li>\n<li><strong>Compliance Audits:</strong> Ensuring adherence to industry standards and regulations (e.g., HIPAA, PCI DSS).</li>\n</ul>\n"
+  },
+  {
+    "title": "The Role of AI in Cybersecurity",
+    "content": "<p>Artificial Intelligence (AI) is playing an increasingly important role in both defending against and launching cyberattacks. </p>\n<ul>\n<li><strong>AI for Threat Detection:</strong> Identifying anomalous behavior and potential threats in real-time.</li>\n<li><strong>AI for Automation:</strong> Automating security tasks such as vulnerability scanning and incident response.</li>\n<li><strong>AI-Powered Attacks:</strong> Cybercriminals are using AI to develop more sophisticated and targeted attacks.</li>\n</ul>\n"
+  },
+  {
+    "title": "Beyond Passwords: Biometrics and Multi-Factor Authentication",
+    "content": "<p>Enhancing security with alternatives to passwords.</p>\n<ul>\n<li><strong>Biometrics:</strong> Using unique biological traits (fingerprints, facial recognition) for authentication.</li>\n<li><strong>Multi-Factor Authentication (MFA):</strong> Requiring multiple authentication factors (e.g., password + SMS code) for login.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cybersecurity Laws and Regulations",
+    "content": "<p>Understanding the legal landscape of cybersecurity.</p>\n<ul>\n<li><strong>GDPR (General Data Protection Regulation):</strong> European Union law on data protection and privacy.</li>\n<li><strong>CCPA (California Consumer Privacy Act):</strong> California law giving consumers control over their personal information.</li>\n<li><strong>HIPAA (Health Insurance Portability and Accountability Act):</strong> US law protecting sensitive patient health information.</li>\n</ul>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>This concludes our overview of Cybersecurity and Cryptography.</p>\n<p>Remember to stay vigilant and practice good security habits to protect yourself online.</p>\n<p>Questions?</p>\n"
+  }
+]

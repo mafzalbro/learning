@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Accessibility in Design: Color Blindness, Readability, & UX",
+    "content": "<p>Welcome! This presentation covers designing for accessibility, focusing on:</p>\n<ul>\n<li><strong>Color Blindness:</strong> Understanding and accommodating different types.</li>\n<li><strong>Readability:</strong> Making text easy to read and understand.</li>\n<li><strong>UX Considerations:</strong> Designing an inclusive user experience for everyone.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Accessibility?",
+    "content": "<p>Accessibility means designing products and environments that are usable by people of <em>all</em> abilities.  It&#39;s about inclusivity and ensuring everyone can participate equally.  Think beyond disabilities too - accessibility benefits everyone, including those with temporary impairments or using devices in challenging environments.</p>\n"
+  },
+  {
+    "title": "Color Blindness: An Introduction",
+    "content": "<p>Color blindness (Color Vision Deficiency, CVD) is a condition where someone sees colors differently than most people. It&#39;s usually genetic, but can also be caused by injury or disease.  It&#39;s not actually about seeing <em>no</em> color, but perceiving a reduced range of colors.</p>\n"
+  },
+  {
+    "title": "Types of Color Blindness",
+    "content": "<p>The most common types are:</p>\n<ul>\n<li><strong>Deuteranomaly (Green-Weak):</strong> Most common type. Difficulty distinguishing shades of green.</li>\n<li><strong>Protanomaly (Red-Weak):</strong> Difficulty distinguishing shades of red.</li>\n<li><strong>Protanopia (Red-Blind):</strong> Complete absence of red cones.</li>\n<li><strong>Deuteranopia (Green-Blind):</strong> Complete absence of green cones.</li>\n<li><strong>Tritanomaly (Blue-Weak):</strong> Difficulty distinguishing shades of blue and yellow (rare).</li>\n<li><strong>Tritanopia (Blue-Blind):</strong> Complete absence of blue cones (very rare).</li>\n<li><strong>Monochromacy:</strong> Seeing only shades of gray (extremely rare).</li>\n</ul>\n"
+  },
+  {
+    "title": "Why is Color Contrast Important?",
+    "content": "<p>Many users with color blindness struggle to distinguish elements when color contrast is low. This can make websites, apps, and other designs unusable. Good contrast ensures readability and usability for everyone.</p>\n"
+  },
+  {
+    "title": "Checking Color Contrast",
+    "content": "<p>Use online tools to test color contrast ratios:</p>\n<ul>\n<li><strong>WebAIM&#39;s Color Contrast Checker:</strong> A popular and easy-to-use tool.</li>\n<li><strong>Coolors.co:</strong> Generates accessible color palettes.</li>\n<li><strong>Adobe Color:</strong> Explore and create accessible color schemes.</li>\n</ul>\n"
+  },
+  {
+    "title": "WCAG Color Contrast Guidelines",
+    "content": "<p>Web Content Accessibility Guidelines (WCAG) defines minimum contrast ratios:</p>\n<ul>\n<li><strong>4.5:1</strong> for normal text.</li>\n<li><strong>3:1</strong> for large text (18pt or 14pt bold) and user interface components.</li>\n<li><strong>3:1</strong> for graphics and graphical objects.</li>\n</ul>\n"
+  },
+  {
+    "title": "Beyond Color: Using Visual Cues",
+    "content": "<p>Don&#39;t rely <em>solely</em> on color to convey important information. Use additional visual cues:</p>\n<ul>\n<li><strong>Text Labels:</strong> Clearly label elements with text.</li>\n<li><strong>Icons:</strong> Use icons in addition to color.</li>\n<li><strong>Patterns:</strong> Implement different patterns or textures.</li>\n<li><strong>Shape:</strong> Utilize different shapes to differentiate elements.</li>\n</ul>\n"
+  },
+  {
+    "title": "Example: Status Indicators",
+    "content": "<p>Instead of <em>just</em> using green for &#39;success&#39; and red for &#39;error&#39;, add icons:</p>\n<ul>\n<li>Green + Checkmark for Success</li>\n<li>Red + X for Error</li>\n</ul>\n<p>This makes the status clear even for someone who can&#39;t distinguish the colors easily.</p>\n"
+  },
+  {
+    "title": "Readability: Font Choice Matters",
+    "content": "<p>Choose fonts that are easy to read:</p>\n<ul>\n<li><strong>Sans-serif fonts (like Arial, Helvetica, Open Sans) are generally preferred for body text.</strong></li>\n<li><strong>Serif fonts (like Times New Roman, Georgia) can be used for headings, but use sparingly in body text.</strong></li>\n<li><strong>Avoid overly decorative or script fonts.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Readability: Font Size & Line Height",
+    "content": "<p>Font size and line height significantly impact readability:</p>\n<ul>\n<li><strong>Use a minimum font size of 16px for body text (consider even larger for older users).</strong></li>\n<li><strong>Set line height to at least 1.5 times the font size.</strong> This adds spacing between lines of text, making it easier to read.</li>\n</ul>\n"
+  },
+  {
+    "title": "Readability: Line Length & Paragraphs",
+    "content": "<p>Consider line length and paragraph structure:</p>\n<ul>\n<li><strong>Aim for a line length of 45-75 characters per line.</strong>  Too long or too short lines make reading difficult.</li>\n<li><strong>Use short paragraphs to break up text and improve readability.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Readability: Use Clear and Concise Language",
+    "content": "<p>Write in plain language that is easy to understand. Avoid jargon, slang, and overly complex sentence structures. Use active voice whenever possible.</p>\n"
+  },
+  {
+    "title": "Readability: White Space is Your Friend",
+    "content": "<p>Don&#39;t cram too much information onto a page.  Use white space (negative space) to create visual breathing room and improve readability. Margins, padding, and spacing between elements are crucial.</p>\n"
+  },
+  {
+    "title": "UX Considerations: Keyboard Navigation",
+    "content": "<p>Ensure your website or app is fully navigable using a keyboard. Users who can&#39;t use a mouse rely on keyboard navigation.  Test your design using only the tab, arrow keys, and enter key.</p>\n"
+  },
+  {
+    "title": "UX Considerations: Focus Indicators",
+    "content": "<p>Make sure the element that currently has focus (e.g., a button selected with the tab key) is clearly indicated with a visual focus indicator.  This helps users understand where they are on the page.</p>\n"
+  },
+  {
+    "title": "UX Considerations: Alt Text for Images",
+    "content": "<p>Provide descriptive alt text for all images. This text is read by screen readers for users who are visually impaired.  Alt text should describe the <em>content</em> and <em>function</em> of the image.</p>\n"
+  },
+  {
+    "title": "UX Considerations: Form Labels",
+    "content": "<p>Associate labels correctly with form fields.  Users should be able to clearly understand what information is required in each field. Use the <code>&lt;label&gt;</code> tag and associate it with the <code>&lt;input&gt;</code> using the <code>for</code> attribute.</p>\n"
+  },
+  {
+    "title": "UX Considerations: ARIA Attributes",
+    "content": "<p>ARIA (Accessible Rich Internet Applications) attributes can enhance accessibility by providing additional information to assistive technologies.  Use ARIA thoughtfully and only when native HTML elements can&#39;t provide the necessary information.</p>\n"
+  },
+  {
+    "title": "Testing for Accessibility",
+    "content": "<p>Regularly test your designs for accessibility. Use:</p>\n<ul>\n<li><strong>Automated accessibility checkers:</strong>  Lighthouse (in Chrome DevTools), WAVE.</li>\n<li><strong>Manual testing:</strong>  Try navigating your design using only a keyboard, use a screen reader, test with different color blindness simulators.</li>\n<li><strong>User testing:</strong>  Get feedback from users with disabilities.</li>\n</ul>\n"
+  },
+  {
+    "title": "Accessibility is an Iterative Process",
+    "content": "<p>Accessibility isn&#39;t a one-time fix.  It&#39;s an ongoing process that requires continuous learning, testing, and improvement.  Embed accessibility considerations into your design workflow from the beginning.</p>\n"
+  },
+  {
+    "title": "Resources for Learning More",
+    "content": "<ul>\n<li><strong>WebAIM (Web Accessibility In Mind):</strong>  A leading authority on web accessibility.</li>\n<li><strong>W3C (World Wide Web Consortium):</strong>  Publishes the WCAG guidelines.</li>\n<li><strong>Deque University:</strong>  Offers accessibility training and resources.</li>\n</ul>\n"
+  },
+  {
+    "title": "Accessibility Tools",
+    "content": "<p>List of accessibility tools that can be used.</p>\n<ul>\n<li><strong>Chrome DevTools</strong></li>\n<li><strong>Axe DevTools</strong></li>\n<li><strong>WAVE Evaluation Tool</strong></li>\n<li><strong>Color Contrast Analyzers</strong></li>\n<li><strong>Screen Readers (NVDA, VoiceOver)</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "In Conclusion: Design for Everyone",
+    "content": "<p>Designing for accessibility is not just about compliance, it&#39;s about creating inclusive and usable experiences for everyone. By understanding the needs of users with disabilities and incorporating accessibility best practices, you can create designs that are truly accessible to all.</p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Thank you for your time! Questions?</p>\n"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Serif & Sans-Serif Harmony",
+      "caption": "Welcome! Let's talk typography pairings. Combining fonts can elevate your design. The classic: Serif and Sans-Serif. A Serif for headings, like Times New Roman. Paired with a Sans-Serif body text, like Arial. This contrast improves readability. Serif fonts guide the eye. Sans-Serif fonts offer clean simplicity. Experiment! Find combinations that resonate with your brand.",
+      "prompt": "An image showcasing the visual difference between a Serif and a Sans-Serif font. Focus on the letter 'A' or 'G' for clear differentiation. Clean background. Modern and professional aesthetic. Showcasing Helvetica and Times New Roman side-by-side."
+    },
+    {
+      "title": "Font Size & Readability",
+      "caption": "Font size is key for readability. Too small, and readers will struggle. Too large, and it becomes overwhelming. Consider your audience and platform. Mobile requires larger sizes than desktop. Test your designs on different devices. Prioritize comfortable reading experience. A good rule of thumb: 16px for body text on the web. But always adjust based on the font itself.",
+      "prompt": "An image illustrating the same sentence rendered in three different font sizes: 10px, 16px, and 24px. Positioned vertically for easy comparison. Focus on clear visibility and readability. The sentence should be short and simple, like 'The quick brown fox'. White background."
+    },
+    {
+      "title": "Line Height (Leading)",
+      "caption": "Line height, or leading, affects readability. Too tight, lines clash and blur. Too loose, lines feel disconnected. The sweet spot? Aim for 1.4 to 1.6 times the font size. This creates visual breathing room. Experiment with different line heights. Find what works best for your chosen fonts. Improved leading enhances the reading experience. Makes the text more inviting.",
+      "prompt": "An image showing two paragraphs of text using the same font size but different line heights. One with a cramped line height, and the other with a well-spaced line height. Highlight the difference in readability. Light gray background with black text."
+    },
+    {
+      "title": "Letter Spacing (Tracking)",
+      "caption": "Letter spacing, or tracking, is the space between characters. Adjusting it can improve legibility, especially for headings. Too tight, letters become illegible. Too loose, words appear disjointed. Subtle adjustments make a big difference. Wider tracking can add elegance. Tighter tracking can save space. Experiment and observe the impact.",
+      "prompt": "An image displaying the same word ('READABILITY') with three different tracking values: tight, normal, and wide. Showcasing the impact of tracking on visual appearance. Each example on a separate line, clearly labeled. Use a bold, sans-serif font."
+    },
+    {
+      "title": "Contrast is King",
+      "caption": "Contrast is crucial for readability. High contrast between text and background is essential. Black text on white is a classic example. Avoid low-contrast combinations, like gray on light gray. Consider accessibility for all users. Ensure your text is easily readable by everyone. Test your color choices for optimal readability.",
+      "prompt": "An image illustrating several text and background color combinations. Showing examples of good contrast (e.g., black on white, dark blue on light yellow) and bad contrast (e.g., gray on light gray, green on teal). Focus on demonstrating the difference in readability."
+    },
+    {
+      "title": "Hierarchy & Visual Flow",
+      "caption": "Use typography to create visual hierarchy. Different font sizes, weights, and styles guide the reader. Headlines should stand out. Body text should be easily readable. Subheadings provide structure. Create a clear visual flow. Lead the reader through your content effectively. Emphasize important information strategically.",
+      "prompt": "An image of a sample document (e.g., a blog post) demonstrating clear typographic hierarchy. Showing a headline, subheading, body text, and potentially a callout box. Highlight the different font sizes and weights used to establish hierarchy. Clean and professional design."
+    },
+    {
+      "title": "Limit Font Choices",
+      "caption": "Resist the urge to use too many fonts. Stick to a maximum of two or three. Too many fonts create visual chaos. Focus on creating a cohesive look and feel. Choose fonts that complement each other. Simplicity is key. A limited palette enhances readability and professionalism.",
+      "prompt": "An image showcasing two designs: one with a limited number of fonts (2-3) and another with an excessive number of fonts (5+). Clearly illustrate the difference in visual harmony and readability. The 'good' example should appear clean and professional, while the 'bad' example should appear cluttered and chaotic."
+    },
+    {
+      "title": "Consider Your Audience",
+      "caption": "Consider your target audience when choosing fonts. What are their preferences? What reading habits do they have? Are they tech-savvy or more traditional? Choose fonts that resonate with your audience. A playful font might be great for children. A more formal font might be better for professionals. Tailor your typography to your audience.",
+      "prompt": "An image depicting two distinct typographic styles. One style representing fonts suitable for a younger audience (playful, colorful), and the other representing fonts suitable for a professional audience (clean, sophisticated). Showcasing the importance of considering your audience's preferences."
+    },
+    {
+      "title": "Test, Test, Test!",
+      "caption": "Always test your typography. View your designs on different devices and screen sizes. Ask others for feedback on readability. Ensure your text is legible and easy to read. Testing is crucial for a positive user experience. Don't assume your designs look perfect. Get a fresh perspective. Refine your typography based on feedback.",
+      "prompt": "An image depicting various devices (laptop, tablet, phone) displaying the same block of text. Highlighting the importance of testing typography across different platforms and screen sizes. Include a magnifying glass or other visual element suggesting close examination and testing."
+    }
+  ]
+]

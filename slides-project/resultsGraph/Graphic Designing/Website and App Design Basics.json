@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Sketching Wireframes",
+      "caption": "Let's talk Website and App Design basics. First, wireframes! Think blueprints for your digital product.  Quick sketches to map out the user flow and layout.  No details, just structure. This saves time and frustration later on.",
+      "prompt": "A hand sketching a basic website wireframe on paper. Include simple shapes representing website sections, navigation, and content areas. Focus on clarity and simplicity of the wireframe."
+    },
+    {
+      "title": "Choosing a Color Palette",
+      "caption": "Next, colors! Color psychology is key. Blues feel professional, reds are energetic.  Limit your palette to 3-5 colors.  Consider contrast for readability.  And accessibility for all users.",
+      "prompt": "A visually appealing arrangement of color swatches, demonstrating a well-balanced and harmonious color palette suitable for web/app design. Show the colors being applied to simplified UI elements."
+    },
+    {
+      "title": "Selecting Typography",
+      "caption": "Typography matters. Choose fonts that are easy to read. A clear headline font paired with a readable body font.  Consistency across your design is crucial.  Don't overuse fonts!",
+      "prompt": "A visually clear display of two different font styles: one for a headline and one for body text. Showcase how they complement each other and their readability."
+    },
+    {
+      "title": "Understanding User Interface (UI) Elements",
+      "caption": "UI elements are the building blocks. Buttons, forms, navigation menus.  Make them intuitive and easy to use.  Consistent styling across all elements is key.",
+      "prompt": "A collection of common UI elements such as buttons, input fields, dropdown menus, and icons. Demonstrate their simple usage and consistent styling."
+    },
+    {
+      "title": "Importance of User Experience (UX)",
+      "caption": "UX is how users feel.  Is your app easy to navigate?  Is the information accessible?  Focus on a smooth, frustration-free experience. Happy users are repeat users!",
+      "prompt": "A visual representation of a happy user interacting with a website or app on their phone. The interface should appear intuitive and easy to use, with positive feedback signals."
+    },
+    {
+      "title": "Mobile-First Approach",
+      "caption": "Think mobile first! Most users access websites on their phones. Design for smaller screens first, then scale up. This ensures a responsive and user-friendly experience for everyone.",
+      "prompt": "A split screen showing a website design optimized for both a mobile phone and a desktop computer. Highlight the responsive design elements that adapt to different screen sizes."
+    },
+    {
+      "title": "Using White Space (Negative Space)",
+      "caption": "Don't underestimate white space!  It creates breathing room. Improves readability and visual appeal. It guides the user's eye. Cluttered designs overwhelm users.",
+      "prompt": "A website design with a generous amount of white space around text and images, demonstrating its effectiveness in improving clarity and visual appeal. Show the elements being properly distanced"
+    },
+    {
+      "title": "Consistency is Key",
+      "caption": "Consistency builds trust. Use the same styles, colors, and fonts throughout your design. This creates a professional and cohesive look. Inconsistency confuses users.",
+      "prompt": "A visual comparison showing two different versions of the same UI element (e.g., a button) where one is consistent with the overall design and the other is not. Highlight the importance of maintaining a consistent style."
+    },
+    {
+      "title": "Testing and Iteration",
+      "caption": "Always test your designs! Get feedback from real users. Iterate based on their input. Design is an ongoing process. Never stop improving!",
+      "prompt": "A user testing a website or app design on a computer, with designers observing and taking notes. Show the feedback loop and the iterative nature of the design process."
+    }
+  ]
+]

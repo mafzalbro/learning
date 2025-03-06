@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Building Blocks",
+      "caption": "Analog circuits: the unseen foundation of modern technology. They manipulate continuous signals, unlike digital circuits. Resistors, capacitors, and transistors - the core components. Understanding these unlocks a world of possibilities. Let's explore the basics!",
+      "prompt": "A visually appealing schematic diagram showing a simple circuit with a resistor, capacitor, and transistor, clearly labeled. The background should be a clean, professional gradient."
+    },
+    {
+      "title": "Resistors: Current Control",
+      "caption": "Resistors control current flow. Like a valve in a pipe, they restrict electron movement. Measured in Ohms, they're essential for setting voltages. Understanding their role is fundamental to circuit design.",
+      "prompt": "A macro photograph of different types of resistors (carbon film, wirewound, SMD), highlighting their varying sizes and color codes. Focus on detail and texture."
+    },
+    {
+      "title": "Capacitors: Energy Storage",
+      "caption": "Capacitors store electrical energy. Think of them as tiny batteries, charging and discharging. Measured in Farads, they're crucial for filtering and smoothing signals. A key ingredient in stable circuits.",
+      "prompt": "A stylized illustration of a capacitor charging and discharging, visualized as energy building up and releasing. Use vibrant colors to represent the energy flow."
+    },
+    {
+      "title": "Transistors: Amplification & Switching",
+      "caption": "Transistors amplify or switch electronic signals. They're the workhorses of modern electronics. From simple amplifiers to complex logic gates, transistors are everywhere. Mastering transistors unlocks powerful capabilities.",
+      "prompt": "A conceptual image representing a transistor amplifying a weak signal into a strong signal. Use abstract shapes and colors to symbolize the amplification process."
+    },
+    {
+      "title": "Amplifier Circuits",
+      "caption": "Amplifiers boost signal strength. Vital for audio, radio, and more. Op-amps are versatile building blocks. Creating clear, powerful signals is the goal.",
+      "prompt": "A clean schematic diagram of a simple op-amp amplifier circuit, highlighting the input and output signals with contrasting colors."
+    },
+    {
+      "title": "Filter Circuits",
+      "caption": "Filters selectively pass frequencies. Removing noise and unwanted signals. Essential for clean audio and data transmission. A crucial tool for signal conditioning.",
+      "prompt": "A graphical representation of a filter circuit's frequency response, showing how certain frequencies are attenuated while others pass through."
+    },
+    {
+      "title": "Analog vs. Digital",
+      "caption": "Analog is continuous; digital is discrete. Analog circuits deal with real-world signals directly. Digital uses binary code for processing. Both are powerful, each with unique strengths.",
+      "prompt": "A split image: one side representing an analog signal as a smooth wave, the other side representing a digital signal as a series of square pulses. Use contrasting colors and styles."
+    },
+    {
+      "title": "Applications Abound",
+      "caption": "Analog circuits power countless devices. From smartphones to medical equipment. Understanding their principles is essential. Explore the world of analog electronics!",
+      "prompt": "A collage of diverse electronic devices (smartphone, medical monitor, radio) that rely on analog circuits. The collage should have a unifying color theme."
+    },
+    {
+      "title": "The Art of Design",
+      "caption": "Analog circuit design is an art. Balancing performance, power, and cost. Requires creativity and problem-solving. Unleash your inner engineer!",
+      "prompt": "An image representing the creative process of circuit design, perhaps showing a hand sketching a circuit diagram or interacting with a simulation software."
+    }
+  ]
+]

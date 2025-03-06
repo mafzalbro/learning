@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Creating Simple Animations in Adobe After Effects",
+    "content": "<p>Welcome! In this presentation, we&#39;ll cover the fundamentals of creating animations in Adobe After Effects. We&#39;ll explore key concepts and techniques suitable for both beginners and experienced users. We will cover:</p>\n<ul>\n<li><strong>Introduction to After Effects Interface</strong></li>\n<li><strong>Creating Compositions and Layers</strong></li>\n<li><strong>Keyframing Basics: Position, Scale, Rotation, Opacity</strong></li>\n<li><strong>Working with the Timeline</strong></li>\n<li><strong>Simple Shape Animations</strong></li>\n<li><strong>Adding Effects and Presets</strong></li>\n<li><strong>Basic Text Animations</strong></li>\n<li><strong>Exporting Your Animation</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding the After Effects Interface",
+    "content": "<p>Let&#39;s get acquainted with the After Effects workspace:</p>\n<ul>\n<li><strong>Project Panel:</strong>  Where you import and organize your assets (images, videos, audio).</li>\n<li><strong>Composition Panel:</strong>  Your visual canvas; it displays the current frame of your animation.</li>\n<li><strong>Timeline Panel:</strong>  The heart of animation!  This is where you manipulate layers and keyframes.</li>\n<li><strong>Effects &amp; Presets Panel:</strong>  A library of visual effects to enhance your animations. Access it through Window&gt;Effects &amp; Presets (or shortcut CTRL+5).</li>\n</ul>\n"
+  },
+  {
+    "title": "Creating Compositions and Layers",
+    "content": "<p><strong>Compositions are the containers for your animations.</strong></p>\n<ol>\n<li><strong>New Composition:</strong> <code>Composition &gt; New Composition... (Ctrl+N)</code></li>\n<li><strong>Set Dimensions:</strong> Choose a resolution (e.g., 1920x1080), frame rate (e.g., 30 fps), and duration.</li>\n<li><strong>Layers:</strong> Think of layers as stacked sheets of paper. Each layer contains an element (image, shape, text, etc.).  Add a Layer by going to <code>Layer &gt; New &gt; [Type of Layer]</code>.</li>\n<li><strong>Layer Order</strong>: The order of layers in the timeline dictates the order of their appearance in the Composition panel. Move the layers to change the order.</li>\n</ol>\n"
+  },
+  {
+    "title": "Keyframing: The Core of Animation",
+    "content": "<p>Keyframes define properties of a layer at specific points in time.</p>\n<ul>\n<li><strong>What are Keyframes?:</strong> Marks on timeline that show a property&#39;s value at a moment. After Effects interpolates the values between keyframes, creating animation.</li>\n<li><strong>Transform Properties:</strong> Common properties to animate include:<ul>\n<li><strong>Position:</strong> The X and Y coordinates of the layer.</li>\n<li><strong>Scale:</strong> The size of the layer.</li>\n<li><strong>Rotation:</strong> The angle of the layer.</li>\n<li><strong>Opacity:</strong> The visibility of the layer (0% = invisible, 100% = fully visible).</li>\n</ul>\n</li>\n<li><strong>Adding Keyframes:</strong> Click the stopwatch icon next to a property in the timeline to enable keyframing. Setting a new value will automatically add keyframes.</li>\n</ul>\n"
+  },
+  {
+    "title": "Animating Position",
+    "content": "<p>Let&#39;s make a layer move across the screen:</p>\n<ol>\n<li><strong>Select a Layer:</strong> In the timeline.</li>\n<li><strong>Open Transform Properties:</strong> Press &#39;P&#39; to reveal the Position property.</li>\n<li><strong>Set the First Keyframe:</strong> Move the current-time indicator to the start of your animation and click the stopwatch icon next to &#39;Position&#39;.</li>\n<li><strong>Move to a Later Time:</strong> Drag the current-time indicator further down the timeline.</li>\n<li><strong>Change the Position:</strong> Drag the layer in the Composition panel to its new location. A second keyframe will automatically be created.</li>\n<li><strong>Preview</strong>: Press Spacebar to preview animation.</li>\n</ol>\n"
+  },
+  {
+    "title": "Animating Scale, Rotation, and Opacity",
+    "content": "<p>The process is similar for other properties:</p>\n<ul>\n<li><strong>Scale (Shortcut &#39;S&#39;):</strong>  Create keyframes at different times and adjust the scale values to make the layer grow or shrink.</li>\n<li><strong>Rotation (Shortcut &#39;R&#39;):</strong>  Animate the rotation value to spin the layer.</li>\n<li><strong>Opacity (Shortcut &#39;T&#39;):</strong>  Animate the opacity value to fade the layer in or out.</li>\n<li><strong>Multiple Properties</strong>: You can animate multiple properties together to create complex animations! Use &#39;Shift&#39; and press multiple shortcuts to reveal properties together.</li>\n</ul>\n"
+  },
+  {
+    "title": "Working with the Timeline",
+    "content": "<p>Mastering the Timeline is crucial:</p>\n<ul>\n<li><strong>Zooming:</strong> Use the scroll wheel while hovering over the timeline to zoom in and out horizontally. Use the + and - keys on the numpad.</li>\n<li><strong>Moving Keyframes:</strong> Click and drag keyframes to adjust their timing.</li>\n<li><strong>Copying and Pasting Keyframes:</strong> Select keyframes (or use Ctrl+A to select all), then Ctrl+C to copy and Ctrl+V to paste them at the current time.</li>\n<li><strong>Time Navigator:</strong>  Use the time navigator at the top of the timeline to quickly jump to specific times or markers.</li>\n</ul>\n"
+  },
+  {
+    "title": "Creating Simple Shape Animations",
+    "content": "<p>After Effects has built-in shape tools:</p>\n<ol>\n<li><strong>Shape Tool:</strong> Select the Rectangle, Ellipse, or other shape tool from the toolbar.</li>\n<li><strong>Draw a Shape:</strong> Click and drag in the Composition panel to create a shape layer.</li>\n<li><strong>Shape Properties:</strong>  Shape layers have properties like &#39;Fill&#39;, &#39;Stroke&#39;, &#39;Stroke Width&#39;, and &#39;Transform&#39;.</li>\n<li><strong>Animate Shape Properties:</strong> Animate the &#39;Size&#39; of a rectangle, or the &#39;Path&#39; of any shape to morph it into a different shape. Animate position just like other layers to move a shape around.</li>\n</ol>\n"
+  },
+  {
+    "title": "Adding Effects and Presets",
+    "content": "<p>Effects can greatly enhance your animations:</p>\n<ul>\n<li><strong>Browsing Effects:</strong>  Use the &#39;Effects &amp; Presets&#39; panel to find effects.</li>\n<li><strong>Applying Effects:</strong> Drag an effect from the panel onto a layer in the timeline or the Composition panel.</li>\n<li><strong>Adjusting Effect Settings:</strong> Each effect has its own parameters that can be adjusted in the &#39;Effect Controls&#39; panel (usually located at the top left).</li>\n<li><strong>Animation Presets:</strong> Presets are pre-built animations that you can apply to layers for instant results. Effects &amp; Presets panel offers a vast library of such presets.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Text Animations",
+    "content": "<p>Basic text animations:</p>\n<ol>\n<li><strong>Type Tool:</strong> Select the Type tool from the toolbar.</li>\n<li><strong>Add Text:</strong> Click in the Composition panel and type your text.</li>\n<li><strong>Animate Text Properties:</strong> Open the text layer&#39;s properties in the timeline.</li>\n<li><strong>Animate Position, Scale, Rotation, and Opacity:</strong>  Just like other layers.</li>\n<li><strong>Text Animators (Advanced):</strong>  Within the text layer properties, explore the &#39;Animate&#39; menu.  This allows you to animate properties like &#39;Tracking&#39;, &#39;Line Spacing&#39;, and more on a per-character or per-word basis.</li>\n</ol>\n"
+  },
+  {
+    "title": "Example: Simple Bouncing Ball",
+    "content": "<p>Let&#39;s create a bouncing ball animation.</p>\n<ol>\n<li><strong>Create a Shape:</strong> Make a circle shape layer.</li>\n<li><strong>Animate Position:</strong><ul>\n<li>Start frame: Ball is at the top of the screen.</li>\n<li>Middle frame: Ball touches the bottom of the screen.</li>\n<li>Last Frame: Ball returns to the top or slightly below the starting point (Less height than the top)</li>\n</ul>\n</li>\n<li><strong>Easy Ease (F9):</strong> Select the keyframes and press F9 to smooth the animation.</li>\n<li><strong>Graph Editor (Window &gt; Graph Editor):</strong> Fine tune the animation in the Graph Editor to make the bounce look realistic. Specifically modify the curves of value and speed.</li>\n</ol>\n"
+  },
+  {
+    "title": "Exporting Your Animation",
+    "content": "<p>Ready to share your masterpiece?</p>\n<ol>\n<li><strong>Add to Render Queue:</strong> <code>Composition &gt; Add to Render Queue</code>.</li>\n<li><strong>Output Module:</strong> Click the &#39;Lossless&#39; text to choose your output settings (e.g., QuickTime, H.264).</li>\n<li><strong>Output To:</strong> Specify the file name and location.</li>\n<li><strong>Render:</strong> Click the &#39;Render&#39; button to begin the export process. Best practice is to export to Adobe Media Encoder for video file format. Select &#39;Queue in AME&#39; to queue the render in Adobe Media Encoder directly from After Effects</li>\n</ol>\n"
+  },
+  {
+    "title": "Practice Makes Perfect!",
+    "content": "<p>The best way to learn After Effects is to experiment.  Try recreating simple animations you see online. Don&#39;t be afraid to play around and see what you can create!</p>\n"
+  },
+  {
+    "title": "Tips and Tricks",
+    "content": "<ul>\n<li><strong>Shortcuts are your friends:</strong> Learn keyboard shortcuts to speed up your workflow.</li>\n<li><strong>Use expressions for complex animations:</strong> Expressions are small pieces of code that can automate animation tasks.</li>\n<li><strong>Organize your layers:</strong> Rename and color-code layers for better clarity.</li>\n<li><strong>Seek out online tutorials:</strong> YouTube is a treasure trove of After Effects tutorials.</li>\n</ul>\n"
+  },
+  {
+    "title": "Understanding Parenting",
+    "content": "<p>Layer Parenting can create complex relationships between layers.</p>\n<ul>\n<li><strong>Parenting Explained:</strong> Link the &#39;Parent&#39; property of one layer to another. Changes to the parent layer (e.g., position, rotation) will automatically affect the child layer.</li>\n<li><strong>Use Cases:</strong>  Animating a character&#39;s arm by parenting the hand layer to the forearm layer.</li>\n</ul>\n"
+  },
+  {
+    "title": "Masking and Mattes",
+    "content": "<p>Masks allow you to selectively reveal or hide parts of a layer.</p>\n<ul>\n<li><strong>Creating Masks:</strong> Use the Pen tool or shape tools to draw a mask on a layer.</li>\n<li><strong>Mask Modes:</strong> Choose different mask modes (Add, Subtract, Intersect, etc.) to control how the mask affects the layer.</li>\n<li><strong>Track Mattes:</strong> Use one layer as a matte to control the visibility of another layer.  Useful for creating interesting transitions and effects.</li>\n</ul>\n"
+  },
+  {
+    "title": "Working with Audio",
+    "content": "<p>Adding audio can enhance your animations.</p>\n<ul>\n<li><strong>Importing Audio:</strong> Import audio files (MP3, WAV, etc.) into the Project panel.</li>\n<li><strong>Adding Audio to the Timeline:</strong> Drag the audio file to the Timeline panel.</li>\n<li><strong>Audio Levels:</strong> Adjust the audio levels to control the volume.</li>\n<li><strong>Syncing Animation to Audio:</strong> Use the audio waveform to time your animations to the beat.</li>\n</ul>\n"
+  },
+  {
+    "title": "Advanced Keyframing Techniques",
+    "content": "<p>Take your keyframing skills to the next level.</p>\n<ul>\n<li><strong>Easy Ease:</strong> Smooths the animation between keyframes (F9).</li>\n<li><strong>Easy Ease In/Out:</strong>  Creates different acceleration and deceleration curves.</li>\n<li><strong>Graph Editor:</strong>  Provides precise control over the animation&#39;s timing and speed using graphs.</li>\n<li><strong>Keyframe Interpolation:</strong> Choose different interpolation methods (Linear, Bezier, Hold) to customize the animation&#39;s behavior.</li>\n</ul>\n"
+  },
+  {
+    "title": "Troubleshooting Common Issues",
+    "content": "<ul>\n<li><strong>Slow Performance:</strong> Close unnecessary programs, reduce composition resolution, or pre-render complex elements.</li>\n<li><strong>Missing Footage:</strong> Re-link missing footage in the Project panel.</li>\n<li><strong>Rendering Errors:</strong> Check your output settings and ensure you have enough disk space.</li>\n<li><strong>Unexpected Animation Behavior:</strong> Double-check your keyframes and expressions.</li>\n</ul>\n"
+  },
+  {
+    "title": "Exploring More Effects",
+    "content": "<p>Expand your effect arsenal!</p>\n<ul>\n<li><strong>Blur &amp; Sharpen:</strong> Add depth of field or sharpen details.</li>\n<li><strong>Color Correction:</strong> Adjust colors for a specific look.</li>\n<li><strong>Distort:</strong> Warp and distort layers in creative ways.</li>\n<li><strong>Generate:</strong> Create patterns, gradients, and other visual elements.</li>\n<li><strong>Stylize:</strong> Add stylized effects like glows, shadows, and textures.</li>\n<li><strong>Trapcode Particular</strong>: Simulate particles, fire, water, smoke and other organic visual effects.</li>\n</ul>\n"
+  }
+]

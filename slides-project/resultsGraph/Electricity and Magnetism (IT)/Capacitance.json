@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Capacitor Construction",
+      "caption": "Ever wondered how electricity is stored? That's where capacitors come in! They're like tiny rechargeable batteries.  A capacitor simply comprises two conductive plates separated by an insulator. This insulator is called a dielectric. When voltage is applied, it stores electrical energy in the form of an electric field. Capacitors are crucial in electronics, from smartphones to power grids!",
+      "prompt": "An exploded diagram of a parallel-plate capacitor. Show the two conductive plates, the dielectric material between them, and arrows indicating the flow of charge when voltage is applied. The diagram should be clean, well-labeled, and visually appealing, emphasizing the components' relationship to each other."
+    },
+    {
+      "title": "Water Analogy for Capacitance",
+      "caption": "Think of capacitance like a water tank.  A wider tank holds more water. Similarly, a capacitor with a larger capacitance stores more charge at the same voltage.  The more it can hold, the higher its capacitance! Understanding this simple analogy makes grasping complex circuits much easier.",
+      "prompt": "A split-screen image. On one side, a variety of water tanks (tall, short, wide, narrow) are being filled with water. On the other side, corresponding capacitors of different physical sizes are being charged. The water level should correspond to the voltage, and the tank size to the capacitance."
+    },
+    {
+      "title": "Dielectric Material's Role",
+      "caption": "What about that insulator between the plates? It's called the dielectric.  Different materials have different dielectric constants.  A higher dielectric constant means more charge can be stored. It essentially boosts the capacitor's ability! The right dielectric is key for performance.",
+      "prompt": "A close-up, macro shot of different dielectric materials (ceramic, paper, plastic film) placed between capacitor plates. Highlight the texture and properties of each material. Use different lighting to showcase the unique appearance of each dielectric."
+    },
+    {
+      "title": "Capacitance Formula (Visual Representation)",
+      "caption": "Capacitance, measured in Farads, depends on the plate area and the distance between them.   Larger area means more charge storage.  Smaller distance, a stronger electric field.  These factors directly impact how much energy a capacitor holds! C equals epsilon times A over d.  Simple!",
+      "prompt": "An animated infographic illustrating the capacitance formula: C = εA/d. Show how increasing the plate area (A) increases capacitance, and how decreasing the distance (d) between the plates also increases capacitance. Use clear visual cues to demonstrate the relationships."
+    },
+    {
+      "title": "Capacitor Charging & Discharging",
+      "caption": "Capacitors charge and discharge, a dance of electrons.  When charging, electrons flow onto one plate.  When discharging, they flow back, releasing stored energy.  This cycle repeats rapidly in many circuits.  It's the fundamental process powering countless applications!",
+      "prompt": "An animated circuit diagram showing a capacitor charging through a resistor from a DC voltage source.  Visually represent the flow of electrons, the increasing voltage across the capacitor, and the decreasing current as the capacitor charges. Then, reverse the animation to show the discharge process."
+    },
+    {
+      "title": "Capacitor Types",
+      "caption": "Capacitors come in various types: ceramic, electrolytic, film.  Each offers unique advantages and disadvantages.   Ceramic are small and stable. Electrolytic store a lot of energy. Film are great for high frequencies. Choosing the right type matters!",
+      "prompt": "A collage showcasing different types of capacitors: ceramic, electrolytic, film, tantalum, variable. Each capacitor should be clearly labeled and visually distinct, highlighting its unique physical characteristics."
+    },
+    {
+      "title": "Applications: Smoothing Power",
+      "caption": "One crucial application? Smoothing power supply voltage.  Capacitors act like buffers, filling in dips and peaks.   They ensure a stable voltage for sensitive components. This results in more reliable electronics. A truly essential function!",
+      "prompt": "A graph of voltage vs. time. Show a noisy, fluctuating voltage signal being smoothed out by the addition of a capacitor in a circuit. Visually highlight the difference between the raw voltage and the smoothed voltage output."
+    },
+    {
+      "title": "Applications: Filtering Signals",
+      "caption": "Capacitors also filter signals, letting some frequencies pass while blocking others.  This is vital in audio and communication systems.   They help isolate desired frequencies from unwanted noise. Clean signals make for clear communication!",
+      "prompt": "An illustration of a frequency spectrum. Show how a capacitor-based filter attenuates (reduces) certain frequencies while allowing other frequencies to pass through. Use color-coding to differentiate between the filtered and unfiltered frequency ranges."
+    },
+    {
+      "title": "Applications: Timing Circuits",
+      "caption": "Capacitors play a key role in timing circuits too.  Their charging and discharging rates are predictable.   This allows precise control over delays and oscillations.  From blinking lights to computer clocks, they're essential timers!",
+      "prompt": "A circuit diagram of a simple timer circuit using a resistor and capacitor.  Animate the charging and discharging of the capacitor, and show how it controls the activation and deactivation of an LED or other output device."
+    }
+  ]
+]

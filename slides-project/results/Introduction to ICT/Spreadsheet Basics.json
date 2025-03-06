@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Spreadsheet Basics",
+    "content": "<p>Welcome! This presentation will cover the fundamentals of using spreadsheets. We&#39;ll explore:</p>\n<ul>\n<li>What spreadsheets are and why they&#39;re useful.</li>\n<li>Basic spreadsheet terminology.</li>\n<li>Navigating and entering data.</li>\n<li>Performing simple calculations with formulas.</li>\n<li>Formatting data for clarity.</li>\n<li>Creating basic charts and graphs.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is a Spreadsheet?",
+    "content": "<p>A spreadsheet is a digital ledger. Think of it as a grid of rows and columns used to organize, analyze, and store data.</p>\n<ul>\n<li><strong>Rows:</strong> Horizontal lines labeled with numbers (1, 2, 3...).</li>\n<li><strong>Columns:</strong> Vertical lines labeled with letters (A, B, C...).</li>\n<li><strong>Cells:</strong> The intersection of a row and a column (e.g., A1, B2, C3).  This is where you enter data.</li>\n</ul>\n"
+  },
+  {
+    "title": "Why Use Spreadsheets?",
+    "content": "<p>Spreadsheets are powerful tools for:</p>\n<ul>\n<li><strong>Organizing Data:</strong>  Storing information in a structured way.</li>\n<li><strong>Performing Calculations:</strong> Easily calculating sums, averages, and more.</li>\n<li><strong>Analyzing Data:</strong> Identifying trends and patterns.</li>\n<li><strong>Creating Visualizations:</strong>  Generating charts and graphs to represent data.</li>\n<li><strong>Automation:</strong> Automating tasks through formulas and macros.</li>\n</ul>\n"
+  },
+  {
+    "title": "Spreadsheet Terminology",
+    "content": "<ul>\n<li><strong>Workbook:</strong> The entire spreadsheet file.</li>\n<li><strong>Worksheet:</strong> A single page within a workbook (also called a sheet).</li>\n<li><strong>Cell:</strong>  The intersection of a row and column (e.g., A1).</li>\n<li><strong>Cell Range:</strong> A group of cells (e.g., A1:C5).</li>\n<li><strong>Formula:</strong> An equation that performs calculations (e.g., =A1+B1).</li>\n<li><strong>Function:</strong>  A pre-built formula (e.g., =SUM(A1:A5)).</li>\n</ul>\n"
+  },
+  {
+    "title": "Navigating a Spreadsheet",
+    "content": "<ul>\n<li><strong>Using the Mouse:</strong> Click on cells to select them.</li>\n<li><strong>Using the Arrow Keys:</strong> Move the active cell up, down, left, or right.</li>\n<li><strong>Using the Tab Key:</strong> Move to the next cell to the right.</li>\n<li><strong>Using Enter Key:</strong> Move to the next cell below.</li>\n<li><strong>Scroll Bars:</strong> Use the horizontal and vertical scroll bars to navigate large spreadsheets.</li>\n</ul>\n"
+  },
+  {
+    "title": "Entering Data",
+    "content": "<ul>\n<li><strong>Select a Cell:</strong> Click on the cell where you want to enter data.</li>\n<li><strong>Type Your Data:</strong> Enter text, numbers, dates, or formulas.</li>\n<li><strong>Press Enter:</strong> This confirms your entry and moves to the next cell below.</li>\n<li><strong>Edit a Cell:</strong> Double-click on a cell to edit its contents or select cell and press F2.</li>\n</ul>\n"
+  },
+  {
+    "title": "Data Types",
+    "content": "<p>Spreadsheets can handle different types of data:</p>\n<ul>\n<li><strong>Text (Labels):</strong> Names, addresses, descriptions.</li>\n<li><strong>Numbers:</strong> Values used for calculations.</li>\n<li><strong>Dates:</strong> Specific dates and times.</li>\n<li><strong>Currency:</strong> Monetary values.</li>\n<li><strong>Percentages:</strong> Values representing a proportion out of 100.</li>\n</ul>\n"
+  },
+  {
+    "title": "Basic Formulas: Addition",
+    "content": "<p>Formulas always start with an equals sign (=).</p>\n<p>To add the values in cells A1 and B1:</p>\n<ol>\n<li>Select the cell where you want the result (e.g., C1).</li>\n<li>Type <code>=A1+B1</code></li>\n<li>Press Enter.  The cell C1 will now display the sum of A1 and B1.  If A1=5 and B1=10, C1 will display 15.</li>\n</ol>\n"
+  },
+  {
+    "title": "Basic Formulas: Subtraction, Multiplication, Division",
+    "content": "<ul>\n<li><strong>Subtraction:</strong> <code>=A1-B1</code></li>\n<li><strong>Multiplication:</strong> <code>=A1*B1</code> (asterisk * is used for multiplication)</li>\n<li><strong>Division:</strong> <code>=A1/B1</code> (forward slash / is used for division)</li>\n</ul>\n<p>You can combine these operators in a single formula, following the order of operations (PEMDAS/BODMAS).</p>\n"
+  },
+  {
+    "title": "Using Functions: SUM",
+    "content": "<p>Functions are pre-built formulas that perform specific calculations.</p>\n<p>The <code>SUM</code> function adds a range of cells together:</p>\n<ol>\n<li>Select the cell where you want the sum.</li>\n<li>Type <code>=SUM(A1:A5)</code>  This adds the values in cells A1 through A5.</li>\n<li>Press Enter.</li>\n</ol>\n"
+  },
+  {
+    "title": "Other Useful Functions",
+    "content": "<ul>\n<li><strong>AVERAGE:</strong> <code>=AVERAGE(A1:A5)</code> Calculates the average of a range.</li>\n<li><strong>MIN:</strong> <code>=MIN(A1:A5)</code>  Finds the smallest value in a range.</li>\n<li><strong>MAX:</strong> <code>=MAX(A1:A5)</code>  Finds the largest value in a range.</li>\n<li><strong>COUNT:</strong> <code>=COUNT(A1:A5)</code> Counts the number of cells with numerical values in a range.</li>\n</ul>\n"
+  },
+  {
+    "title": "Formatting Data: Number Formatting",
+    "content": "<p>You can change how numbers are displayed:</p>\n<ul>\n<li><strong>Currency:</strong> Add dollar signs and decimal places ($10.00).</li>\n<li><strong>Percentage:</strong> Display as a percentage (10%).</li>\n<li><strong>Decimal Places:</strong> Increase or decrease the number of decimal places.</li>\n<li><strong>Thousands Separator:</strong> Add commas to large numbers (1,000,000).</li>\n</ul>\n"
+  },
+  {
+    "title": "Formatting Data: Text Formatting",
+    "content": "<ul>\n<li><strong>Font:</strong> Change the font type, size, and color.</li>\n<li><strong>Bold, Italic, Underline:</strong> Emphasize text.</li>\n<li><strong>Alignment:</strong> Align text to the left, center, or right of the cell.</li>\n<li><strong>Wrap Text:</strong>  Make text fit within a cell by wrapping it to multiple lines.</li>\n<li><strong>Merge Cells:</strong> Combine multiple cells into one larger cell.</li>\n</ul>\n"
+  },
+  {
+    "title": "Cell Borders and Shading",
+    "content": "<ul>\n<li><strong>Borders:</strong> Add lines around cells to visually separate them.</li>\n<li><strong>Shading:</strong> Fill cells with color to highlight them.</li>\n</ul>\n<p>These formatting options can significantly improve the readability of your spreadsheet.</p>\n"
+  },
+  {
+    "title": "Creating a Basic Chart",
+    "content": "<p>Spreadsheets make it easy to create charts from your data.</p>\n<ol>\n<li><strong>Select Your Data:</strong> Choose the cells containing the data you want to chart.</li>\n<li><strong>Insert Chart:</strong> Go to the &#39;Insert&#39; tab and choose a chart type (e.g., column chart, pie chart).</li>\n<li><strong>Customize:</strong> Modify the chart&#39;s title, axes labels, and colors.</li>\n</ol>\n"
+  },
+  {
+    "title": "Common Chart Types",
+    "content": "<ul>\n<li><strong>Column Chart:</strong> Compares values across categories.</li>\n<li><strong>Pie Chart:</strong> Shows proportions of a whole.</li>\n<li><strong>Line Chart:</strong> Shows trends over time.</li>\n<li><strong>Bar Chart:</strong> Similar to a column chart, but horizontal.</li>\n<li><strong>Scatter Plot:</strong> Shows the relationship between two sets of data.</li>\n</ul>\n"
+  },
+  {
+    "title": "Working with Multiple Sheets",
+    "content": "<p>Workbooks can contain multiple worksheets, allowing you to organize different sets of data in a single file.</p>\n<ul>\n<li><strong>Adding a Sheet:</strong> Click the &#39;+&#39; icon (usually at the bottom of the screen) to add a new sheet.</li>\n<li><strong>Renaming a Sheet:</strong> Double-click the sheet tab to rename it.</li>\n<li><strong>Moving/Copying Sheets:</strong> Right-click the sheet tab to move or copy it.</li>\n</ul>\n"
+  },
+  {
+    "title": "Copying and Pasting",
+    "content": "<ul>\n<li><strong>Copying Cells:</strong> Select the cells, press Ctrl+C (or Cmd+C on Mac), or right-click and select &#39;Copy&#39;.</li>\n<li><strong>Pasting Cells:</strong> Select the destination cell(s), press Ctrl+V (or Cmd+V on Mac), or right-click and select &#39;Paste&#39;.</li>\n<li><strong>Paste Special:</strong> Offers options to paste only values, formulas, or formatting.</li>\n</ul>\n"
+  },
+  {
+    "title": "Using Formulas Across Sheets",
+    "content": "<p>You can reference cells on other sheets in your formulas. </p>\n<p>The syntax is: <code>SheetName!CellReference</code>.</p>\n<p>For example, to add the value in cell A1 of Sheet2 to cell B1 of the current sheet, you would type: <code>=B1+Sheet2!A1</code></p>\n"
+  },
+  {
+    "title": "Filtering Data",
+    "content": "<p>Filtering allows you to display only rows that meet certain criteria.</p>\n<ol>\n<li><strong>Select Your Data:</strong>  Select the range of cells containing the data you want to filter.</li>\n<li><strong>Apply Filter:</strong> Go to the &#39;Data&#39; tab and click &#39;Filter&#39;.</li>\n<li><strong>Use Filter Arrows:</strong> Click the dropdown arrows in the column headers to choose your filter criteria.</li>\n</ol>\n"
+  },
+  {
+    "title": "Sorting Data",
+    "content": "<p>Sorting arranges your data in ascending or descending order based on the values in a column.</p>\n<ol>\n<li><strong>Select Your Data:</strong> Choose the data you want to sort.</li>\n<li><strong>Sort Option:</strong> Under the data tab, click the sort icon. </li>\n<li><strong>Decide the order:</strong> Select what order to sort by.</li>\n</ol>\n"
+  },
+  {
+    "title": "Freezing Panes",
+    "content": "<p>Freezing Panes allows you to lock rows or columns in place while you scroll through the rest of the spreadsheet, it&#39;s great for large sets of data.</p>\n<ol>\n<li><strong>View Tab:</strong> Go to the view tab.</li>\n<li><strong>Freeze Panes:</strong> You can freeze the top row, first column, or select cells to keep visible.</li>\n</ol>\n"
+  },
+  {
+    "title": "Data Validation",
+    "content": "<p>Data validation can prevent unwanted data from being entered by restricting the values that are allowed in a cell. For example, you may only want a cell to accept a date or time.</p>\n<ol>\n<li><strong>Go to Data Tab</strong></li>\n<li><strong>Data Validation</strong> Click the Data Validation tab and set parameters for acceptable input.</li>\n</ol>\n"
+  },
+  {
+    "title": "Congratulations!",
+    "content": "<p>You&#39;ve completed the Spreadsheet Basics tutorial! You now have a foundation for using spreadsheets to organize, analyze, and visualize data.  Keep practicing and exploring to unlock the full potential of these powerful tools. Good Luck!</p>\n"
+  }
+]

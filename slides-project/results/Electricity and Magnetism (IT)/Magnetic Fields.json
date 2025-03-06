@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Magnetic Fields: An Introduction",
+    "content": "<p>Welcome! This presentation covers the fundamentals of magnetic fields, including:</p>\n<ul>\n<li>What are magnetic fields?</li>\n<li>Sources of magnetic fields</li>\n<li>Magnetic field lines</li>\n<li>Magnetic force on moving charges</li>\n<li>Applications of magnetic fields</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Magnetic Fields?",
+    "content": "<p>A magnetic field is a region around a magnet or moving electric charge within which a magnetic force is exerted.  It&#39;s an invisible force field!  </p>\n<p>Think of it like gravity, but instead of acting on mass, it acts on magnets and moving charges.</p>\n"
+  },
+  {
+    "title": "Sources of Magnetic Fields: Permanent Magnets",
+    "content": "<p>Permanent magnets, like the ones on your fridge, create magnetic fields due to the intrinsic magnetic moments of their atoms.  These atomic magnets align within the material, creating a net magnetic field.  </p>\n<ul>\n<li>Examples: Bar magnets, horseshoe magnets, neodymium magnets</li>\n</ul>\n"
+  },
+  {
+    "title": "Sources of Magnetic Fields: Electric Currents",
+    "content": "<p>A key fact: <strong>Moving electric charges create magnetic fields!</strong>  </p>\n<p>This means an electric current flowing through a wire generates a magnetic field around the wire.  </p>\n<ul>\n<li>The strength of the field is proportional to the current.</li>\n<li>The direction of the field follows the right-hand rule (more on that later!).</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Field Lines",
+    "content": "<p>Magnetic field lines are a visual representation of a magnetic field.</p>\n<ul>\n<li>They show the direction the north pole of a compass needle would point.</li>\n<li>They emerge from the north pole of a magnet and enter the south pole.</li>\n<li>The closer the lines, the stronger the field.</li>\n<li>They never cross each other.</li>\n</ul>\n"
+  },
+  {
+    "title": "Visualizing Field Lines: Bar Magnet",
+    "content": "<p>Imagine a bar magnet. The field lines:</p>\n<ul>\n<li>Emerge from the north pole.</li>\n<li>Curve around and enter the south pole.</li>\n<li>Are more concentrated near the poles, indicating a stronger field.</li>\n</ul>\n"
+  },
+  {
+    "title": "Visualizing Field Lines: Current-Carrying Wire",
+    "content": "<p>For a straight wire carrying current, the magnetic field lines form concentric circles around the wire.</p>\n<ul>\n<li>Use the <strong>right-hand rule:</strong> Point your thumb in the direction of the current, and your fingers curl in the direction of the magnetic field.</li>\n</ul>\n"
+  },
+  {
+    "title": "The Right-Hand Rule",
+    "content": "<p>The right-hand rule is crucial for determining the direction of magnetic fields and forces.</p>\n<ul>\n<li><strong>Field around a wire:</strong> Thumb points along current, fingers curl in direction of the field.</li>\n<li><strong>Force on a charge:</strong> Thumb points along velocity (v), fingers along magnetic field (B), palm points in the direction of the force (F) on a positive charge.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Force on a Moving Charge",
+    "content": "<p>A moving electric charge experiences a force in a magnetic field. This force is:</p>\n<ul>\n<li>Proportional to the charge (q).</li>\n<li>Proportional to the velocity (v) of the charge.</li>\n<li>Proportional to the strength of the magnetic field (B).</li>\n<li>Perpendicular to both the velocity and the magnetic field.  Described by the formula: <strong>F = qvBsin(θ)</strong>, where θ is the angle between v and B.</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Force Example",
+    "content": "<p>Imagine a positive charge moving to the right in a magnetic field pointing upwards.  Using the right-hand rule, the magnetic force on the charge will be directed out of the page (towards you).</p>\n"
+  },
+  {
+    "title": "Force on a Current-Carrying Wire",
+    "content": "<p>Since a current is just moving charges, a current-carrying wire also experiences a force in a magnetic field.</p>\n<ul>\n<li>The force is perpendicular to both the current and the magnetic field.</li>\n<li>The magnitude of the force is F = ILBsin(θ), where I is the current, L is the length of the wire, B is the magnetic field strength, and θ is the angle between L and B.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications: Electric Motors",
+    "content": "<p>Electric motors use the magnetic force on current-carrying wires to create rotational motion.</p>\n<ul>\n<li>A current-carrying loop is placed in a magnetic field.</li>\n<li>The force on the loop causes it to rotate.</li>\n<li>A commutator reverses the current direction periodically to maintain continuous rotation.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications: Magnetic Resonance Imaging (MRI)",
+    "content": "<p>MRI uses strong magnetic fields and radio waves to create detailed images of the human body.</p>\n<ul>\n<li>The magnetic field aligns the nuclear spins of atoms in the body.</li>\n<li>Radio waves are used to excite these atoms.</li>\n<li>The signals emitted by the atoms are used to create an image.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications: Mass Spectrometry",
+    "content": "<p>Mass spectrometry uses magnetic fields to separate ions based on their mass-to-charge ratio.</p>\n<ul>\n<li>Ions are accelerated through a magnetic field.</li>\n<li>The magnetic force causes them to follow a curved path.</li>\n<li>The radius of the path depends on the mass-to-charge ratio.</li>\n</ul>\n"
+  },
+  {
+    "title": "Applications: Particle Accelerators",
+    "content": "<p>Particle accelerators use strong magnetic fields to keep charged particles moving in circular paths at very high speeds. These accelerated particles are then used to study the fundamental constituents of matter.</p>\n"
+  },
+  {
+    "title": "Earth's Magnetic Field",
+    "content": "<p>The Earth has a magnetic field that protects us from harmful solar radiation.</p>\n<ul>\n<li>Generated by the movement of molten iron in the Earth&#39;s core.</li>\n<li>Acts like a giant bar magnet.</li>\n<li>Deflects charged particles from the sun (solar wind).</li>\n</ul>\n"
+  },
+  {
+    "title": "Magnetic Declination",
+    "content": "<p>Magnetic declination is the angle between true north and magnetic north.  This difference needs to be considered when using a compass for navigation.</p>\n"
+  },
+  {
+    "title": "Magnetic Materials",
+    "content": "<p>Materials respond differently to magnetic fields. They are broadly classified into:</p>\n<ul>\n<li><strong>Ferromagnetic:</strong> Strongly attracted to magnets (e.g., iron, nickel, cobalt).</li>\n<li><strong>Paramagnetic:</strong> Weakly attracted to magnets (e.g., aluminum, platinum).</li>\n<li><strong>Diamagnetic:</strong> Weakly repelled by magnets (e.g., copper, water).</li>\n</ul>\n"
+  },
+  {
+    "title": "Ferromagnetism: Domains",
+    "content": "<p>Ferromagnetic materials have regions called domains, where atomic magnetic moments are aligned. When an external magnetic field is applied, these domains align with the field, creating a strong magnetic effect.</p>\n"
+  },
+  {
+    "title": "Hysteresis",
+    "content": "<p>Hysteresis refers to the lagging of the magnetization of a ferromagnetic material behind changes in the magnetizing force. This property is important in applications like magnetic recording.</p>\n"
+  },
+  {
+    "title": "Electromagnets",
+    "content": "<p>An electromagnet is a type of magnet in which the magnetic field is produced by an electric current. They are commonly used in motors, generators, and other devices requiring controllable magnetic fields.</p>\n"
+  },
+  {
+    "title": "Solenoids and Toroids",
+    "content": "<p>Solenoids and toroids are specific coil arrangements used to create uniform magnetic fields. Solenoids are straight coils, while toroids are coils bent into a donut shape.</p>\n"
+  },
+  {
+    "title": "Magnetic Flux",
+    "content": "<p>Magnetic flux (Φ) is a measure of the quantity of magnetism, being the number of magnetic field lines passing through a given surface.  It&#39;s calculated as Φ = B * A * cos(θ), where A is the area and θ is the angle between the field and the normal to the area.</p>\n"
+  },
+  {
+    "title": "Magnetism and Relativity",
+    "content": "<p>Interestingly, magnetism is a relativistic effect!  It arises from the way electric fields transform between different reference frames when dealing with moving charges at speeds close to the speed of light.  A deeper understanding requires special relativity.</p>\n"
+  },
+  {
+    "title": "Superconductivity and Magnetic Fields",
+    "content": "<p>Superconductors exhibit unique magnetic properties, including the Meissner effect, where they expel all magnetic fields from their interior. This allows them to levitate magnets!</p>\n"
+  },
+  {
+    "title": "Beyond the Basics",
+    "content": "<p>We&#39;ve covered the fundamentals.  There&#39;s much more to explore:</p>\n<ul>\n<li>Maxwell&#39;s Equations (the foundation of electromagnetism)</li>\n<li>Magnetic monopoles (hypothetical particles with only a north or south pole)</li>\n<li>Advanced materials science</li>\n<li>Plasma physics</li>\n</ul>\n"
+  },
+  {
+    "title": "Summary",
+    "content": "<p>Key takeaways:</p>\n<ul>\n<li>Magnetic fields are created by moving charges and permanent magnets.</li>\n<li>Magnetic fields exert forces on moving charges and other magnets.</li>\n<li>The right-hand rule is essential for determining directions.</li>\n<li>Magnetic fields have numerous applications in technology and science.</li>\n</ul>\n"
+  },
+  {
+    "title": "Questions?",
+    "content": "<p>Thank you for your attention!  Are there any questions?</p>\n"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Introduction to Electric Potential",
+      "caption": "What is electric potential? Imagine a hill. It takes energy to push a ball uphill, right? Electric potential is similar! It's the energy needed to bring a positive charge to a specific point in an electric field. Think of it as electrical 'height'.",
+      "prompt": "A 3D rendered landscape with a rolling green hill. A small, glowing ball is being pushed uphill by an unseen force. Subtle electric field lines emanate upwards from the hill, visualized as faint, glowing strands."
+    },
+    {
+      "title": "Electric Potential and Energy",
+      "caption": "The higher the electric potential, the more potential energy a charge has at that point. If we release that charge, it will move from high potential to low potential, converting potential energy into kinetic energy! Like a ball rolling downhill.",
+      "prompt": "The same 3D hill landscape. The glowing ball is now at the top of the hill and is starting to roll down, gaining speed. A meter displays increasing kinetic energy as the ball descends."
+    },
+    {
+      "title": "Electric Potential Difference",
+      "caption": "We usually talk about the *difference* in electric potential between two points. This is called voltage! Voltage tells us how much work is needed to move a charge from one point to another. It's the 'electrical push'!",
+      "prompt": "Two vertical metal plates, one labeled '+' and the other '-'. A voltmeter is connected between them, displaying a voltage reading (e.g., 5V). A small, positive charge is depicted moving between the plates."
+    },
+    {
+      "title": "Visualizing Equipotential Lines",
+      "caption": "Imagine lines connecting points with the same electric potential. These are equipotential lines! Moving a charge along these lines requires no work because the potential doesn't change. They're like contour lines on a map!",
+      "prompt": "A 2D illustration showing a point charge in the center. Concentric circles (equipotential lines) are drawn around it, each with a different voltage value labeled (e.g., 1V, 2V, 3V). Electric field lines radiate outward from the central charge, perpendicular to the circles."
+    },
+    {
+      "title": "Electric Potential Around a Charged Sphere",
+      "caption": "Let's consider a charged sphere. The electric potential is highest at the surface and decreases as you move away. Think of it as ripples expanding from a stone dropped in water, but in three dimensions!",
+      "prompt": "A 3D rendered, glowing sphere. Faint concentric spheres surround it, visualizing the decreasing electric potential with distance. The intensity of the glow diminishes further away from the central sphere."
+    },
+    {
+      "title": "Electric Potential and Capacitance",
+      "caption": "Capacitors store electrical energy by creating an electric field between two conductors. The amount of charge a capacitor can store at a given voltage is called its capacitance! It's like a bucket holding water, voltage is the water height, capacitance is bucket size and charge is amount of water it hold",
+      "prompt": "A simple capacitor consisting of two parallel plates. A battery symbol is connected to the plates, showing the charging process. Electric field lines are shown between the plates, and a label indicates the capacitance value."
+    },
+    {
+      "title": "Electric Potential in a Circuit",
+      "caption": "Electric potential is crucial in circuits. Current flows from high potential to low potential. A battery provides the potential difference to drive the current. The greater the voltage, the greater the current flowing through circuit elements.",
+      "prompt": "Simple circuit diagram showing a battery connected to a resistor. Arrows indicate the direction of current flow. Voltage drops are labeled across the resistor and battery."
+    },
+    {
+      "title": "Applications of Electric Potential",
+      "caption": "Electric potential is essential in countless applications! From powering our homes to enabling medical imaging, understanding it allows us to harness the power of electricity to improve our lives. It's the foundation of electrical engineering!",
+      "prompt": "A collage of images representing various applications of electricity: a light bulb, a mobile phone, a computer, a MRI machine, and a power grid, all subtly glowing to emphasize their reliance on electric potential."
+    },
+    {
+      "title": "Why Electric Potential Matters",
+      "caption": "Understanding electric potential allows us to manipulate and control electricity. It's the unseen force that powers our modern world. By grasping its principles, we unlock endless possibilities in science and technology.",
+      "prompt": "A stylized brain with electric field lines flowing through it, symbolizing the connection between understanding electric potential and unlocking new ideas and technologies. A circuit board with pathways lit up with glowing lines."
+    }
+  ]
+]

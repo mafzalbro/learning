@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "E-commerce Website Mockup on a Laptop Screen",
+      "caption": "Welcome to E-commerce Basics! First, understand your target audience. Who are you selling to? Next, build a user-friendly website. Easy navigation is key. Then, showcase your products with high-quality images. Don't forget secure payment gateways. Finally, market your store effectively online. Start selling today!",
+      "prompt": "A laptop displaying a clean, modern e-commerce website mockup. Include various product categories, a search bar, and a shopping cart icon. The overall aesthetic should be inviting and trustworthy, with a focus on ease of use."
+    },
+    {
+      "title": "Product Photography Setup",
+      "caption": "Great product photos drive sales! Use good lighting. Natural light is best, but artificial light works too. Get a clean background. White or neutral is ideal. Show different angles. Highlight key features. Finally, edit your photos carefully. Make them pop!",
+      "prompt": "A small studio setup for product photography. Include a light box, a camera on a tripod, and a neutral background. A single product (e.g., a coffee mug or a small plant) should be in focus, demonstrating proper lighting and composition."
+    },
+    {
+      "title": "Shopping Cart Interface",
+      "caption": "The shopping cart: where sales happen! Make it easy to view items. Clearly display prices and quantities. Offer easy modification options. Don't hide shipping costs! Provide clear payment options. A smooth checkout process boosts conversions.",
+      "prompt": "A close-up view of a shopping cart interface on a desktop computer. Show items listed with clear prices, quantities, and 'remove' buttons. Include a prominent 'Proceed to Checkout' button and a visible shipping cost calculation."
+    },
+    {
+      "title": "Secure Payment Gateway Logos",
+      "caption": "Security is paramount. Choose a trusted payment gateway. Offer multiple payment options. Display security badges prominently. Protect customer data. Build trust and avoid fraud!",
+      "prompt": "A collection of well-known and trusted payment gateway logos (e.g., PayPal, Stripe, Visa, Mastercard) arranged in a clean, professional manner. The logos should be easily recognizable and evoke a sense of security."
+    },
+    {
+      "title": "E-commerce Shipping and Packaging",
+      "caption": "Efficient shipping is crucial! Choose the right packaging. Optimize for size and weight. Offer tracking information. Provide estimated delivery times. Handle returns professionally. Keep your customers happy!",
+      "prompt": "A neatly packaged e-commerce order ready for shipping. Include a cardboard box with a shipping label, packing materials, and a glimpse of the product inside. Emphasize organization and attention to detail."
+    },
+    {
+      "title": "Mobile E-commerce App Interface",
+      "caption": "Mobile is essential. Optimize your site for mobile. Consider a mobile app. Make it easy to browse and buy. Simplify the checkout process. Reach customers on the go!",
+      "prompt": "A smartphone displaying a user-friendly e-commerce app interface. Show product listings, a search bar, and a clear call to action (e.g., 'Add to Cart' button). The design should be clean and intuitive for mobile users."
+    },
+    {
+      "title": "Customer Service Chat Window",
+      "caption": "Excellent customer service matters! Offer multiple contact options. Respond promptly and professionally. Resolve issues efficiently. Build strong customer relationships. Happy customers are repeat customers!",
+      "prompt": "A screenshot of a live chat window on an e-commerce website. Show a customer asking a question and a customer service representative providing a helpful response. The chat window should look clean and modern."
+    },
+    {
+      "title": "Social Media Marketing for E-commerce",
+      "caption": "Social media drives traffic! Use relevant hashtags. Engage with your audience. Run targeted ads. Share compelling content. Build a strong online presence!",
+      "prompt": "A collage of social media posts promoting an e-commerce store. Include images of products, engaging captions, and relevant hashtags. Showcase different social media platforms (e.g., Instagram, Facebook, Twitter)."
+    },
+    {
+      "title": "Analyzing E-commerce Analytics Dashboard",
+      "caption": "Track your performance. Use analytics tools. Monitor website traffic. Analyze sales data. Identify trends and opportunities. Optimize your strategy for growth!",
+      "prompt": "A computer screen displaying an e-commerce analytics dashboard. Show key metrics like website traffic, conversion rates, and sales figures. The dashboard should be visually appealing and easy to understand."
+    }
+  ]
+]

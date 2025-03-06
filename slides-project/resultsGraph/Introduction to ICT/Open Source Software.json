@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Code Growing from a Seedling",
+      "caption": "Open source: it's like a garden. Anyone can plant, anyone can nurture, and together we grow something amazing. It starts with a seed, an idea. Then, developers contribute, like sunshine and rain, making it stronger. The code flourishes, benefiting everyone. Join the open source garden. Let's cultivate innovation together.",
+      "prompt": "A stylized image of a seedling growing out of a computer keyboard. The seedling's leaves are stylized representations of code snippets (e.g., curly braces, tags, etc.). The background is a blurred, vibrant cityscape suggesting a connected world."
+    },
+    {
+      "title": "Hands Building a Digital Puzzle",
+      "caption": "Software built by many. That's open source. Imagine a puzzle. Each person adds a piece, improving the image. No single owner, just shared effort. This collaboration creates powerful tools. Join the open source movement. Contribute your piece to the puzzle.",
+      "prompt": "An overhead shot of multiple diverse hands working together to assemble a glowing digital jigsaw puzzle. Each puzzle piece is a different color and subtly displays a common programming language logo (e.g., Python, JavaScript). The background is dark and unobtrusive."
+    },
+    {
+      "title": "Open Source Lighthouse",
+      "caption": "A beacon of innovation. That's open source software. Like a lighthouse guiding ships, it illuminates possibilities. Transparent code allows others to see and improve. It ensures safety and reliability. Open source: a guiding light for the digital age.",
+      "prompt": "A lighthouse on a rocky coast. The lighthouse beam is a bright, stylized stream of binary code. The waves crashing against the rocks are represented by abstract shapes and colors. The sky is a deep blue with stylized constellations resembling programming symbols."
+    },
+    {
+      "title": "Global Network of Developers",
+      "caption": "Connecting the world, one line of code at a time. Open source knows no borders. Developers collaborate from every corner of the globe. Sharing ideas, solving problems together. It fosters innovation and drives progress. Open source: a global community built on code.",
+      "prompt": "A world map constructed from glowing interconnected lines of code. The lines are brightest in areas with high concentrations of developers. Small icons representing different programming languages float above the map."
+    },
+    {
+      "title": "Evolution of Open Source Logos",
+      "caption": "From humble beginnings to world-changing impact. Open source has evolved. It's grown from small projects to massive movements. Driven by collaboration and community. Shaping the digital landscape. Open source: a story of continuous growth.",
+      "prompt": "A timeline depicting the evolution of iconic open-source project logos (e.g., Linux Penguin, Firefox, Apache). The logos transition seamlessly from their earlier, simpler versions to their current, more refined forms. The background represents a technological evolution through abstract shapes."
+    },
+    {
+      "title": "Lock Opening with a Key of Code",
+      "caption": "Unlock your potential with open source. It's freedom and access. No restrictions, just endless possibilities. Learn, modify, and distribute. Create something new. Open source: the key to innovation.",
+      "prompt": "A stylized padlock being unlocked by a key made of binary code. The padlock is silver and represents proprietary software. The binary code key is gold and glowing, symbolizing open-source accessibility. The background is a gradient from dark to light."
+    },
+    {
+      "title": "Stack of Open Source Blocks",
+      "caption": "Building the future, brick by brick. Open source provides the foundation. Each project a building block. Together, they create powerful systems. Collaborative, adaptable, and free. Open source: the building blocks of tomorrow.",
+      "prompt": "A stack of colorful, abstract blocks resembling LEGOs. Each block has a different open-source logo subtly imprinted on its surface (e.g., GitHub, Creative Commons). The blocks are arranged in a stable, ascending tower."
+    },
+    {
+      "title": "Open Source Galaxy",
+      "caption": "Explore the universe of open source. A vast and expanding ecosystem. Countless projects, endless possibilities. Discover new tools, contribute your ideas. Open source: a galaxy of innovation.",
+      "prompt": "A stylized image of a galaxy, where the stars and nebulae are replaced with abstract representations of open-source projects and their communities. Different colors represent different programming languages and fields of application. The Milky Way is a flowing stream of binary code."
+    },
+    {
+      "title": "Open Source Gear Mechanism",
+      "caption": "Working together, perfectly in sync. That's open source collaboration. Each component plays a vital role. Sharing knowledge, driving progress. A well-oiled machine of innovation. Open source: a collaborative ecosystem.",
+      "prompt": "A complex gear mechanism, where each gear is labeled with an open-source concept (e.g., collaboration, transparency, community). The gears are made of a reflective metal and are perfectly meshed, illustrating how open source components work together seamlessly. The background is a blueprint-style diagram."
+    }
+  ]
+]

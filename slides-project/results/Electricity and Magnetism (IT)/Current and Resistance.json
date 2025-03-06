@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Current and Resistance: An Introduction",
+    "content": "<p>Welcome! This presentation will cover:</p>\n<ul>\n<li><strong>Electric Current:</strong> What it is and how it flows.</li>\n<li><strong>Resistance:</strong> Understanding opposition to current flow.</li>\n<li><strong>Ohm&#39;s Law:</strong> The fundamental relationship between voltage, current, and resistance.</li>\n<li><strong>Resistors:</strong> Common components and their applications.</li>\n<li><strong>Power in Circuits:</strong> Calculating electrical power consumption.</li>\n</ul>\n"
+  },
+  {
+    "title": "What is Electric Current?",
+    "content": "<p>Electric current is the <strong>flow of electric charge</strong>.  Think of it like water flowing through a pipe.  </p>\n<ul>\n<li><strong>Charge Carriers:</strong>  Usually, this charge is carried by electrons moving through a conductor (like a metal wire).</li>\n<li><strong>Measured in Amperes (A):</strong> 1 Ampere = 1 Coulomb of charge flowing per second.</li>\n<li><strong>Conventional Current:</strong>  We use the concept of <em>conventional current</em>, which is defined as the flow of positive charge (even though electrons are negative). This is a historical convention.</li>\n<li><strong>Direction:</strong> Conventional current flows from positive (+) to negative (-) terminals.</li>\n</ul>\n"
+  },
+  {
+    "title": "Drift Velocity",
+    "content": "<p>Electrons don&#39;t move in a straight line; they &#39;drift&#39; through the conductor due to collisions with atoms.  </p>\n<ul>\n<li><strong>Slow Movement:</strong> The <em>drift velocity</em> is surprisingly slow, typically just fractions of a millimeter per second.</li>\n<li><strong>Electric Field:</strong> What makes them move? An electric field established in the conductor by the voltage source.</li>\n</ul>\n"
+  },
+  {
+    "title": "Resistance: Opposition to Current Flow",
+    "content": "<p>Resistance is the property of a material that opposes the flow of electric current.</p>\n<ul>\n<li><strong>Think of it like friction:</strong>  The higher the resistance, the harder it is for current to flow.</li>\n<li><strong>Measured in Ohms (Ω):</strong>  A higher Ohm value means higher resistance.</li>\n<li><strong>Factors Affecting Resistance:</strong><ul>\n<li>Material of the conductor (e.g., copper has low resistance, rubber has high resistance).</li>\n<li>Length of the conductor (longer = higher resistance).</li>\n<li>Cross-sectional area of the conductor (thicker = lower resistance).</li>\n<li>Temperature (usually, higher temperature = higher resistance).</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Ohm's Law: The Foundation",
+    "content": "<p>Ohm&#39;s Law describes the relationship between voltage (V), current (I), and resistance (R):</p>\n<p><strong>V = I * R</strong></p>\n<ul>\n<li><strong>Voltage (V):</strong> The electrical potential difference (measured in Volts). It&#39;s the &#39;push&#39; that drives the current.</li>\n<li><strong>Current (I):</strong> The flow of electric charge (measured in Amperes).</li>\n<li><strong>Resistance (R):</strong> The opposition to current flow (measured in Ohms).</li>\n</ul>\n<p><strong>Example:</strong> If a resistor has a resistance of 10 Ohms and a voltage of 5 Volts is applied across it, the current flowing through it will be 0.5 Amperes (I = V/R = 5/10 = 0.5).</p>\n"
+  },
+  {
+    "title": "Visualizing Ohm's Law",
+    "content": "<p>Imagine a water hose.</p>\n<ul>\n<li><strong>Voltage (V):</strong> is like the water pressure.</li>\n<li><strong>Current (I):</strong> is like the amount of water flowing through the hose.</li>\n<li><strong>Resistance (R):</strong> is like squeezing the hose – it restricts the flow.</li>\n</ul>\n<p>More pressure (voltage) = More flow (current).\nMore squeezing (resistance) = Less flow (current).</p>\n"
+  },
+  {
+    "title": "Resistors: Circuit Components",
+    "content": "<p>Resistors are components designed to provide a specific amount of resistance in a circuit.</p>\n<ul>\n<li><strong>Color Codes:</strong> Resistors are often marked with color bands that indicate their resistance value and tolerance (accuracy).</li>\n<li><strong>Types of Resistors:</strong><ul>\n<li>Fixed Resistors: Have a single, unchanging resistance value.</li>\n<li>Variable Resistors (Potentiometers/Rheostats): Resistance can be adjusted.</li>\n</ul>\n</li>\n<li><strong>Applications:</strong><ul>\n<li>Current limiting.</li>\n<li>Voltage division.</li>\n<li>Pull-up/pull-down resistors in digital circuits.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Resistor Color Codes (Simplified)",
+    "content": "<p>While a full understanding requires a table, here&#39;s a basic overview:</p>\n<ul>\n<li>Each color represents a number (0-9).</li>\n<li>The first few bands give the resistance value.</li>\n<li>The last band indicates the tolerance (e.g., 5% tolerance means the actual resistance can be within 5% of the indicated value).</li>\n</ul>\n<p><strong>Common Colors:</strong>\nBlack (0), Brown (1), Red (2), Orange (3), Yellow (4), Green (5), Blue (6), Violet (7), Gray (8), White (9)</p>\n<p><strong>Example:</strong>  A resistor with bands Brown, Black, Red, Gold would be 10 * 10^2  = 1000 Ohms (1 kΩ) with a 5% tolerance.</p>\n"
+  },
+  {
+    "title": "Series and Parallel Resistors",
+    "content": "<p>Resistors can be connected in two basic configurations:</p>\n<ul>\n<li><strong>Series:</strong> Resistors are connected end-to-end, so the same current flows through each resistor.<ul>\n<li><strong>Total Resistance (R_total):</strong> R_total = R1 + R2 + R3 + ...</li>\n</ul>\n</li>\n<li><strong>Parallel:</strong> Resistors are connected side-by-side, so the voltage across each resistor is the same.<ul>\n<li><strong>Total Resistance (R_total):</strong> 1/R_total = 1/R1 + 1/R2 + 1/R3 + ...  (or R_total = (R1*R2)/(R1+R2) for two resistors)</li>\n</ul>\n</li>\n</ul>\n<p>Understanding series and parallel combinations is crucial for analyzing circuits.</p>\n"
+  },
+  {
+    "title": "Series Resistors: Current is Constant",
+    "content": "<p>In a series circuit, the current flowing through each resistor is the SAME.</p>\n<p>Think of it like a single lane road: all cars must travel through each part of the road.</p>\n<p>However, the voltage drops across each resistor will be different, depending on the resistor&#39;s value (V = I * R).</p>\n"
+  },
+  {
+    "title": "Parallel Resistors: Voltage is Constant",
+    "content": "<p>In a parallel circuit, the voltage across each resistor is the SAME.</p>\n<p>Think of it like multiple lanes on a highway: each car can choose a different lane (resistor), but they all experience the same overall journey (voltage).</p>\n<p>However, the current flowing through each resistor will be different, depending on the resistor&#39;s value (I = V / R).</p>\n"
+  },
+  {
+    "title": "Power in Circuits",
+    "content": "<p>Electrical power is the rate at which electrical energy is consumed or dissipated.</p>\n<ul>\n<li><strong>Measured in Watts (W):</strong> 1 Watt = 1 Joule per second.</li>\n<li><strong>Power Formula:</strong>  There are several ways to calculate power:<ul>\n<li><strong>P = V * I</strong> (Power = Voltage * Current)</li>\n<li><strong>P = I² * R</strong> (Power = Current squared * Resistance)</li>\n<li><strong>P = V² / R</strong> (Power = Voltage squared / Resistance)</li>\n</ul>\n</li>\n</ul>\n<p>Understanding power is crucial for circuit design and safety (preventing overheating).</p>\n"
+  },
+  {
+    "title": "Power Dissipation in Resistors",
+    "content": "<p>Resistors dissipate electrical power as heat.  The amount of heat depends on the power rating of the resistor.</p>\n<ul>\n<li><strong>Resistor Power Rating:</strong> Resistors are rated for the maximum power they can safely dissipate without overheating or failing (e.g., 1/4 Watt, 1/2 Watt, 1 Watt).</li>\n<li><strong>Choosing the Right Resistor:</strong>  It&#39;s important to choose a resistor with a power rating that is high enough for the expected power dissipation in the circuit.  Always give yourself some margin.</li>\n<li><strong>Excessive Power Dissipation:</strong>  If a resistor dissipates too much power, it can get very hot, change its resistance value, or even burn out.</li>\n</ul>\n"
+  },
+  {
+    "title": "Short Circuits",
+    "content": "<p>A short circuit is a low-resistance connection between two points in a circuit that are normally at different voltages.</p>\n<ul>\n<li><strong>Dangerous:</strong> Short circuits can cause a very large current to flow, which can damage components, start fires, and cause electric shock.</li>\n<li><strong>Cause:</strong> Often caused by faulty wiring, insulation failure, or accidental contact between conductors.</li>\n<li><strong>Protection:</strong> Fuses and circuit breakers are used to protect circuits from short circuits by interrupting the current flow.</li>\n</ul>\n"
+  },
+  {
+    "title": "Open Circuits",
+    "content": "<p>An open circuit is a break in the circuit, preventing current from flowing.</p>\n<ul>\n<li><strong>No Current Flow:</strong>  The resistance is effectively infinite.</li>\n<li><strong>Cause:</strong>  Broken wires, loose connections, or a blown fuse can create an open circuit.</li>\n<li><strong>Troubleshooting:</strong>  Open circuits are often easier to diagnose than short circuits.</li>\n</ul>\n"
+  },
+  {
+    "title": "Factors Affecting Resistance in Detail",
+    "content": "<p>Let&#39;s dive deeper into what influences resistance:</p>\n<ul>\n<li><strong>Material (Resistivity, ρ):</strong> Some materials are inherently better conductors than others.  Resistivity is a material property.  Low resistivity means good conductor.</li>\n<li><strong>Length (L):</strong>  The longer the conductor, the higher the resistance. Imagine a longer pipe requiring more effort to push water through.</li>\n<li><strong>Cross-sectional Area (A):</strong> The wider the conductor, the lower the resistance. A wider pipe allows more water to flow easily.</li>\n<li><strong>Temperature (T):</strong> For most conductors, resistance increases with temperature.  Higher temperature means more atomic vibrations, hindering electron flow.</li>\n</ul>\n<p><strong>Formula:</strong>  R = ρ * (L / A)</p>\n"
+  },
+  {
+    "title": "Temperature Dependence of Resistance",
+    "content": "<p>The resistance of most materials changes with temperature.</p>\n<ul>\n<li><strong>Conductors:</strong> Resistance typically <em>increases</em> with increasing temperature.  Think of the metal atoms vibrating more, obstructing electron flow.</li>\n<li><strong>Semiconductors:</strong> Resistance typically <em>decreases</em> with increasing temperature.  More electrons gain enough energy to become free charge carriers.</li>\n<li><strong>Thermistors:</strong> Special resistors designed to have a large and predictable change in resistance with temperature. Used in temperature sensing applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "Measuring Current and Voltage",
+    "content": "<p>To measure current and voltage, you need a multimeter.</p>\n<ul>\n<li><strong>Ammeter (for Current):</strong> An ammeter is connected in <em>series</em> with the circuit element you want to measure the current through.</li>\n<li><strong>Voltmeter (for Voltage):</strong> A voltmeter is connected in <em>parallel</em> with the circuit element you want to measure the voltage across.</li>\n<li><strong>Important Note:</strong> Always be careful when using a multimeter. Incorrect connections can damage the meter or the circuit.</li>\n</ul>\n"
+  },
+  {
+    "title": "Practical Applications of Current and Resistance",
+    "content": "<p>Current and resistance are fundamental to many technologies:</p>\n<ul>\n<li><strong>Electronics:</strong> Designing circuits for computers, smartphones, and other devices.</li>\n<li><strong>Electrical Power Distribution:</strong> Safely and efficiently delivering electricity to homes and businesses.</li>\n<li><strong>Heating Elements:</strong> Using resistance to generate heat in toasters, ovens, and electric heaters.</li>\n<li><strong>Sensors:</strong>  Using changes in resistance to measure physical quantities like temperature, pressure, and light.</li>\n</ul>\n"
+  },
+  {
+    "title": "Non-Ohmic Devices",
+    "content": "<p>Not all devices obey Ohm&#39;s Law perfectly.  These are called <em>non-ohmic</em> devices.</p>\n<ul>\n<li><strong>Diodes:</strong> Allow current to flow easily in one direction but block it in the opposite direction.</li>\n<li><strong>Transistors:</strong> Act as electronic switches or amplifiers.  Their behavior is more complex than simple resistance.</li>\n<li><strong>Filament Lamps:</strong> The resistance of the filament changes significantly with temperature, so the relationship between voltage and current is non-linear.</li>\n</ul>\n"
+  },
+  {
+    "title": "Safety Considerations",
+    "content": "<p>Working with electricity can be dangerous. Always follow these safety precautions:</p>\n<ul>\n<li><strong>Turn off power before working on circuits.</strong></li>\n<li><strong>Use insulated tools.</strong></li>\n<li><strong>Avoid working in wet environments.</strong></li>\n<li><strong>Never touch exposed wires.</strong></li>\n<li><strong>If you are not comfortable working with electricity, consult a qualified electrician.</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Superconductors",
+    "content": "<p>At very low temperatures, some materials exhibit <em>superconductivity</em>.</p>\n<ul>\n<li><strong>Zero Resistance:</strong> Superconductors have absolutely zero electrical resistance below a critical temperature.</li>\n<li><strong>Applications:</strong> High-field magnets (MRI machines), lossless power transmission (still under development).</li>\n</ul>\n"
+  },
+  {
+    "title": "Review and Summary",
+    "content": "<p>Let&#39;s recap what we&#39;ve covered:</p>\n<ul>\n<li><strong>Current:</strong> Flow of electric charge (Amperes).</li>\n<li><strong>Resistance:</strong> Opposition to current flow (Ohms).</li>\n<li><strong>Ohm&#39;s Law:</strong> V = I * R</li>\n<li><strong>Resistors:</strong> Components that provide resistance.</li>\n<li><strong>Power:</strong> Rate of energy consumption (Watts).</li>\n<li><strong>Series and Parallel Circuits:</strong>  Different ways to connect resistors.</li>\n<li><strong>Safety is Paramount!</strong></li>\n</ul>\n"
+  },
+  {
+    "title": "Further Learning",
+    "content": "<p>Want to learn more?</p>\n<ul>\n<li><strong>Online resources:</strong> Khan Academy, All About Circuits, and many others.</li>\n<li><strong>Textbooks:</strong> Introductory physics and electrical engineering textbooks.</li>\n<li><strong>Hands-on projects:</strong> Build simple circuits to experiment with current, resistance, and Ohm&#39;s Law.</li>\n</ul>\n<p>Thank you!</p>\n"
+  }
+]

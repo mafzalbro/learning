@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Deep Breathing Exercise Visualization",
+      "caption": "Feeling stressed? Let's reset. (inhale sound) Close your eyes. Breathe in deeply, filling your lungs. (slight pause) Hold it. (slight pause) Now, exhale slowly. (exhale sound) Release all that tension. Repeat for a calmer you. Stress relief, one breath at a time.",
+      "prompt": "A serene image depicting a peaceful natural scene, such as a calm lake or a sunrise over mountains. Focus on colors that evoke tranquility like blues, greens, and soft yellows. No people visible."
+    },
+    {
+      "title": "Mindful Walking Illustration",
+      "caption": "Need a break? Try mindful walking. Feel your feet on the ground. Notice the air on your skin. Observe your surroundings without judgment. Even a short walk can clear your mind and reduce stress. Step into calmness.",
+      "prompt": "A stylized illustration of a person walking on a path surrounded by trees and nature. Use a simple, clean art style with pastel colors and focus on conveying a sense of peace and movement."
+    },
+    {
+      "title": "Progressive Muscle Relaxation Graphic",
+      "caption": "Tight muscles? It's stress talking. Let's release it. (soft sound of tightening fist) Tense your hand... hold... (release sound) Now, relax. Feel the difference? Repeat with different muscle groups. Release tension, release stress.",
+      "prompt": "An abstract graphic representing progressive muscle relaxation. Show a gradient of colors from tense (red/orange) to relaxed (blue/green). Avoid representing specific body parts; focus on the concept of tension release."
+    },
+    {
+      "title": "Journaling Prompts Visual",
+      "caption": "Overwhelmed by thoughts? Write them down. Start journaling. Ask yourself: What am I grateful for? What are my challenges? What can I learn? Writing can bring clarity and reduce stress. Unload your mind.",
+      "prompt": "An image of an open journal with a pen resting on the page. The journal is surrounded by soft light and calming colors. The image should evoke a feeling of peace and introspection."
+    },
+    {
+      "title": "Healthy Eating for Stress Relief",
+      "caption": "Stress eating? Let's nourish our bodies. Choose healthy foods. Fruits, vegetables, whole grains. Avoid processed foods and sugary drinks. Fuel your body, fuel your mind. Healthy choices, less stress.",
+      "prompt": "A vibrant and colorful arrangement of healthy foods, including fruits, vegetables, nuts, and whole grains. The image should be well-lit and visually appealing, emphasizing the freshness and vitality of the food."
+    },
+    {
+      "title": "The Power of Laughter",
+      "caption": "Feeling down? Find something to laugh about! Watch a funny video. Talk to a friend. Laughter releases endorphins and reduces stress. A simple smile can change everything. Lighten your mood.",
+      "prompt": "A bright and cheerful image depicting people laughing together in a relaxed and joyful setting. The focus should be on capturing genuine expressions of happiness and camaraderie."
+    },
+    {
+      "title": "Time Management Tips Visual",
+      "caption": "Stressed about deadlines? Manage your time. Prioritize tasks. Break them down into smaller steps. Schedule breaks. Time management reduces overwhelm. Get organized, reduce stress.",
+      "prompt": "A clean and organized visual representation of time management strategies, such as a calendar with highlighted deadlines, a to-do list with prioritized tasks, and a clock with scheduled breaks. Use a modern and professional design style."
+    },
+    {
+      "title": "Connecting with Nature",
+      "caption": "Feeling isolated? Go outside. Connect with nature. Listen to the birds. Feel the sun on your skin. Nature has a calming effect on the mind. Reconnect, recharge, relieve stress.",
+      "prompt": "A wide-angle shot of a person sitting peacefully in nature, perhaps in a forest or by a river. Focus on the beauty and tranquility of the natural environment, with sunlight filtering through the trees."
+    },
+    {
+      "title": "Seeking Social Support",
+      "caption": "Struggling alone? Reach out. Talk to a friend, family member, or therapist. Sharing your feelings can reduce stress. You are not alone. Connecting is strength.",
+      "prompt": "An image of two people talking and supporting each other. It doesn't have to be face-to-face; it could be a phone call or video chat. The focus is on conveying a sense of empathy, understanding, and connection."
+    }
+  ]
+]

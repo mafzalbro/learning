@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "Compass and Bar Magnet",
+      "caption": "Voiceover: (Gentle music intro) Ever wondered what makes a compass point North? It's all about magnetism! Magnets have a 'North' and 'South' pole. Like poles repel, opposites attract. This attraction is what aligns your compass.",
+      "prompt": "A compass needle clearly pointing North, with a simple bar magnet nearby. The magnetic field lines should be subtly visualized as faint, curved lines emanating from the magnet and influencing the compass needle. Background is a clean, uncluttered desk."
+    },
+    {
+      "title": "Electric Current in a Wire",
+      "caption": "Voiceover: Magnetism isn't just for magnets. Moving electricity also creates magnetic fields.  Think of a wire carrying current like a hidden magnet.  More current, stronger the magnetic field!",
+      "prompt": "A straight wire with a visible electric current flowing through it (indicated by glowing particles or a subtle light effect). Concentric circles of magnetic field lines surrounding the wire, decreasing in intensity with distance. Background is a schematic diagram showing electron flow."
+    },
+    {
+      "title": "Solenoid (Coil of Wire)",
+      "caption": "Voiceover:  Wind that wire into a coil, a solenoid, and you get a powerful electromagnet! The magnetic fields from each loop add up. Great for picking up cars at the junkyard!",
+      "prompt": "A tightly wound solenoid (coil of wire) with electric current flowing through it. Magnetic field lines shown looping around the solenoid, resembling the field of a bar magnet. A small metal object being attracted to the end of the solenoid."
+    },
+    {
+      "title": "Earth's Magnetic Field",
+      "caption": "Voiceover: Our planet itself is a giant magnet!  Deep inside Earth, molten iron swirls, creating a massive magnetic field. This protects us from harmful solar radiation.",
+      "prompt": "A stylized globe of Earth with magnetic field lines extending from the poles into space, forming a protective shield. The lines should be a warm, inviting color. A representation of the Earth's core as a glowing, swirling mass."
+    },
+    {
+      "title": "Electromagnet Picking Up Car",
+      "caption": "Voiceover: Electromagnets are used everywhere! From scrapyards lifting cars, to tiny motors in your phone.  Controlling electricity, controls magnetism! Power on, magnet on. Power off, magnet off.",
+      "prompt": "A large electromagnet suspended above a junkyard, lifting a crushed car. Sparks and debris falling as the car is lifted. The electromagnet is clearly visible with wires connected to a power source."
+    },
+    {
+      "title": "Aurora Borealis (Northern Lights)",
+      "caption": "Voiceover:  The Northern Lights are a spectacular display of Earth's magnetic field at work. Charged particles from the sun interact with the magnetic field, creating stunning light shows.",
+      "prompt": "A vibrant and colorful display of the Aurora Borealis (Northern Lights) in the night sky. Stars are visible in the background, and a silhouette of a snowy landscape is in the foreground."
+    },
+    {
+      "title": "MRI Machine",
+      "caption": "Voiceover: In medicine, powerful magnets are used in MRI machines to see inside your body. It's like taking a detailed picture without any surgery!",
+      "prompt": "The interior of an MRI machine with a patient lying inside. The machine should appear futuristic and high-tech. Subtle representations of magnetic fields interacting with the human body (avoid making it graphic)."
+    },
+    {
+      "title": "Magnetic Recording (Hard Drive)",
+      "caption": "Voiceover: Even storing data on your computer relies on magnetism. Tiny magnetic domains on your hard drive hold all your photos and videos.",
+      "prompt": "A close-up view of the surface of a hard drive platter, showing tiny magnetic domains represented as differently colored areas (e.g., blue and red). A read/write head hovering above the platter."
+    },
+    {
+      "title": "Sources of Magnetic Fields Collage",
+      "caption": "Voiceover: So from compasses to planets to medical imaging, magnetism is a fundamental force shaping our world! (Music swells and fades out). Explore the wonders of magnetism yourself!",
+      "prompt": "A collage featuring smaller images of a compass, a wire with current, the Earth, an electromagnet, and the aurora borealis. The collage should be visually appealing and well-balanced, showcasing the diverse sources of magnetic fields."
+    }
+  ]
+]

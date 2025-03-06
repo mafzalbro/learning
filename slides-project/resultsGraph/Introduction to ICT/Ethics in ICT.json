@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Digital Tightrope",
+      "caption": "The internet: powerful, yet delicate. Our choices shape its future. Every click, every post, every line of code… it all matters. Let's navigate this digital landscape responsibly. Because ethics in ICT… builds a better tomorrow, today.",
+      "prompt": "A high-angle view of a person walking on a tightrope stretched between two towering digital cities. The cities are composed of circuit boards, data streams, and stylized icons of online activity. Focus on the precariousness of the situation and the balance required."
+    },
+    {
+      "title": "Code of Conduct: The Human Algorithm",
+      "caption": "Algorithms are everywhere, but they aren't neutral. Humans write the code. Humans make the decisions. Embedded bias? Unfair outcomes? It's on us to fix. Demand transparency. Promote fairness. Let's build algorithms that serve humanity, not the other way around.",
+      "prompt": "An abstract representation of an algorithm being rewritten by a diverse group of hands. The algorithm is visualized as interconnected nodes and lines. Some lines are broken, being repaired and rerouted by the hands. Emphasize collaboration and ethical decision-making."
+    },
+    {
+      "title": "The Privacy Paradox",
+      "caption": "We love free services… but at what cost? Data is the new currency. Are we giving away too much? Understanding your rights is crucial. Control your information. Protect your privacy. Remember: your data is valuable. Choose wisely.",
+      "prompt": "A person standing in a crowded marketplace made entirely of data points (represented as shimmering particles). They are holding an umbrella that shields them partially from the constant flow of data. The umbrella is labeled 'Privacy'. Express a feeling of vulnerability in a busy world."
+    },
+    {
+      "title": "The Echo Chamber Effect",
+      "caption": "Are you only hearing what you already believe? The internet can trap you in an echo chamber. Challenge your assumptions. Seek diverse perspectives. Break free from the filter bubble. Open your mind. Grow your understanding.",
+      "prompt": "A spiral staircase made of mirrors, reflecting the same person multiple times. The reflections are distorted and increasingly homogenous as they ascend the staircase. Create a sense of claustrophobia and limited perspective."
+    },
+    {
+      "title": "The Power of Disinformation",
+      "caption": "Fake news spreads like wildfire. Before you share… think. Verify the source. Check the facts. Don't fuel the flames of misinformation. Be a responsible digital citizen. Truth matters. Spread it wisely.",
+      "prompt": "A stylized wildfire spreading across a landscape made of news headlines. The headlines are blurred and distorted. A single hand is shown extinguishing a small part of the fire with a watering can labeled 'Fact-Checking'."
+    },
+    {
+      "title": "Accessibility for All",
+      "caption": "The internet should be for everyone. Websites, apps, and technology must be accessible. Consider users with disabilities. Design with inclusivity in mind. Digital equity is a fundamental right. Let's build a world where everyone can participate.",
+      "prompt": "A diverse group of people with varying abilities using different assistive technologies to access a vibrant, interconnected digital world. Include screen readers, braille keyboards, and other assistive devices. Focus on empowerment and inclusion."
+    },
+    {
+      "title": "The Environmental Impact of ICT",
+      "caption": "Our digital habits have a real-world impact. Data centers consume vast amounts of energy. E-waste is a growing problem. Reduce your digital footprint. Choose sustainable technology. Let's protect our planet, one byte at a time.",
+      "prompt": "A split image: One side shows a lush, green forest; the other side shows a massive data center consuming energy. A subtle connection between the two sides (e.g., a power line) emphasizes the environmental impact of digital technology."
+    },
+    {
+      "title": "Combating Cyberbullying",
+      "caption": "Words have power, online and off. Cyberbullying is a serious issue. Be kind. Be respectful. Report abuse. Stand up for others. Let's create a safer, more supportive online environment. Spread positivity, not negativity.",
+      "prompt": "A stylized shield protecting a group of vulnerable-looking avatars from a barrage of negative comments and insults. The shield is labeled 'Empathy' and emits a warm, protective glow."
+    },
+    {
+      "title": "AI and the Future of Work",
+      "caption": "AI is transforming the job market. Are we ready? Embrace lifelong learning. Adapt to new skills. Advocate for fair labor practices. AI should augment human potential, not replace it. Let's shape a future where technology and humanity thrive together.",
+      "prompt": "A futuristic scene where humans and robots are collaborating on various tasks. The robots are assisting humans in ways that enhance their abilities, not replace them. Emphasize teamwork and the potential for human-AI synergy."
+    }
+  ]
+]

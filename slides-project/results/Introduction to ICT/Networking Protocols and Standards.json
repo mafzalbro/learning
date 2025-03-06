@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Networking Protocols and Standards",
+    "content": "<p><strong>What We&#39;ll Cover:</strong></p>\n<ul>\n<li><strong>What are Protocols and Standards?</strong> Why are they important?</li>\n<li><strong>Key Networking Layers (TCP/IP Model):</strong> A simplified look.</li>\n<li><strong>Common Protocols:</strong> HTTP, TCP, IP, DNS, etc.</li>\n<li><strong>How Protocols Work Together:</strong> Sending data across the internet.</li>\n<li><strong>Why Standards Matter:</strong> Interoperability and a smoother online experience.</li>\n<li><strong>Who Makes the Standards?</strong> Organizations shaping the internet.</li>\n<li><strong>Brief Introduction to OSI Model:</strong> A more detailed understanding.</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Networking Protocols?",
+    "content": "<p>Think of protocols as rules for communication.</p>\n<ul>\n<li><strong>Like languages:</strong> Computers need a common language to understand each other.</li>\n<li><strong>Define formats:</strong> How data is structured and packaged.</li>\n<li><strong>Govern procedures:</strong> How data is transmitted, received, and interpreted.</li>\n<li><strong>Example:</strong> Imagine two people speaking different languages trying to order food. Protocols make sure computers can &#39;order food&#39; (exchange data) correctly.</li>\n</ul>\n"
+  },
+  {
+    "title": "What are Networking Standards?",
+    "content": "<p>Standards are agreed-upon specifications for protocols.</p>\n<ul>\n<li><strong>Make things consistent:</strong> Ensuring everyone follows the same rules.</li>\n<li><strong>Enable interoperability:</strong> Different devices and systems can work together seamlessly.</li>\n<li><strong>Promote innovation:</strong> By providing a stable base for development.</li>\n<li><strong>Example:</strong> A standard USB port allows you to connect different devices to your computer, no matter who made them.</li>\n</ul>\n"
+  },
+  {
+    "title": "The TCP/IP Model: A Simple Overview",
+    "content": "<p>A way to organize networking protocols into layers. Simplifies understanding the complex process of communication.</p>\n<ul>\n<li><strong>Application Layer:</strong> Where users interact (e.g., web browser, email client).</li>\n<li><strong>Transport Layer:</strong> Ensures reliable data delivery (TCP) or fast delivery (UDP).</li>\n<li><strong>Internet Layer:</strong> Handles addressing and routing of data packets (IP).</li>\n<li><strong>Link Layer:</strong> Deals with physical transmission of data on a network.</li>\n</ul>\n<p> <strong>Imagine sending a letter:</strong>\n Application Layer = Writing the letter \n Transport Layer = Adding return address \n Internet Layer = Putting the address on envelope \n Link Layer = Sending the letter to the post office</p>\n"
+  },
+  {
+    "title": "Application Layer Protocols",
+    "content": "<p>These protocols directly interact with applications you use.</p>\n<ul>\n<li><strong>HTTP (Hypertext Transfer Protocol):</strong> For accessing web pages.</li>\n<li><strong>HTTPS (HTTP Secure):</strong> Secure version of HTTP, encrypts data.</li>\n<li><strong>SMTP (Simple Mail Transfer Protocol):</strong> For sending emails.</li>\n<li><strong>POP3/IMAP (Post Office Protocol v3/Internet Message Access Protocol):</strong> For receiving emails.</li>\n<li><strong>DNS (Domain Name System):</strong> Translates domain names (like google.com) to IP addresses.</li>\n</ul>\n"
+  },
+  {
+    "title": "Transport Layer Protocols",
+    "content": "<p>Responsible for reliable or fast data transfer.</p>\n<ul>\n<li><strong>TCP (Transmission Control Protocol):</strong><ul>\n<li>Reliable, connection-oriented (establishes a connection before sending data).</li>\n<li>Guarantees data delivery in the correct order.</li>\n<li>Used for web browsing, email, file transfer.</li>\n</ul>\n</li>\n<li><strong>UDP (User Datagram Protocol):</strong><ul>\n<li>Faster, connectionless (doesn&#39;t establish a connection).</li>\n<li>Doesn&#39;t guarantee data delivery or order.</li>\n<li>Used for streaming, online gaming.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Internet Layer Protocol: IP (Internet Protocol)",
+    "content": "<p>The backbone of the internet.  Handles addressing and routing.</p>\n<ul>\n<li><strong>IP Addressing:</strong> Assigns unique addresses to devices on the network.</li>\n<li><strong>Routing:</strong> Determines the best path for data packets to travel.</li>\n<li><strong>IP Packets:</strong> Breaks down data into small packets for transmission.</li>\n<li><strong>IPv4:</strong> The older version, uses 32-bit addresses (becoming scarce).</li>\n<li><strong>IPv6:</strong> The newer version, uses 128-bit addresses (vastly more addresses).</li>\n</ul>\n"
+  },
+  {
+    "title": "Link Layer Protocols",
+    "content": "<p>Handles the physical transmission of data on a network.</p>\n<ul>\n<li><strong>Ethernet:</strong> A common standard for wired networks.</li>\n<li><strong>Wi-Fi (IEEE 802.11):</strong> A standard for wireless networks.</li>\n<li><strong>ARP (Address Resolution Protocol):</strong> Translates IP addresses to MAC addresses.</li>\n<li><strong>MAC Addresses:</strong> Unique identifiers for network interfaces.</li>\n</ul>\n"
+  },
+  {
+    "title": "How Protocols Work Together: A Simple Example",
+    "content": "<p>Let&#39;s say you visit a website (<a href=\"http://www.example.com\">www.example.com</a>).</p>\n<ol>\n<li><strong>DNS:</strong> Your computer uses DNS to find the IP address of <a href=\"http://www.example.com\">www.example.com</a>.</li>\n<li><strong>HTTP:</strong> Your browser sends an HTTP request to the server.</li>\n<li><strong>TCP:</strong> TCP establishes a connection with the server and ensures reliable delivery of the HTTP request.</li>\n<li><strong>IP:</strong> IP routes the data packets containing the HTTP request across the internet.</li>\n<li><strong>Ethernet/Wi-Fi:</strong> Your network card transmits the data packets over the network.</li>\n<li>The server processes the request and sends back an HTTP response, using the same protocols in reverse.</li>\n<li>Your browser displays the website.</li>\n</ol>\n"
+  },
+  {
+    "title": "Why Standards Matter: Interoperability",
+    "content": "<p>Imagine if every website used a different, incompatible protocol.</p>\n<ul>\n<li><strong>Chaos!</strong> Web browsers would need to support countless protocols.</li>\n<li><strong>Limited access:</strong> Only certain devices could access specific websites.</li>\n<li><strong>Innovation stifled:</strong> Developers would face huge compatibility challenges.</li>\n</ul>\n<p>Standards ensure that different devices and systems can communicate seamlessly, creating a unified and accessible internet.</p>\n"
+  },
+  {
+    "title": "Why Standards Matter: Innovation",
+    "content": "<p>Standards give Developers a stable base for creating new technologies.</p>\n<ul>\n<li><strong>A Common Ground:</strong> Everyone is on the same page</li>\n<li><strong>Faster Development:</strong> Reduce the need to reinvent the wheel.</li>\n<li><strong>More Opportunities:</strong> For creative and innovative new applications.</li>\n</ul>\n"
+  },
+  {
+    "title": "Who Makes the Standards?",
+    "content": "<p>Various organizations play a key role.</p>\n<ul>\n<li><strong>IETF (Internet Engineering Task Force):</strong> Develops and promotes internet standards, particularly TCP/IP.</li>\n<li><strong>IEEE (Institute of Electrical and Electronics Engineers):</strong> Develops standards for networking technologies, like Ethernet and Wi-Fi.</li>\n<li><strong>W3C (World Wide Web Consortium):</strong> Develops standards for the World Wide Web, like HTML and CSS.</li>\n<li><strong>ISO (International Organization for Standardization):</strong> Develops a wide range of standards, including some networking standards.</li>\n</ul>\n"
+  },
+  {
+    "title": "OSI Model vs TCP/IP Model",
+    "content": "<p>The OSI model and TCP/IP Model are the networking architecture in the modern day computers. </p>\n<ul>\n<li><p><strong>OSI Model</strong></p>\n<ul>\n<li>Developed by ISO</li>\n<li>7 Layers (Application, Presentation, Session, Transport, Network, Data Link, Physical)</li>\n<li>More theoretical, used as a reference model.</li>\n</ul>\n</li>\n<li><p><strong>TCP/IP Model</strong></p>\n<ul>\n<li>Developed by DARPA</li>\n<li>4 Layers(Application, Transport, Internet, Link)</li>\n<li>More practical, widely used in real-world networks.</li>\n</ul>\n</li>\n</ul>\n"
+  },
+  {
+    "title": "Presentation Layer (OSI Model)",
+    "content": "<p>This layer handles data representation and encryption.</p>\n<ul>\n<li><strong>Data Conversion:</strong> Converts data into a format that can be understood by both sender and receiver.</li>\n<li><strong>Encryption:</strong> Encrypts data for secure transmission.</li>\n<li><strong>Compression:</strong> Compresses data to reduce the amount of data transmitted.</li>\n<li><strong>Character Encoding:</strong> Converts character sets (e.g., UTF-8) for internationalization.</li>\n</ul>\n"
+  },
+  {
+    "title": "Session Layer (OSI Model)",
+    "content": "<p>This layer manages connections between applications.</p>\n<ul>\n<li><strong>Session Establishment:</strong> Establishes a connection between applications.</li>\n<li><strong>Session Management:</strong> Manages the communication during the session.</li>\n<li><strong>Session Termination:</strong> Terminates the connection when the communication is complete.</li>\n<li><strong>Authentication and Authorization:</strong> Verifies the identity of users and their permissions.</li>\n</ul>\n"
+  },
+  {
+    "title": "Quick Recap",
+    "content": "<p><em>Protocols</em> are sets of rules that computers use to communicate. \n<em>Standards</em> are the agreement that everyone uses the same rule set.\n<em>TCP/IP Model</em> is how modern data transfer happens in computers.</p>\n"
+  },
+  {
+    "title": "Thank You!",
+    "content": "<p>Questions?</p>\n"
+  }
+]

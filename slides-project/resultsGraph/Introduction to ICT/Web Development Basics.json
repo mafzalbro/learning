@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "title": "The Web's Building Blocks",
+      "caption": "Welcome to Web Development Basics! Ever wondered what makes websites tick? It all starts with HTML, the structure of a webpage. Then comes CSS, adding style and making it visually appealing. Finally, JavaScript brings interactivity, making things dynamic and engaging. Let's dive in!",
+      "prompt": "A minimalist graphic depicting three interlocking gears, labeled HTML, CSS, and JavaScript, respectively. The background should be a clean, modern gradient."
+    },
+    {
+      "title": "HTML: The Foundation",
+      "caption": "HTML is like the skeleton of a webpage. It uses tags to define elements like headings, paragraphs, and images. Think of it as the blueprint for your content. Simple, structured, and essential!",
+      "prompt": "An open HTML code editor window showcasing basic HTML tags like `<p>`, `<h1>`, and `<img>`. Syntax highlighting should be visible and clean."
+    },
+    {
+      "title": "CSS: Adding Style",
+      "caption": "CSS is where the magic happens! It controls the look and feel of your website: colors, fonts, layout, and more. It's the wardrobe stylist for your HTML skeleton, making it presentable and visually engaging!",
+      "prompt": "A color palette arranged in a visually pleasing way, accompanied by snippets of CSS code demonstrating how to change font size, color, and background."
+    },
+    {
+      "title": "JavaScript: Interactivity Unleashed",
+      "caption": "JavaScript brings your website to life! It allows you to create dynamic elements, respond to user actions, and add interactivity. From simple animations to complex web applications, JavaScript makes it possible!",
+      "prompt": "A graphic depicting a lightbulb turning on, powered by a circuit board with JavaScript code snippets overlaid on it."
+    },
+    {
+      "title": "The Power of HTML, CSS & JS",
+      "caption": "HTML provides structure, CSS handles styling, and JavaScript adds interactivity. Together, they create amazing web experiences! Mastering these basics is your first step to becoming a web developer!",
+      "prompt": "A visually appealing graphic showing the HTML, CSS, and JavaScript logos converging into a single, unified web page displayed on a laptop screen."
+    },
+    {
+      "title": "Your First Webpage",
+      "caption": "Ready to create your first webpage? It's easier than you think! Start with a simple HTML file, add some CSS for style, and a sprinkle of JavaScript for interactivity. Experiment, learn, and have fun!",
+      "prompt": "A young person smiling and looking excitedly at a computer screen displaying a basic webpage with a heading, paragraph, and a simple button."
+    },
+    {
+      "title": "Web Development Tools",
+      "caption": "You'll need some tools to get started. A text editor like VS Code or Sublime Text, a web browser like Chrome or Firefox, and a whole lot of curiosity! These tools will be your best friends on your web development journey.",
+      "prompt": "An image showcasing icons of popular web development tools like VS Code, Chrome, Firefox, and a command-line interface window."
+    },
+    {
+      "title": "Where to Learn More?",
+      "caption": "There are tons of resources available online: documentation, tutorials, courses, and communities. Sites like MDN Web Docs, freeCodeCamp, and Codecademy are great starting points. The web is your oyster!",
+      "prompt": "A collage of screenshots from popular web development learning platforms like MDN Web Docs, freeCodeCamp, and Codecademy."
+    },
+    {
+      "title": "Keep Learning & Building!",
+      "caption": "Web development is a continuous learning process. Don't be afraid to experiment, make mistakes, and ask for help. The more you build, the more you learn. So keep coding and create something amazing!",
+      "prompt": "A stylized image of a growing tree, with branches representing different web development skills and leaves representing completed projects."
+    }
+  ]
+]
