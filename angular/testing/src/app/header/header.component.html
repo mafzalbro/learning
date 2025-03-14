@@ -1,0 +1,11 @@
+<header>
+  <h3>{{ title() }}</h3>
+  <ul>
+    @for (item of navItems; track $index) {
+    <li>
+      <!-- TODO: Have to Add Router -->
+      <a href="{{ item.link }}">{{ item.name }}</a>
+    </li>
+    }
+  </ul>
+</header>
