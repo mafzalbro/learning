@@ -7,7 +7,8 @@ const sentences = require("./titles/sentences");
 const { convertImgsToVideo } = require("./utils/convertImgsToVideo");
 const { generateHadithImages } = require("./utils/hadithsGenerator");
 const { generateUrduHadithImages } = require("./utils/urduHadithsGenerator");
-const { generateIdiomsImages } = require("./utils/idiomImgGenerator");
+// const { generateIdiomsImages } = require("./utils/idiomImgGenerator");
+const { generateIdiomsImages } = require("./utils/idiomImgGeneratorOld");
 const { publishToInstagram } = require("./publish/instagram");
 
 const run = async () => {
@@ -26,14 +27,14 @@ const run = async () => {
     // generateUrduHadithImages(urduHadiths, "urdu-hadiths").finally(() => {
     //   convertImgsToVideo("urdu-hadiths");
     // });
-    // generateIdiomsImages(sentences, "sentences").finally(() => {
-    //     // convertImgsToVideo("sentences")
-    // })
+    generateIdiomsImages(sentences, "sentences").finally(() => {
+      // convertImgsToVideo("sentences")
+    });
 
-    publishToInstagram(
-      "images/hadiths-images/hadith_1-37_bukhari.png",
-      "hadith"
-    );
+    // publishToInstagram(
+    //   "images/hadiths-images/hadith_1-37_bukhari.png",
+    //   "hadith"
+    // );
   } catch (error) {
     console.log(error.message);
   }
