@@ -1,14 +1,15 @@
 {
-  "name": "test",
+  "name": "expo-test",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo run:android",
+    "android": "expo run:andorid",
     "ios": "expo run:ios",
-    "web": "expo start --web",
+    "web": "npx expo start --web",
     "test": "jest --watchAll",
+    "bundle-android": "npx expo bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/",
     "lint": "expo lint"
   },
   "jest": {
@@ -38,7 +39,6 @@
     "react-dom": "18.3.1",
     "react-native": "0.76.7",
     "react-native-gesture-handler": "~2.20.2",
-    "react-native-reanimated": "^3.16.2",
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
     "react-native-web": "~0.19.13",

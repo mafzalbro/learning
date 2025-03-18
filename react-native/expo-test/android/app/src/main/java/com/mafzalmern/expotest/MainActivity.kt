@@ -1,4 +1,4 @@
-package com.mafzalmern.test
+package com.mafzalmern.expotest
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

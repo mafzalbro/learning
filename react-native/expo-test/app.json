@@ -2,6 +2,7 @@
   "expo": {
     "name": "test",
     "slug": "test-app",
+    "jsEngine": "hermes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +16,7 @@
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mafzalmern.test"
+      "package": "com.mafzalmern.expotest"
     },
     "web": {
       "bundler": "metro",

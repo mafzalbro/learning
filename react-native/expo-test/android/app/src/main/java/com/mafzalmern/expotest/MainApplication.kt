@@ -1,4 +1,4 @@
-package com.mafzalmern.test
+package com.mafzalmern.expotest
 
 import android.app.Application
 import android.content.res.Configuration
